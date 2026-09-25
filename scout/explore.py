@@ -29,10 +29,22 @@ async def main():
                 except Exception:
                     pass
             page.on("response", on_resp)
-            entry = {"url": url}
+            url, _, typed = url.partition("|")
+            entry = {"url": url, "typed": typed}
             try:
+                if url.startswith("GET:"):
+                    r = await ctx.request.get(url[4:], headers={"accept": "application/json"})
+                    entry["probe_status"] = r.status
+                    entry["probe_body"] = (await r.text())[:2500]
+                    res.append(entry); await ctx.close(); continue
                 await page.goto(url, wait_until="domcontentloaded", timeout=45000)
                 await accept_cookies(page)
+                if typed:
+                    await page.wait_for_timeout(2000)
+                    inp = page.locator("input[type=text]:visible, input[type=search]:visible").first
+                    await inp.click(); await inp.fill(typed); await page.wait_for_timeout(2500)
+                    entry["suggest_text"] = (await page.evaluate("document.body.innerText"))[:1500]
+                    await inp.press("Enter"); await page.wait_for_timeout(4000)
                 try:
                     await page.wait_for_load_state("networkidle", timeout=12000)
                 except Exception:
