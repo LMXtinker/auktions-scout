@@ -34,7 +34,7 @@ async def main():
             entry = {"url": url, "typed": typed}
             try:
                 if url.startswith("GET:"):
-                    r = await ctx.request.get(url[4:], headers={"accept": "application/json"})
+                    r = await ctx.request.get(url[4:], headers={"accept": "application/json", "Search-Language": "de"})
                     entry["probe_status"] = r.status
                     entry["probe_body"] = (await r.text())[:2500]
                     res.append(entry); await ctx.close(); continue
