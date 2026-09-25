@@ -38,17 +38,17 @@
     "ids_matched": false
    },
    "Grafikkarte": {
-    "cards": 96,
+    "cards": 1,
     "total_reported": 1,
-    "ids_matched": false
+    "ids_matched": true
    },
    "Workstation": {
-    "cards": 96,
+    "cards": 2,
     "total_reported": 2,
     "ids_matched": false
    },
    "Gaming PC": {
-    "cards": 96,
+    "cards": 3,
     "total_reported": 3,
     "ids_matched": false
    },
@@ -58,19 +58,19 @@
     "ids_matched": false
    },
    "Beamer": {
-    "cards": 96,
+    "cards": 33,
     "total_reported": 33,
     "ids_matched": false
    },
    "Projektor": {
-    "cards": 96,
+    "cards": 19,
     "total_reported": 19,
     "ids_matched": false
    },
    "LED Wand": {
-    "cards": 96,
+    "cards": 93,
     "total_reported": 93,
-    "ids_matched": false
+    "ids_matched": true
    },
    "LED Wall": {
     "cards": 0,
@@ -98,308 +98,14 @@
     "ids_matched": false
    },
    "Moving Head": {
-    "cards": 96,
+    "cards": 4,
     "total_reported": 4,
-    "ids_matched": false
+    "ids_matched": true
    },
    "Traverse": {
-    "cards": 96,
+    "cards": 11,
     "total_reported": 11,
     "ids_matched": false
-   }
-  },
-  "errors": [],
-  "json_calls": []
- },
- {
-  "site": "troostwijk-surplex",
-  "keywords": {
-   "RTX 4090": {
-    "cards": 4
-   },
-   "RTX 4080": {
-    "cards": 4
-   },
-   "RTX 4070": {
-    "cards": 4
-   },
-   "RTX 5090": {
-    "cards": 4
-   },
-   "RTX 5080": {
-    "cards": 4
-   },
-   "RTX 5070": {
-    "cards": 4
-   },
-   "RTX A6000": {
-    "cards": 4
-   },
-   "Grafikkarte": {
-    "cards": 24
-   },
-   "Workstation": {
-    "cards": 25
-   },
-   "Gaming PC": {
-    "cards": 17
-   },
-   "Laserprojektor": {
-    "cards": 0
-   },
-   "Beamer": {
-    "cards": 5
-   },
-   "Projektor": {
-    "cards": 79
-   },
-   "LED Wand": {
-    "cards": 152
-   },
-   "LED Wall": {
-    "cards": 152
-   },
-   "Blackmagic": {
-    "cards": 4
-   },
-   "Medienserver": {
-    "cards": 0
-   },
-   "Veranstaltungstechnik": {
-    "cards": 0
-   },
-   "Lichtpult": {
-    "cards": 0
-   },
-   "Moving Head": {
-    "cards": 86
-   },
-   "Traverse": {
-    "cards": 3
-   }
-  },
-  "errors": [],
-  "json_calls": []
- },
- {
-  "site": "zoll-auktion",
-  "keywords": {
-   "RTX 4090": {
-    "form_ok": true,
-    "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=RTX+4090&n1%5B%5D=0&n0=search",
-    "cards": 0
-   },
-   "RTX 4080": {
-    "form_ok": true,
-    "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=RTX+4080&n1%5B%5D=0&n0=search",
-    "cards": 0
-   },
-   "RTX 4070": {
-    "form_ok": true,
-    "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=RTX+4070&n1%5B%5D=0&n0=search",
-    "cards": 0
-   },
-   "RTX 5090": {
-    "form_ok": true,
-    "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=RTX+5090&n1%5B%5D=0&n0=search",
-    "cards": 0
-   },
-   "RTX 5080": {
-    "form_ok": true,
-    "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=RTX+5080&n1%5B%5D=0&n0=search",
-    "cards": 0
-   },
-   "RTX 5070": {
-    "form_ok": true,
-    "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=RTX+5070&n1%5B%5D=0&n0=search",
-    "cards": 0
-   },
-   "RTX A6000": {
-    "form_ok": true,
-    "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=RTX+A6000&n1%5B%5D=0&n0=search",
-    "cards": 0
-   },
-   "Grafikkarte": {
-    "form_ok": true,
-    "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Grafikkarte&n1%5B%5D=0&n0=search",
-    "cards": 6
-   },
-   "Workstation": {
-    "form_ok": true,
-    "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Workstation&n1%5B%5D=0&n0=search",
-    "cards": 0
-   },
-   "Gaming PC": {
-    "form_ok": true,
-    "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Gaming+PC&n1%5B%5D=0&n0=search",
-    "cards": 0
-   },
-   "Laserprojektor": {
-    "form_ok": true,
-    "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Laserprojektor&n1%5B%5D=0&n0=search",
-    "cards": 9
-   },
-   "Beamer": {
-    "form_ok": true,
-    "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Beamer&n1%5B%5D=0&n0=search",
-    "cards": 10
-   },
-   "Projektor": {
-    "form_ok": true,
-    "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Projektor&n1%5B%5D=0&n0=search",
-    "cards": 10
-   },
-   "LED Wand": {
-    "form_ok": true,
-    "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=LED+Wand&n1%5B%5D=0&n0=search",
-    "cards": 10
-   },
-   "LED Wall": {
-    "form_ok": true,
-    "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=LED+Wall&n1%5B%5D=0&n0=search",
-    "cards": 2
-   },
-   "Blackmagic": {
-    "form_ok": true,
-    "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Blackmagic&n1%5B%5D=0&n0=search",
-    "cards": 0
-   },
-   "Medienserver": {
-    "form_ok": true,
-    "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Medienserver&n1%5B%5D=0&n0=search",
-    "cards": 0
-   },
-   "Veranstaltungstechnik": {
-    "form_ok": true,
-    "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Veranstaltungstechnik&n1%5B%5D=0&n0=search",
-    "cards": 0
-   },
-   "Lichtpult": {
-    "form_ok": true,
-    "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Lichtpult&n1%5B%5D=0&n0=search",
-    "cards": 0
-   },
-   "Moving Head": {
-    "form_ok": true,
-    "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Moving+Head&n1%5B%5D=0&n0=search",
-    "cards": 0
-   },
-   "Traverse": {
-    "form_ok": true,
-    "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Traverse&n1%5B%5D=0&n0=search",
-    "cards": 4
-   }
-  },
-  "errors": [],
-  "json_calls": []
- },
- {
-  "site": "justiz-auktion",
-  "keywords": {
-   "RTX 4090": {
-    "form_ok": true,
-    "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 0
-   },
-   "RTX 4080": {
-    "form_ok": true,
-    "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 0
-   },
-   "RTX 4070": {
-    "form_ok": true,
-    "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 0
-   },
-   "RTX 5090": {
-    "form_ok": true,
-    "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 0
-   },
-   "RTX 5080": {
-    "form_ok": true,
-    "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 0
-   },
-   "RTX 5070": {
-    "form_ok": true,
-    "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 0
-   },
-   "RTX A6000": {
-    "form_ok": true,
-    "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 0
-   },
-   "Grafikkarte": {
-    "form_ok": true,
-    "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 1
-   },
-   "Workstation": {
-    "form_ok": true,
-    "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 0
-   },
-   "Gaming PC": {
-    "form_ok": true,
-    "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 0
-   },
-   "Laserprojektor": {
-    "form_ok": true,
-    "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 0
-   },
-   "Beamer": {
-    "form_ok": true,
-    "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 0
-   },
-   "Projektor": {
-    "form_ok": true,
-    "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 1
-   },
-   "LED Wand": {
-    "form_ok": true,
-    "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 0
-   },
-   "LED Wall": {
-    "form_ok": true,
-    "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 0
-   },
-   "Blackmagic": {
-    "form_ok": true,
-    "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 0
-   },
-   "Medienserver": {
-    "form_ok": true,
-    "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 0
-   },
-   "Veranstaltungstechnik": {
-    "form_ok": true,
-    "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 0
-   },
-   "Lichtpult": {
-    "form_ok": true,
-    "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 0
-   },
-   "Moving Head": {
-    "form_ok": true,
-    "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 0
-   },
-   "Traverse": {
-    "form_ok": true,
-    "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 0
    }
   },
   "errors": [],
