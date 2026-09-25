@@ -1,57 +1,73 @@
 [
  {
-  "url": "https://www.aurena.at/",
-  "typed": "grafikkarte",
-  "error": "Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[type=text]:visible, input[type=search]:visible\").first\n    - locator resolved to <input type=\"text\" placeholder=\"Suche\" class=\"sinput noeffects ng-untouched ng-pristine ng-valid\"/>\n  - attempting click action\n    2 × w",
+  "url": "https://www.aurena.at/s?keywords=grafikkarte",
+  "typed": "",
+  "final_url": "https://www.aurena.at/s?keywords=grafikkarte&pagetype=s&page=1&pagesize=96&sorting=none&rel=1",
+  "inputs": [
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "Suche",
+    "aria": null,
+    "vis": true
+   }
+  ],
+  "search_links": [
+   {
+    "tag": "A",
+    "href": "https://www.aurena.at/service/suchagent",
+    "text": ""
+   },
+   {
+    "tag": "BUTTON",
+    "href": "",
+    "text": "Suchagent aktivieren"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.aurena.at/service/suchagent",
+    "text": "Der Suchagent"
+   }
+  ],
+  "sample_links": [
+   "https://www.aurena.at/",
+   "https://www.aurena.at/service/ueber-uns",
+   "https://www.aurena.at/service/mitsteigern",
+   "https://www.aurena.at/service/mitsteigern-vorort",
+   "https://www.aurena.at/service/zahlung",
+   "https://www.aurena.at/service/suchagent",
+   "https://www.aurena.at/service/bieterlebnis",
+   "https://www.aurena.at/service/faq",
+   "https://www.aurena.at/service/versandauktion",
+   "https://www.aurena.at/service/cookies",
+   "https://www.aurena.at/service/datenschutz",
+   "https://www.aurena.at/service/barrierefreiheit",
+   "https://www.aurena.at/agb",
+   "https://www.aurena.at/service/impressum",
+   "https://www.aurena.at/service/kontakt",
+   "https://www.aurena.at/auktionen",
+   "https://www.aurena.at/auktionen/beendet",
+   "https://www.aurena.at/beobachtungsliste",
+   "http://maps.google.com/maps?daddr=47.3957992,15.161814&amp;ll=",
+   "https://documents.bucket.prod.aurena.services/pq5h/public/auction/20322/doc/1dc54dfa-1102-40d3-8207-43feb4709f2e.pdf",
+   "https://www.aurena.at/kategorie/114/Bekleidung%20&%20Accessoires",
+   "https://www.aurena.at/kategorie/113/Garten%20&%20Outdoor",
+   "https://www.aurena.at/kategorie/10/Werkzeuge",
+   "https://www.facebook.com/aurena.at",
+   "https://www.youtube.com/channel/UCNAOkC_WmyUaPJnKjAxMvrA",
+   "https://aurena.group/",
+   "https://aurena.tech/",
+   "https://www.aurena.group/jobs"
+  ],
+  "text_head": "Home\nÜber uns\nSo funktioniert's\nSpielregeln\nKontakt\nAuktions-Übersicht\n\t\n\t\nBeobachtungen\nAnmelden\nRegistrieren\nFür Ihre Suche grafikkarte konnten wir 1 Posten in 1 Auktion finden\nSuchagent aktivieren\n Filter\nAuktionen\n2\nOkt\n\nMarkenelektronik: Apple, HP, Samsung\n\n 8712 Niklasdorf\nStandort\nSteiermark (1)\nKategorie\nElektronik & HIFI (1)\n\t\n96\nYou're on page\n1\n230\nInteraktives Projektionssystem Vertigo \"living surface\"\n0 6\nTAGE\n:\n2 2\nSTD\nGebote: 0\n€ 500\nYou're on page\n1\nNach oben\n\t\nAUKTIONS-STANDORT\n Versand (69)\n Oberösterreich (25)\n Steiermark (46)\nAUKTIONS-KALENDER\nJETZT ENDEND\n\nHELLWEG Die Profi-Baumärkte GmbH: Raaba Teil 4\n\n 8074 Raaba\nJETZT ENDEND\n\n1 € Auktion: Sammelversteigerung\n\n 8712 Niklasdorf\nBELIEBTESTE KATEGORIEN\nBekleidung & Accessoires (22847)\nGarten & Outdoor (6791)\nWerkzeuge (5134)\nAURENA GmbH\nDepotstraße 2\nA -8712 Niklasdorf\nt: +43 3842 / 21672\nf: +43 3842 / 21672-6\ne: office@aurena.info\nw: aurena.at\nSERVICE\nKontakt\nÜber uns\nMitsteigern auf aurena.at\nMitsteigern vor Ort\nZahlungsmöglichkeiten\nDer Suchagent\nDas beste Bieterlebnis\nHäufige Fragen\nSPIELREGELN\nAuktionen mit Versand\nCookie Einstellungen\nDatenschutzerklärung\nBarrierefreiheit\nAGB\nImpressum\nSPRACHAUSWAHL\nSOCIAL MEDIA\n Facebook\n Youtube\nUNTERNEHMEN\nAURENA.Group\nAURENA.Tech\nKarriere\nCookie Einstellungen & Datenschutz\n\nUnsere Auktionsplattform nutzt Cookies um Ihnen ein bestmögliches Auktionserlebnis zu bieten und uns die Möglichkeit zu geben, auftretende Fehler schnell zu analysieren und zu beheben.\n\nDetaillierte Informationen finden Sie in unserer Datenschutzrichtlinie.\n\nIhre Cookie-Einstellungen können Sie unter Cookie Einstellungen jederzeit ändern.\n\nTechnisch notwendige Cookies\nFunktionalität von Drittanbietern\nStatistik Cookies\nAlle Dienste erlauben\nNur technisch notwendige erlauben",
   "calls": [
-   {
-    "m": "POST",
-    "url": "https://webplatform-facade.cluster.prod.aurena.services/api/v1/package/2113018790",
-    "post": "{\"jsonrpc\":\"2.0\",\"id\":0,\"method\":\"timesync\"}",
-    "status": 200,
-    "body": "{\"id\":0,\"result\":1790328017974}"
-   },
-   {
-    "m": "POST",
-    "url": "https://www.aurena.at/version",
-    "post": "{\"version\":\"25.4.205\"}",
-    "status": 200,
-    "body": "{\n  \"version\": \"25.4.205\",\n  \"versionCheckDisabled\": \"false\",\n  \"update\": false,\n  \"maintenance\": false,\n  \"metricsCollection\": {\n    \"interval\": \"300000\",\n    \"sampleRate\": \"0.33\"\n  },\n  \"runtimeConfig\": {\n    \"fothForcePolling\": false\n  }\n}"
-   },
-   {
-    "m": "POST",
-    "url": "https://webplatform-facade.cluster.prod.aurena.services/api/v1/package/381737824",
-    "post": "{}",
-    "status": 200,
-    "body": "{\"token\":\"_IAnhg.q-afMQ:oUSNbrJ6nZCeMEyI\"}"
-   },
    {
     "m": "POST",
     "url": "https://webplatform-facade.cluster.prod.aurena.services/api/v1/package/2113018790",
     "post": "{\"jsonrpc\":\"2.0\",\"id\":1,\"method\":\"timesync\"}",
     "status": 200,
-    "body": "{\"id\":1,\"result\":1790328018145}"
-   },
-   {
-    "m": "POST",
-    "url": "https://webplatform-facade.cluster.prod.aurena.services/api/v1/package/2969493703",
-    "post": "{}",
-    "status": 200,
-    "body": "{\"items\":[{\"id\":2,\"cotlId\":\"DE\",\"mainSalesTaxCategoryId\":4},{\"id\":6,\"cotlId\":\"BE\",\"mainSalesTaxCategoryId\":14},{\"id\":13,\"cotlId\":\"FI\",\"mainSalesTaxCategoryId\":38},{\"id\":23,\"cotlId\":\"PT\",\"mainSalesTaxCategoryId\":31},{\"id\":7,\"cotlId\":\"BG\",\"mainSalesTaxCategoryId\":15},{\"id\":10,\"cotlId\":\"DK\",\"mainSalesTaxCategoryId\":18},{\"id\":17,\"cotlId\":\"LT\",\"mainSalesTaxCategoryId\":25},{\"id\":18,\"cotlId\":\"LU\",\"mainSalesTaxCategoryId\":26},{\"id\":15,\"cotlId\":\"HR\",\"mainSalesTaxCategoryId\":23},{\"id\":19,\"cotlId\":\"LV\",\"mainSalesTaxCategoryId\":27},{\"id\":14,\"cotlId\":\"FR\",\"mainSalesTaxCategoryId\":22},{\"id\":5,\"cotlId\":\"HU\",\"mainSalesTaxCategoryId\":7},{\"id\":25,\"cotlId\":\"SE\",\"mainSalesTaxCategoryId\":33},{\"id\":3,\"cotlId\":\"SI\",\"mainSalesTaxCategoryId\":6},{\"id\":26,\"cotlId\":\"SK\",\"mainSalesTaxCategoryId\":36},{\"id\":16,\"cotlId\":\"IE\",\"mainSalesTaxCategoryId\":24},{\"id\":11,\"cotlId\":\"EE\",\"mainSalesTaxCategoryId\":39},{\"id\":28,\"cotlId\":\"CH\",\"mainSalesTaxCategoryId\":43},{\"id\":20,\"cotlId\":\"MT\",\"mainSalesTaxCategoryId\":28},{\"id\":27,\"cotlId\":\"GR\",\"mainSalesTaxCategoryId\":35},{\"id\":4,\"cotlId\":\"IT\",\"mainSalesTaxCategoryId\":5},{\"id\":12,\"cotlId\":\"ES\",\"mainSalesTaxCategoryId\":20},{\"id\":1,\"cotlId\":\"AT\",\"mainSalesTaxCategoryId\":1},{\"id\":8,\"cotlId\":\"CY\",\"mainSalesTaxCategoryId\":16},{\"id\":9,\"cotlId\":\"CZ\",\"mainSalesTaxCategoryId\":17},{\"id\":22,\"cotlId\":\"PL\",\"mainSalesTaxCategoryId\":30},{\"id\":24,\"cotlId\":\"RO\",\"mainSalesTaxCategoryId\":40},{\"id\":21,\"cotlId\":\"NL\",\"mainSalesTaxCategoryId\":29}]}"
-   },
-   {
-    "m": "POST",
-    "url": "https://webplatform-facade.cluster.prod.aurena.services/api/v1/package/2203840133",
-    "post": "{}",
-    "status": 200,
-    "body": "{\"items\":[{\"id\":1,\"lotTax\":20,\"deductible\":true,\"eligibleTaxRateTypes\":[\"LOT\",\"DEDU\"],\"noteEnabled\":true,\"cotlId\":\"AT\",\"langData\":{\"notes\":{\"de_DE\":\"\"}}},{\"id\":2,\"lotTax\":13,\"deductible\":true,\"eligibleTaxRateTypes\":[\"LOT\",\"DEDU\"],\"noteEnabled\":true,\"cotlId\":\"AT\",\"langData\":{\"notes\":{\"de_DE\":\"\"}}},{\"id\":3,\"lotTax\":10,\"deductible\":true,\"eligibleTaxRateTypes\":[\"LOT\",\"DEDU\"],\"noteEnabled\":true,\"cotlId\":\"AT\",\"langData\":{\"notes\":{\"de_DE\":\"\"}}},{\"id\":4,\"lotTax\":19,\"deductible\":true,\"eligibleTaxRateTypes\":[\"LOT\",\"DEDU\"],\"noteEnabled\":true,\"cotlId\":\"DE\",\"langData\":{\"notes\":{\"de_DE\":\"\"}}},{\"id\":5,\"lotTax\":22,\"deductible\":true,\"eligibleTaxRateTypes\":[\"LOT\",\"DEDU\"],\"noteEnabled\":true,\"cotlId\":\"IT\",\"langData\":{\"notes\":{\"de_DE\":\"\"}}},{\"id\":6,\"lotTax\":22,\"deductible\":true,\"eligibleTaxRateTypes\":[\"LOT\",\"DEDU\"],\"noteEnabled\":true,\"cotlId\":\"SI\",\"langData\":{\"notes\":{\"de_DE\":\"\"}}},{\"id\":7,\"lotTax\":27,\"deductible\":true,\"eligibleTaxRateTypes\":[\"LOT\",\"DEDU\"],\"noteEnabled\":true,\"cotlId\":\"HU\",\"langData\":{\"notes\":{\"de_DE\":\"\"}}},{\"id\":8,\"lotTax\":0,\"deductible\":false,\"eligibleTaxRateTypes\":[\"DIFF\"],\"noteEnabled\":true,\"cotlId\":\"IT\",\"langData\":{\"notes\":{\"de_DE\":\"Differenzbesteuerung gemäß Art 312 ff MWSt-RL 2006/112\"}}},{\"id\":9,\"lotTax\":0,\"deductible\":false,\"eligibleTaxRateTypes\":[\"DIFF\"],\"noteEnabled\":true,\"cotlId\":\"AT\",\"langData\":{\"notes\":{\"de_DE\":\"Differenzbesteuerung gemäß §24 UStG\"}}},{\"id\":10,\"lotTax\":0,\"deductible\":false,\"eligibleTaxRateTypes\":[\"DIFF\"],\"noteEnabled\":true,\"cotlId\":\"DE\",\"langData\":{\"notes\":{\"de_DE\":\"Differenzbesteuerung gemäß § 25a Abs. 2 UStG\"}}},{\"id\":11,\"lotTax\":0,\"deductible\":false,\"eligibleTaxRateTypes\":[\"DIFF\"],\"noteEnabled\":true,\"cotlId\":\"SI\",\"langData\":{\"notes\":{\"de_DE\":\"Differenzbesteuerung gemäß Art 312 ff MWSt-RL 2006/112\"}}},{\"id\":12,\"lotTax\":0,\"deductible\":false,\"eligibleTaxRateTypes\":[\"DIFF\"],\"noteEnabled\":true,\"cotlId\":\"HU\",\"langData\":{\"notes\":{\"de_DE\":\"Differenzbesteuerung gemäß Art 312 ff MWSt-RL 2006/112\"}}},{\"id\":13,\"lotTax\":0,\"deductible\":false,\"eligibleTaxRateTypes\":[\"LOT\"],\"noteEnabled\":true,\"cotlId\":\"AT\",\"langData\":{\"notes\":{\"de_DE\":\"\"}}},{\"id\":14,\"lotTax\":21,\"deductible\":true,\"eligibleTaxRateTypes\":[\"LOT\",\"DEDU\"],\"noteEnabled\":true,\"cotlId\":\"BE\",\"langData\":{\"notes\":{\"de_DE\":\"\"}}},{\"id\":15,\"lotTax\":20,\"deductible\":true,\"eligibleTaxRateTypes\":[\"LOT\",\"DEDU\"],\"noteEnabled\":true,\"cotlId\":\"BG\",\"langData\":{\"notes\":{\"de_DE\":\"\"}}},{\"id\":16,\"lotTax\":19,\"deductible\":true,\"eligibleTaxRateTypes\":[\"LOT\",\"DEDU\"],\"noteEnabled\":true,\"cotlId\":\"CY\",\"langData\""
-   },
-   {
-    "m": "POST",
-    "url": "https://webplatform-facade.cluster.prod.aurena.services/api/v1/package/934722162",
-    "post": "{}",
-    "status": 200,
-    "body": "{\"items\":[{\"id\":1,\"auctionFees\":[{\"salesTaxCategoryId\":18,\"auctionFee\":18},{\"salesTaxCategoryId\":1,\"auctionFee\":18},{\"salesTaxCategoryId\":35,\"auctionFee\":18},{\"salesTaxCategoryId\":40,\"auctionFee\":18},{\"salesTaxCategoryId\":28,\"auctionFee\":18},{\"salesTaxCategoryId\":22,\"auctionFee\":18},{\"salesTaxCategoryId\":42,\"auctionFee\":18},{\"salesTaxCategoryId\":45,\"auctionFee\":18},{\"salesTaxCategoryId\":27,\"auctionFee\":18},{\"salesTaxCategoryId\":7,\"auctionFee\":18},{\"salesTaxCategoryId\":6,\"auctionFee\":18},{\"salesTaxCategoryId\":8,\"auctionFee\":22},{\"salesTaxCategoryId\":11,\"auctionFee\":22},{\"salesTaxCategoryId\":29,\"auctionFee\":18},{\"salesTaxCategoryId\":4,\"auctionFee\":18},{\"salesTaxCategoryId\":20,\"auctionFee\":18},{\"salesTaxCategoryId\":19,\"auctionFee\":18},{\"salesTaxCategoryId\":21,\"auctionFee\":18},{\"salesTaxCategoryId\":9,\"auctionFee\":22},{\"salesTaxCategoryId\":34,\"auctionFee\":18},{\"salesTaxCategoryId\":30,\"auctionFee\":18},{\"salesTaxCategoryId\":23,\"auctionFee\":18},{\"salesTaxCategoryId\":44,\"auctionFee\":18},{\"salesTaxCategoryId\":36,\"auctionFee\":18},{\"salesTaxCategoryId\":3,\"auctionFee\":18},{\"salesTaxCategoryId\":24,\"auctionFee\":18},{\"salesTaxCategoryId\":15,\"auctionFee\":18},{\"salesTaxCategoryId\":26,\"auctionFee\":18},{\"salesTaxCategoryId\":5,\"auctionFee\":18},{\"salesTaxCategoryId\":17,\"auctionFee\":18},{\"salesTaxCategoryId\":32,\"auctionFee\":18},{\"salesTaxCategoryId\":31,\"auctionFee\":18},{\"salesTaxCategoryId\":41,\"auctionFee\":18},{\"salesTaxCategoryId\":25,\"auctionFee\":18},{\"salesTaxCategoryId\":12,\"auctionFee\":22},{\"salesTaxCategoryId\":37,\"auctionFee\":22},{\"salesTaxCategoryId\":38,\"auctionFee\":18},{\"salesTaxCategoryId\":13,\"auctionFee\":18},{\"salesTaxCategoryId\":43,\"auctionFee\":18},{\"salesTaxCategoryId\":16,\"auctionFee\":18},{\"salesTaxCategoryId\":39,\"auctionFee\":18},{\"salesTaxCategoryId\":14,\"auctionFee\":18},{\"salesTaxCategoryId\":2,\"auctionFee\":18},{\"salesTaxCategoryId\":33,\"auctionFee\":18},{\"salesTaxCategoryId\":10,\"auctionFee\":22}]},{\"id\":2,\"auctionFees\":[{\"salesTaxCategoryId\":18,\"auctionFee\":0},{\"salesTaxCategoryId\":1,\"auctionFee\":0},{\"salesTaxCategoryId\":35,\"auctionFee\":0},{\"salesTaxCategoryId\":40,\"auctionFee\":0},{\"salesTaxCategoryId\":28,\"auctionFee\":0},{\"salesTaxCategoryId\":22,\"auctionFee\":0},{\"salesTaxCategoryId\":42,\"auctionFee\":0},{\"salesTaxCategoryId\":45,\"auctionFee\":0},{\"salesTaxCategoryId\":27,\"auctionFee\":0},{\"salesTaxCategoryId\":7,\"auctionFee\":0},{\"salesTaxCategoryId\":6,\"auctionFee\":0},{\"salesTaxCategoryId\":8,\"auctionFee\":0},{\"salesTaxCategoryId\":11,\"auctionFee\":0},{\"salesTaxCategoryId\":29,\"auctio"
+    "body": "{\"id\":1,\"result\":1790328165884}"
    },
    {
     "m": "POST",
@@ -62,10 +78,24 @@
    },
    {
     "m": "POST",
-    "url": "https://webplatform-facade.cluster.prod.aurena.services/api/v1/package/222506942",
+    "url": "https://webplatform-facade.cluster.prod.aurena.services/api/v1/package/381737824",
     "post": "{}",
     "status": 200,
-    "body": "{\"items\":[{\"id\":1,\"lotTax\":20,\"auctionFee\":15,\"auctionFeeTaxDivergent\":false,\"auctionFeeTax\":null,\"deductible\":true,\"noteEnabled\":false,\"langData\":{\"notes\":{\"en_US\":\"\",\"de_DE\":\"\"}}},{\"id\":4,\"lotTax\":0,\"auctionFee\":22,\"auctionFeeTaxDivergent\":false,\"auctionFeeTax\":null,\"deductible\":false,\"noteEnabled\":true,\"langData\":{\"notes\":{\"en_US\":\"Differenzbesteuerung  gemäß §24 UStG\",\"de_DE\":\"Differenzbesteuerung gemäß  §24 UStG\"}}},{\"id\":5,\"lotTax\":7.7,\"auctionFee\":15,\"auctionFeeTaxDivergent\":false,\"auctionFeeTax\":null,\"deductible\":false,\"noteEnabled\":true,\"langData\":{\"notes\":{\"en_US\":\"Rechnungslegung erfolgt durch die Aurena Schweiz AG in EURO\",\"de_DE\":\"Rechnungslegung erfolgt durch die Aurena Schweiz AG in EURO\"}}},{\"id\":6,\"lotTax\":19,\"auctionFee\":15,\"auctionFeeTaxDivergent\":false,\"auctionFeeTax\":null,\"deductible\":false,\"noteEnabled\":true,\"langData\":{\"notes\":{\"en_US\":\"\",\"de_DE\":\"\"}}},{\"id\":7,\"lotTax\":10,\"auctionFee\":15,\"auctionFeeTaxDivergent\":true,\"auctionFeeTax\":20,\"deductible\":true,\"noteEnabled\":false,\"langData\":{\"notes\":null}},{\"id\":8,\"lotTax\":20,\"auctionFee\":0,\"auctionFeeTaxDivergent\":false,\"auctionFeeTax\":null,\"deductible\":true,\"noteEnabled\":false,\"langData\":{\"notes\":null}},{\"id\":9,\"lotTax\":13,\"auctionFee\":15,\"auctionFeeTaxDivergent\":true,\"auctionFeeTax\":20,\"deductible\":true,\"noteEnabled\":false,\"langData\":{\"notes\":null}},{\"id\":10,\"lotTax\":20,\"auctionFee\":18,\"auctionFeeTaxDivergent\":false,\"auctionFeeTax\":null,\"deductible\":true,\"noteEnabled\":false,\"langData\":{\"notes\":null}},{\"id\":11,\"lotTax\":13,\"auctionFee\":18,\"auctionFeeTaxDivergent\":true,\"auctionFeeTax\":20,\"deductible\":true,\"noteEnabled\":false,\"langData\":{\"notes\":null}},{\"id\":12,\"lotTax\":10,\"auctionFee\":18,\"auctionFeeTaxDivergent\":true,\"auctionFeeTax\":20,\"deductible\":true,\"noteEnabled\":false,\"langData\":{\"notes\":null}},{\"id\":13,\"lotTax\":19,\"auctionFee\":18,\"auctionFeeTaxDivergent\":false,\"auctionFeeTax\":null,\"deductible\":false,\"noteEnabled\":false,\"langData\":{\"notes\":null}},{\"id\":14,\"lotTax\":0,\"auctionFee\":3,\"auctionFeeTaxDivergent\":true,\"auctionFeeTax\":20,\"deductible\":true,\"noteEnabled\":false,\"langData\":{\"notes\":null}},{\"id\":15,\"lotTax\":22,\"auctionFee\":18,\"auctionFeeTaxDivergent\":false,\"auctionFeeTax\":null,\"deductible\":false,\"noteEnabled\":false,\"langData\":{\"notes\":null}},{\"id\":16,\"lotTax\":7.7,\"auctionFee\":18,\"auctionFeeTaxDivergent\":false,\"auctionFeeTax\":null,\"deductible\":false,\"noteEnabled\":true,\"langData\":{\"notes\":{\"en_US\":\"Rechnungslegung erfolgt durch die Aurena Schweiz AG in EURO\",\"de_DE\":\"Rechnungslegung e"
+    "body": "{\"token\":\"_IAnhg.q-afMQ:oUSNbrJ6nZCeMEyI\"}"
+   },
+   {
+    "m": "POST",
+    "url": "https://webplatform-facade.cluster.prod.aurena.services/api/v1/package/934722162",
+    "post": "{}",
+    "status": 200,
+    "body": "{\"items\":[{\"id\":1,\"auctionFees\":[{\"salesTaxCategoryId\":18,\"auctionFee\":18},{\"salesTaxCategoryId\":1,\"auctionFee\":18},{\"salesTaxCategoryId\":35,\"auctionFee\":18},{\"salesTaxCategoryId\":40,\"auctionFee\":18},{\"salesTaxCategoryId\":28,\"auctionFee\":18},{\"salesTaxCategoryId\":22,\"auctionFee\":18},{\"salesTaxCategoryId\":42,\"auctionFee\":18},{\"salesTaxCategoryId\":45,\"auctionFee\":18},{\"salesTaxCategoryId\":27,\"auctionFee\":18},{\"salesTaxCategoryId\":7,\"auctionFee\":18},{\"salesTaxCategoryId\":6,\"auctionFee\":18},{\"salesTaxCategoryId\":8,\"auctionFee\":22},{\"salesTaxCategoryId\":11,\"auctionFee\":22},{\"salesTaxCategoryId\":29,\"auctionFee\":18},{\"salesTaxCategoryId\":4,\"auctionFee\":18},{\"salesTaxCategoryId\":20,\"auctionFee\":18},{\"salesTaxCategoryId\":19,\"auctionFee\":18},{\"salesTaxCategoryId\":21,\"auctionFee\":18},{\"salesTaxCategoryId\":9,\"auctionFee\":22},{\"salesTaxCategoryId\":34,\"auctionFee\":18},{\"salesTaxCategoryId\":30,\"auctionFee\":18},{\"salesTaxCategoryId\":23,\"auctionFee\":18},{\"salesTaxCategoryId\":44,\"auctionFee\":18},{\"salesTaxCategoryId\":36,\"auctionFee\":18},{\"salesTaxCategoryId\":3,\"auctionFee\":18},{\"salesTaxCategoryId\":24,\"auctionFee\":18},{\"salesTaxCategoryId\":15,\"auctionFee\":18},{\"salesTaxCategoryId\":26,\"auctionFee\":18},{\"salesTaxCategoryId\":5,\"auctionFee\":18},{\"salesTaxCategoryId\":17,\"auctionFee\":18},{\"salesTaxCategoryId\":32,\"auctionFee\":18},{\"salesTaxCategoryId\":31,\"auctionFee\":18},{\"salesTaxCategoryId\":41,\"auctionFee\":18},{\"salesTaxCategoryId\":25,\"auctionFee\":18},{\"salesTaxCategoryId\":12,\"auctionFee\":22},{\"salesTaxCategoryId\":37,\"auctionFee\":22},{\"salesTaxCategoryId\":38,\"auctionFee\":18},{\"salesTaxCategoryId\":13,\"auctionFee\":18},{\"salesTaxCategoryId\":43,\"auctionFee\":18},{\"salesTaxCategoryId\":16,\"auctionFee\":18},{\"salesTaxCategoryId\":39,\"auctionFee\":18},{\"salesTaxCategoryId\":14,\"auctionFee\":18},{\"salesTaxCategoryId\":2,\"auctionFee\":18},{\"salesTaxCategoryId\":33,\"auctionFee\":18},{\"salesTaxCategoryId\":10,\"auctionFee\":22}]},{\"id\":2,\"auctionFees\":[{\"salesTaxCategoryId\":18,\"auctionFee\":0},{\"salesTaxCategoryId\":1,\"auctionFee\":0},{\"salesTaxCategoryId\":35,\"auctionFee\":0},{\"salesTaxCategoryId\":40,\"auctionFee\":0},{\"salesTaxCategoryId\":28,\"auctionFee\":0},{\"salesTaxCategoryId\":22,\"auctionFee\":0},{\"salesTaxCategoryId\":42,\"auctionFee\":0},{\"salesTaxCategoryId\":45,\"auctionFee\":0},{\"salesTaxCategoryId\":27,\"auctionFee\":0},{\"salesTaxCategoryId\":7,\"auctionFee\":0},{\"salesTaxCategoryId\":6,\"auctionFee\":0},{\"salesTaxCategoryId\":8,\"auctionFee\":0},{\"salesTaxCategoryId\":11,\"auctionFee\":0},{\"salesTaxCategoryId\":29,\"auctio"
+   },
+   {
+    "m": "POST",
+    "url": "https://webplatform-facade.cluster.prod.aurena.services/api/v1/package/2113018790",
+    "post": "{\"jsonrpc\":\"2.0\",\"id\":0,\"method\":\"timesync\"}",
+    "status": 200,
+    "body": "{\"id\":0,\"result\":1790328165884}"
    },
    {
     "m": "POST",
@@ -76,15 +106,29 @@
    },
    {
     "m": "POST",
-    "url": "https://webplatform-facade.cluster.prod.aurena.services/api/v1/package/3039420765",
-    "post": "{\"pages\":[\"__$pattern_Frontpage_1\",\"__$pattern_Frontpage_2\",\"__$pattern_Frontpage_3\",\"__$pattern_Frontpage_4\",\"__$pattern_Frontpage_5\",\"__$pattern_Frontpage_6\",\"__$pattern_Frontpage_7\",\"__$pattern_Frontpage_8\"],\"languageCode\":\"de_DE\"}",
+    "url": "https://webplatform-facade.cluster.prod.aurena.services/api/v1/package/222506942",
+    "post": "{}",
     "status": 200,
-    "body": "{\"pages\": [\n    {\n        \"url\": \"__$pattern_Frontpage_7\",\n        \"title\": \"Frontpage 7\",\n        \"shortDescription\": \"\",\n        \"content\": \"<div style=\\\"width: 100%;overflow:hidden; border-radius: 4px; margin-bottom: 5px;\\\" class=\\\"shadow\\\"><a href=\\\"/s?keywords=hellweg\\\"><img src=\\\"https://aurena.s3.eu-central-1.amazonaws.com/cms/public/hellweg-versteigerung-aurena-desk.jpg\\\" style=\\\"width: auto; max-width: initial; height: 358px;\\\"><\\/a><\\/div>\",\n        \"indexable\": false\n    },\n    {\n        \"url\": \"__$pattern_Frontpage_6\",\n        \"title\": \"Frontpage 6\",\n        \"shortDescription\": \"\",\n        \"content\": \"<style>\\n    @media screen and(max-width: 1024px) {\\n        .pattern-6-image-1 {\\n            margin-right: 30px;\\n\\n}\\n    }\\n\\n    @media screen and(min-width: 1024px) {\\n        .pattern-6-image-1 {\\n            margin-bottom: 30px;\\n\\nmargin-top: 60px;\\n\\n}\\n    }\\n<\\/style>\\n<p>\\n   <a href=\\\"/registrieren\\\" onclick=\\\"event.preventDefault(); Managers.EventManager.emit(3409434051);\\\" rel=\\\"nofollow\\\" target=\\\"_blank\\\">\\n    <img src=\\\"https://aurena.s3.eu-central-1.amazonaws.com/cms/public/aurena_registration_desktop.png\\\" alt=\\\"Hier registrieren!\\\" width=\\\"280\\\" style=\\\"margin-left: 10px; border-radius: 4px; width: 280px; margin-bottom: 15px\\\" class=\\\"pattern-6-image-1 shadow\\\">\\n<\\/a>\\n<a href=\\\"/service/suchagent\\\" onclick=\\\"event.preventDefault(); Managers.Router.go(['service', 'suchagent']);\\\" rel=\\\"nofollow\\\" target=\\\"_blank\\\">\\n    <img src=\\\"https://aurena.s3.eu-central-1.amazonaws.com/cms/public/suchagent_auge_animation_desktop.gif\\\" alt=\\\"Suchagent\\\" width=\\\"280\\\" style=\\\"margin-left: 10px; border-radius: 4px; width: 280px; margin-bottom: 15px\\\" class=\\\"pattern-6-image-1 shadow\\\">\\n<\\/a>\\n\\n<\\/p>\",\n        \"indexable\": false\n    },\n    {\n        \"url\": \"__$pattern_Frontpage_8\",\n        \"title\": \"Frontpage 8\",\n        \"shortDescription\": \"\",\n        \"content\": \"<div style=\\\"overflow:hidden;height: 10px;margin-left: -20px;margin-right: -20px;margin-top:45px;\\\"><div style=\\\"width: 100%;max-width: 1790px;margin:0 auto;height: 14px;background-image: url(/platform/resources/images/topline.png);background-size: 1790px 100%;background-position: center -4px;opacity: 1;background-repeat: no-repeat;\\\"><br><\\/div><\\/div><div style=\\\"padding: 0 5px;margin: 10px auto 0;max-width: 1200px;\\\"><h3 style=\\\"text-align:center;color:rgb(163, 163, 163);font-size:14px;\\\">Auktionen, Verwertungen und Versteigerungen in ganz Österreich<\\/h3><p style=\\\"text-al"
+    "body": "{\"items\":[{\"id\":1,\"lotTax\":20,\"auctionFee\":15,\"auctionFeeTaxDivergent\":false,\"auctionFeeTax\":null,\"deductible\":true,\"noteEnabled\":false,\"langData\":{\"notes\":{\"en_US\":\"\",\"de_DE\":\"\"}}},{\"id\":4,\"lotTax\":0,\"auctionFee\":22,\"auctionFeeTaxDivergent\":false,\"auctionFeeTax\":null,\"deductible\":false,\"noteEnabled\":true,\"langData\":{\"notes\":{\"en_US\":\"Differenzbesteuerung  gemäß §24 UStG\",\"de_DE\":\"Differenzbesteuerung gemäß  §24 UStG\"}}},{\"id\":5,\"lotTax\":7.7,\"auctionFee\":15,\"auctionFeeTaxDivergent\":false,\"auctionFeeTax\":null,\"deductible\":false,\"noteEnabled\":true,\"langData\":{\"notes\":{\"en_US\":\"Rechnungslegung erfolgt durch die Aurena Schweiz AG in EURO\",\"de_DE\":\"Rechnungslegung erfolgt durch die Aurena Schweiz AG in EURO\"}}},{\"id\":6,\"lotTax\":19,\"auctionFee\":15,\"auctionFeeTaxDivergent\":false,\"auctionFeeTax\":null,\"deductible\":false,\"noteEnabled\":true,\"langData\":{\"notes\":{\"en_US\":\"\",\"de_DE\":\"\"}}},{\"id\":7,\"lotTax\":10,\"auctionFee\":15,\"auctionFeeTaxDivergent\":true,\"auctionFeeTax\":20,\"deductible\":true,\"noteEnabled\":false,\"langData\":{\"notes\":null}},{\"id\":8,\"lotTax\":20,\"auctionFee\":0,\"auctionFeeTaxDivergent\":false,\"auctionFeeTax\":null,\"deductible\":true,\"noteEnabled\":false,\"langData\":{\"notes\":null}},{\"id\":9,\"lotTax\":13,\"auctionFee\":15,\"auctionFeeTaxDivergent\":true,\"auctionFeeTax\":20,\"deductible\":true,\"noteEnabled\":false,\"langData\":{\"notes\":null}},{\"id\":10,\"lotTax\":20,\"auctionFee\":18,\"auctionFeeTaxDivergent\":false,\"auctionFeeTax\":null,\"deductible\":true,\"noteEnabled\":false,\"langData\":{\"notes\":null}},{\"id\":11,\"lotTax\":13,\"auctionFee\":18,\"auctionFeeTaxDivergent\":true,\"auctionFeeTax\":20,\"deductible\":true,\"noteEnabled\":false,\"langData\":{\"notes\":null}},{\"id\":12,\"lotTax\":10,\"auctionFee\":18,\"auctionFeeTaxDivergent\":true,\"auctionFeeTax\":20,\"deductible\":true,\"noteEnabled\":false,\"langData\":{\"notes\":null}},{\"id\":13,\"lotTax\":19,\"auctionFee\":18,\"auctionFeeTaxDivergent\":false,\"auctionFeeTax\":null,\"deductible\":false,\"noteEnabled\":false,\"langData\":{\"notes\":null}},{\"id\":14,\"lotTax\":0,\"auctionFee\":3,\"auctionFeeTaxDivergent\":true,\"auctionFeeTax\":20,\"deductible\":true,\"noteEnabled\":false,\"langData\":{\"notes\":null}},{\"id\":15,\"lotTax\":22,\"auctionFee\":18,\"auctionFeeTaxDivergent\":false,\"auctionFeeTax\":null,\"deductible\":false,\"noteEnabled\":false,\"langData\":{\"notes\":null}},{\"id\":16,\"lotTax\":7.7,\"auctionFee\":18,\"auctionFeeTaxDivergent\":false,\"auctionFeeTax\":null,\"deductible\":false,\"noteEnabled\":true,\"langData\":{\"notes\":{\"en_US\":\"Rechnungslegung erfolgt durch die Aurena Schweiz AG in EURO\",\"de_DE\":\"Rechnungslegung e"
+   },
+   {
+    "m": "POST",
+    "url": "https://webplatform-facade.cluster.prod.aurena.services/api/v1/package/2203840133",
+    "post": "{}",
+    "status": 200,
+    "body": "{\"items\":[{\"id\":1,\"lotTax\":20,\"deductible\":true,\"eligibleTaxRateTypes\":[\"LOT\",\"DEDU\"],\"noteEnabled\":true,\"cotlId\":\"AT\",\"langData\":{\"notes\":{\"de_DE\":\"\"}}},{\"id\":2,\"lotTax\":13,\"deductible\":true,\"eligibleTaxRateTypes\":[\"LOT\",\"DEDU\"],\"noteEnabled\":true,\"cotlId\":\"AT\",\"langData\":{\"notes\":{\"de_DE\":\"\"}}},{\"id\":3,\"lotTax\":10,\"deductible\":true,\"eligibleTaxRateTypes\":[\"LOT\",\"DEDU\"],\"noteEnabled\":true,\"cotlId\":\"AT\",\"langData\":{\"notes\":{\"de_DE\":\"\"}}},{\"id\":4,\"lotTax\":19,\"deductible\":true,\"eligibleTaxRateTypes\":[\"LOT\",\"DEDU\"],\"noteEnabled\":true,\"cotlId\":\"DE\",\"langData\":{\"notes\":{\"de_DE\":\"\"}}},{\"id\":5,\"lotTax\":22,\"deductible\":true,\"eligibleTaxRateTypes\":[\"LOT\",\"DEDU\"],\"noteEnabled\":true,\"cotlId\":\"IT\",\"langData\":{\"notes\":{\"de_DE\":\"\"}}},{\"id\":6,\"lotTax\":22,\"deductible\":true,\"eligibleTaxRateTypes\":[\"LOT\",\"DEDU\"],\"noteEnabled\":true,\"cotlId\":\"SI\",\"langData\":{\"notes\":{\"de_DE\":\"\"}}},{\"id\":7,\"lotTax\":27,\"deductible\":true,\"eligibleTaxRateTypes\":[\"LOT\",\"DEDU\"],\"noteEnabled\":true,\"cotlId\":\"HU\",\"langData\":{\"notes\":{\"de_DE\":\"\"}}},{\"id\":8,\"lotTax\":0,\"deductible\":false,\"eligibleTaxRateTypes\":[\"DIFF\"],\"noteEnabled\":true,\"cotlId\":\"IT\",\"langData\":{\"notes\":{\"de_DE\":\"Differenzbesteuerung gemäß Art 312 ff MWSt-RL 2006/112\"}}},{\"id\":9,\"lotTax\":0,\"deductible\":false,\"eligibleTaxRateTypes\":[\"DIFF\"],\"noteEnabled\":true,\"cotlId\":\"AT\",\"langData\":{\"notes\":{\"de_DE\":\"Differenzbesteuerung gemäß §24 UStG\"}}},{\"id\":10,\"lotTax\":0,\"deductible\":false,\"eligibleTaxRateTypes\":[\"DIFF\"],\"noteEnabled\":true,\"cotlId\":\"DE\",\"langData\":{\"notes\":{\"de_DE\":\"Differenzbesteuerung gemäß § 25a Abs. 2 UStG\"}}},{\"id\":11,\"lotTax\":0,\"deductible\":false,\"eligibleTaxRateTypes\":[\"DIFF\"],\"noteEnabled\":true,\"cotlId\":\"SI\",\"langData\":{\"notes\":{\"de_DE\":\"Differenzbesteuerung gemäß Art 312 ff MWSt-RL 2006/112\"}}},{\"id\":12,\"lotTax\":0,\"deductible\":false,\"eligibleTaxRateTypes\":[\"DIFF\"],\"noteEnabled\":true,\"cotlId\":\"HU\",\"langData\":{\"notes\":{\"de_DE\":\"Differenzbesteuerung gemäß Art 312 ff MWSt-RL 2006/112\"}}},{\"id\":13,\"lotTax\":0,\"deductible\":false,\"eligibleTaxRateTypes\":[\"LOT\"],\"noteEnabled\":true,\"cotlId\":\"AT\",\"langData\":{\"notes\":{\"de_DE\":\"\"}}},{\"id\":14,\"lotTax\":21,\"deductible\":true,\"eligibleTaxRateTypes\":[\"LOT\",\"DEDU\"],\"noteEnabled\":true,\"cotlId\":\"BE\",\"langData\":{\"notes\":{\"de_DE\":\"\"}}},{\"id\":15,\"lotTax\":20,\"deductible\":true,\"eligibleTaxRateTypes\":[\"LOT\",\"DEDU\"],\"noteEnabled\":true,\"cotlId\":\"BG\",\"langData\":{\"notes\":{\"de_DE\":\"\"}}},{\"id\":16,\"lotTax\":19,\"deductible\":true,\"eligibleTaxRateTypes\":[\"LOT\",\"DEDU\"],\"noteEnabled\":true,\"cotlId\":\"CY\",\"langData\""
+   },
+   {
+    "m": "POST",
+    "url": "https://webplatform-facade.cluster.prod.aurena.services/api/v1/package/2969493703",
+    "post": "{}",
+    "status": 200,
+    "body": "{\"items\":[{\"id\":2,\"cotlId\":\"DE\",\"mainSalesTaxCategoryId\":4},{\"id\":6,\"cotlId\":\"BE\",\"mainSalesTaxCategoryId\":14},{\"id\":13,\"cotlId\":\"FI\",\"mainSalesTaxCategoryId\":38},{\"id\":23,\"cotlId\":\"PT\",\"mainSalesTaxCategoryId\":31},{\"id\":7,\"cotlId\":\"BG\",\"mainSalesTaxCategoryId\":15},{\"id\":10,\"cotlId\":\"DK\",\"mainSalesTaxCategoryId\":18},{\"id\":17,\"cotlId\":\"LT\",\"mainSalesTaxCategoryId\":25},{\"id\":18,\"cotlId\":\"LU\",\"mainSalesTaxCategoryId\":26},{\"id\":15,\"cotlId\":\"HR\",\"mainSalesTaxCategoryId\":23},{\"id\":19,\"cotlId\":\"LV\",\"mainSalesTaxCategoryId\":27},{\"id\":14,\"cotlId\":\"FR\",\"mainSalesTaxCategoryId\":22},{\"id\":5,\"cotlId\":\"HU\",\"mainSalesTaxCategoryId\":7},{\"id\":25,\"cotlId\":\"SE\",\"mainSalesTaxCategoryId\":33},{\"id\":3,\"cotlId\":\"SI\",\"mainSalesTaxCategoryId\":6},{\"id\":26,\"cotlId\":\"SK\",\"mainSalesTaxCategoryId\":36},{\"id\":16,\"cotlId\":\"IE\",\"mainSalesTaxCategoryId\":24},{\"id\":11,\"cotlId\":\"EE\",\"mainSalesTaxCategoryId\":39},{\"id\":28,\"cotlId\":\"CH\",\"mainSalesTaxCategoryId\":43},{\"id\":20,\"cotlId\":\"MT\",\"mainSalesTaxCategoryId\":28},{\"id\":27,\"cotlId\":\"GR\",\"mainSalesTaxCategoryId\":35},{\"id\":4,\"cotlId\":\"IT\",\"mainSalesTaxCategoryId\":5},{\"id\":12,\"cotlId\":\"ES\",\"mainSalesTaxCategoryId\":20},{\"id\":1,\"cotlId\":\"AT\",\"mainSalesTaxCategoryId\":1},{\"id\":8,\"cotlId\":\"CY\",\"mainSalesTaxCategoryId\":16},{\"id\":9,\"cotlId\":\"CZ\",\"mainSalesTaxCategoryId\":17},{\"id\":22,\"cotlId\":\"PL\",\"mainSalesTaxCategoryId\":30},{\"id\":24,\"cotlId\":\"RO\",\"mainSalesTaxCategoryId\":40},{\"id\":21,\"cotlId\":\"NL\",\"mainSalesTaxCategoryId\":29}]}"
    },
    {
     "m": "POST",
     "url": "https://webplatform-facade.cluster.prod.aurena.services/api/v1/package/555932263",
-    "post": "{\"versions\":[{\"id\":5195498,\"version\":15},{\"id\":5289010,\"version\":1},{\"id\":5205009,\"version\":3},{\"id\":5289019,\"version\":1},{\"id\":5205056,\"version\":3},{\"id\":5289043,\"version\":1},{\"id\":5205105,\"version\":2},{\"id\":5288737,\"version\":1},{\"id\":5161494,\"version\":35},{\"id\":5288740,\"version\":1},{\"id\":5161520,\"version\":24},{\"id\":5289009,\"version\":1},{\"id\":5217684,\"version\":13},{\"id\":5272219,\"version\":4},{\"id\":5217696,\"version\":13},{\"id\":5272439,\"version\":4},{\"id\":5217719,\"version\":5},{\"id\":5272540,\"version\":4},{\"id\":5217745,\"version\":10},{\"id\":5288702,\"version\":1},{\"id\":5219095,\"version\":15},{\"id\":5288704,\"version\":1},{\"id\":5219109,\"version\":2},{\"id\":5288706,\"version\":1},{\"id\":5219114,\"version\":2},{\"id\":5287264,\"version\":1},{\"id\":5216072,\"version\":13},{\"id\":5287322,\"version\":1},{\"id\":5216081,\"version\":2},{\"id\":5287344,\"version\":1},{\"id\":5216264,\"version\":11},{\"id\":5287398,\"version\":1},{\"id\":5218691,\"version\":2},{\"id\":5287483,\"version\":1},{\"id\":5065171,\"version\":33},{\"id\":5282665,\"version\":1},{\"id\":5065188,\"version\":35},{\"id\":5282828,\"version\":1},{\"id\":5065234,\"version\":18},{\"id\":5282945,\"version\":1},{\"id\":5228501,\"version\":1},{\"id\":5280994,\"version\":1},{\"id\":5228515,\"version\":3},{\"id\":5281001,\"version\":1},{\"id\":5218977,\"version\":15},{\"id\":5281016,\"version\":2},{\"id\":5218984,\"version\":9},{\"id\":5274868,\"version\":1}]}",
+    "post": "{\"versions\":[{\"id\":5240043,\"version\":2}]}",
     "status": 200,
     "body": "{\"items\":[]}"
    },
@@ -98,239 +142,22 @@
    {
     "m": "POST",
     "url": "https://webplatform-facade.cluster.prod.aurena.services/api/v1/package/555932263",
-    "post": "{\"versions\":[{\"id\":5195498,\"version\":15},{\"id\":5289010,\"version\":1},{\"id\":5205009,\"version\":3},{\"id\":5289019,\"version\":1},{\"id\":5205056,\"version\":3},{\"id\":5289043,\"version\":1},{\"id\":5205105,\"version\":2},{\"id\":5288737,\"version\":1},{\"id\":5161494,\"version\":35},{\"id\":5288740,\"version\":1},{\"id\":5161520,\"version\":24},{\"id\":5289009,\"version\":1},{\"id\":5217684,\"version\":13},{\"id\":5272219,\"version\":4},{\"id\":5217696,\"version\":13},{\"id\":5272439,\"version\":4},{\"id\":5217719,\"version\":5},{\"id\":5272540,\"version\":4},{\"id\":5217745,\"version\":10},{\"id\":5288702,\"version\":1},{\"id\":5219095,\"version\":15},{\"id\":5288704,\"version\":1},{\"id\":5219109,\"version\":2},{\"id\":5288706,\"version\":1},{\"id\":5219114,\"version\":2},{\"id\":5287264,\"version\":1},{\"id\":5216072,\"version\":13},{\"id\":5287322,\"version\":1},{\"id\":5216081,\"version\":2},{\"id\":5287344,\"version\":1},{\"id\":5216264,\"version\":11},{\"id\":5287398,\"version\":1},{\"id\":5218691,\"version\":2},{\"id\":5287483,\"version\":1},{\"id\":5065171,\"version\":33},{\"id\":5282665,\"version\":1},{\"id\":5065188,\"version\":35},{\"id\":5282828,\"version\":1},{\"id\":5065234,\"version\":18},{\"id\":5282945,\"version\":1},{\"id\":5228501,\"version\":1},{\"id\":5280994,\"version\":1},{\"id\":5228515,\"version\":3},{\"id\":5281001,\"version\":1},{\"id\":5218977,\"version\":15},{\"id\":5281016,\"version\":2},{\"id\":5218984,\"version\":9},{\"id\":5274868,\"version\":1}]}",
+    "post": "{\"versions\":[{\"id\":5240043,\"version\":2}]}",
     "status": 200,
-    "body": "{\"items\":[{\"lotId\":5195498,\"endTime\":1790328020000,\"priceVersion\":16,\"bidCount\":21,\"transactionStatus\":3,\"hasEnded\":true,\"highestBid\":{\"id\":34103866,\"value\":50}}]}"
-   },
-   {
-    "m": "POST",
-    "url": "https://webplatform-facade.cluster.prod.aurena.services/api/v1/package/2113018790",
-    "post": "{\"jsonrpc\":\"2.0\",\"id\":2,\"method\":\"timesync\"}",
-    "status": 200,
-    "body": "{\"id\":2,\"result\":1790328032223}"
-   },
-   {
-    "m": "POST",
-    "url": "https://webplatform-facade.cluster.prod.aurena.services/api/v1/package/2113018790",
-    "post": "{\"jsonrpc\":\"2.0\",\"id\":3,\"method\":\"timesync\"}",
-    "status": 200,
-    "body": "{\"id\":3,\"result\":1790328047217}"
+    "body": "{\"items\":[]}"
    }
   ]
  },
  {
-  "url": "GET:https://shared-api.tbauctions.com/storefront-search/v2/search?pageNumber=1&pageSize=3&query=Beamer&platform=SPX",
+  "url": "GET:https://shared-api.tbauctions.com/storefront-search/v2/search?pageNumber=1&pageSize=2&query=Beamer&platform=SPX",
   "typed": "",
-  "probe_status": 400,
-  "probe_body": "{\"code\":\"storefront-search-007\",\"message\":\"Bad Request\",\"details\":\"Header Search-Language was not provided\",\"errorKey\":\"81bb2b45-ae61-4cea-ad63-f78cfdad3035\",\"traceParent\":\"00-750ecf991363734709d269f2d0610eb8-c03d31ccb92bc01e-03\",\"errorDetails\":[{\"message\":\"Header Search-Language was not provided\"}]}"
+  "probe_status": 200,
+  "probe_body": "{\"pageNumber\":1,\"pageSize\":2,\"totalSize\":1,\"hasNext\":false,\"results\":[{\"id\":\"05c21a4b-9343-46b3-ab5e-62215e1e3cac\",\"displayId\":\"A1-50252-212\",\"lotNumber\":212,\"startDate\":1790172000,\"endDate\":1791360240,\"title\":\"Optoma Crestron Beamer\",\"location\":{\"id\":\"3de6af13-c3a0-4e16-b9e9-59b3d42b31d8\",\"city\":\"Veldhoven\",\"countryCode\":\"nl\",\"coordinates\":\"5.40278,51.41833\"},\"images\":[{\"mediaId\":\"a3499c6a-d44f-47bc-9175-c27bbedf079b\",\"url\":\"https://media.tbauctions.com/image-media/a3499c6a-d44f-47bc-9175-c27bbedf079b/file\",\"order\":0}],\"platform\":\"TWK\",\"bidsCount\":1,\"currentBidAmountInCents\":1000,\"slug\":\"optoma-crestron-beamer-A1-50252-212\",\"currency\":\"EUR\",\"biddingStatus\":\"BIDDING_OPEN\",\"saleTerm\":\"GUARANTEED_SALE\",\"followersCount\":19,\"directSaleType\":\"NOT_SET\"}]}"
  },
  {
-  "url": "GET:https://shared-api.tbauctions.com/storefront-search/v2/search?pageNumber=1&pageSize=3&query=Beamer&platform=SUR",
+  "url": "GET:https://shared-api.tbauctions.com/storefront-search/v2/search?pageNumber=1&pageSize=2&query=RTX&platform=TWK",
   "typed": "",
-  "probe_status": 400,
-  "probe_body": "{\"code\":\"storefront-search-007\",\"message\":\"Bad Request\",\"details\":\"Cannot convert SUR to class com.tbauctions.commons.domainmodel.Platform\",\"errorKey\":\"711905ba-4bb4-49e5-9651-2da5b36b0ef7\",\"traceParent\":\"00-c8c6be3a32bdf4b595d6cbdfa839692b-d05e55ad59f06a1c-02\",\"errorDetails\":[{\"message\":\"Cannot convert SUR to class com.tbauctions.commons.domainmodel.Platform\"}]}"
- },
- {
-  "url": "GET:https://shared-api.tbauctions.com/storefront-search/v2/search?pageNumber=1&pageSize=3&query=Beamer&platform=TWK",
-  "typed": "",
-  "probe_status": 400,
-  "probe_body": "{\"code\":\"storefront-search-007\",\"message\":\"Bad Request\",\"details\":\"Header Search-Language was not provided\",\"errorKey\":\"bc76cc2a-4211-48f6-8435-476654d319a5\",\"traceParent\":\"00-9ced10fd6fed38c71ad9814659ab4a80-7dd91ebb1fa0797d-03\",\"errorDetails\":[{\"message\":\"Header Search-Language was not provided\"}]}"
- },
- {
-  "url": "https://www.justiz-auktion.de/",
-  "typed": "Beamer",
-  "suggest_text": "  \n  \n  \nREGISTRIEREN\n  \nEINLOGGEN\nJustiz-Auktion - Deutschland & Österreich\nSuchbegriff:\nErweiterte Suche\nNavigation\nAlle Kategorien\nNeu eingestellt\nBald endend\nBeliebte Auktionen\nInhalt:\nTOP HITS\nMercedes Sprinter 316 CDI\nStartgebot:\n9.000,00 €\nAktuelles Gebot:\n10.000,00 €\n\nDetails\n\nRennrad Pinarello GunS\nStartgebot:\n2.500,00 €\nAktuelles Gebot:\n0,00 €\n\nDetails\n\nUhr Rolex GMT Master II\nStartgebot:\n10.000,00 €\nAktuelles Gebot:\n10.000,00 €\n\nDetails\n\nChevrolet Styleline De Luxe Sport Coupe\nStartgebot:\n4.000,00 €\nAktuelles Gebot:\n4.200,00 €\n\nDetails\n\nHandy Apple iPhone 16 Pro hellrosa\nStartgebot:\n300,00 €\nAktuelles Gebot:\n480,00 €\n\nDetails\n\nSony Playstation 5\nStartgebot:\n250,00 €\nAktuelles Gebot:\n355,55 €\n\nDetails\n\nMercedes Sprinter 316 CDI\nStartgebot:\n9.000,00 €\nAktuelles Gebot:\n10.000,00 €\n\nDetails\n\nRennrad Pinarello GunS\nStartgebot:\n2.500,00 €\nAktuelles Gebot:\n0,00 €\n\nDetails\n\nNEU EINGESTELLT\nalle sehen\nKartenleser REINERSCT cyberJACK 3 Stk.\nStartgebot:\n50,00 €\nAktuelles Gebot:\n0,00 €\n\nDetails\n\nCanon EOS R6 Mark II Kamera und Objektiv\nStartgebot:\n1.800,00 €\nAktuelles Gebot:\n0,00 €\n\nDetails\n\nBALD ENDEND\nalle sehen\nProfi-Taschenmesser Leatherman Wave Plus\nStartgebot:\n60,00 €\nAktuelles Gebot:\n100,00 €\n\nDetails\n\nProfi-Taschenmesser Leatherman Wave Plus\nStartgebot:\n60,00 €\nAktuelles Gebot:\n97,00 €\n\nDetails\n\nÜbersicht:\nAUKTIONEN\nTop-Hits\nNeu eingestellt\nBald endend\nBeliebte Auktionen\nErweiterte Suche\nMEIN KONTO\nEinloggen\nLogindaten vergessen\nNeu registrieren\nINFORMATIONEN\nBedingung",
-  "final_url": "https://www.justiz-auktion.de/suche",
-  "inputs": [
-   {
-    "tag": "INPUT",
-    "type": "text",
-    "name": "txt_search",
-    "ph": "Ich suche...",
-    "aria": null,
-    "vis": true
-   },
-   {
-    "tag": "INPUT",
-    "type": "text",
-    "name": "id",
-    "ph": "",
-    "aria": null,
-    "vis": true
-   },
-   {
-    "tag": "INPUT",
-    "type": "text",
-    "name": "keywords",
-    "ph": "",
-    "aria": null,
-    "vis": true
-   },
-   {
-    "tag": "INPUT",
-    "type": "text",
-    "name": "zip",
-    "ph": "",
-    "aria": null,
-    "vis": true
-   },
-   {
-    "tag": "INPUT",
-    "type": "text",
-    "name": "standort",
-    "ph": "",
-    "aria": null,
-    "vis": true
-   },
-   {
-    "tag": "INPUT",
-    "type": "text",
-    "name": "username",
-    "ph": "",
-    "aria": null,
-    "vis": true
-   },
-   {
-    "tag": "INPUT",
-    "type": "submit",
-    "name": "bt_search",
-    "ph": "",
-    "aria": null,
-    "vis": true
-   },
-   {
-    "tag": "INPUT",
-    "type": "hidden",
-    "name": "_CSRF",
-    "ph": "",
-    "aria": null,
-    "vis": false
-   }
-  ],
-  "search_links": [
-   {
-    "tag": "A",
-    "href": "https://www.justiz-auktion.de/suche?cc=ALL",
-    "text": ""
-   },
-   {
-    "tag": "A",
-    "href": "https://www.justiz-auktion.de/suche?cc=DE",
-    "text": ""
-   },
-   {
-    "tag": "A",
-    "href": "https://www.justiz-auktion.de/suche?cc=AT",
-    "text": ""
-   },
-   {
-    "tag": "A",
-    "href": "https://www.justiz-auktion.de/suche?detail",
-    "text": ""
-   },
-   {
-    "tag": "A",
-    "href": "https://www.justiz-auktion.de/suche#menu",
-    "text": ""
-   },
-   {
-    "tag": "A",
-    "href": "https://www.justiz-auktion.de/suche#nav",
-    "text": ""
-   },
-   {
-    "tag": "A",
-    "href": "https://www.justiz-auktion.de/suche?cc=ALL",
-    "text": ""
-   },
-   {
-    "tag": "A",
-    "href": "https://www.justiz-auktion.de/suche?cc=DE",
-    "text": ""
-   },
-   {
-    "tag": "A",
-    "href": "https://www.justiz-auktion.de/suche?cc=AT",
-    "text": ""
-   },
-   {
-    "tag": "A",
-    "href": "https://www.justiz-auktion.de/suche?detail",
-    "text": "Erweiterte Suche"
-   },
-   {
-    "tag": "A",
-    "href": "https://www.justiz-auktion.de/suche?reset",
-    "text": "Formular zurücksetzen"
-   },
-   {
-    "tag": "A",
-    "href": "https://www.justiz-auktion.de/suche#auktionen",
-    "text": "Auktionen"
-   },
-   {
-    "tag": "A",
-    "href": "https://www.justiz-auktion.de/suche?detail",
-    "text": "Erweiterte Suche"
-   },
-   {
-    "tag": "A",
-    "href": "https://www.justiz-auktion.de/suche#konto",
-    "text": "Mein Konto"
-   },
-   {
-    "tag": "A",
-    "href": "https://www.justiz-auktion.de/suche#infos",
-    "text": "Informationen"
-   },
-   {
-    "tag": "A",
-    "href": "https://www.justiz-auktion.de/suche#kontakt",
-    "text": "Kontakt für Käufer"
-   },
-   {
-    "tag": "A",
-    "href": "https://www.facebook.com/sharer/sharer.php?u=https://www.justiz-auktion.de/suche",
-    "text": ""
-   }
-  ],
-  "sample_links": [
-   "https://www.justiz-auktion.de/leichteSprache",
-   "https://www.justiz-auktion.de/gebaerdensprache/index.php",
-   "https://www.justiz-auktion.de/Erklaerung-zur-Barrierefreiheit.php",
-   "https://www.justiz-auktion.de/suche?cc=ALL",
-   "https://www.justiz-auktion.de/suche?cc=DE",
-   "https://www.justiz-auktion.de/suche?cc=AT",
-   "https://www.justiz-auktion.de/register",
-   "https://www.justiz-auktion.de/login",
-   "https://www.justiz-auktion.de/",
-   "https://www.justiz-auktion.de/suche?detail",
-   "https://www.justiz-auktion.de/suche#menu",
-   "https://www.justiz-auktion.de/suche#nav",
-   "https://www.justiz-auktion.de/kategorien",
-   "https://www.justiz-auktion.de/neu-eingestellt",
-   "https://www.justiz-auktion.de/bald-endend",
-   "https://www.justiz-auktion.de/beliebte-auktionen",
-   "https://www.justiz-auktion.de/suche?reset",
-   "https://www.justiz-auktion.de/suche#auktionen",
-   "https://www.justiz-auktion.de/top-hits",
-   "https://www.justiz-auktion.de/suche#konto",
-   "https://www.justiz-auktion.de/password-lost",
-   "https://www.justiz-auktion.de/suche#infos",
-   "https://www.justiz-auktion.de/agbs",
-   "https://www.justiz-auktion.de/widerrufsformular",
-   "https://www.justiz-auktion.de/das-besondere-an-uns",
-   "https://www.justiz-auktion.de/datenschutz",
-   "https://www.justiz-auktion.de/faq",
-   "https://www.justiz-auktion.de/barrierefreiheit.php",
-   "https://www.justiz-auktion.de/impressum",
-   "https://www.justiz-auktion.de/suche#kontakt",
-   "https://www.justiz-auktion.de/kontakt",
-   "https://www.justiz-auktion.de/impressum.php?p=2",
-   "https://www.facebook.com/sharer/sharer.php?u=https://www.justiz-auktion.de/suche",
-   "https://www.justiz-auktion.de/sitemap"
-  ],
-  "text_head": "  \n  \n  \nREGISTRIEREN\n  \nEINLOGGEN\nJustiz-Auktion - Deutschland & Österreich\nSuchbegriff:\nErweiterte Suche\nNavigation\nAlle Kategorien\nNeu eingestellt\nBald endend\nBeliebte Auktionen\nInhalt:\nzurück\nSuche\nSuche\n\nEs wurde keine Auktion gefunden, auf die Ihre Suchanfrage passt.\n\nSuchformular\nAuktions-ID \nSuchwörter \nKategorie \nAlle\nBekleidung\nBücher\nDesignerware\nElektronik\nFahrräder / E-Bikes / Pedelecs\nFahrzeuge\nHaushaltsgegenstände\nHaustierbedarf\nKosmetika\nKryptowährungen\nMedizinische Produkte\nMusikinstrumente\nSchmuck\nSonstiges\nSpielwaren\nSport / Freizeit\nTabak / Alkohol\nTeppiche\nWerkzeuge / Maschinen\nWertgegenstände\nWohnen\nPostleitzahl \nStadt \nBundesland \nAlle\nBaden-Württemberg\nBayern\nBerlin\nBrandenburg\nBremen\nBurgenland\nHamburg\nHessen\nKärnten\nMecklenburg-Vorpommern\nNiederösterreich\nNiedersachsen\nNordrhein-Westfalen\nOberösterreich\nRheinland-Pfalz\nSaarland\nSachsen\nSachsen-Anhalt\nSalzburg\nSchleswig-Holstein\nSteiermark\nThüringen\nTirol\nVorarlberg\nWien\nLand \nAlle Länder\nDeutschland\nÖsterreich\nVersandart \nAlle\nSelbstabholung\nVersand\nSuche nach Benutzernamen \nErgebnisse anschauen \nAlle\nNur laufende Auktionen\nNur beendete Auktionen\nSortiert nach \nBald endende Auktionen zuerst\nNeu eingestellte Auktionen zuerst\nNiedrige Beträge zuerst\nUmkreissuche \nAlle Auktionen\nim Umkreis von 10km um die Postleitzahl\nim Umkreis von 25km um die Postleitzahl\nim Umkreis von 50km um die Postleitzahl\nim Umkreis von 75km um die Postleitzahl\nim Umkreis von 100km um die Postleitzahl\nim Umkreis von 150km um die Postleitzahl\nim Umkreis von 200km um die Postleitzahl\nim Umkreis von 250km um die Postleitzahl\nFormular zurücksetzen\nÜbersicht:\nAUKTIONEN\nTop-Hits\nNeu eingestellt\nBald endend\nBeliebte Auktionen\nErweiterte Suche\nMEIN KONTO\nEinloggen\nLogindaten vergessen\nNeu registrieren\nINFORMATIONEN\nBedingungen\nWiderruf erklären\nDas Besondere an uns\nDatenschutzerklärung\nFAQ\nLeichte Sprache\nGebärdensprache\nBarrierefreiheit\nImpressum\nKONTAKT FÜR KÄUFER\n+49 211 837-1909\n+43 1 52152-302300\noder per Kontaktformular\nKontakt für Verkäufer\nSeite empfehlen\n© Justiz-Auktion 2026\n\n0.0015418529510498 - 727\nServer: 2026",
-  "calls": []
+  "probe_status": 200,
+  "probe_body": "{\"pageNumber\":1,\"pageSize\":2,\"totalSize\":4,\"hasNext\":true,\"results\":[{\"id\":\"bf8b2595-d0f4-4ac8-923e-caa3ae2692cb\",\"displayId\":\"A1-50096-1075\",\"lotNumber\":1075,\"startDate\":1789653600,\"endDate\":1790771880,\"title\":\"GeForce - RTX 2080 8GB - GeForce RTX 2080 - Gaming-Grafikkarte\",\"location\":{\"id\":\"6950de14-b249-49dd-bbb2-e2613ea78310\",\"city\":\"PURMEREND\",\"countryCode\":\"nl\",\"coordinates\":\"4.95972,52.505\"},\"images\":[{\"mediaId\":\"fe459b7c-57b0-4eba-bbc7-4f8976f9eca9\",\"url\":\"https://media.tbauctions.com/image-media/fe459b7c-57b0-4eba-bbc7-4f8976f9eca9/file\",\"order\":0}],\"platform\":\"TWK\",\"bidsCount\":19,\"currentBidAmountInCents\":15000,\"slug\":\"geforce-rtx-2080-8gb-geforce-rtx-2080-gaming-grafikkarte-A1-50096-1075\",\"currency\":\"EUR\",\"biddingStatus\":\"BIDDING_OPEN\",\"saleTerm\":\"GUARANTEED_SALE\",\"followersCount\":88,\"directSaleType\":\"NOT_SET\"},{\"id\":\"31e108bf-7f1d-4f91-a82a-84c7d24f2f31\",\"displayId\":\"A1-50096-1074\",\"lotNumber\":1074,\"startDate\":1789653600,\"endDate\":1790772420,\"title\":\"NVIDIA - RTX A2000 - 6GB / GDDR6 / Workstation-Grafikkarte\",\"location\":{\"id\":\"6950de14-b249-49dd-bbb2-e2613ea78310\",\"city\":\"PURMEREND\",\"countryCode\":\"nl\",\"coordinates\":\"4.95972,52.505\"},\"images\":[{\"mediaId\":\"9ec295dc-5380-4d24-99d4-c9564bd144a3\",\"url\":\"https://media.tbauctions.com/image-media/9ec295dc-5380-4d24-99d4-c9564bd144a3/file\",\"order\":0}],\"platform\":\"TWK\",\"bidsCount\":20,\"currentBidAmountInCents\":14000,\"slug\":\"nvidia-rtx-a2000-6gb-gddr6-workstation-grafikkarte-A1-50096-1074\",\"currency\":\"EUR\",\"biddingStatus\":\"BIDDING_OPEN\",\"saleTerm\":\"GUARANTEED_SALE\",\"followersCount\":70,\"directSaleType\":\"NOT_SET\"}]}"
  }
 ]
