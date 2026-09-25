@@ -40,6 +40,14 @@ async def main():
                     res.append(entry); await ctx.close(); continue
                 await page.goto(url, wait_until="domcontentloaded", timeout=45000)
                 await accept_cookies(page)
+                if typed == "@lot":
+                    await page.wait_for_selector(".lot-gallery-container", timeout=20000)
+                    await page.wait_for_timeout(3000)
+                    entry["lot_cards"] = await page.evaluate("""[...document.querySelectorAll('.lot-gallery-container')].slice(0,4).map(e=>({text:e.innerText.slice(0,300), imgs:[...e.querySelectorAll('img')].map(i=>i.src), attrs:[...e.querySelectorAll('*')].flatMap(x=>[...x.attributes].filter(a=>/\\d{6,}/.test(a.value)).map(a=>x.tagName+'.'+a.name+'='+a.value)).slice(0,20), parent:e.parentElement.outerHTML.slice(0,400)}))""")
+                    await page.locator(".lot-gallery-container .image-container").first.click(timeout=10000)
+                    await page.wait_for_timeout(5000)
+                    entry["after_click_url"] = page.url
+                    typed = ""
                 if typed:
                     await page.wait_for_timeout(2000)
                     inp = page.locator("input[type=text]:visible, input[type=search]:visible").first
