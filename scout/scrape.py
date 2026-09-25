@@ -272,8 +272,8 @@ async def scrape_aurena(browser, site: dict, cfg: dict) -> tuple[list[dict], dic
             total = int(m.group(1).replace(".", "")) if m else 0
             texts = await page.evaluate("""[...document.querySelectorAll('.lot-gallery-container')]
                 .map(e => (e.innerText||'').split('\\n').map(s=>s.trim()).filter(Boolean).join(' | '))""")
-            texts = [t for t in texts if len(t) > 15]
-            ids = next((c for c in captured if len(c) == len(texts)), None) if total else None
+            texts = [t for t in texts if len(t) > 15][:total]  # Rest sind Empfehlungen, keine Treffer
+            ids = next((c for c in captured if len(c) == len(texts)), None) if texts else None
             for k, t in enumerate(texts[: cfg.get("max_cards", 60)]):
                 url = f"https://www.aurena.at/posten/{ids[k]}" if ids else f"{search}#los-{k}"
                 cards.append({"site": "aurena", "keyword": q, "url": url,
