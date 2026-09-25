@@ -179,6 +179,9 @@ async def scrape_site(browser, site: dict, cfg: dict) -> tuple[list[dict], dict]
                 ok = await search_via_form(page, site["home"], q)
             await settle(page, cfg.get("scrolls", 4))
             found = await page.evaluate(EXTRACT_JS, cfg.get("max_cards", 60))
+            if site.get("lot_pattern"):
+                pat = re.compile(site["lot_pattern"])
+                found = [c for c in found if pat.search(c["url"])]
             for c in found:
                 c.update(site=name, keyword=q)
             cards.extend(found)
@@ -194,6 +197,97 @@ async def scrape_site(browser, site: dict, cfg: dict) -> tuple[list[dict], dict]
     diag["json_calls"] = json_calls
     await ctx.close()
     return cards, diag
+
+
+TB_API = "https://shared-api.tbauctions.com/storefront-search/v2/search"
+
+
+async def scrape_tb(browser, site: dict, cfg: dict) -> tuple[list[dict], dict]:
+    """Troostwijk + Surplex (TB Auctions) über die öffentliche Such-API."""
+    ctx = await browser.new_context(user_agent=UA)
+    diag = {"site": site["name"], "keywords": {}, "errors": [], "json_calls": []}
+    cards = []
+    for q in cfg["keywords"]:
+        n = 0
+        for platform in site.get("platforms", ["TWK"]):
+            try:
+                r = await ctx.request.get(TB_API, params={
+                    "pageNumber": 1, "pageSize": 100, "query": q, "platform": platform},
+                    headers={"accept": "application/json", "Search-Language": "de"})
+                if r.status != 200:
+                    diag["errors"].append(f"{q}/{platform}: HTTP {r.status}")
+                    continue
+                for it in (await r.json()).get("results", []):
+                    loc = it.get("location") or {}
+                    bid = (it.get("currentBidAmountInCents") or 0) / 100
+                    end = dt.datetime.fromtimestamp(it["endDate"], dt.timezone.utc).isoformat() if it.get("endDate") else ""
+                    cards.append({
+                        "site": "troostwijk/surplex", "keyword": q,
+                        "url": f"https://www.troostwijkauctions.com/de/l/{it.get('slug')}",
+                        "text": (f"{it.get('title')}\nStandort: {loc.get('city','')} ({(loc.get('countryCode') or '').upper()})"
+                                 f"\nAktuelles Gebot: {bid:.0f} {it.get('currency','EUR')} · Gebote: {it.get('bidsCount')}"
+                                 f"\nEnde: {end} · Status: {it.get('biddingStatus')}"),
+                        "img_alt": "", "end": end,
+                    })
+                    n += 1
+            except Exception as e:  # noqa: BLE001
+                diag["errors"].append(f"{q}/{platform}: {type(e).__name__}: {str(e)[:150]}")
+        diag["keywords"][q] = {"cards": n}
+        await asyncio.sleep(0.5)
+    await ctx.close()
+    return cards, diag
+
+
+async def scrape_aurena(browser, site: dict, cfg: dict) -> tuple[list[dict], dict]:
+    """Aurena: Suchseite rendern, Los-Karten lesen, Link per Klick ermitteln."""
+    ctx = await browser.new_context(user_agent=UA, locale="de-AT", viewport={"width": 1440, "height": 2200})
+    page = await ctx.new_page()
+    diag = {"site": "aurena", "keywords": {}, "errors": [], "json_calls": []}
+    cards = []
+    url_cache: dict[str, str] = {}
+    for i, q in enumerate(cfg["keywords"]):
+        search = f"https://www.aurena.at/s?keywords={quote_plus(q)}&pagesize=96"
+        n = 0
+        try:
+            await page.goto(search, wait_until="domcontentloaded", timeout=45000)
+            if i == 0:
+                await accept_cookies(page)
+            await settle(page, 2)
+            head = await page.evaluate("document.body.innerText.slice(0, 1500)")
+            m = re.search(r"konnten wir ([\d.]+) Posten", head)
+            total = int(m.group(1).replace(".", "")) if m else 0
+            texts = await page.evaluate("""[...document.querySelectorAll('.lot-gallery-container')]
+                .map(e => (e.innerText||'').replace(/\\n\\s*\\n/g,'\\n').trim())""")
+            idx = [k for k, t in enumerate(texts) if len(t) > 15][: cfg.get("max_cards", 60)]
+            for k in idx:
+                t = texts[k]
+                url = url_cache.get(t[:80])
+                if not url and len(url_cache) < 150:
+                    try:
+                        await page.locator(".lot-gallery-container").nth(k).locator(".image-container, .lottitle").first.click(timeout=5000)
+                        await page.wait_for_url(lambda u: "/s?" not in u, timeout=8000)
+                        url = page.url
+                        url_cache[t[:80]] = url
+                        await page.go_back(wait_until="domcontentloaded")
+                        await page.wait_for_selector(".lot-gallery-container", timeout=15000)
+                        await page.wait_for_timeout(800)
+                    except Exception:
+                        url = None
+                        if "/s?" not in page.url:
+                            await page.goto(search, wait_until="domcontentloaded")
+                            await page.wait_for_selector(".lot-gallery-container", timeout=15000)
+                cards.append({"site": "aurena", "keyword": q, "url": url or f"{search}#{quote_plus(t[:60])}",
+                              "text": t[:900], "img_alt": ""})
+                n += 1
+            diag["keywords"][q] = {"cards": n, "total_reported": total, "final_url": page.url}
+        except Exception as e:  # noqa: BLE001
+            diag["errors"].append(f"{q}: {type(e).__name__}: {str(e)[:200]}")
+        await page.wait_for_timeout(1000)
+    await ctx.close()
+    return cards, diag
+
+
+ADAPTERS = {"tb": scrape_tb, "aurena": scrape_aurena}
 
 
 def drop_navigation(cards: list[dict], n_keywords: int) -> list[dict]:
@@ -232,7 +326,7 @@ async def main() -> int:
 
     async with async_playwright() as pw:
         browser = await pw.chromium.launch(args=["--disable-blink-features=AutomationControlled"])
-        results = await asyncio.gather(*(scrape_site(browser, s, cfg) for s in sites))
+        results = await asyncio.gather(*(ADAPTERS.get(s.get("adapter"), scrape_site)(browser, s, cfg) for s in sites))
         await browser.close()
 
     all_cards, diags = [], []

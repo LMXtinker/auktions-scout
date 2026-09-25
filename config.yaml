@@ -1,27 +1,20 @@
 # Auktions-Scout Konfiguration
-# search_url: {q} wird durch den URL-kodierten Suchbegriff ersetzt.
-# Fehlt search_url, wird die Startseite geöffnet und das Suchfeld generisch benutzt
-# (die dabei entstandene URL steht danach in debug/discovery.json).
+# adapter: tb (Troostwijk/Surplex-API), aurena (Suchseite + Klick), sonst generisch.
+# Generisch: search_url mit {q}, sonst Suchfeld auf der Startseite. lot_pattern = Regex für echte Los-Links.
 
 sites:
   - name: aurena
-    home: https://www.aurena.at/
-    search_url: null
-  - name: surplex
-    home: https://www.surplex.com/de/
-    search_url: null
-  - name: troostwijk
-    home: https://www.troostwijkauctions.com/de
-    search_url: null
-  - name: netbid
-    home: https://www.netbid.com/de/
-    search_url: null
-  - name: justiz-auktion
-    home: https://www.justiz-auktion.de/
-    search_url: null
+    adapter: aurena
+  - name: troostwijk-surplex
+    adapter: tb
+    platforms: [TWK, SPX]
   - name: zoll-auktion
     home: https://www.zoll-auktion.de/
-    search_url: null
+    search_url: https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2={q}&n1%5B%5D=0&n0=search
+    lot_pattern: /auktion/produkt/
+  - name: justiz-auktion
+    home: https://www.justiz-auktion.de/
+    lot_pattern: justiz-auktion\.de/[^/?#]+-\d{5,}$
 
 keywords:
   - RTX 4090
@@ -29,6 +22,8 @@ keywords:
   - RTX 4070
   - RTX 5090
   - RTX 5080
+  - RTX 5070
+  - RTX A6000
   - Grafikkarte
   - Workstation
   - Gaming PC
@@ -36,13 +31,13 @@ keywords:
   - Beamer
   - Projektor
   - LED Wand
+  - LED Wall
   - Blackmagic
   - Medienserver
+  - Veranstaltungstechnik
   - Lichtpult
   - Moving Head
   - Traverse
 
-# Wie oft pro Suchseite nach unten scrollen (Lazy Loading)
-scrolls: 4
-# Max. Treffer pro Site+Keyword
+scrolls: 3
 max_cards: 60
