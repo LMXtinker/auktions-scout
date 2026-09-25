@@ -1,0 +1,48 @@
+# Auktions-Scout Konfiguration
+# search_url: {q} wird durch den URL-kodierten Suchbegriff ersetzt.
+# Fehlt search_url, wird die Startseite geöffnet und das Suchfeld generisch benutzt
+# (die dabei entstandene URL steht danach in debug/discovery.json).
+
+sites:
+  - name: aurena
+    home: https://www.aurena.at/
+    search_url: null
+  - name: surplex
+    home: https://www.surplex.com/de/
+    search_url: null
+  - name: troostwijk
+    home: https://www.troostwijkauctions.com/de
+    search_url: null
+  - name: netbid
+    home: https://www.netbid.com/de/
+    search_url: null
+  - name: justiz-auktion
+    home: https://www.justiz-auktion.de/
+    search_url: null
+  - name: zoll-auktion
+    home: https://www.zoll-auktion.de/
+    search_url: null
+
+keywords:
+  - RTX 4090
+  - RTX 4080
+  - RTX 4070
+  - RTX 5090
+  - RTX 5080
+  - Grafikkarte
+  - Workstation
+  - Gaming PC
+  - Laserprojektor
+  - Beamer
+  - Projektor
+  - LED Wand
+  - Blackmagic
+  - Medienserver
+  - Lichtpult
+  - Moving Head
+  - Traverse
+
+# Wie oft pro Suchseite nach unten scrollen (Lazy Loading)
+scrolls: 4
+# Max. Treffer pro Site+Keyword
+max_cards: 60

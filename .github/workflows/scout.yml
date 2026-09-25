@@ -1,0 +1,41 @@
+name: scout
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # täglich ~05:17 Wien (Sommerzeit) / 04:17 (Winterzeit)
+  workflow_dispatch:
+    inputs:
+      sites:
+        description: "Nur diese Sites (Leerzeichen-getrennt), leer = alle"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scout
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m playwright install --with-deps chromium
+      - run: python scout/scrape.py ${{ github.event.inputs.sites }}
+      - name: Ergebnisse committen
+        if: always()
+        run: |
+          git config user.name "scout-bot"
+          git config user.email "scout-bot@users.noreply.github.com"
+          git add data debug
+          git diff --cached --quiet || git commit -m "scout: $(date -u +%F\ %H:%M) $(python -c 'import json;s=json.load(open("data/status.json"));print(f"lots={s[\"lots\"]} new={s[\"new\"]}")' 2>/dev/null)"
+          git pull --rebase --autostash || true
+          git push
