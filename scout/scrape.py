@@ -239,47 +239,46 @@ async def scrape_tb(browser, site: dict, cfg: dict) -> tuple[list[dict], dict]:
 
 
 async def scrape_aurena(browser, site: dict, cfg: dict) -> tuple[list[dict], dict]:
-    """Aurena: Suchseite rendern, Los-Karten lesen, Link per Klick ermitteln."""
+    """Aurena: Suchseite rendern, Los-Karten lesen. Los-IDs kommen aus dem
+    'versions'-Request, den die Seite für die angezeigten Lose (in Reihenfolge) schickt."""
     ctx = await browser.new_context(user_agent=UA, locale="de-AT", viewport={"width": 1440, "height": 2200})
     page = await ctx.new_page()
     diag = {"site": "aurena", "keywords": {}, "errors": [], "json_calls": []}
     cards = []
-    url_cache: dict[str, str] = {}
+    captured: list[list[int]] = []
+
+    def on_request(req):
+        try:
+            if "aurena.services/api" in req.url and req.method == "POST" and '"versions"' in (req.post_data or ""):
+                captured.append([v["id"] for v in json.loads(req.post_data)["versions"]])
+        except Exception:
+            pass
+    page.on("request", on_request)
+
     for i, q in enumerate(cfg["keywords"]):
         search = f"https://www.aurena.at/s?keywords={quote_plus(q)}&pagesize=96"
-        n = 0
+        captured.clear()
         try:
             await page.goto(search, wait_until="domcontentloaded", timeout=45000)
             if i == 0:
                 await accept_cookies(page)
+            try:
+                await page.wait_for_selector(".lot-gallery-container", timeout=15000)
+            except PWTimeout:
+                pass
             await settle(page, 2)
             head = await page.evaluate("document.body.innerText.slice(0, 1500)")
             m = re.search(r"konnten wir ([\d.]+) Posten", head)
             total = int(m.group(1).replace(".", "")) if m else 0
             texts = await page.evaluate("""[...document.querySelectorAll('.lot-gallery-container')]
-                .map(e => (e.innerText||'').replace(/\\n\\s*\\n/g,'\\n').trim())""")
-            idx = [k for k, t in enumerate(texts) if len(t) > 15][: cfg.get("max_cards", 60)]
-            for k in idx:
-                t = texts[k]
-                url = url_cache.get(t[:80])
-                if not url and len(url_cache) < 150:
-                    try:
-                        await page.locator(".lot-gallery-container").nth(k).locator(".image-container, .lottitle").first.click(timeout=5000)
-                        await page.wait_for_url(lambda u: "/s?" not in u, timeout=8000)
-                        url = page.url
-                        url_cache[t[:80]] = url
-                        await page.go_back(wait_until="domcontentloaded")
-                        await page.wait_for_selector(".lot-gallery-container", timeout=15000)
-                        await page.wait_for_timeout(800)
-                    except Exception:
-                        url = None
-                        if "/s?" not in page.url:
-                            await page.goto(search, wait_until="domcontentloaded")
-                            await page.wait_for_selector(".lot-gallery-container", timeout=15000)
-                cards.append({"site": "aurena", "keyword": q, "url": url or f"{search}#{quote_plus(t[:60])}",
-                              "text": t[:900], "img_alt": ""})
-                n += 1
-            diag["keywords"][q] = {"cards": n, "total_reported": total, "final_url": page.url}
+                .map(e => (e.innerText||'').split('\\n').map(s=>s.trim()).filter(Boolean).join(' | '))""")
+            texts = [t for t in texts if len(t) > 15]
+            ids = next((c for c in captured if len(c) == len(texts)), None) if total else None
+            for k, t in enumerate(texts[: cfg.get("max_cards", 60)]):
+                url = f"https://www.aurena.at/posten/{ids[k]}" if ids else f"{search}#los-{k}"
+                cards.append({"site": "aurena", "keyword": q, "url": url,
+                              "text": f"{t}\nSuche: {search}", "img_alt": ""})
+            diag["keywords"][q] = {"cards": len(texts), "total_reported": total, "ids_matched": bool(ids)}
         except Exception as e:  # noqa: BLE001
             diag["errors"].append(f"{q}: {type(e).__name__}: {str(e)[:200]}")
         await page.wait_for_timeout(1000)
