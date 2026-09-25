@@ -7,7 +7,8 @@ sys.path.insert(0, str(Path(__file__).parent))
 from scrape import UA, accept_cookies  # noqa: E402
 
 NOISE = re.compile(r"cookielaw|onetrust|exponea|segment|criteo|reddit|stripe|google|facebook|hotjar|usercentrics|sentry|datadog", re.I)
-URLS = sys.argv[1:]
+import os
+URLS = os.environ.get("EXPLORE_URLS", "").split() or sys.argv[1:]
 OUT = Path(__file__).resolve().parent.parent / "debug" / "explore.json"
 
 
