@@ -274,6 +274,9 @@ async def scrape_aurena(browser, site: dict, cfg: dict) -> tuple[list[dict], dic
                 .map(e => (e.innerText||'').split('\\n').map(s=>s.trim()).filter(Boolean).join(' | '))""")
             texts = [t for t in texts if len(t) > 15][:total]  # Rest sind Empfehlungen, keine Treffer
             ids = next((c for c in captured if len(c) == len(texts)), None) if texts else None
+            if texts and not ids:  # Seite fragt Versionen manchmal in mehreren Häppchen ab
+                flat = list(dict.fromkeys(x for c in captured for x in c))
+                ids = flat if len(flat) == len(texts) else None
             for k, t in enumerate(texts[: cfg.get("max_cards", 60)]):
                 url = f"https://www.aurena.at/posten/{ids[k]}" if ids else f"{search}#los-{k}"
                 cards.append({"site": "aurena", "keyword": q, "url": url,
