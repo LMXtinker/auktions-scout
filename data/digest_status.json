@@ -1,0 +1,12 @@
+{
+ "generated": "2026-09-26T12:22:03+00:00",
+ "candidates": 549,
+ "picked": 41,
+ "model": "gemini-3.6-flash",
+ "tokens": {
+  "prompt": 86548,
+  "output": 5456,
+  "thoughts": 15481,
+  "total": 107485
+ }
+}
