@@ -45,12 +45,12 @@
    "Workstation": {
     "cards": 2,
     "total_reported": 2,
-    "ids_matched": false
+    "ids_matched": true
    },
    "Gaming PC": {
     "cards": 3,
     "total_reported": 3,
-    "ids_matched": true
+    "ids_matched": false
    },
    "Laserprojektor": {
     "cards": 0,
@@ -65,7 +65,7 @@
    "Projektor": {
     "cards": 18,
     "total_reported": 18,
-    "ids_matched": true
+    "ids_matched": false
    },
    "LED Wand": {
     "cards": 96,
@@ -172,7 +172,7 @@
     "cards": 0
    },
    "Moving Head": {
-    "cards": 86
+    "cards": 80
    },
    "Traverse": {
     "cards": 3
