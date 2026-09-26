@@ -1,0 +1,50 @@
+name: digest
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Nur Vorschau (nichts senden)"
+        type: boolean
+        default: false
+      resend:
+        description: "Auch schon bewertete Lose erneut prüfen"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scout
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 100
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      - run: python scout/digest.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_CC_CHAT_IDS: ${{ secrets.TELEGRAM_CC_CHAT_IDS }}
+          TELEGRAM_ADMIN_CHAT_ID: ${{ secrets.TELEGRAM_ADMIN_CHAT_ID }}
+          DRY_RUN: ${{ github.event.inputs.dry_run }}
+          RESEND: ${{ github.event.inputs.resend }}
+      - name: Status committen
+        if: always()
+        run: |
+          git config user.name "scout-bot"
+          git config user.email "scout-bot@users.noreply.github.com"
+          git add data debug
+          git diff --cached --quiet || git commit -m "digest: $(date -u +%F\ %H:%M)"
+          git pull --rebase --autostash || true
+          git push

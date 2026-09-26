@@ -1,0 +1,13 @@
+name: telegram-chat-id
+
+on:
+  workflow_dispatch:
+
+jobs:
+  chats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scout/telegram_chats.py
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
