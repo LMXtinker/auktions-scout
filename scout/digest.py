@@ -111,8 +111,8 @@ LOSE (JSON-Zeilen):
 """
 
 
-def rate(lots, key):
-    lines = [json.dumps({"id": i, "site": l.get("site", ""), "url": l["url"][:140],
+def rate_batch(lots, key, offset=0):
+    lines = [json.dumps({"id": offset + i, "site": l.get("site", ""), "url": l["url"][:140],
                          "text": re.sub(r"\s+", " ", l.get("text", ""))[:300]}, ensure_ascii=False)
              for i, l in enumerate(lots)]
     payload = {"contents": [{"role": "user", "parts": [{"text": PROMPT.format(lots="\n".join(lines))}]}],
@@ -127,8 +127,9 @@ def rate(lots, key):
                 text = "".join(p.get("text", "") for p in r["candidates"][0]["content"]["parts"])
                 text = re.sub(r"^```(?:json)?|```$", "", text.strip()).strip()
                 picked = json.loads(text)["lots"]
-                USAGE.clear()
-                USAGE.update(r.get("usageMetadata") or {})
+                for k, v in (r.get("usageMetadata") or {}).items():
+                    if isinstance(v, int):
+                        USAGE[k] = USAGE.get(k, 0) + v
                 return model, picked
             except urllib.error.HTTPError as e:
                 last = f"{model}: HTTP {e.code} {e.read().decode('utf-8', 'replace')[:300]}"
@@ -142,6 +143,16 @@ def rate(lots, key):
                 print(last)
                 time.sleep(5)
     raise RuntimeError(f"Gemini-Bewertung fehlgeschlagen – {last}")
+
+
+def rate(lots, key):
+    """Kandidaten in Häppchen bewerten (erster Lauf kann mehrere hundert Lose haben)."""
+    size = int(DG.get("batch_size", 120))
+    model, picked = "", []
+    for off in range(0, len(lots), size):
+        model, part = rate_batch(lots[off:off + size], key, off)
+        picked += part
+    return model, picked
 
 
 # ---------------------------------------------------------------- Telegram
