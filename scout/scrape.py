@@ -16,6 +16,7 @@ import re
 import sys
 from collections import Counter, defaultdict
 from pathlib import Path
+from zoneinfo import ZoneInfo
 from urllib.parse import quote_plus, urlparse
 
 import yaml
@@ -220,7 +221,8 @@ async def scrape_tb(browser, site: dict, cfg: dict) -> tuple[list[dict], dict]:
                 for it in (await r.json()).get("results", []):
                     loc = it.get("location") or {}
                     bid = (it.get("currentBidAmountInCents") or 0) / 100
-                    end = dt.datetime.fromtimestamp(it["endDate"], dt.timezone.utc).isoformat() if it.get("endDate") else ""
+                    end = (dt.datetime.fromtimestamp(it["endDate"], ZoneInfo("Europe/Vienna")).strftime("%d.%m. %H:%M")
+                           if it.get("endDate") else "")
                     cards.append({
                         "site": "troostwijk/surplex", "keyword": q,
                         "url": f"https://www.troostwijkauctions.com/de/l/{it.get('slug')}",
