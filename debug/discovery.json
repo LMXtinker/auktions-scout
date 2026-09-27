@@ -45,7 +45,7 @@
    "Workstation": {
     "cards": 2,
     "total_reported": 2,
-    "ids_matched": true
+    "ids_matched": false
    },
    "Gaming PC": {
     "cards": 3,
@@ -68,8 +68,8 @@
     "ids_matched": false
    },
    "LED Wand": {
-    "cards": 96,
-    "total_reported": 111,
+    "cards": 85,
+    "total_reported": 85,
     "ids_matched": false
    },
    "LED Wall": {
@@ -100,7 +100,7 @@
    "Moving Head": {
     "cards": 4,
     "total_reported": 4,
-    "ids_matched": true
+    "ids_matched": false
    },
    "Traverse": {
     "cards": 3,
