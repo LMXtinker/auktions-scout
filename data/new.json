@@ -1,875 +1,1470 @@
 {
- "generated": "2026-09-29T09:47:58+00:00",
- "count": 86,
+ "generated": "2026-09-30T09:40:32+00:00",
+ "count": 131,
  "lots": [
   {
-   "url": "https://www.aurena.at/posten/5298657",
+   "url": "https://www.aurena.at/posten/5305828",
    "site": "aurena",
-   "text": "354 | Beamer MEC VT670 | 1 0 | TAGE | : | 0 4 | STD | Gebote: 0 | € 8\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "text": "2081 | Workstation Lenovo ThinkPad Thunderbolt 3 | 1 4 | TAGE | : | 2 2 | STD | Gebote: 0 | € 25\nSuche: https://www.aurena.at/s?keywords=Workstation&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5305834",
+   "site": "aurena",
+   "text": "2087 | Workstation Lenovo ThinkPad Thunderbolt 3 | 1 4 | TAGE | : | 2 2 | STD | Gebote: 0 | € 25\nSuche: https://www.aurena.at/s?keywords=Workstation&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5306411",
+   "site": "aurena",
+   "text": "2687 | Dockingstation Lenovo ThinkPad Thunderbolt 3 Dock Gen2/Workstation Dock Gen2 DK1841 | 1 4 | TAGE | : | 2 3 | STD | Gebote: 0 | € 16\nSuche: https://www.aurena.at/s?keywords=Workstation&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5306812",
+   "site": "aurena",
+   "text": "3140 | Beamer BenQ | 1 5 | TAGE | : | 0 0 | STD | Gebote: 0 | € 30\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Beamer"
    ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
+   "first_seen": "2026-09-30T09:40:32+00:00"
   },
   {
-   "url": "https://www.aurena.at/posten/5298586",
+   "url": "https://www.aurena.at/posten/5306813",
    "site": "aurena",
-   "text": "283 | Beamer Sanyo PLC-XP200L | 1 0 | TAGE | : | 0 4 | STD | Gebote: 0 | € 650\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "text": "3141 | Beamer Acer P5307WP | 1 5 | TAGE | : | 0 0 | STD | Gebote: 0 | € 12\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Beamer"
    ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
+   "first_seen": "2026-09-30T09:40:32+00:00"
   },
   {
-   "url": "https://www.aurena.at/posten/5298587",
+   "url": "https://www.aurena.at/posten/5306866",
    "site": "aurena",
-   "text": "284 | Beamer Sanyo PLC-XP200L | 1 0 | TAGE | : | 0 4 | STD | Gebote: 0 | € 650\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "text": "3209 | Beamer Acer P5390W | 1 5 | TAGE | : | 0 0 | STD | Gebote: 0 | € 7\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Beamer"
    ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
+   "first_seen": "2026-09-30T09:40:32+00:00"
   },
   {
-   "url": "https://www.aurena.at/posten/5298429",
+   "url": "https://www.aurena.at/posten/5305234",
    "site": "aurena",
-   "text": "126 | Beamer Panasonic PT-DZ870 WUXGA | 1 0 | TAGE | : | 0 4 | STD | Gebote: 0 | € 180\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "text": "817 | Beamer Acer und Stereoanlage | 1 4 | TAGE | : | 2 0 | STD | Gebote: 0 | € 6\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Beamer"
    ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
+   "first_seen": "2026-09-30T09:40:32+00:00"
   },
   {
-   "url": "https://www.aurena.at/posten/5298430",
+   "url": "https://www.aurena.at/posten/5305787",
    "site": "aurena",
-   "text": "127 | Beamer Panasonic PT-DZ870 WUXGA | 1 0 | TAGE | : | 0 4 | STD | Gebote: 0 | € 180\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "text": "2034 | Beamer Sanyo Pro Xtrax | 1 4 | TAGE | : | 2 1 | STD | Gebote: 0 | € 16\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Beamer"
    ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
+   "first_seen": "2026-09-30T09:40:32+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=Projektor&pagesize=96#los-18",
+   "url": "https://www.aurena.at/posten/5305916",
    "site": "aurena",
-   "text": "325 | Diaprojektor Reflecta Diamator 2506 AF | 1 0 | TAGE | : | 0 4 | STD | Gebote: 0 | € 8\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
+   "text": "2180 | Beamerleinwand | 1 4 | TAGE | : | 2 2 | STD | Gebote: 0 | € 60\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Beamer"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5065074",
+   "site": "aurena",
+   "text": "143 | Mobile Kompressor Kühl- und Gefrierbox Autvival AV-ST60, 60 Liter | 0 5 | TAGE | : | 0 4 | STD | Gebote: 21 | € 50\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5298418",
+   "site": "aurena",
+   "text": "115 | 2 Steuerungsmonitore Creston | 0 9 | TAGE | : | 0 4 | STD | Gebote: 0 | € 12\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5298419",
+   "site": "aurena",
+   "text": "116 | Digitalwandler Fostex MS-88 | 0 9 | TAGE | : | 0 4 | STD | Gebote: 0 | € 6\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5298421",
+   "site": "aurena",
+   "text": "118 | Mediacontroller Crestron MC2E | 0 9 | TAGE | : | 0 4 | STD | Gebote: 0 | € 12\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5298422",
+   "site": "aurena",
+   "text": "119 | Digitaler Scan-Koverter Kramer VP-703SC | 0 9 | TAGE | : | 0 4 | STD | Gebote: 0 | € 10\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5298665",
+   "site": "aurena",
+   "text": "362 | Eventverteiler | 0 9 | TAGE | : | 0 4 | STD | Gebote: 0 | € 14\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5300110",
+   "site": "aurena",
+   "text": "18 | 5 Boxen mit Bauschrauben und Befestigungsmaterial SFS | 0 7 | TAGE | : | 0 0 | STD | Gebote: 1 | € 10\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5306061",
+   "site": "aurena",
+   "text": "2326 | Tontechnikwagen | 1 4 | TAGE | : | 2 2 | STD | Gebote: 0 | € 80\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5258614",
+   "site": "aurena",
+   "text": "203 | 20 Reflektorschirme | 0 2 | TAGE | : | 0 4 | STD | Gebote: 0 | € 20\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5258615",
+   "site": "aurena",
+   "text": "204 | 20 Reflektorschirme | 0 2 | TAGE | : | 0 4 | STD | Gebote: 0 | € 20\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5258616",
+   "site": "aurena",
+   "text": "205 | 20 Reflektorschirme | 0 2 | TAGE | : | 0 4 | STD | Gebote: 0 | € 20\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5258617",
+   "site": "aurena",
+   "text": "206 | 3 Vorschaltgeräte Horti Dim Light Pro | 0 2 | TAGE | : | 0 4 | STD | Gebote: 0 | € 30\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5258618",
+   "site": "aurena",
+   "text": "207 | 40 Reflektorschirme | 0 2 | TAGE | : | 0 4 | STD | Gebote: 0 | € 40\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5258622",
+   "site": "aurena",
+   "text": "211 | 60 Reflektorschirme | 0 2 | TAGE | : | 0 4 | STD | Gebote: 0 | € 60\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5258651",
+   "site": "aurena",
+   "text": "240 | 40 Reflektorschirme Plantatech | 0 2 | TAGE | : | 0 4 | STD | Gebote: 0 | € 40\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5258653",
+   "site": "aurena",
+   "text": "242 | 60 Reflektorschirme Plantatech | 0 2 | TAGE | : | 0 4 | STD | Gebote: 0 | € 60\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5258654",
+   "site": "aurena",
+   "text": "243 | 14 Vorschaltgeräte | 0 2 | TAGE | : | 0 4 | STD | Gebote: 0 | € 40\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5258655",
+   "site": "aurena",
+   "text": "244 | 12 Vorschaltgeräte DimLux | 0 2 | TAGE | : | 0 4 | STD | Gebote: 0 | € 60\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5258894",
+   "site": "aurena",
+   "text": "483 | Stehleuchte | 0 2 | TAGE | : | 0 4 | STD | Gebote: 0 | € 10\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5258621",
+   "site": "aurena",
+   "text": "210 | Steuerbox für Beleuchtungsanlagen Cli-mate | 0 2 | TAGE | : | 0 4 | STD | Gebote: 1 | € 20\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5258870",
+   "site": "aurena",
+   "text": "459 | Kronleuchter | 0 2 | TAGE | : | 0 4 | STD | Gebote: 2 | € 25\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5252651",
+   "site": "aurena",
+   "text": "114 | Koffer mit Veranstaltungstechnik | 1 4 | TAGE | : | 2 0 | STD | Gebote: 0 | € 8\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-3",
+   "site": "aurena",
+   "text": "1502 | Krantraverse Siegert | 1 4 | TAGE | : | 2 1 | STD | Gebote: 0 | € 120\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-4",
+   "site": "aurena",
+   "text": "90 | Palette mit Fahrzeughubtraverse | 0 6 | TAGE | : | 0 1 | STD | Gebote: 1 | € 70\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-5",
+   "site": "aurena",
+   "text": "1499 | Krantraverse Kröger, 20 t | 1 4 | TAGE | : | 2 1 | STD | Gebote: 0 | € 240\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-6",
+   "site": "aurena",
+   "text": "99 | Dreiecks Hebetraverse ZTX Beta 2000 TG | 2 3 | STD | : | 0 0 | MIN | Gebote: 0 | € 80\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-5%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4gb-mobile-workstation-A1-38890-11546",
+   "site": "troostwijk/surplex",
+   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:33:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "RTX 4090",
+    "RTX 4080",
+    "RTX 4070",
+    "RTX 5090",
+    "RTX 5080",
+    "RTX 5070",
+    "RTX A6000",
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/dell-precision-7560-15-5%22-core%28tm%29-i7-11-generation-32-gb-ram-1-tb-nvme-nvidia-rtx-a2000-mobile-4gb-touchscreen-laptop-A1-38890-8230",
+   "site": "troostwijk/surplex",
+   "text": "Dell Precision 7560 15,5\", Core(TM) i7 11. Generation, 32 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 Mobile 4GB Touchscreen-Laptop\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-14T13:37:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "RTX 4090",
+    "RTX 4080",
+    "RTX 4070",
+    "RTX 5090",
+    "RTX 5080",
+    "RTX 5070",
+    "RTX A6000"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-6%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4-gb-mobile-workstation-A1-38890-8525",
+   "site": "troostwijk/surplex",
+   "text": "HP ZBook Fury G8 15,6\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-14T12:34:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "RTX 4090",
+    "RTX 4080",
+    "RTX 4070",
+    "RTX 5090",
+    "RTX 5080",
+    "RTX 5070",
+    "RTX A6000",
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-5%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4gb-mobile-workstation-A1-38890-11545",
+   "site": "troostwijk/surplex",
+   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:39:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "RTX 4090",
+    "RTX 4080",
+    "RTX 4070",
+    "RTX 5090",
+    "RTX 5080",
+    "RTX 5070",
+    "RTX A6000",
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-5%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4gb-mobile-workstation-A1-38890-11541",
+   "site": "troostwijk/surplex",
+   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:50:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "RTX 4090",
+    "RTX 4080",
+    "RTX 4070",
+    "RTX 5090",
+    "RTX 5080",
+    "RTX 5070",
+    "RTX A6000",
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/dell-xps-9510-15-6%22-core%28tm%29-i7-11-generation-16-gb-ram-512-gb-nvme-nvidia-geforce-rtx-3050-ti-mobile-4gb-laptop-A1-38890-11341",
+   "site": "troostwijk/surplex",
+   "text": "Dell XPS 9510 15,6\", Core(TM) i7 11. Generation, 16 GB RAM, 512 GB NVMe, NVIDIA GeForce RTX 3050 Ti Mobile 4GB Laptop\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:23:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "RTX 4090",
+    "RTX 4080",
+    "RTX 4070",
+    "RTX 5090",
+    "RTX 5080",
+    "RTX 5070",
+    "RTX A6000"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-firefly-g10-14%22-core%28tm%29-i7-13-generation-32-gb-ram-1-tb-nvme-nvidia-rtx-a500-laptop-4gb-mobile-workstation-A1-38890-11596",
+   "site": "troostwijk/surplex",
+   "text": "HP ZBook Firefly G10 14\", Core(TM) i7 13. Generation, 32 GB RAM, 1 TB NVMe, NVIDIA RTX A500 Laptop 4GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:00:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "RTX 4090",
+    "RTX 4080",
+    "RTX 4070",
+    "RTX 5090",
+    "RTX 5080",
+    "RTX 5070",
+    "RTX A6000",
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-5%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4gb-mobile-workstation-A1-38890-11544",
+   "site": "troostwijk/surplex",
+   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:49:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "RTX 4090",
+    "RTX 4080",
+    "RTX 4070",
+    "RTX 5090",
+    "RTX 5080",
+    "RTX 5070",
+    "RTX A6000",
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/dell-xps-9510-15-6%22-core%28tm%29-i7-11-generation-16-gb-ram-512-gb-nvme-nvidia-geforce-rtx-3050-ti-mobile-4gb-laptop-A1-38890-11129",
+   "site": "troostwijk/surplex",
+   "text": "Dell XPS 9510 15,6\", Core(TM) i7 11. Generation, 16 GB RAM, 512 GB NVMe, NVIDIA GeForce RTX 3050 Ti Mobile 4GB Laptop\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:48:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "RTX 4090",
+    "RTX 4080",
+    "RTX 4070",
+    "RTX 5090",
+    "RTX 5080",
+    "RTX 5070",
+    "RTX A6000"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/dell-alenware-aurora-r8-core%28tm%29-i7-9-generation-32-gb-ram-%282x16-gb%29-keine-festplatte-nvidia-geforce-rtx-2080-ti-11-gb-workstation-A1-38890-8909",
+   "site": "troostwijk/surplex",
+   "text": "Dell Alenware Aurora R8, Core(TM) i7 9. Generation, 32 GB RAM (2x16 GB), keine Festplatte, NVIDIA GeForce RTX 2080 TI 11 GB Workstation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:51:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "RTX 4090",
+    "RTX 4080",
+    "RTX 4070",
+    "RTX 5090",
+    "RTX 5080",
+    "RTX 5070",
+    "RTX A6000",
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-6%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4-gb-mobile-workstation-A1-38890-8511",
+   "site": "troostwijk/surplex",
+   "text": "HP ZBook Fury G8 15,6\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-14T12:39:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "RTX 4090",
+    "RTX 4080",
+    "RTX 4070",
+    "RTX 5090",
+    "RTX 5080",
+    "RTX 5070",
+    "RTX A6000",
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-5%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4gb-mobile-workstation-A1-38890-11542",
+   "site": "troostwijk/surplex",
+   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:30:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "RTX 4090",
+    "RTX 4080",
+    "RTX 4070",
+    "RTX 5090",
+    "RTX 5080",
+    "RTX 5070",
+    "RTX A6000",
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-5%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4gb-mobile-workstation-A1-38890-11543",
+   "site": "troostwijk/surplex",
+   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:22:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "RTX 4090",
+    "RTX 4080",
+    "RTX 4070",
+    "RTX 5090",
+    "RTX 5080",
+    "RTX 5070",
+    "RTX A6000",
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-5%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4gb-mobile-workstation-A1-38890-11547",
+   "site": "troostwijk/surplex",
+   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:02:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "RTX 4090",
+    "RTX 4080",
+    "RTX 4070",
+    "RTX 5090",
+    "RTX 5080",
+    "RTX 5070",
+    "RTX A6000",
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/alienware-m15-r6-15-5%22-core%28tm%29-i7-11-generation-32-gb-ram-2x-1-tb-nvme-nvidia-geforce-rtx-3080-mobile-8gb-laptop-A1-38890-8410",
+   "site": "troostwijk/surplex",
+   "text": "AlienWare m15 R6 15,5\", Core(TM) i7 11. Generation, 32 GB RAM, 2x 1 TB NVMe, NVIDIA GeForce RTX 3080 Mobile 8GB Laptop\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:11:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "RTX 4090",
+    "RTX 4080",
+    "RTX 4070",
+    "RTX 5090",
+    "RTX 5080",
+    "RTX 5070",
+    "RTX A6000"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-5%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4gb-mobile-workstation-A1-38890-11539",
+   "site": "troostwijk/surplex",
+   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:51:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "RTX 4090",
+    "RTX 4080",
+    "RTX 4070",
+    "RTX 5090",
+    "RTX 5080",
+    "RTX 5070",
+    "RTX A6000",
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-5%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4gb-mobile-workstation-A1-38890-11540",
+   "site": "troostwijk/surplex",
+   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:16:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "RTX 4090",
+    "RTX 4080",
+    "RTX 4070",
+    "RTX 5090",
+    "RTX 5080",
+    "RTX 5070",
+    "RTX A6000",
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-firefly-g10-14%22-core%28tm%29-i7-13-generation-32-gb-ram-1-tb-nvme-nvidia-rtx-a500-laptop-4gb-mobile-workstation-A1-38890-11600",
+   "site": "troostwijk/surplex",
+   "text": "HP ZBook Firefly G10 14\", Core(TM) i7 13. Generation, 32 GB RAM, 1 TB NVMe, NVIDIA RTX A500 Laptop 4GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:49:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "RTX 4090",
+    "RTX 4080",
+    "RTX 4070",
+    "RTX 5090",
+    "RTX 5080",
+    "RTX 5070",
+    "RTX A6000",
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/dell-precision-7760-18%22-core%28tm%29-i7-11-generation-32-gb-ram-1-tb-nvme-nvidia-rtx-a4000-mobile-8gb-laptop-A1-38890-11491",
+   "site": "troostwijk/surplex",
+   "text": "Dell Precision 7760 18\", Core(TM) i7 11. Generation, 32 GB RAM, 1 TB NVMe, NVIDIA RTX A4000 Mobile 8GB Laptop\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-14T12:59:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "RTX 4090",
+    "RTX 4080",
+    "RTX 4070",
+    "RTX 5090",
+    "RTX 5080",
+    "RTX 5070",
+    "RTX A6000"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-5%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4gb-mobile-workstation-A1-38890-11538",
+   "site": "troostwijk/surplex",
+   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:06:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "RTX 4090",
+    "RTX 4080",
+    "RTX 4070",
+    "RTX 5090",
+    "RTX 5080",
+    "RTX 5070",
+    "RTX A6000",
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-z2-g4-core%28tm%29-i7-8-gen-16-gb-ram-512-gb-nvme-nvidia-quadro-p2200-5gb-workstation-%282x%29-A1-38890-8309",
+   "site": "troostwijk/surplex",
+   "text": "HP Z2 G4, Core(TM) i7 8. Gen, 16 GB RAM, 512 GB NVMe, NVIDIA Quadro P2200 5GB WorkStation (2x)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:18:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-z2-g4-core%28tm%29-i7-8-generation-16-gb-ram-512-gb-nvme-nvidia-quadro-p2200-5gb-workstation-A1-38890-8381",
+   "site": "troostwijk/surplex",
+   "text": "HP Z2 G4, Core(TM) i7 8. Generation, 16 GB RAM, 512 GB NVMe, NVIDIA Quadro P2200 5GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:20:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-z2-g4-core%28tm%29-i7-8-gen-16-gb-ram-512-gb-nvme-nvidia-quadro-p2200-5gb-workstation-%282x%29-A1-38890-8310",
+   "site": "troostwijk/surplex",
+   "text": "HP Z2 G4, Core(TM) i7 8. Gen, 16 GB RAM, 512 GB NVMe, NVIDIA Quadro P2200 5GB WorkStation (2x)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:38:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/dell-precision-3620-xeon%28r%29-e3-1270-v6-32-gb-ram-%282x-16-gb%29-256-gb-nvme-workstation-%282x%29-A1-38890-11473",
+   "site": "troostwijk/surplex",
+   "text": "Dell Precision 3620, Xeon(R) E3-1270 v6, 32 GB RAM (2x 16 GB), 256 GB NVMe WorkStation (2x)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:38:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-z2-g4-core%28tm%29-i7-8-generation-16-gb-ram-512-gb-nvme-nvidia-quadro-p2200-5gb-workstation-A1-38890-8385",
+   "site": "troostwijk/surplex",
+   "text": "HP Z2 G4, Core(TM) i7 8. Generation, 16 GB RAM, 512 GB NVMe, NVIDIA Quadro P2200 5GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:49:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-firefly-g9-14%22-core%28tm%29-i7-12-generation-32-gb-ram-512-gb-nvme-nvidia-t550-laptop-4gb-mobile-workstation-A1-38890-11594",
+   "site": "troostwijk/surplex",
+   "text": "HP ZBook Firefly G9 14\", Core(TM) i7 12. Generation, 32 GB RAM, 512 GB NVMe, NVIDIA T550 Laptop 4GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:46:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-firefly-g9-14%22-core%28tm%29-i7-12-generation-32-gb-ram-512-gb-nvme-nvidia-t550-laptop-4gb-mobile-workstation-A1-38890-11560",
+   "site": "troostwijk/surplex",
+   "text": "HP ZBook Firefly G9 14\", Core(TM) i7 12. Generation, 32 GB RAM, 512 GB NVMe, NVIDIA T550 Laptop 4GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:05:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-z440-xeon%28r%29-e5-1650-32-gb-ram-%284x8gb%29-2x-512-gb-ssd-amd-firepro-w2100-2-gb-workstation-A1-38890-10801",
+   "site": "troostwijk/surplex",
+   "text": "HP Z440, Xeon(R) E5-1650, 32 GB RAM (4x8GB), 2x 512 GB SSD, AMD FirePro W2100 2 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:14:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-firefly-g9-14%22-core%28tm%29-i7-12-generation-32-gb-ram-512-gb-nvme-nvidia-t550-laptop-4gb-mobile-workstation-A1-38890-11599",
+   "site": "troostwijk/surplex",
+   "text": "HP ZBook Firefly G9 14\", Core(TM) i7 12. Generation, 32 GB RAM, 512 GB NVMe, NVIDIA T550 Laptop 4GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:22:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-z2-g4-core%28tm%29-i7-8-generation-16-gb-ram-1x-512-gb-nvme-1x-256-gb-nvme-nvidia-quadro-p2200-5gb-workstation-A1-38890-8382",
+   "site": "troostwijk/surplex",
+   "text": "HP Z2 G4, Core(TM) i7 8. Generation, 16 GB RAM, 1x 512 GB NVMe - 1x 256 GB NVMe, NVIDIA Quadro P2200 5GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:50:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/dell-precision-3620-xeon%28r%29-e3-1270-v6-32-gb-ram-%282x-16-gb%29-256-gb-nvme-amd-radeon-pro-wx-5100-8-gb-workstation-%282x%29-A1-38890-11472",
+   "site": "troostwijk/surplex",
+   "text": "Dell Precision 3620, Xeon(R) E3-1270 v6, 32 GB RAM (2x 16 GB), 256 GB NVMe, AMD Radeon Pro WX 5100 8 GB WorkStation (2x)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:08:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-firefly-g9-14%22-core%28tm%29-i7-12-generation-32-gb-ram-512-gb-nvme-nvidia-t550-laptop-4gb-mobile-workstation-A1-38890-11595",
+   "site": "troostwijk/surplex",
+   "text": "HP ZBook Firefly G9 14\", Core(TM) i7 12. Generation, 32 GB RAM, 512 GB NVMe, NVIDIA T550 Laptop 4GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:47:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-firefly-g9-14%22-core%28tm%29-i7-12-generation-32-gb-ram-512-gb-nvme-nvidia-t550-laptop-4gb-mobile-workstation-A1-38890-11597",
+   "site": "troostwijk/surplex",
+   "text": "HP ZBook Firefly G9 14\", Core(TM) i7 12. Generation, 32 GB RAM, 512 GB NVMe, NVIDIA T550 Laptop 4GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:08:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/lenovo-p620-amd-ryzen-threadripper-pro-3995w-256-gb-ram-%288x-32-gb%29-2-tb-nvme-amd-radeon-pro-wx-3200-4gb-workstation-A1-38890-11439",
+   "site": "troostwijk/surplex",
+   "text": "Lenovo P620, AMD Ryzen Threadripper Pro 3995W, 256 GB RAM (8x 32 GB), 2 TB NVMe, AMD Radeon Pro WX 3200 4GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:24:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/dell-precision-tower-3620-xeon%28r%29-e3-1270-32-gb-ram-%282x16-gb%29-256-gb-nvme-barco-mxrt-6700-8-gb-workstation-A1-38890-10974",
+   "site": "troostwijk/surplex",
+   "text": "Dell Precision Tower 3620, Xeon(R) E3-1270, 32 GB RAM (2x16 GB), 256 GB NVMe, Barco MXRT-6700 8 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:00:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/lenovo-p520-xeon%28r%29-w-2135-64-gb-ram-%284x-16-gb%29-512-gb-nvme-nvidia-quadro-p1000-4gb-workstation-A1-38890-11438",
+   "site": "troostwijk/surplex",
+   "text": "Lenovo P520, Xeon(R) W-2135, 64 GB RAM (4x 16 GB), 512 GB NVMe, NVIDIA Quadro P1000 4GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:42:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/lenovo-p520-xeon%28r%29-w-2135-64-gb-ram-%284x-16-gb%29-512-gb-nvme-nvidia-quadro-p1000-4gb-workstation-A1-38890-11436",
+   "site": "troostwijk/surplex",
+   "text": "Lenovo P520, Xeon(R) W-2135, 64 GB RAM (4x 16 GB), 512 GB NVMe, NVIDIA Quadro P1000 4GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:29:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/lenovo-p620-amd-ryzen-threadripper-pro-3995w-256-gb-ram-%288x-32-gb%29-2-tb-nvme-amd-radeon-pro-wx-3200-4gb-workstation-A1-38890-11440",
+   "site": "troostwijk/surplex",
+   "text": "Lenovo P620, AMD Ryzen Threadripper Pro 3995W, 256 GB RAM (8x 32 GB), 2 TB NVMe, AMD Radeon Pro WX 3200 4GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:18:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-firefly-g9-14%22-core%28tm%29-i7-12-generation-32-gb-ram-1-tb-nvme-nvidia-t550-laptop-4gb-mobile-workstation-A1-38890-11598",
+   "site": "troostwijk/surplex",
+   "text": "HP ZBook Firefly G9 14\", Core(TM) i7 12. Generation, 32 GB RAM, 1 TB NVMe, NVIDIA T550 Laptop 4GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:36:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-p920-2x-xeon%28r%29-gold-6154-192-gb-ram-%2812x16-gb%29-1-tb-nvme-nvidia-quadro-p1000-4-gb-workstation-A1-38890-10957",
+   "site": "troostwijk/surplex",
+   "text": "HP P920, 2x Xeon(R) Gold 6154, 192 GB RAM (12x16 GB), 1 TB NVMe, NVIDIA Quadro P1000 4 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:35:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/lenovo-p520-xeon%28r%29-w-2135-128-gb-ram-%288x-16-gb%29-512-gb-nvme-nvidia-quadro-p1000-4gb-workstation-A1-38890-11437",
+   "site": "troostwijk/surplex",
+   "text": "Lenovo P520, Xeon(R) W-2135, 128 GB RAM (8x 16 GB), 512 GB NVMe, NVIDIA Quadro P1000 4GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:44:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-p920-2x-xeon%28r%29-gold-6154-192-gb-ram-%2812x16-gb%29-1-tb-nvme-nvidia-quadro-p1000-4-gb-workstation-A1-38890-10954",
+   "site": "troostwijk/surplex",
+   "text": "HP P920, 2x Xeon(R) Gold 6154, 192 GB RAM (12x16 GB), 1 TB NVMe, NVIDIA Quadro P1000 4 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:08:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/lenovo-p620-amd-ryzen-threadripper-pro-3945wx-128-gb-ram-%288x16-gb%29-1-tb-nvme-amd-radeon-pro-wx-3200-4-gb-workstation-A1-38890-10799",
+   "site": "troostwijk/surplex",
+   "text": "Lenovo P620, AMD Ryzen Threadripper PRO 3945WX, 128 GB RAM (8x16 GB), 1 TB NVMe, AMD Radeon Pro WX 3200 4 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:11:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-p920-2x-xeon%28r%29-gold-6154-192-gb-ram-%2812x16-gb%29-1-tb-nvme-nvidia-quadro-p1000-4-gb-workstation-A1-38890-10953",
+   "site": "troostwijk/surplex",
+   "text": "HP P920, 2x Xeon(R) Gold 6154, 192 GB RAM (12x16 GB), 1 TB NVMe, NVIDIA Quadro P1000 4 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:31:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-p920-2x-xeon%28r%29-gold-6154-192-gb-ram-%2812x16-gb%29-1-tb-nvme-nvidia-quadro-p1000-4-gb-workstation-A1-38890-10955",
+   "site": "troostwijk/surplex",
+   "text": "HP P920, 2x Xeon(R) Gold 6154, 192 GB RAM (12x16 GB), 1 TB NVMe, NVIDIA Quadro P1000 4 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:35:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-p920-2x-xeon%28r%29-gold-6154-192-gb-ram-%2812x16gb%29-1x-1-tb-nvme-1x-1tb-ssd-nvidia-quadro-p1000-4-gb-workstation-A1-38890-10956",
+   "site": "troostwijk/surplex",
+   "text": "HP P920, 2x Xeon(R) Gold 6154, 192 GB RAM (12x16GB), 1x 1 TB NVMe - 1x 1TB SSD, NVIDIA Quadro P1000 4 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:13:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/lenovo-p510-xeon%28r%29-e5-1650-96-gb-ram-%286x16-gb%29-keine-hdd-nvidia-quadro-m4000-8-gb-workstation-A1-38890-10800",
+   "site": "troostwijk/surplex",
+   "text": "Lenovo P510, Xeon(R) E5-1650, 96 GB RAM (6x16 GB), keine HDD, NVIDIA Quadro M4000 8 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:17:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/lenovo-p520-xeon%28r%29-w-2135-64-gb-ram-%284x-16-gb%29-keine-hdd-nvidia-quadro-p1000-4gb-workstation-A1-38890-11470",
+   "site": "troostwijk/surplex",
+   "text": "Lenovo P520, Xeon(R) W-2135, 64 GB RAM (4x 16 GB), keine HDD, NVIDIA Quadro P1000 4GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:39:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/apple-macpro-xeon%28r%29-w-2345-96-gb-ram-%286x-16-gb%29-1-tb-nvme-amd-radeon-rx-580x-8-gb-workstation-A1-38890-11441",
+   "site": "troostwijk/surplex",
+   "text": "Apple MacPro, Xeon(R) W-2345, 96 GB RAM (6x 16 GB), 1 TB NVMe, AMD Radeon RX 580X 8 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-14T12:24:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-mix-model-workstations-%E2%80%93-beschreibung-prufen-%282x%29-A1-38890-11471",
+   "site": "troostwijk/surplex",
+   "text": "HP Mix Model WorkStations – Beschreibung prüfen (2x)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:08:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-mix-model-workstations-%E2%80%93-beschreibung-prufen-%282x%29-A1-38890-11442",
+   "site": "troostwijk/surplex",
+   "text": "HP Mix Model WorkStations – Beschreibung prüfen (2x)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:30:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/dell-precision-tower-3620-xeon%28r%29-e3-1270-32-gb-ram-%282x16-gb%29-256-gb-nvme-workstations-%282x%29-A1-38890-10976",
+   "site": "troostwijk/surplex",
+   "text": "Dell Precision Tower 3620, Xeon(R) E3-1270, 32 GB RAM (2x16 GB), 256 GB NVMe WorkStations (2x)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:32:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/dell-precision-tower-3620-xeon%28r%29-e3-1270-32-gb-ram-%282x16-gb%29-256-gb-nvme-workstations-%282x%29-A1-38890-10977",
+   "site": "troostwijk/surplex",
+   "text": "Dell Precision Tower 3620, Xeon(R) E3-1270, 32 GB RAM (2x16 GB), 256 GB NVMe WorkStations (2x)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:00:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/dell-precision-tower-3620-xeon%28r%29-e3-1270-32-gb-ram-%282x16-gb%29-256-gb-nvme-workstations-%282x%29-A1-38890-10978",
+   "site": "troostwijk/surplex",
+   "text": "Dell Precision Tower 3620, Xeon(R) E3-1270, 32 GB RAM (2x16 GB), 256 GB NVMe WorkStations (2x)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:33:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/dell-precision-tower-3620-xeon%28r%29-e3-1270-32-gb-ram-%282x16-gb%29-256-gb-nvme-workstations-%282x%29-A1-38890-10975",
+   "site": "troostwijk/surplex",
+   "text": "Dell Precision Tower 3620, Xeon(R) E3-1270, 32 GB RAM (2x16 GB), 256 GB NVMe WorkStations (2x)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:36:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-z2-g4-core%28tm%29-i7-8-generation-16-gb-ram-512-gb-nvme-workstations-%282x%29-A1-38890-8832",
+   "site": "troostwijk/surplex",
+   "text": "HP Z2 G4, Core(TM) i7 8. Generation, 16 GB RAM, 512 GB NVMe Workstations (2x)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:41:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-z2-g4-core%28tm%29-i7-8-generation-16-gb-ram-%282x8gb%29-256-gb-nvme-workstations-%282x%29-A1-38890-10802",
+   "site": "troostwijk/surplex",
+   "text": "HP Z2 G4, Core(TM) i7 8. Generation, 16 GB RAM (2X8GB), 256 GB NVMe Workstations (2x)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:39:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-z2-g4-core%28tm%29-i7-8-generation-16-gb-ram-256-gb-ssd-workstations-%282x%29-A1-38890-8829",
+   "site": "troostwijk/surplex",
+   "text": "HP Z2 G4, Core(TM) i7 8. Generation, 16 GB RAM, 256 GB SSD-Workstations (2x)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:44:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/reamer-%2842x%29-A1-49786-18",
+   "site": "troostwijk/surplex",
+   "text": "Reamer (42x)\nStandort: Herk de Stad (BE)\nAktuelles Gebot: 25 EUR · Gebote: 0\nEnde: 2026-10-20T12:27:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Beamer"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/epson-%28eb-x6%29-2-200-lumen-xga-projektor-%2881-lampenstunden%29-A1-38890-10983",
+   "site": "troostwijk/surplex",
+   "text": "Epson (EB-X6) 2.200 Lumen XGA-Projektor (81 Lampenstunden)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:27:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "Projektor"
    ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
+   "first_seen": "2026-09-30T09:40:32+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=Projektor&pagesize=96#los-19",
-   "site": "aurena",
-   "text": "230 | Interaktives Projektionssystem Vertigo \"living surface\" | 0 2 | TAGE | : | 2 1 | STD | Gebote: 0 | € 500\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
+   "url": "https://www.troostwijkauctions.com/de/l/nec-%28np-v260%29-2-600-lumen-svga-projektor-%28818-lampenstunden%29-A1-38890-10987",
+   "site": "troostwijk/surplex",
+   "text": "NEC (NP-V260) 2.600 Lumen SVGA-Projektor (818 Lampenstunden)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:18:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "Projektor"
    ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
+   "first_seen": "2026-09-30T09:40:32+00:00"
   },
   {
-   "url": "https://www.aurena.at/posten/5229898",
-   "site": "aurena",
-   "text": "910 | LED Wandleuchte Eglo Valomontone | 0 5 | TAGE | : | 2 1 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5292628",
-   "site": "aurena",
-   "text": "2352 | 2 LED Außenwandleuchten Flector | 0 5 | TAGE | : | 0 0 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5292592",
-   "site": "aurena",
-   "text": "2316 | LED Outdoor Wandleuchte Eglo | 0 5 | TAGE | : | 0 0 | STD | Gebote: 3 | € 3\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5292595",
-   "site": "aurena",
-   "text": "2319 | 2 LED Außenwandleuchten Eglo | 0 5 | TAGE | : | 0 0 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5292596",
-   "site": "aurena",
-   "text": "2320 | 2 LED Außenwandleuchten Eglo | 0 5 | TAGE | : | 0 0 | STD | Gebote: 2 | € 2\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5292605",
-   "site": "aurena",
-   "text": "2329 | 5 LED Außenwandleuchten Flector | 0 5 | TAGE | : | 0 0 | STD | Gebote: 2 | € 2\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5292611",
-   "site": "aurena",
-   "text": "2335 | 2 LED Außenwandleuchten Flector | 0 5 | TAGE | : | 0 0 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5292612",
-   "site": "aurena",
-   "text": "2336 | 2 LED Außenwandleuchten Flector | 0 5 | TAGE | : | 0 0 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5292631",
-   "site": "aurena",
-   "text": "2355 | 2 LED Außenwandleuchten Flector | 0 5 | TAGE | : | 0 0 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5229910",
-   "site": "aurena",
-   "text": "922 | LED Wandleuchte Eglo Talamello 1 | 0 5 | TAGE | : | 2 1 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5229907",
-   "site": "aurena",
-   "text": "919 | LED Wandleuchte Eglo Talamello 1 | 0 5 | TAGE | : | 2 1 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5229908",
-   "site": "aurena",
-   "text": "920 | LED Wandleuchte Eglo Talamello 1 | 0 5 | TAGE | : | 2 1 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5229906",
-   "site": "aurena",
-   "text": "918 | LED Wandleuchte Eglo Talamello 1 | 0 5 | TAGE | : | 2 1 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5229909",
-   "site": "aurena",
-   "text": "921 | LED Wandleuchte Eglo Talamello 1 | 0 5 | TAGE | : | 2 1 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5229911",
-   "site": "aurena",
-   "text": "923 | LED Wandleuchte Eglo Talamello 1 | 0 5 | TAGE | : | 2 1 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5229902",
-   "site": "aurena",
-   "text": "914 | LED Wandleuchte Eglo Talamello 1 | 0 5 | TAGE | : | 2 1 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5243466",
-   "site": "aurena",
-   "text": "14 | LED-Wandleuchte AEG, 24 Watt | 0 2 | TAGE | : | 0 8 | STD | Gebote: 1 | € 9\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5229905",
-   "site": "aurena",
-   "text": "917 | LED Wandleuchte Eglo Talamello 1 | 0 5 | TAGE | : | 2 1 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5229903",
-   "site": "aurena",
-   "text": "915 | LED Wandleuchte Eglo Talamello 1 | 0 5 | TAGE | : | 2 1 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5229900",
-   "site": "aurena",
-   "text": "912 | LED Wandleuchte Eglo Talamello 1 | 0 5 | TAGE | : | 2 1 | STD | Gebote: 2 | € 2\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5229904",
-   "site": "aurena",
-   "text": "916 | LED Wandleuchte Eglo Talamello 1 | 0 5 | TAGE | : | 2 1 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5229901",
-   "site": "aurena",
-   "text": "913 | LED Wandleuchte Eglo Talamello 1 | 0 5 | TAGE | : | 2 1 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5229899",
-   "site": "aurena",
-   "text": "911 | 2 LED Wandleuchten Eglo Valomontone | 0 5 | TAGE | : | 2 1 | STD | Gebote: 3 | € 3\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5243487",
-   "site": "aurena",
-   "text": "35 | LED-Wandleuchte AEG, 24 Watt | 0 2 | TAGE | : | 0 8 | STD | Gebote: 2 | € 10\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5292550",
-   "site": "aurena",
-   "text": "2274 | 2 LED Outdoor Wandleuchten Eglo | 0 5 | TAGE | : | 0 0 | STD | Gebote: 2 | € 2\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5292549",
-   "site": "aurena",
-   "text": "2273 | 3 LED Outdoor Wandleuchten Eglo | 0 5 | TAGE | : | 0 0 | STD | Gebote: 2 | € 2\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5292548",
-   "site": "aurena",
-   "text": "2272 | 3 LED Outdoor Wandleuchten Eglo | 0 5 | TAGE | : | 0 0 | STD | Gebote: 5 | € 5\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5292667",
-   "site": "aurena",
-   "text": "2391 | 3 LED Solar Wandleuchten Velamp | 0 5 | TAGE | : | 0 0 | STD | Gebote: 2 | € 2\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5292666",
-   "site": "aurena",
-   "text": "2390 | 2 LED Solar Wandleuchten Velamp | 0 5 | TAGE | : | 0 0 | STD | Gebote: 2 | € 2\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5292669",
-   "site": "aurena",
-   "text": "2393 | 2 LED Solar Wandleuchten Velamp | 0 5 | TAGE | : | 0 0 | STD | Gebote: 2 | € 2\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5292668",
-   "site": "aurena",
-   "text": "2392 | 2 LED Solar Wandleuchten Velamp | 0 5 | TAGE | : | 0 0 | STD | Gebote: 2 | € 2\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5232109",
-   "site": "aurena",
-   "text": "3121 | Design LED Wandspiegel VALBLUE LUCIEN BLACK | 0 6 | TAGE | : | 0 0 | STD | Gebote: 5 | € 10\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5232110",
-   "site": "aurena",
-   "text": "3122 | Design LED Wandspiegel VALBLUE LUCIEN BLACK | 0 6 | TAGE | : | 0 0 | STD | Gebote: 7 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5232117",
-   "site": "aurena",
-   "text": "3129 | Design LED Wandspiegel VALBLUE LUCIEN WHITE | 0 6 | TAGE | : | 0 0 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5232111",
-   "site": "aurena",
-   "text": "3123 | Design LED Wandspiegel VALBLUE LUCIEN BLACK | 0 6 | TAGE | : | 0 0 | STD | Gebote: 4 | € 4\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5232112",
-   "site": "aurena",
-   "text": "3124 | Design LED Wandspiegel VALBLUE LUCIEN BLACK | 0 6 | TAGE | : | 0 0 | STD | Gebote: 3 | € 3\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5232113",
-   "site": "aurena",
-   "text": "3125 | Design LED Wandspiegel VALBLUE LUCIEN BLACK | 0 6 | TAGE | : | 0 0 | STD | Gebote: 3 | € 3\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5232120",
-   "site": "aurena",
-   "text": "3132 | Design LED Wandspiegel VALBLUE LUCIEN WHITE | 0 6 | TAGE | : | 0 0 | STD | Gebote: 4 | € 4\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5232119",
-   "site": "aurena",
-   "text": "3131 | Design LED Wandspiegel VALBLUE LUCIEN WHITE | 0 6 | TAGE | : | 0 0 | STD | Gebote: 4 | € 4\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5232114",
-   "site": "aurena",
-   "text": "3126 | Design LED Wandspiegel VALBLUE LUCIEN BLACK | 0 6 | TAGE | : | 0 0 | STD | Gebote: 3 | € 3\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5232115",
-   "site": "aurena",
-   "text": "3127 | Design LED Wandspiegel VALBLUE LUCIEN BLACK | 0 6 | TAGE | : | 0 0 | STD | Gebote: 3 | € 3\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5232116",
-   "site": "aurena",
-   "text": "3128 | Design LED Wandspiegel VALBLUE LUCIEN WHITE | 0 6 | TAGE | : | 0 0 | STD | Gebote: 4 | € 4\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5232118",
-   "site": "aurena",
-   "text": "3130 | Design LED Wandspiegel VALBLUE LUCIEN WHITE | 0 6 | TAGE | : | 0 0 | STD | Gebote: 2 | € 2\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5233276",
-   "site": "aurena",
-   "text": "4288 | Design LED Wandspiegel VALBLUE LUCIEN WHITE | 0 6 | TAGE | : | 0 2 | STD | Gebote: 5 | € 5\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5233275",
-   "site": "aurena",
-   "text": "4287 | Design LED Wandspiegel VALBLUE LUCIEN WHITE | 0 6 | TAGE | : | 0 2 | STD | Gebote: 6 | € 6\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5292629",
-   "site": "aurena",
-   "text": "2353 | 2 LED Außenwandleuchten mit Bewegungssensor Flector | 0 5 | TAGE | : | 0 0 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5233274",
-   "site": "aurena",
-   "text": "4286 | Design LED Wandspiegel VALBLUE LUCIEN WHITE | 0 6 | TAGE | : | 0 2 | STD | Gebote: 7 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5300251",
-   "site": "aurena",
-   "text": "160 | 2 LED Wandleuchten Ares Kirk D.90 | 0 8 | TAGE | : | 0 0 | STD | Gebote: 0 | € 40\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5300252",
-   "site": "aurena",
-   "text": "161 | 2 LED Wandleuchten Ares Kirk D.90 | 0 8 | TAGE | : | 0 0 | STD | Gebote: 0 | € 40\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5300253",
-   "site": "aurena",
-   "text": "162 | 2 LED Wandleuchten Ares Kirk D.90 | 0 8 | TAGE | : | 0 0 | STD | Gebote: 0 | € 40\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5300254",
-   "site": "aurena",
-   "text": "163 | 2 LED Wandleuchten Ares Kirk D.90 | 0 8 | TAGE | : | 0 0 | STD | Gebote: 0 | € 40\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5300255",
-   "site": "aurena",
-   "text": "164 | 2 LED Wandleuchten Ares Kirk D.90 | 0 8 | TAGE | : | 0 0 | STD | Gebote: 0 | € 40\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5292558",
-   "site": "aurena",
-   "text": "2282 | 3 Outdoor Wandleuchten Eglo | 0 5 | TAGE | : | 0 0 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5292614",
-   "site": "aurena",
-   "text": "2338 | 2 LED Sockelaußenleuchten Flector | 0 5 | TAGE | : | 0 0 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5298056",
-   "site": "aurena",
-   "text": "43 | Posten Bürobedarf | 0 8 | TAGE | : | 2 3 | STD | Gebote: 0 | € 4\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5265897",
-   "site": "aurena",
-   "text": "13 | Mobile Kompressor Kühl- und Gefrierbox Autvival AV-ST60, 60 Liter | 0 7 | TAGE | : | 0 5 | STD | Gebote: 0 | € 240\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5265899",
-   "site": "aurena",
-   "text": "15 | Mobile Kompressor Kühl- und Gefrierbox Autvival AV-ST60, 60 Liter | 0 7 | TAGE | : | 0 5 | STD | Gebote: 0 | € 240\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5265900",
-   "site": "aurena",
-   "text": "16 | Mobile Kompressor Kühl- und Gefrierbox Autvival AV-ST60, 60 Liter | 0 7 | TAGE | : | 0 5 | STD | Gebote: 0 | € 240\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5265898",
-   "site": "aurena",
-   "text": "14 | Mobile Kompressor Kühl- und Gefrierbox Autvival AV-ST60, 60 Liter | 0 7 | TAGE | : | 0 5 | STD | Gebote: 1 | € 240\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5065075",
-   "site": "aurena",
-   "text": "144 | Mobile Kompressor Kühl- und Gefrierbox Autvival AV-ST60, 60 Liter | 0 6 | TAGE | : | 0 4 | STD | Gebote: 18 | € 30\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/toshiba-tlp-560-lcd-projektor-beamer-mit-zubehor-A1-50540-193",
+   "url": "https://www.troostwijkauctions.com/de/l/epson-%28eb-w29%29-3-000-lumen-wxga-projektor-%28172-lampenstunden%29-A1-38890-10985",
    "site": "troostwijk/surplex",
-   "text": "Toshiba TLP-560 LCD Projektor Beamer mit Zubehör\nStandort: Eppelheim (DE)\nAktuelles Gebot: 70 EUR · Gebote: 0\nEnde: 2026-10-13T15:07:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Beamer",
-    "Projektor"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/optotechnik-schneider-st750-profilprojektor-A1-50575-51",
-   "site": "troostwijk/surplex",
-   "text": "OPTOTECHNIK SCHNEIDER ST750 Profilprojektor\nStandort: Wolnzach (DE)\nAktuelles Gebot: 300 EUR · Gebote: 0\nEnde: 2026-10-19T13:12:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "Epson (EB-W29) 3.000 Lumen WXGA-Projektor (172 Lampenstunden)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:35:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "Projektor"
    ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
+   "first_seen": "2026-09-30T09:40:32+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/1989-dr-schneider-st600-profilprojektor-A1-50575-18",
+   "url": "https://www.troostwijkauctions.com/de/l/sharp-%28xr-20x%29-2-300-lumen-xga-projektor-%28430-lampenstunden%29-A1-38890-11039",
    "site": "troostwijk/surplex",
-   "text": "1989 DR. SCHNEIDER ST600 Profilprojektor\nStandort: Wolnzach (DE)\nAktuelles Gebot: 400 EUR · Gebote: 0\nEnde: 2026-10-19T13:04:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "Sharp (XR-20X) 2.300 Lumen XGA-Projektor (430 Lampenstunden)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:11:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "Projektor"
    ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
+   "first_seen": "2026-09-30T09:40:32+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/optotechnik-schneider-pmp500-profilprojektor-A1-50575-47",
+   "url": "https://www.troostwijkauctions.com/de/l/sharp-%28xg-f260x%29-3-000-lumen-xga-projektor-%28479-lampenstunden%29-A1-38890-11040",
    "site": "troostwijk/surplex",
-   "text": "OPTOTECHNIK SCHNEIDER PMP500 Profilprojektor\nStandort: Wolnzach (DE)\nAktuelles Gebot: 300 EUR · Gebote: 0\nEnde: 2026-10-19T13:11:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "Sharp (XG-F260X) 3.000 Lumen XGA-Projektor (479 Lampenstunden)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:18:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "Projektor"
    ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
+   "first_seen": "2026-09-30T09:40:32+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/led-kronleuchter-%E2%80%93-3-farben-%E2%80%93-dimmbar-%E2%80%93-p7068-4-A1-49404-3832",
+   "url": "https://www.troostwijkauctions.com/de/l/3m-%28x55i%29-3-200-lumen-xga-projektor-%281439-lampenstunden%29-A1-38890-11041",
    "site": "troostwijk/surplex",
-   "text": "LED-Kronleuchter – 3 Farben – dimmbar – P7068/4\nStandort: Le Roeulx (BE)\nAktuelles Gebot: 220 EUR · Gebote: 0\nEnde: 2026-10-09T19:37:00+00:00 · Status: BIDDING_OPEN",
+   "text": "3M (X55i) 3.200 Lumen XGA-Projektor (1439 Lampenstunden)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:01:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Projektor"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/epson-%28emp-x5%29-2-200-lumen-xga-projektor-%28242-lampenstunden%29-A1-38890-10984",
+   "site": "troostwijk/surplex",
+   "text": "Epson (EMP-X5) 2.200 Lumen XGA-Projektor (242 Lampenstunden)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:33:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Projektor"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/philips-%28hopper-xg10%29-700-lumen-xga-projektor-%28831-lampenstunden%29-A1-38890-11043",
+   "site": "troostwijk/surplex",
+   "text": "Philips (Hopper XG10) 700 Lumen XGA-Projektor (831 Lampenstunden)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:42:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Projektor"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/nec-%28np-m322h%29-3-200-lumen-fhd-projektor-%28252-lampenstunden%29-A1-38890-10986",
+   "site": "troostwijk/surplex",
+   "text": "NEC (NP-M322H) 3.200 Lumen FHD-Projektor (252 Lampenstunden)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:00:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Projektor"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/casio-%28xjm141%29-2-500-lumen-xga-projektor-%281332-lampenstunden%29-A1-38890-11042",
+   "site": "troostwijk/surplex",
+   "text": "Casio (XJM141) 2.500 Lumen XGA-Projektor (1332 Lampenstunden)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:33:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Projektor"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hitachi-%28cp-x444%29-3-200-lumen-xga-projektor-%28907-lampenstunden%29-A1-38890-10989",
+   "site": "troostwijk/surplex",
+   "text": "Hitachi (CP-X444) 3.200 Lumen XGA-Projektor (907 Lampenstunden)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:26:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Projektor"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hitachi-%28cp-x444%29-3-200-lumen-xga-projektor-%28907-lampenstunden%29-A1-38890-10990",
+   "site": "troostwijk/surplex",
+   "text": "Hitachi (CP-X444) 3.200 Lumen XGA-Projektor (907 Lampenstunden)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T13:01:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Projektor"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/nec-%28np-um351w%29-3-500-lumens-wxga-projektor-%28574-lampenstunden%29-A1-38890-10988",
+   "site": "troostwijk/surplex",
+   "text": "NEC (NP-UM351W) 3.500 Lumens WXGA-Projektor (574 Lampenstunden)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-14T12:08:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Projektor"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/benq-projektor-A1-50401-68",
+   "site": "troostwijk/surplex",
+   "text": "Benq Projektor\nStandort: Lyssach (CH)\nAktuelles Gebot: 25 EUR · Gebote: 0\nEnde: 2026-10-14T12:44:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Projektor"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/vivitek-dw882st-projektor-projektoren-projektion-A3-46089-13385",
+   "site": "troostwijk/surplex",
+   "text": "Vivitek - DW882ST - Projektor - Projektoren & Projektion\nStandort: Vichte (BE)\nAktuelles Gebot: 5 EUR · Gebote: 0\nEnde: 2026-10-16T15:44:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Projektor"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/aht-miami-185-profi-tiefkuhltruhe-%E2%80%93-533-liter-led-gepruft-und-voll-funktionsfahig-A1-50584-25",
+   "site": "troostwijk/surplex",
+   "text": "AHT Miami 185 Profi-Tiefkühltruhe – 533 Liter, LED, geprüft und voll funktionsfähig\nStandort: Mönchengladbach (DE)\nAktuelles Gebot: 340 EUR · Gebote: 0\nEnde: 2026-10-13T15:16:00+00:00 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
+   "first_seen": "2026-09-30T09:40:32+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/be-led-led-scheinwerfer-%286x%29-A1-50556-1361",
+   "url": "https://www.troostwijkauctions.com/de/l/aht-miami-185-profi-tiefkuhltruhe-%E2%80%93-533-liter-led-gepruft-und-voll-funktionsfahig-A1-50584-28",
    "site": "troostwijk/surplex",
-   "text": "Be-LED LED-Scheinwerfer (6x)\nStandort: BRUAY-LA-BUISSIÈR (FR)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-18T18:09:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "AHT Miami 185 Profi-Tiefkühltruhe – 533 Liter, LED, geprüft und voll funktionsfähig\nStandort: Mönchengladbach (DE)\nAktuelles Gebot: 340 EUR · Gebote: 0\nEnde: 2026-10-13T14:03:00+00:00 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
+   "first_seen": "2026-09-30T09:40:32+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/t-factory-be-led-tf025-led-scheinwerfer-%2825x%29-A1-50556-547",
+   "url": "https://www.troostwijkauctions.com/de/l/aht-miami-185-profi-tiefkuhltruhe-%E2%80%93-533-liter-led-gepruft-und-voll-funktionsfahig-A1-50584-26",
    "site": "troostwijk/surplex",
-   "text": "T.Factory be-led TF025 LED-Scheinwerfer (25x)\nStandort: BRUAY-LA-BUISSIÈR (FR)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-18T18:21:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "AHT Miami 185 Profi-Tiefkühltruhe – 533 Liter, LED, geprüft und voll funktionsfähig\nStandort: Mönchengladbach (DE)\nAktuelles Gebot: 340 EUR · Gebote: 0\nEnde: 2026-10-13T15:50:00+00:00 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
+   "first_seen": "2026-09-30T09:40:32+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/t-factory-be-led-tf025-led-spotlights-%2830x%29-A1-50556-546",
+   "url": "https://www.troostwijkauctions.com/de/l/aht-miami-185-profi-tiefkuhltruhe-%E2%80%93-533-liter-led-gepruft-und-voll-funktionsfahig-A1-50584-27",
    "site": "troostwijk/surplex",
-   "text": "T.Factory be-led TF025 LED Spotlights (30x)\nStandort: BRUAY-LA-BUISSIÈR (FR)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-18T18:05:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "AHT Miami 185 Profi-Tiefkühltruhe – 533 Liter, LED, geprüft und voll funktionsfähig\nStandort: Mönchengladbach (DE)\nAktuelles Gebot: 340 EUR · Gebote: 0\nEnde: 2026-10-13T14:01:00+00:00 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
+   "first_seen": "2026-09-30T09:40:32+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/be-led-tf109-eco-led-panel-%285x%29-A1-50556-1507",
+   "url": "https://www.troostwijkauctions.com/de/l/led-scheinwerfer-%284x%29-A1-50347-77",
    "site": "troostwijk/surplex",
-   "text": "BE LED Tf109 Eco LED-Panel (5x)\nStandort: BRUAY-LA-BUISSIÈR (FR)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-18T18:41:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "LED-Scheinwerfer (4x)\nStandort: Gard (FR)\nAktuelles Gebot: 20 EUR · Gebote: 3\nEnde: 2026-10-13T14:50:00+00:00 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
+   "first_seen": "2026-09-30T09:40:32+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/benhovo-led-scheinwerfer-A7-50066-370",
+   "url": "https://www.troostwijkauctions.com/de/l/stairville-mh-100-led-bewegliche-kopfe-%286x%29-A1-50347-56",
    "site": "troostwijk/surplex",
-   "text": "BENHOVO LED-Scheinwerfer\nStandort: Calcinato (IT)\nAktuelles Gebot: 127 EUR · Gebote: 0\nEnde: 2026-10-27T11:06:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "STAIRVILLE - MH-100 - LED-Bewegliche Köpfe (6x)\nStandort: Gard (FR)\nAktuelles Gebot: 115 EUR · Gebote: 12\nEnde: 2026-10-13T13:02:00+00:00 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
+   "first_seen": "2026-09-30T09:40:32+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/durch-trajectory-alkaline-led-bullaugen-%288x%29-A1-50556-295",
+   "url": "https://www.troostwijkauctions.com/de/l/shehds-%E2%80%93-led-scheuklappen-%282x%29-A1-50347-57",
    "site": "troostwijk/surplex",
-   "text": "Durch Trajectory Alkaline LED Bullaugen (8x)\nStandort: BRUAY-LA-BUISSIÈR (FR)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-18T17:05:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "SHEHDS – LED-Scheuklappen (2x)\nStandort: Gard (FR)\nAktuelles Gebot: 25 EUR · Gebote: 4\nEnde: 2026-10-13T14:06:00+00:00 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
+   "first_seen": "2026-09-30T09:40:32+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/philips-coreline-highbay-by121p-g4-led200s-industrielle-led-beleuchtung-%2824x%29-A1-50251-454",
+   "url": "https://www.troostwijkauctions.com/de/l/led-gerate-%285x%29-A1-50347-58",
    "site": "troostwijk/surplex",
-   "text": "Philips Coreline Highbay BY121P, G4 led200S industrielle LED-Beleuchtung (24x)\nStandort: Veldhoven (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-12T08:29:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "LED-Geräte (5x)\nStandort: Gard (FR)\nAktuelles Gebot: 25 EUR · Gebote: 3\nEnde: 2026-10-13T14:21:00+00:00 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
+   "first_seen": "2026-09-30T09:40:32+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/2015-giant-move-ausrustung-me-r35-a01654-materialhebung-A1-50193-15",
+   "url": "https://www.troostwijkauctions.com/de/l/led-pars-die-gewartet-werden-sollen-%288x%29-A1-50347-238",
    "site": "troostwijk/surplex",
-   "text": "2015 Giant-Move-Ausrüstung ME-R35/A01654 Materialhebung\nStandort: Merksem (BE)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-10-15T13:15:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "LED-Pars, die gewartet werden sollen (8x)\nStandort: Gard (FR)\nAktuelles Gebot: 17 EUR · Gebote: 2\nEnde: 2026-10-13T13:42:00+00:00 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
-    "Moving Head"
+    "LED Wand",
+    "LED Wall"
    ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
+   "first_seen": "2026-09-30T09:40:32+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/2015-giant-move-ausrustung-me-r35-a01654-materialhebung-A1-50193-14",
+   "url": "https://www.troostwijkauctions.com/de/l/stairville-mh-100-led-bewegliche-kopfe-%282x%29-A1-50347-234",
    "site": "troostwijk/surplex",
-   "text": "2015 Giant-Move-Ausrüstung ME-R35/A01654 Materialhebung\nStandort: Merksem (BE)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-10-15T13:14:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "STAIRVILLE - MH-100 - LED-Bewegliche Köpfe (2x)\nStandort: Gard (FR)\nAktuelles Gebot: 22 EUR · Gebote: 3\nEnde: 2026-10-13T13:22:00+00:00 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
-    "Moving Head"
+    "LED Wand",
+    "LED Wall"
    ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
+   "first_seen": "2026-09-30T09:40:32+00:00"
   },
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Apple_iMac_A1419_Quad_Core_Intel_i7_27_Zoll_68_58cm/982855",
+   "url": "https://www.troostwijkauctions.com/de/l/shehds-%E2%80%93-led-scheinwerfer-%282x%29-A1-50347-75",
+   "site": "troostwijk/surplex",
+   "text": "SHEHDS – LED-Scheinwerfer (2x)\nStandort: Gard (FR)\nAktuelles Gebot: 15 EUR · Gebote: 2\nEnde: 2026-10-13T14:49:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/led-platinen-%284x%29-A1-50347-235",
+   "site": "troostwijk/surplex",
+   "text": "LED-Platinen (4x)\nStandort: Gard (FR)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 2026-10-13T15:02:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/cameo-%E2%80%93-7x8w-rgbw-%E2%80%93-par-led-%288x%29-A1-50347-236",
+   "site": "troostwijk/surplex",
+   "text": "CAMEO – 7x8W RGBW – Par-LED (8x)\nStandort: Gard (FR)\nAktuelles Gebot: 15 EUR · Gebote: 2\nEnde: 2026-10-13T14:17:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gy-hitec-s400-led-beweglicher-kopf-%282x%29-A1-50347-61",
+   "site": "troostwijk/surplex",
+   "text": "GY HITEC - S400 - LED-Beweglicher Kopf (2x)\nStandort: Gard (FR)\nAktuelles Gebot: 135 EUR · Gebote: 8\nEnde: 2026-10-13T14:31:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/ghost-%E2%80%93-partyfarbe-%E2%80%93-balken-led-A1-50347-73",
+   "site": "troostwijk/surplex",
+   "text": "GHOST – Partyfarbe – Balken-LED\nStandort: Gard (FR)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 2026-10-13T13:33:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/stairville-xbrick-quad-16x8-led-bars-%282x%29-A1-50347-68",
+   "site": "troostwijk/surplex",
+   "text": "STAIRVILLE - xBrick Quad 16x8 - LED-Bars (2x)\nStandort: Gard (FR)\nAktuelles Gebot: 15 EUR · Gebote: 2\nEnde: 2026-10-13T15:21:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/led-streifen-set-A1-50347-239",
+   "site": "troostwijk/surplex",
+   "text": "LED-Streifen-Set\nStandort: Gard (FR)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-13T14:27:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/led-scheinwerfer-%282x%29-A1-50347-237",
+   "site": "troostwijk/surplex",
+   "text": "LED-Scheinwerfer (2x)\nStandort: Gard (FR)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-13T13:57:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%283x%29-walimex-pro-niova-900-plus-daylight-led-flachenleuchte-videoleuchte-A1-50585-7",
+   "site": "troostwijk/surplex",
+   "text": "(3x) Walimex Pro Niova 900 Plus Daylight - LED-Flächenleuchte / Videoleuchte\nStandort: Hemmingen (DE)\nAktuelles Gebot: 1 EUR · Gebote: 0\nEnde: 2026-10-15T12:07:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Original_Apple_Mac_mini_Server_Late_2012_Modell_A1347MonitorPower_Adapter/972421",
    "site": "zoll-auktion",
-   "text": "1 Apple iMac A1419, Quad Core Intel i7, 27 Zoll, 68,58cm\nBeobachtung Auktion 982855 verwalten\nAuktion in Beobachtung nehmen.\n1 Apple iMac A1419, Quad Core Intel i7, 27 Zoll, 68,58cm\n38229 Salzgitter\nNur Abholung möglich!\n13 Tage 2 Std. 23 Min.\n0 Gebote\n250,00 EUR",
-   "img_alt": "Vorderseite",
+   "text": "1 Original Apple Mac mini Server (Late 2012) Modell A1347+Monitor+Power Adapter\nBeobachtung Auktion 972421 verwalten\nAuktion in Beobachtung nehmen.\n1 Original Apple Mac mini Server (Late 2012) Modell A1347+Monito­r+Power Adapter\n44799 Bochum\nNur Abholung möglich!\n6 Tage 7 Std. 18 Min.\n0 Gebote\n300,00 EUR",
+   "img_alt": "Mac_Mini_Packungsvorderseite mit Gerät drin",
    "keywords": [
     "Grafikkarte"
    ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
+   "first_seen": "2026-09-30T09:40:32+00:00"
   },
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_Golf_VI_1K_16_TDI_DPF_Match_BlueMotionBMT/981265",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Ford_Transit_Kasten_Transporter_nicht_fahrbereit/982542",
    "site": "zoll-auktion",
-   "text": "1 VW Golf VI (1K) 1.6 TDI DPF Match BlueMotion/BMT\nBeobachtung Auktion 981265 verwalten\nAuktion in Beobachtung nehmen.\n1 VW Golf VI (1K) 1.6 TDI DPF Match BlueMotion/B­MT\n02894 Vierkirchen\nNur Abholung möglich!\n3 Tage 0 Std. 10 Min.\n10 Gebote\n1.950,00 EUR",
-   "img_alt": "Ansicht vorn links",
+   "text": "1 Ford Transit Kasten Transporter nicht fahrbereit\nBeobachtung Auktion 982542 verwalten\nAuktion in Beobachtung nehmen.\n1 Ford Transit Kasten Transporter nicht fahrbereit\n44149 Dortmund\nNur Abholung möglich!\n4 Tage 21 Std. 18 Min.\n13 Gebote\n1.450,00 EUR",
+   "img_alt": "Titelbild",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
+   "first_seen": "2026-09-30T09:40:32+00:00"
   },
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_Golf_16_Diesel_Comfortline/981710",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_ID7_Pro_S_BD83726E/980990",
    "site": "zoll-auktion",
-   "text": "1 VW Golf 1.6 Diesel Comfortline\nBeobachtung Auktion 981710 verwalten\nAuktion in Beobachtung nehmen.\n1 VW Golf 1.6 Diesel Comfortline\n15366 Hoppegarten\nNur Abholung möglich!\n3 Tage 1 Std. 10 Min.\n11 Gebote\n3.550,00 EUR",
-   "img_alt": "Frontansicht",
+   "text": "1 VW ID.7 Pro S - BD8-3726E\nBeobachtung Auktion 980990 verwalten\nAuktion in Beobachtung nehmen.\n1 VW ID.7 Pro S - BD8-3726E\n56072 Koblenz\nNur Abholung möglich!\n5 Tage 19 Std. 18 Min.\n0 Gebote\n40.500,00 EUR",
+   "img_alt": "Frontansicht links",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Cupra_Leon_Sportstourer_14_eHybrid_Typ_KL/979256",
-   "site": "zoll-auktion",
-   "text": "1 Cupra Leon Sportstourer 1.4 e-Hybrid Typ KL\nBeobachtung Auktion 979256 verwalten\nAuktion in Beobachtung nehmen.\n1 Cupra Leon Sportstourer 1.4 e-Hybrid Typ KL\n31224 Peine\nNur Abholung möglich!\n5 Tage 3 Std. 36 Min.\n22 Gebote\n7.690,00 EUR",
-   "img_alt": "Fahrzeug mit Schaden von vorne links",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_LKW_MAN_TGS_Ladekran_HMF_Streuer_K%C3%BCpper_Kipper_Meiller_Besch%C3%A4digt/972371",
-   "site": "zoll-auktion",
-   "text": "1 LKW MAN TGS, Ladekran HMF, Streuer Küpper, Kipper Meiller - Beschädigt\nBeobachtung Auktion 972371 verwalten\nAuktion in Beobachtung nehmen.\n1 LKW MAN TGS, Ladekran HMF, Streuer Küpper, Kipper Meiller - Beschädigt\n92224 Amberg\nNur Abholung möglich!\n5 Tage 19 Std. 40 Min.\n0 Gebote\n90.000,00 EUR",
-   "img_alt": "LKW MAN Titelbild",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
+   "first_seen": "2026-09-30T09:40:32+00:00"
   }
  ]
 }
