@@ -40,12 +40,12 @@
    "Grafikkarte": {
     "cards": 1,
     "total_reported": 1,
-    "ids_matched": true
+    "ids_matched": false
    },
    "Workstation": {
     "cards": 5,
     "total_reported": 5,
-    "ids_matched": true
+    "ids_matched": false
    },
    "Gaming PC": {
     "cards": 3,
@@ -58,18 +58,18 @@
     "ids_matched": false
    },
    "Beamer": {
-    "cards": 59,
-    "total_reported": 59,
-    "ids_matched": true
+    "cards": 88,
+    "total_reported": 88,
+    "ids_matched": false
    },
    "Projektor": {
-    "cards": 17,
-    "total_reported": 17,
+    "cards": 19,
+    "total_reported": 19,
     "ids_matched": false
    },
    "LED Wand": {
-    "cards": 63,
-    "total_reported": 63,
+    "cards": 96,
+    "total_reported": 96,
     "ids_matched": true
    },
    "LED Wall": {
@@ -90,7 +90,7 @@
    "Veranstaltungstechnik": {
     "cards": 40,
     "total_reported": 40,
-    "ids_matched": true
+    "ids_matched": false
    },
    "Lichtpult": {
     "cards": 0,
@@ -103,8 +103,8 @@
     "ids_matched": false
    },
    "Traverse": {
-    "cards": 7,
-    "total_reported": 7,
+    "cards": 6,
+    "total_reported": 6,
     "ids_matched": false
    }
   },
@@ -115,49 +115,49 @@
   "site": "troostwijk-surplex",
   "keywords": {
    "RTX 4090": {
-    "cards": 24
+    "cards": 20
    },
    "RTX 4080": {
-    "cards": 24
+    "cards": 20
    },
    "RTX 4070": {
-    "cards": 24
+    "cards": 20
    },
    "RTX 5090": {
-    "cards": 24
+    "cards": 20
    },
    "RTX 5080": {
-    "cards": 24
+    "cards": 20
    },
    "RTX 5070": {
-    "cards": 24
+    "cards": 20
    },
    "RTX A6000": {
-    "cards": 24
+    "cards": 20
    },
    "Grafikkarte": {
-    "cards": 24
+    "cards": 0
    },
    "Workstation": {
-    "cards": 68
+    "cards": 83
    },
    "Gaming PC": {
-    "cards": 21
+    "cards": 10
    },
    "Laserprojektor": {
     "cards": 0
    },
    "Beamer": {
-    "cards": 6
+    "cards": 8
    },
    "Projektor": {
-    "cards": 61
+    "cards": 63
    },
    "LED Wand": {
-    "cards": 184
+    "cards": 181
    },
    "LED Wall": {
-    "cards": 184
+    "cards": 181
    },
    "Blackmagic": {
     "cards": 2
@@ -175,7 +175,7 @@
     "cards": 43
    },
    "Traverse": {
-    "cards": 1
+    "cards": 4
    }
   },
   "errors": [],
@@ -222,7 +222,7 @@
    "Grafikkarte": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Grafikkarte&n1%5B%5D=0&n0=search",
-    "cards": 4
+    "cards": 2
    },
    "Workstation": {
     "form_ok": true,
@@ -287,7 +287,7 @@
    "Traverse": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Traverse&n1%5B%5D=0&n0=search",
-    "cards": 3
+    "cards": 5
    }
   },
   "errors": [],
