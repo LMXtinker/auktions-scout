@@ -38,8 +38,8 @@
     "ids_matched": false
    },
    "Grafikkarte": {
-    "cards": 1,
-    "total_reported": 1,
+    "cards": 0,
+    "total_reported": 0,
     "ids_matched": false
    },
    "Workstation": {
@@ -48,8 +48,8 @@
     "ids_matched": false
    },
    "Gaming PC": {
-    "cards": 3,
-    "total_reported": 3,
+    "cards": 0,
+    "total_reported": 0,
     "ids_matched": false
    },
    "Laserprojektor": {
@@ -58,18 +58,18 @@
     "ids_matched": false
    },
    "Beamer": {
-    "cards": 88,
-    "total_reported": 88,
-    "ids_matched": false
+    "cards": 86,
+    "total_reported": 86,
+    "ids_matched": true
    },
    "Projektor": {
-    "cards": 19,
-    "total_reported": 19,
+    "cards": 16,
+    "total_reported": 16,
     "ids_matched": false
    },
    "LED Wand": {
-    "cards": 96,
-    "total_reported": 96,
+    "cards": 94,
+    "total_reported": 94,
     "ids_matched": true
    },
    "LED Wall": {
@@ -90,7 +90,7 @@
    "Veranstaltungstechnik": {
     "cards": 40,
     "total_reported": 40,
-    "ids_matched": false
+    "ids_matched": true
    },
    "Lichtpult": {
     "cards": 0,
@@ -103,8 +103,8 @@
     "ids_matched": false
    },
    "Traverse": {
-    "cards": 6,
-    "total_reported": 6,
+    "cards": 11,
+    "total_reported": 11,
     "ids_matched": false
    }
   },
@@ -139,25 +139,25 @@
     "cards": 0
    },
    "Workstation": {
-    "cards": 83
+    "cards": 86
    },
    "Gaming PC": {
-    "cards": 10
+    "cards": 26
    },
    "Laserprojektor": {
     "cards": 0
    },
    "Beamer": {
-    "cards": 8
+    "cards": 17
    },
    "Projektor": {
-    "cards": 63
+    "cards": 86
    },
    "LED Wand": {
-    "cards": 181
+    "cards": 200
    },
    "LED Wall": {
-    "cards": 181
+    "cards": 200
    },
    "Blackmagic": {
     "cards": 2
@@ -172,7 +172,7 @@
     "cards": 0
    },
    "Moving Head": {
-    "cards": 43
+    "cards": 58
    },
    "Traverse": {
     "cards": 4
@@ -242,7 +242,7 @@
    "Beamer": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Beamer&n1%5B%5D=0&n0=search",
-    "cards": 10
+    "cards": 3
    },
    "Projektor": {
     "form_ok": true,
@@ -287,7 +287,7 @@
    "Traverse": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Traverse&n1%5B%5D=0&n0=search",
-    "cards": 5
+    "cards": 6
    }
   },
   "errors": [],
