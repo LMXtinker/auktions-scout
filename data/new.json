@@ -1,1309 +1,146 @@
 {
- "generated": "2026-10-02T09:44:17+00:00",
- "count": 125,
+ "generated": "2026-10-03T09:07:29+00:00",
+ "count": 14,
  "lots": [
   {
-   "url": "https://www.aurena.at/posten/5328942",
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-11",
    "site": "aurena",
-   "text": "1760 | Beamer Sanyo und Leinwand | 1 7 | TAGE | : | 2 3 | STD | Gebote: 0 | € 12\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5329284",
-   "site": "aurena",
-   "text": "5085 | Beamer Sanyo PLC-XU88 | 1 8 | TAGE | : | 0 0 | STD | Gebote: 0 | € 30\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5320414",
-   "site": "aurena",
-   "text": "788 | LED Strahler Mister Beams | 0 8 | TAGE | : | 2 2 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5320427",
-   "site": "aurena",
-   "text": "801 | 2 Bewegungssensoren Mister Beams | 0 8 | TAGE | : | 2 2 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5323764",
-   "site": "aurena",
-   "text": "4154 | 3 Treppennachtlichter Mister Beams | 0 9 | TAGE | : | 0 2 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5320416",
-   "site": "aurena",
-   "text": "790 | LED Strahler Mister Beams | 0 8 | TAGE | : | 2 2 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5320415",
-   "site": "aurena",
-   "text": "789 | LED Strahler Mister Beams | 0 8 | TAGE | : | 2 2 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5320425",
-   "site": "aurena",
-   "text": "799 | 3 Bewegungssensoren Mister Beams | 0 8 | TAGE | : | 2 2 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5320423",
-   "site": "aurena",
-   "text": "797 | 3 Bewegungssensoren Mister Beams | 0 8 | TAGE | : | 2 2 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5320424",
-   "site": "aurena",
-   "text": "798 | 3 Bewegungssensoren Mister Beams | 0 8 | TAGE | : | 2 2 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5320426",
-   "site": "aurena",
-   "text": "800 | 4 Bewegungssensoren Mister Beams | 0 8 | TAGE | : | 2 2 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5323763",
-   "site": "aurena",
-   "text": "4153 | 5 Treppennachtlichter Mister Beams | 0 9 | TAGE | : | 0 2 | STD | Gebote: 3 | € 3\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5320407",
-   "site": "aurena",
-   "text": "781 | Outdoor LED Leuchte Mister Beams | 0 8 | TAGE | : | 2 2 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5320404",
-   "site": "aurena",
-   "text": "778 | 2 Outdoor Leuchten Mister Beams | 0 8 | TAGE | : | 2 2 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5320419",
-   "site": "aurena",
-   "text": "793 | 2 LED Strahler Mister Beams | 0 8 | TAGE | : | 2 2 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5320406",
-   "site": "aurena",
-   "text": "780 | Outdoor LED Leuchte Mister Beams | 0 8 | TAGE | : | 2 2 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5320402",
-   "site": "aurena",
-   "text": "776 | 2 Outdoor Leuchten Mister Beams | 0 8 | TAGE | : | 2 2 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5320418",
-   "site": "aurena",
-   "text": "792 | 2 LED Strahler Mister Beams | 0 8 | TAGE | : | 2 2 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5320405",
-   "site": "aurena",
-   "text": "779 | 7 Outdoor Leuchten Mister Beams | 0 8 | TAGE | : | 2 2 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5320412",
-   "site": "aurena",
-   "text": "786 | 2 LED Strahler Mister Beams | 0 8 | TAGE | : | 2 2 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5320413",
-   "site": "aurena",
-   "text": "787 | 2 LED Strahler Mister Beams | 0 8 | TAGE | : | 2 2 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5320417",
-   "site": "aurena",
-   "text": "791 | 2 LED Strahler Mister Beams | 0 8 | TAGE | : | 2 2 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5320429",
-   "site": "aurena",
-   "text": "803 | 2 LED Strahler Mister Beams | 0 8 | TAGE | : | 2 2 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5320430",
-   "site": "aurena",
-   "text": "804 | 2 LED Deckenleuchten Mister Beams | 0 8 | TAGE | : | 2 2 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5323220",
-   "site": "aurena",
-   "text": "3610 | Outdoor LED Leuchte Mister Beams | 0 9 | TAGE | : | 0 2 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5320408",
-   "site": "aurena",
-   "text": "782 | Outdoor LED Leuchte Mister Beams | 0 8 | TAGE | : | 2 2 | STD | Gebote: 3 | € 3\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5320410",
-   "site": "aurena",
-   "text": "784 | Outdoor LED Leuchte Mister Beams | 0 8 | TAGE | : | 2 2 | STD | Gebote: 3 | € 3\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5320409",
-   "site": "aurena",
-   "text": "783 | Outdoor LED Leuchte Mister Beams | 0 8 | TAGE | : | 2 2 | STD | Gebote: 3 | € 3\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-7",
-   "site": "aurena",
-   "text": "1473 | Krantraverse Kröger | 1 2 | TAGE | : | 2 1 | STD | Gebote: 0 | € 360\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "text": "217 | Palettenregal Nedcon, ca. 8,9 lfm | 1 3 | TAGE | : | 0 5 | STD | Gebote: 0 | € 120\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Traverse"
    ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
+   "first_seen": "2026-10-03T09:07:29+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-8",
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-12",
    "site": "aurena",
-   "text": "1502 | Krantraverse Siegert | 1 2 | TAGE | : | 2 1 | STD | Gebote: 0 | € 120\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "text": "218 | Palettenregal Nedcon, ca. 8,9 lfm | 1 3 | TAGE | : | 0 5 | STD | Gebote: 0 | € 120\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Traverse"
    ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
+   "first_seen": "2026-10-03T09:07:29+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-9",
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-13",
    "site": "aurena",
-   "text": "90 | Palette mit Fahrzeughubtraverse | 0 4 | TAGE | : | 0 1 | STD | Gebote: 1 | € 70\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "text": "243 | Palettenregal Nedcon, ca. 8,9 lfm | 1 3 | TAGE | : | 0 5 | STD | Gebote: 1 | € 120\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Traverse"
    ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
+   "first_seen": "2026-10-03T09:07:29+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-10",
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-14",
    "site": "aurena",
-   "text": "1499 | Krantraverse Kröger, 20 t | 1 2 | TAGE | : | 2 1 | STD | Gebote: 0 | € 240\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "text": "219 | Palettenregal Nedcon, ca. 8,9 lfm | 1 3 | TAGE | : | 0 5 | STD | Gebote: 0 | € 160\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Traverse"
    ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
+   "first_seen": "2026-10-03T09:07:29+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/bulo-vitra-%E2%80%93-workstation-200x100-A1-50577-197",
-   "site": "troostwijk/surplex",
-   "text": "BULO/Vitra – Workstation 200x100\nStandort: Boven-Leeuwen (NL)\nAktuelles Gebot: 1 EUR · Gebote: 0\nEnde: 2026-10-19T18:07:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-15",
+   "site": "aurena",
+   "text": "241 | Palettenregal Nedcon, ca. 8,9 lfm | 1 3 | TAGE | : | 0 5 | STD | Gebote: 0 | € 160\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
    "img_alt": "",
    "keywords": [
-    "Workstation"
+    "Traverse"
    ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
+   "first_seen": "2026-10-03T09:07:29+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/rexroth-bosch-%E2%80%93-high-low-workstation-mit-puc-exaktmoment-schraubendrehern-%E2%80%93-workbench-A1-50076-1073",
-   "site": "troostwijk/surplex",
-   "text": "Rexroth Bosch – High/Low Workstation mit PUC-Exaktmoment-Schraubendrehern – Workbench\nStandort: Varsseveld (NL)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-10-21T14:42:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-16",
+   "site": "aurena",
+   "text": "242 | Palettenregal Nedcon, ca. 8,9 lfm | 1 3 | TAGE | : | 0 5 | STD | Gebote: 0 | € 160\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
    "img_alt": "",
    "keywords": [
-    "Workstation"
+    "Traverse"
    ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
+   "first_seen": "2026-10-03T09:07:29+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/garantec-gaming-recliner-gaming-sessel-A1-48746-30",
+   "url": "https://www.troostwijkauctions.com/de/l/zotac-zbox-magnus-one-zotac-zbox-magnus-one-high-performance-gaming-mini-pc-desktop-A1-50624-39",
    "site": "troostwijk/surplex",
-   "text": "Garantec Gaming Recliner Gaming-Sessel\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-29T14:09:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/garantec-gaming-recliner-gaming-sessel-A1-48746-33",
-   "site": "troostwijk/surplex",
-   "text": "Garantec Gaming Recliner Gaming-Sessel\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-29T14:11:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "ZOTAC - ZBOX MAGNUS ONE - ZOTAC ZBOX MAGNUS ONE High-Performance Gaming Mini PC / Desktop\nStandort: Cristian, Jud. Brasov (RO)\nAktuelles Gebot: 210 EUR · Gebote: 2\nEnde: 2026-11-04T12:21:00+00:00 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Gaming PC"
    ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
+   "first_seen": "2026-10-03T09:07:29+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/garantec-gaming-recliner-gaming-sessel-A1-48746-31",
+   "url": "https://www.troostwijkauctions.com/de/l/viele-6x-premium-gaming-headsets-%28razer-steelseries-corsair-hyperx%29-A1-50624-34",
    "site": "troostwijk/surplex",
-   "text": "Garantec Gaming Recliner Gaming-Sessel\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-29T14:11:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "Viele 6x Premium-Gaming-Headsets (Razer, SteelSeries, Corsair, HyperX)\nStandort: Cristian, Jud. Brasov (RO)\nAktuelles Gebot: 80 EUR · Gebote: 1\nEnde: 2026-11-04T12:19:00+00:00 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Gaming PC"
    ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
+   "first_seen": "2026-10-03T09:07:29+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/garantec-gaming-recliner-gaming-sessel-A1-48746-34",
+   "url": "https://www.troostwijkauctions.com/de/l/viele-7x-premium-gaming-headsets-%28razer-steelseries-hyperx-corsair%29-A1-50624-33",
    "site": "troostwijk/surplex",
-   "text": "Garantec Gaming Recliner Gaming-Sessel\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-29T14:11:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "Viele 7x Premium-Gaming-Headsets (Razer, SteelSeries, HyperX, Corsair)\nStandort: Cristian, Jud. Brasov (RO)\nAktuelles Gebot: 80 EUR · Gebote: 1\nEnde: 2026-11-04T12:18:00+00:00 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Gaming PC"
    ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
+   "first_seen": "2026-10-03T09:07:29+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/garantec-gaming-recliner-gaming-sessel-A1-48746-29",
+   "url": "https://www.troostwijkauctions.com/de/l/sgm-tiger-ph7-62-mm-1080-w-m%C2%B2-ledwand-innen-led-panel-%E2%80%93-6-teile-flightcase-A1-48746-275",
    "site": "troostwijk/surplex",
-   "text": "Garantec Gaming Recliner Gaming-Sessel\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-29T14:09:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/garantec-gaming-recliner-gaming-sessel-A1-48746-32",
-   "site": "troostwijk/surplex",
-   "text": "Garantec Gaming Recliner Gaming-Sessel\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-29T14:11:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/garantec-gaming-recliner-gaming-sessel-A1-48746-35",
-   "site": "troostwijk/surplex",
-   "text": "Garantec Gaming Recliner Gaming-Sessel\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-29T14:11:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/charge-von-autoradios-und-gaming-lautsprechern-%28insgesamt-30-stuck%29-A1-47447-177",
-   "site": "troostwijk/surplex",
-   "text": "Charge von Autoradios und Gaming-Lautsprechern (insgesamt 30 Stück)\nStandort: Hengelo (NL)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-10-16T08:18:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/charge-von-autoradios-und-gaming-lautsprechern-%28insgesamt-10-stuck%29-A1-47447-178",
-   "site": "troostwijk/surplex",
-   "text": "Charge von Autoradios und Gaming-Lautsprechern (insgesamt 10 Stück)\nStandort: Hengelo (NL)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-10-16T08:10:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/vislilapex-%E2%80%93-beamer-%2B-projektionsleinwand-A1-50498-136",
-   "site": "troostwijk/surplex",
-   "text": "Vislilapex – Beamer + Projektionsleinwand\nStandort: Zaltbommel (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-15T17:24:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/beaver-tm508-maher-A1-47392-322",
-   "site": "troostwijk/surplex",
-   "text": "Beaver TM508 Mäher\nStandort: BORGER (NL)\nAktuelles Gebot: 500 EUR · Gebote: 0\nEnde: 2026-10-15T18:33:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/reamer-A1-50076-195",
-   "site": "troostwijk/surplex",
-   "text": "Reamer\nStandort: Aalten (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-21T12:54:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/charge-verschiedener-metallbohrer-und-reibmaschinen-%E2%80%93-bohrer-reamer-A1-50076-141",
-   "site": "troostwijk/surplex",
-   "text": "Charge verschiedener Metallbohrer und -reibmaschinen – Bohrer & Reamer\nStandort: Aalten (NL)\nAktuelles Gebot: 5 EUR · Gebote: 0\nEnde: 2026-10-21T12:53:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/reamer-A1-50076-249",
-   "site": "troostwijk/surplex",
-   "text": "Reamer\nStandort: Aalten (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-21T14:16:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/medium-%E2%80%93-niedervolt-2-%E2%80%93-projektor-A1-50076-340",
-   "site": "troostwijk/surplex",
-   "text": "Medium – Niedervolt 2 – Projektor\nStandort: Aalten (NL)\nAktuelles Gebot: 25 EUR · Gebote: 0\nEnde: 2026-10-21T14:31:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/pc-fal-1000w-etwa-26-pcs-%E2%80%93-projektor-pcs-A1-48746-219",
-   "site": "troostwijk/surplex",
-   "text": "PC Fal 1000W etwa 26 PCs – Projektor-PCs\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 2 EUR · Gebote: 0\nEnde: 2026-10-29T15:09:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/strand-castor-2000w-fresnel-projektor-2000w-%2818x%29-A1-48746-88",
-   "site": "troostwijk/surplex",
-   "text": "Strand - Castor 2000W - Fresnel-Projektor 2000W (18x)\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-29T14:29:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/eiki-projektor-A1-48746-74",
-   "site": "troostwijk/surplex",
-   "text": "Eiki-Projektor\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-29T14:25:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/eiki-lc-xb43-projektor-A1-48746-39",
-   "site": "troostwijk/surplex",
-   "text": "Eiki LC-XB43 Projektor\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 20 EUR · Gebote: 0\nEnde: 2026-10-29T14:13:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/dodge-charger-r-t-plus-max-%7C-5-7-hemi-v8-%7C-375-ps-%7C-2014-%7C-20-zoll-performance-felgen-%7C-sportfederung-%7C-hid-projektorscheinwerfer-%7C-margin-auto-A1-48950-58",
-   "site": "troostwijk/surplex",
-   "text": "Dodge Charger R/T Plus Max | 5.7 HEMI V8 | 375 PS | 2014 | 20-Zoll-Performance-Felgen | Sportfederung | HID-Projektorscheinwerfer | Margin-Auto\nStandort: De Mortel (NL)\nAktuelles Gebot: 6000 EUR · Gebote: 0\nEnde: 2026-10-12T17:04:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/spotlight-abbildung-12-verschiedene-theaterprojektoren-etwa-16-stuck-A1-48746-142",
-   "site": "troostwijk/surplex",
-   "text": "Spotlight Abbildung 12 Verschiedene Theaterprojektoren etwa 16 Stück\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 15 EUR · Gebote: 0\nEnde: 2026-10-29T14:45:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/spotlight-vario-12-theaterprojektoren-mit-fahnen-ca-8-stuck-%288x%29-A1-48746-78",
-   "site": "troostwijk/surplex",
-   "text": "Spotlight Vario 12 Theaterprojektoren mit Fahnen ca. 8 Stück (8x)\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-29T14:25:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/spotlight-pc-500w-verschiedene-theaterprojektoren-etwa-32-stucke-A1-48746-139",
-   "site": "troostwijk/surplex",
-   "text": "Spotlight PC 500w Verschiedene Theaterprojektoren etwa 32 Stücke\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 15 EUR · Gebote: 0\nEnde: 2026-10-29T14:45:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/spotlight-va-1000w-verschiedene-theaterprojektoren-etwa-20-stuck-A1-48746-143",
-   "site": "troostwijk/surplex",
-   "text": "Spotlight VA 1000w Verschiedene Theaterprojektoren etwa 20 Stück\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 20 EUR · Gebote: 0\nEnde: 2026-10-29T14:47:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/spotlight-theatrical-pc-1kw-1-2kw-verschiedene-theatrical-projektoren-etwa-21-stuck-A1-48746-140",
-   "site": "troostwijk/surplex",
-   "text": "Spotlight Theatrical PC 1kw 1,2kw Verschiedene Theatrical Projektoren etwa 21 Stück\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 25 EUR · Gebote: 0\nEnde: 2026-10-29T14:45:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/qs20-2kw-verschiedene-theaterprojektoren-spotlight-pc-etwa-11-stuck-A1-48746-141",
-   "site": "troostwijk/surplex",
-   "text": "QS20 2kw Verschiedene Theaterprojektoren Spotlight PC etwa 11 Stück\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 25 EUR · Gebote: 0\nEnde: 2026-10-29T14:45:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/mawialux-led-badezimmerspiegel-%E2%80%93-bluetooth-%E2%80%93-noel-%E2%80%93-verschiedene-gro%C3%9Fen-und-farben-A1-47165-55",
-   "site": "troostwijk/surplex",
-   "text": "Mawialux LED-Badezimmerspiegel – Bluetooth – Noël – verschiedene Größen und Farben\nStandort: Hengelo (NL)\nAktuelles Gebot: 165 EUR · Gebote: 0\nEnde: 2026-10-11T18:08:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/vidwall-lvp603-led-videoprozessor-fur-sgm-tiger-led-panel-A1-48746-352",
-   "site": "troostwijk/surplex",
-   "text": "Vidwall LVP603 LED-Videoprozessor für SGM Tiger LED-Panel\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-29T15:53:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/vidwall-lvp603-led-videoprozessor-fur-sgm-tiger-led-panel-A1-48746-351",
-   "site": "troostwijk/surplex",
-   "text": "Vidwall LVP603 LED-Videoprozessor für SGM Tiger LED-Panel\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-29T15:53:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/prolights-led-matrix-18-weitere-beleuchtungsgerate-etwa-6-stuck-A1-48746-184",
-   "site": "troostwijk/surplex",
-   "text": "Prolights LED Matrix 18 Weitere Beleuchtungsgeräte etwa 6 Stück\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 40 EUR · Gebote: 0\nEnde: 2026-10-29T14:59:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-tiger-ph7-62mm-1080-w-sq-led-wand-innen-led-panel-%E2%80%93-4-teile-im-flightcase-A1-48746-283",
-   "site": "troostwijk/surplex",
-   "text": "Sgm Tiger PH7,62mm 1080 W/sq LED-Wand-Innen-LED-Panel – 4 Teile im Flightcase\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-29T15:31:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-palco-genio-ripalta-optics-multiple-single-led-optiken-%E2%80%93-verschiedene-led-optiken-A1-48746-285",
-   "site": "troostwijk/surplex",
-   "text": "SGM Palco/Genio/Ripalta Optics Multiple Single LED Optiken – Verschiedene LED-Optiken\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-29T15:31:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/ersatzteile-sgm-tiger-ph7-62mm-1080w-sqm-led-innenwand-led-panel-%E2%80%93-4-teile-im-flugcase-A1-48746-284",
-   "site": "troostwijk/surplex",
-   "text": "Ersatzteile: Sgm Tiger PH7,62mm 1080w/sqm LED-Innenwand-LED-Panel – 4 Teile im Flugcase\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 20 EUR · Gebote: 0\nEnde: 2026-10-29T15:31:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/ayrton-%E2%80%93-magische-klinge-%E2%80%93-led-beweglicher-kopf-A1-48746-491",
-   "site": "troostwijk/surplex",
-   "text": "Ayrton – Magische Klinge – LED-Beweglicher Kopf\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 350 EUR · Gebote: 0\nEnde: 2026-10-29T16:41:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-tiger-ph7-62-mm-1080-w-m%C2%B2-ledwand-innen-led-panel-%E2%80%93-6-teile-flightcase-A1-48746-250",
-   "site": "troostwijk/surplex",
-   "text": "Sgm Tiger PH7,62 mm 1080 W/m² LEDWAND Innen-LED-Panel – 6 Teile Flightcase\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-29T15:21:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-tiger-ph7-62-mm-1080-w-m%C2%B2-ledwand-innen-led-panel-%E2%80%93-6-teile-flightcase-A1-48746-248",
-   "site": "troostwijk/surplex",
-   "text": "Sgm Tiger PH7,62 mm 1080 W/m² LEDWAND Innen-LED-Panel – 6 Teile Flightcase\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-29T15:19:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-tiger-ph7-62-mm-1080-w-m%C2%B2-ledwand-innen-led-panel-%E2%80%93-6-teile-flightcase-A1-48746-270",
-   "site": "troostwijk/surplex",
-   "text": "Sgm Tiger PH7,62 mm 1080 W/m² LEDWAND Innen-LED-Panel – 6 Teile Flightcase\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-29T15:27:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-tiger-ph7-62-mm-1080-w-m%C2%B2-ledwand-innen-led-panel-%E2%80%93-6-teile-flightcase-A1-48746-246",
-   "site": "troostwijk/surplex",
-   "text": "Sgm Tiger PH7,62 mm 1080 W/m² LEDWAND Innen-LED-Panel – 6 Teile Flightcase\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-29T15:19:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-tiger-ph7-62-mm-1080-w-m%C2%B2-ledwand-innen-led-panel-%E2%80%93-6-teile-flightcase-A1-48746-272",
-   "site": "troostwijk/surplex",
-   "text": "Sgm Tiger PH7,62 mm 1080 W/m² LEDWAND Innen-LED-Panel – 6 Teile Flightcase\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-29T15:27:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/led-streifen-ca-20-boxen-A1-48746-123",
-   "site": "troostwijk/surplex",
-   "text": "LED-Streifen ca. 20 Boxen\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 20 EUR · Gebote: 0\nEnde: 2026-10-29T14:41:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/ayrton-%E2%80%93-magische-klinge-%E2%80%93-led-beweglicher-kopf-A1-48746-498",
-   "site": "troostwijk/surplex",
-   "text": "Ayrton – Magische Klinge – LED-Beweglicher Kopf\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 350 EUR · Gebote: 0\nEnde: 2026-10-29T16:43:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/vidwall-sendekarte-fur-sgm-tiger-led-panel-A1-48746-356",
-   "site": "troostwijk/surplex",
-   "text": "Vidwall-Sendekarte für SGM Tiger LED-Panel\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 30 EUR · Gebote: 0\nEnde: 2026-10-29T15:55:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/prolights-alphapix2-9-flightcase-6-kacheln-50x50-led-panel-2-9-%286x%29-A1-48746-430",
-   "site": "troostwijk/surplex",
-   "text": "Prolights - AlphaPix2.9 Flightcase 6 Kacheln 50x50 - LED-Panel 2.9 (6x)\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 2026-10-29T16:19:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-tiger-ph7-62-mm-1080-w-m%C2%B2-ledwand-innen-led-panel-%E2%80%93-6-teile-flightcase-A1-48746-257",
-   "site": "troostwijk/surplex",
-   "text": "Sgm Tiger PH7,62 mm 1080 W/m² LEDWAND Innen-LED-Panel – 6 Teile Flightcase\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-29T15:23:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-tiger-ph7-62-mm-1080-w-m%C2%B2-ledwand-innen-led-panel-%E2%80%93-6-teile-flightcase-A1-48746-233",
-   "site": "troostwijk/surplex",
-   "text": "Sgm Tiger PH7,62 mm 1080 W/m² LEDWAND Innen-LED-Panel – 6 Teile Flightcase\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-29T15:15:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/vidwall-sendekarte-fur-sgm-tiger-led-panel-A1-48746-355",
-   "site": "troostwijk/surplex",
-   "text": "Vidwall-Sendekarte für SGM Tiger LED-Panel\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 30 EUR · Gebote: 0\nEnde: 2026-10-29T15:55:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/ayrton-%E2%80%93-magische-klinge-%E2%80%93-led-beweglicher-kopf-A1-48746-502",
-   "site": "troostwijk/surplex",
-   "text": "Ayrton – Magische Klinge – LED-Beweglicher Kopf\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 350 EUR · Gebote: 0\nEnde: 2026-10-29T16:43:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-tiger-ph7-62-mm-1080-w-m%C2%B2-ledwand-innen-led-panel-%E2%80%93-6-teile-flightcase-A1-48746-234",
-   "site": "troostwijk/surplex",
-   "text": "Sgm Tiger PH7,62 mm 1080 W/m² LEDWAND Innen-LED-Panel – 6 Teile Flightcase\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-29T15:15:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/vidwall-sendekarte-fur-sgm-tiger-led-panel-A1-48746-357",
-   "site": "troostwijk/surplex",
-   "text": "Vidwall-Sendekarte für SGM Tiger LED-Panel\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 30 EUR · Gebote: 0\nEnde: 2026-10-29T15:55:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-tiger-ph7-62-mm-1080-w-m%C2%B2-ledwand-innen-led-panel-%E2%80%93-6-teile-flightcase-A1-48746-276",
-   "site": "troostwijk/surplex",
-   "text": "Sgm Tiger PH7,62 mm 1080 W/m² LEDWAND Innen-LED-Panel – 6 Teile Flightcase\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-29T15:29:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/prolights-alphapix2-9-flightcase-6-kacheln-50x50-led-panel-2-9-%286x%29-A1-48746-428",
-   "site": "troostwijk/surplex",
-   "text": "Prolights - AlphaPix2.9 Flightcase 6 Kacheln 50x50 - LED-Panel 2.9 (6x)\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 2026-10-29T16:19:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/prolights-alphapix2-9-led-panel-2-9-%288x%29-A1-48746-435",
-   "site": "troostwijk/surplex",
-   "text": "Prolights - AlphaPix2.9 - LED-Panel 2.9 (8x)\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 300 EUR · Gebote: 0\nEnde: 2026-10-29T16:21:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-tiger-ph7-62-mm-1080-w-m%C2%B2-ledwand-innen-led-panel-%E2%80%93-6-teile-flightcase-A1-48746-245",
-   "site": "troostwijk/surplex",
-   "text": "Sgm Tiger PH7,62 mm 1080 W/m² LEDWAND Innen-LED-Panel – 6 Teile Flightcase\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-29T15:19:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-tiger-ph7-62-mm-1080-w-m%C2%B2-ledwand-innen-led-panel-%E2%80%93-6-teile-flightcase-A1-48746-266",
-   "site": "troostwijk/surplex",
-   "text": "Sgm Tiger PH7,62 mm 1080 W/m² LEDWAND Innen-LED-Panel – 6 Teile Flightcase\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-29T15:25:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/ayrton-%E2%80%93-magische-klinge-%E2%80%93-led-beweglicher-kopf-A1-48746-495",
-   "site": "troostwijk/surplex",
-   "text": "Ayrton – Magische Klinge – LED-Beweglicher Kopf\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 350 EUR · Gebote: 0\nEnde: 2026-10-29T16:41:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/ayrton-%E2%80%93-magische-klinge-%E2%80%93-led-beweglicher-kopf-A1-48746-505",
-   "site": "troostwijk/surplex",
-   "text": "Ayrton – Magische Klinge – LED-Beweglicher Kopf\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 350 EUR · Gebote: 0\nEnde: 2026-10-29T16:45:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/prolights-alphapix2-9-flightcase-6-kacheln-50x50-led-panel-2-9-%286x%29-A1-48746-432",
-   "site": "troostwijk/surplex",
-   "text": "Prolights - AlphaPix2.9 Flightcase 6 Kacheln 50x50 - LED-Panel 2.9 (6x)\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 2026-10-29T16:21:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/dts-katana-led-moving-head-%283x%29-A1-48746-484",
-   "site": "troostwijk/surplex",
-   "text": "DTS - Katana - LED Moving Head (3x)\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 750 EUR · Gebote: 0\nEnde: 2026-10-29T16:37:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall",
-    "Moving Head"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/prolights-alphapix2-9-flightcase-6-kacheln-50x50-led-panel-2-9-%286x%29-A1-48746-431",
-   "site": "troostwijk/surplex",
-   "text": "Prolights - AlphaPix2.9 Flightcase 6 Kacheln 50x50 - LED-Panel 2.9 (6x)\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 2026-10-29T16:21:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/vidwall-sendekarte-fur-sgm-tiger-led-panel-A1-48746-354",
-   "site": "troostwijk/surplex",
-   "text": "Vidwall-Sendekarte für SGM Tiger LED-Panel\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 30 EUR · Gebote: 0\nEnde: 2026-10-29T15:55:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-tiger-ph7-62-mm-1080-w-m%C2%B2-ledwand-innen-led-panel-%E2%80%93-6-teile-flightcase-A1-48746-260",
-   "site": "troostwijk/surplex",
-   "text": "Sgm Tiger PH7,62 mm 1080 W/m² LEDWAND Innen-LED-Panel – 6 Teile Flightcase\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-29T15:23:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-tiger-ph7-62-mm-1080-w-m%C2%B2-ledwand-innen-led-panel-%E2%80%93-6-teile-flightcase-A1-48746-227",
-   "site": "troostwijk/surplex",
-   "text": "Sgm Tiger PH7,62 mm 1080 W/m² LEDWAND Innen-LED-Panel – 6 Teile Flightcase\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-29T15:13:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-tiger-ph7-62-mm-1080-w-m%C2%B2-ledwand-innen-led-panel-%E2%80%93-6-teile-flightcase-A1-48746-251",
-   "site": "troostwijk/surplex",
-   "text": "Sgm Tiger PH7,62 mm 1080 W/m² LEDWAND Innen-LED-Panel – 6 Teile Flightcase\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-29T15:21:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/dts-katana-led-moving-heads-%283x%29-A1-48746-485",
-   "site": "troostwijk/surplex",
-   "text": "DTS - Katana - LED Moving Heads (3x)\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 750 EUR · Gebote: 0\nEnde: 2026-10-29T16:39:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall",
-    "Moving Head"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-tiger-ph7-62-mm-1080-w-m%C2%B2-ledwand-innen-led-panel-%E2%80%93-6-teile-flightcase-A1-48746-244",
-   "site": "troostwijk/surplex",
-   "text": "Sgm Tiger PH7,62 mm 1080 W/m² LEDWAND Innen-LED-Panel – 6 Teile Flightcase\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-29T15:19:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/prolights-alphapix2-9-flightcase-6-kacheln-50x50-led-panel-2-9-%286x%29-A1-48746-427",
-   "site": "troostwijk/surplex",
-   "text": "Prolights - AlphaPix2.9 Flightcase 6 Kacheln 50x50 - LED-Panel 2.9 (6x)\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 2026-10-29T16:19:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/ayrton-%E2%80%93-magische-klinge-%E2%80%93-led-beweglicher-kopf-A1-48746-499",
-   "site": "troostwijk/surplex",
-   "text": "Ayrton – Magische Klinge – LED-Beweglicher Kopf\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 350 EUR · Gebote: 0\nEnde: 2026-10-29T16:43:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-tiger-ph7-62-mm-1080-w-m%C2%B2-ledwand-innen-led-panel-%E2%80%93-6-teile-flightcase-A1-48746-281",
-   "site": "troostwijk/surplex",
-   "text": "Sgm Tiger PH7,62 mm 1080 W/m² LEDWAND Innen-LED-Panel – 6 Teile Flightcase\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-29T15:31:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/ayrton-%E2%80%93-magische-klinge-%E2%80%93-led-beweglicher-kopf-A1-48746-490",
-   "site": "troostwijk/surplex",
-   "text": "Ayrton – Magische Klinge – LED-Beweglicher Kopf\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 350 EUR · Gebote: 0\nEnde: 2026-10-29T16:39:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-tiger-ph7-62-mm-1080-w-m%C2%B2-ledwand-innen-led-panel-%E2%80%93-6-teile-flightcase-A1-48746-269",
-   "site": "troostwijk/surplex",
-   "text": "Sgm Tiger PH7,62 mm 1080 W/m² LEDWAND Innen-LED-Panel – 6 Teile Flightcase\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-29T15:27:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/dts-katana-led-moving-heads-%283x%29-A1-48746-486",
-   "site": "troostwijk/surplex",
-   "text": "DTS - Katana - LED Moving Heads (3x)\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 750 EUR · Gebote: 0\nEnde: 2026-10-29T16:39:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall",
-    "Moving Head"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/led-streifen-ca-19-boxen-A1-48746-127",
-   "site": "troostwijk/surplex",
-   "text": "LED-Streifen: ca. 19 Boxen\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 20 EUR · Gebote: 0\nEnde: 2026-10-29T14:41:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/ayrton-%E2%80%93-magische-klinge-%E2%80%93-led-beweglicher-kopf-A1-48746-496",
-   "site": "troostwijk/surplex",
-   "text": "Ayrton – Magische Klinge – LED-Beweglicher Kopf\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 350 EUR · Gebote: 0\nEnde: 2026-10-29T16:41:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-tiger-ph7-62mm-1080w-mq-ledwand-innenraum-led-panels-%286x%29-A1-48746-274",
-   "site": "troostwijk/surplex",
-   "text": "Sgm - Tiger PH7,62mm 1080W/mq LEDWAND Innenraum - LED-Panels (6x)\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-29T15:29:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-tiger-ph7-62-mm-1080-w-m%C2%B2-ledwand-innen-led-panel-%E2%80%93-6-teile-flightcase-A1-48746-231",
-   "site": "troostwijk/surplex",
-   "text": "Sgm Tiger PH7,62 mm 1080 W/m² LEDWAND Innen-LED-Panel – 6 Teile Flightcase\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-29T15:13:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/ayrton-%E2%80%93-magische-klinge-%E2%80%93-led-beweglicher-kopf-A1-48746-497",
-   "site": "troostwijk/surplex",
-   "text": "Ayrton – Magische Klinge – LED-Beweglicher Kopf\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 350 EUR · Gebote: 0\nEnde: 2026-10-29T16:43:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/ayrton-%E2%80%93-magische-klinge-%E2%80%93-led-beweglicher-kopf-A1-48746-501",
-   "site": "troostwijk/surplex",
-   "text": "Ayrton – Magische Klinge – LED-Beweglicher Kopf\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 350 EUR · Gebote: 0\nEnde: 2026-10-29T16:43:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "Sgm Tiger PH7,62 mm 1080 W/m² LEDWAND Innen-LED-Panel – 6 Teile Flightcase\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-29T15:29:00+00:00 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wall"
    ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
+   "first_seen": "2026-10-03T09:07:29+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-%E2%80%93-giotto-spot-250-%E2%80%93-moving-head-%282x%29-A1-48746-157",
+   "url": "https://www.troostwijkauctions.com/de/l/kroger-1980-krantraverse-A1-50608-3",
    "site": "troostwijk/surplex",
-   "text": "SGM – Giotto-Spot 250 – Moving Head (2x)\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 20 EUR · Gebote: 0\nEnde: 2026-10-29T14:51:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "KRÖGER - 1980 - Krantraverse\nStandort: Hagen (DE)\nAktuelles Gebot: 5000 EUR · Gebote: 0\nEnde: 2026-10-28T13:02:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
-    "Moving Head"
+    "Traverse"
    ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
+   "first_seen": "2026-10-03T09:07:29+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-%E2%80%93-giotto-spot-250-%E2%80%93-moving-head-%282x%29-A1-48746-156",
+   "url": "https://www.troostwijkauctions.com/de/l/kroger-1970-krantraverse-A1-50608-93",
    "site": "troostwijk/surplex",
-   "text": "SGM – Giotto-Spot 250 – Moving Head (2x)\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 20 EUR · Gebote: 0\nEnde: 2026-10-29T14:51:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "KRÖGER - 1970 - Krantraverse\nStandort: Hagen (DE)\nAktuelles Gebot: 1 EUR · Gebote: 0\nEnde: 2026-10-28T13:46:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
-    "Moving Head"
+    "Traverse"
    ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
+   "first_seen": "2026-10-03T09:07:29+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/dts-katana-led-moving-head-%283x%29-A1-48746-487",
-   "site": "troostwijk/surplex",
-   "text": "DTS - Katana - LED Moving Head (3x)\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 750 EUR · Gebote: 0\nEnde: 2026-10-29T16:39:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Moving Head"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-%E2%80%93-giotto-spot-250-%E2%80%93-moving-heads-%282x%29-A1-48746-158",
-   "site": "troostwijk/surplex",
-   "text": "SGM – Giotto Spot 250 – Moving Heads (2x)\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 20 EUR · Gebote: 0\nEnde: 2026-10-29T14:51:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Moving Head"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/bm-moving-lift-A1-50122-42",
-   "site": "troostwijk/surplex",
-   "text": "Bm Moving Lift\nStandort: Zottegem (BE)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-10-27T13:21:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Moving Head"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_interaktive_Tafel_gebraucht_Hersteller_unbekannt/979635",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_Passat_Variant_20_TDI_BD16800/982251",
    "site": "zoll-auktion",
-   "text": "1 interaktive Tafel (gebraucht) Hersteller unbekannt\nBeobachtung Auktion 979635 verwalten\nAuktion in Beobachtung nehmen.\n1 interaktive Tafel (gebraucht) Hersteller unbekannt\n04874 Belgern\nNur Abholung möglich!\n8 Tage 1 Std. 44 Min.\n0 Gebote\n149,00 EUR",
-   "img_alt": "Frontansicht",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_ProjektorBeamerlampe_NEC_NP06LP/983019",
-   "site": "zoll-auktion",
-   "text": "1 Projektor-/Beamerlampe NEC NP06LP\nBeobachtung Auktion 983019 verwalten\nAuktion in Beobachtung nehmen.\n1 Projektor-/B­eamerlampe NEC NP06LP\n92526 Oberviechtach\n27 Tage 1 Std. 19 Min.\n0 Gebote\n75,00 EUR",
-   "img_alt": "Gesamtansicht",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_ProjektorBeamerlampe_NEC_NP07LP/983211",
-   "site": "zoll-auktion",
-   "text": "1 Projektor-/Beamerlampe NEC NP07LP\nBeobachtung Auktion 983211 verwalten\nAuktion in Beobachtung nehmen.\n1 Projektor-/B­eamerlampe NEC NP07LP\n92526 Oberviechtach\n28 Tage 1 Std. 19 Min.\n0 Gebote\n75,00 EUR",
-   "img_alt": "Gesamtansicht",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/2_Philips_Vari_Lite_VL1000TS_Movinglight_Scheinwerfer_1000WHalogen/982273",
-   "site": "zoll-auktion",
-   "text": "2 Philips Vari Lite VL1000TS Movinglight Scheinwerfer, 1000W-Halogen\nBeobachtung Auktion 982273 verwalten\nAuktion in Beobachtung nehmen.\n2 Philips Vari Lite VL1000TS Movinglight Scheinwerfer­, 1000W-Haloge­n\n53113 Bonn\nNur Abholung möglich!\n3 Tage 21 Std. 14 Min.\n0 Gebote\n400,00 EUR",
-   "img_alt": "Ansicht von oben",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_Passat_Variant_20_TDI_BD163962/981269",
-   "site": "zoll-auktion",
-   "text": "1 VW Passat Variant 2.0 TDI - BD16-3962\nBeobachtung Auktion 981269 verwalten\nAuktion in Beobachtung nehmen.\n1 VW Passat Variant 2.0 TDI - BD16-3962\n56072 Koblenz\nNur Abholung möglich!\n3 Tage 19 Std. 44 Min.\n4 Gebote\n6.600,00 EUR",
+   "text": "1 VW Passat Variant 2.0 TDI - BD16-800\nBeobachtung Auktion 982251 verwalten\nAuktion in Beobachtung nehmen.\n1 VW Passat Variant 2.0 TDI - BD16-800\n56072 Koblenz\nNur Abholung möglich!\n2 Tage 21 Std. 51 Min.\n11 Gebote\n6.900,00 EUR",
    "img_alt": "Frontansicht vorn links",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
+   "first_seen": "2026-10-03T09:07:29+00:00"
   },
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_ID7_Pro_S_BD83725E/981246",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_Passat_Variant_20_TDI_BD168587/981465",
    "site": "zoll-auktion",
-   "text": "1 VW ID.7 Pro S - BD8-3725E\nBeobachtung Auktion 981246 verwalten\nAuktion in Beobachtung nehmen.\n1 VW ID.7 Pro S - BD8-3725E\n56072 Koblenz\nNur Abholung möglich!\n3 Tage 19 Std. 44 Min.\n0 Gebote\n43.000,00 EUR",
-   "img_alt": "Frontansicht links",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_Golf_VII_10_TSI_Comfortline_OPF_Unfallfahrzeug_BD169325/981797",
-   "site": "zoll-auktion",
-   "text": "1 VW Golf VII 1.0 TSI Comfortline OPF Unfallfahrzeug - BD16-9325\nBeobachtung Auktion 981797 verwalten\nAuktion in Beobachtung nehmen.\n1 VW Golf VII 1.0 TSI Comfortline OPF Unfallfahrze­ug - BD16-9325\n71636 Ludwigsburg\nNur Abholung möglich!\n3 Tage 20 Std. 44 Min.\n0 Gebote\n4.490,00 EUR",
-   "img_alt": "Frontansicht links",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_Passat_Variant_20_TDI_4Motion_BD164588/981798",
-   "site": "zoll-auktion",
-   "text": "1 VW Passat Variant 2.0 TDI 4Motion - BD16-4588\nBeobachtung Auktion 981798 verwalten\nAuktion in Beobachtung nehmen.\n1 VW Passat Variant 2.0 TDI 4Motion - BD16-4588\n61169 Friedberg (Hessen)\nNur Abholung möglich!\n3 Tage 20 Std. 59 Min.\n4 Gebote\n5.600,00 EUR",
+   "text": "1 VW Passat Variant 2.0 TDI - BD16-8587\nBeobachtung Auktion 981465 verwalten\nAuktion in Beobachtung nehmen.\n1 VW Passat Variant 2.0 TDI - BD16-8587\n56072 Koblenz\nNur Abholung möglich!\n3 Tage 19 Std. 51 Min.\n4 Gebote\n4.350,00 EUR",
    "img_alt": "Frontansicht vorn links",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_MercedesBenz_1124_AF_Allrad_SchlingmannAufbau_LF_1612/983575",
-   "site": "zoll-auktion",
-   "text": "1 Mercedes-Benz 1124 AF Allrad - Schlingmann-Aufbau LF 16/12\nBeobachtung Auktion 983575 verwalten\nAuktion in Beobachtung nehmen.\n1 Mercedes-Ben­z 1124 AF Allrad - Schlingmann-­Aufbau LF 16/12\n32479 Hille\nNur Abholung möglich!\n27 Tage 5 Std. 13 Min.\n2 Gebote\n6.200,00 EUR",
-   "img_alt": "Frontansicht",
-   "keywords": [
-    "Traverse"
-   ],
-   "first_seen": "2026-10-02T09:44:17+00:00"
+   "first_seen": "2026-10-03T09:07:29+00:00"
   }
  ]
 }
