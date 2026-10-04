@@ -60,7 +60,7 @@
    "Beamer": {
     "cards": 81,
     "total_reported": 81,
-    "ids_matched": false
+    "ids_matched": true
    },
    "Projektor": {
     "cards": 11,
@@ -70,7 +70,7 @@
    "LED Wand": {
     "cards": 94,
     "total_reported": 94,
-    "ids_matched": false
+    "ids_matched": true
    },
    "LED Wall": {
     "cards": 0,
@@ -172,7 +172,7 @@
     "cards": 0
    },
    "Moving Head": {
-    "cards": 58
+    "cards": 79
    },
    "Traverse": {
     "cards": 8
