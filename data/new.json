@@ -1,312 +1,513 @@
 {
- "generated": "2026-10-04T09:45:45+00:00",
- "count": 30,
+ "generated": "2026-10-05T10:23:42+00:00",
+ "count": 50,
  "lots": [
   {
-   "url": "https://www.aurena.at/posten/5320401",
+   "url": "https://www.aurena.at/posten/5346902",
    "site": "aurena",
-   "text": "775 | 2 Outdoor Leuchten Mister Beams | 0 6 | TAGE | : | 2 2 | STD | Gebote: 2 | € 2\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "text": "3117 | LED Wandleuchte Philips | 0 8 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5346907",
+   "site": "aurena",
+   "text": "3122 | LED Wandleuchte Philips | 0 8 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5346908",
+   "site": "aurena",
+   "text": "3123 | LED Wandleuchte Philips | 0 8 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5346880",
+   "site": "aurena",
+   "text": "3095 | 2 LED Wandleuchte Flector Fanny | 0 8 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5346903",
+   "site": "aurena",
+   "text": "3118 | LED Wandleuchte Philips, 2-flammig | 0 8 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5346904",
+   "site": "aurena",
+   "text": "3119 | LED Wandleuchte Philips, 3-flammig | 0 8 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5346909",
+   "site": "aurena",
+   "text": "3124 | LED Wandleuchte Philips, 3-flammig | 0 8 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5346925",
+   "site": "aurena",
+   "text": "3140 | LED Wandleuchte Brilliant Briston, dimmbar | 0 8 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5346926",
+   "site": "aurena",
+   "text": "3141 | LED Wandleuchte Brilliant Briston, dimmbar | 0 8 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5346927",
+   "site": "aurena",
+   "text": "3142 | LED Wandleuchte Brilliant Briston, dimmbar | 0 8 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5346928",
+   "site": "aurena",
+   "text": "3143 | LED Wandleuchte Brilliant Briston, dimmbar | 0 8 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5346929",
+   "site": "aurena",
+   "text": "3144 | LED Wandleuchte Brilliant Briston, dimmbar | 0 8 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5346930",
+   "site": "aurena",
+   "text": "3145 | LED Wandleuchte Brilliant Briston, dimmbar | 0 8 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5346931",
+   "site": "aurena",
+   "text": "3146 | LED Wandleuchte Brilliant Briston, dimmbar | 0 8 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5346971",
+   "site": "aurena",
+   "text": "3186 | LED Wandleuchte Flector Sandy, dimmbar | 0 8 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5346972",
+   "site": "aurena",
+   "text": "3187 | LED Wandleuchte Flector Sandy, dimmbar | 0 8 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5346973",
+   "site": "aurena",
+   "text": "3188 | LED Wandleuchte Flector Sandy, dimmbar | 0 8 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5346982",
+   "site": "aurena",
+   "text": "3197 | 3 LED Wandleuchten Flector Juno | 0 8 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5346983",
+   "site": "aurena",
+   "text": "3198 | 3 LED Wandleuchten Flector Juno | 0 8 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5346984",
+   "site": "aurena",
+   "text": "3199 | 3 LED Wandleuchten Flector Juno | 0 8 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5346985",
+   "site": "aurena",
+   "text": "3200 | 3 LED Wandleuchten Flector Juno | 0 8 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5346986",
+   "site": "aurena",
+   "text": "3201 | 3 LED Wandleuchten Flector Juno | 0 8 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5346987",
+   "site": "aurena",
+   "text": "3202 | 3 LED Wandleuchten Flector Juno | 0 8 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5310682",
+   "site": "aurena",
+   "text": "2310 | 6 LED Wandleuchten mit Sensoren Ledvance | 0 4 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5320712",
+   "site": "aurena",
+   "text": "1086 | LED Außenwandleuchte Eglo Sakeda mit Bewegungssensor | 0 5 | TAGE | : | 2 2 | STD | Gebote: 3 | € 3\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5320710",
+   "site": "aurena",
+   "text": "1084 | LED Außenwandleuchte Eglo SA003M mit Bewegungssensor | 0 5 | TAGE | : | 2 2 | STD | Gebote: 4 | € 4\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-17",
+   "site": "aurena",
+   "text": "242 | Palettenregal Nedcon, ca. 8,9 lfm | 1 1 | TAGE | : | 0 4 | STD | Gebote: 0 | € 160\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/xfx-%E2%80%93-speedster-merc-310-%E2%80%93-eine-high-end-amd-grafikkarte-A1-50581-105",
+   "site": "troostwijk/surplex",
+   "text": "XFX – SPEEDSTER MERC 310 – eine High-End-AMD-Grafikkarte\nStandort: Hardenberg (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-11-20T18:19:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Grafikkarte"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/sharknoon-tk4-rgb-midi-gaming-pc-gehause-A1-50581-267",
+   "site": "troostwijk/surplex",
+   "text": "Sharknoon - TK4 RGB MIDI - Gaming-PC-Gehäuse\nStandort: Hardenberg (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-11-20T19:33:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/ranqer-%E2%80%93-apollo-%E2%80%93-gaming-stuhl-A1-50581-115",
+   "site": "troostwijk/surplex",
+   "text": "RANQER – Apollo – Gaming-Stuhl \nStandort: Hardenberg (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-11-20T19:52:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/ranqer-%E2%80%93-apollo-%E2%80%93-gaming-stuhl-A1-50581-179",
+   "site": "troostwijk/surplex",
+   "text": "RANQER – Apollo – Gaming-Stuhl\nStandort: Hardenberg (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-11-20T19:06:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/sony-playstation-3-gaming-zubehor-A1-50581-128",
+   "site": "troostwijk/surplex",
+   "text": "Sony - PlayStation 3 - Gaming-Zubehör\nStandort: Hardenberg (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-11-20T18:38:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/thrustmaster-t248r-gaming-lenkrad-A1-50581-236",
+   "site": "troostwijk/surplex",
+   "text": "Thrustmaster - T248R - Gaming-Lenkrad\nStandort: Hardenberg (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-11-20T19:45:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/omen-qhd-180-hz-gaming-monitor-%2827-zoll%29-A1-50581-438",
+   "site": "troostwijk/surplex",
+   "text": "Omen - QHD 180 Hz - Gaming-Monitor (27 Zoll)\nStandort: Hardenberg (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-11-20T19:36:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gemischt-%E2%80%93-morse-taper-schaftbohrer-reamer-verschiedene-gro%C3%9Fen-%E2%80%93-verschiedene-kegel-schaft-drehbohrer-und-maschinen-reamer-A7-50717-218",
+   "site": "troostwijk/surplex",
+   "text": "Gemischt – Morse-Taper-Schaftbohrer / Reamer, verschiedene Größen – Verschiedene Kegel-Schaft-Drehbohrer und Maschinen-Reamer\nStandort: Falkenberg (DE)\nAktuelles Gebot: 30 EUR · Gebote: 0\nEnde: 2026-10-27T12:08:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "Beamer"
    ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
+   "first_seen": "2026-10-05T10:23:42+00:00"
   },
   {
-   "url": "https://www.aurena.at/posten/5320403",
-   "site": "aurena",
-   "text": "777 | 2 Outdoor Leuchten Mister Beams | 0 6 | TAGE | : | 2 2 | STD | Gebote: 4 | € 3\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5320411",
-   "site": "aurena",
-   "text": "785 | Outdoor LED Leuchte Mister Beams | 0 6 | TAGE | : | 2 2 | STD | Gebote: 5 | € 5\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/prolights-alphapix2-9-flightcase-6-kacheln-50x50-led-panel-2-9-%286x%29-A1-48746-426",
+   "url": "https://www.troostwijkauctions.com/de/l/lp-hfd-red-%E2%80%93-projektor-audio-visuell-A1-50581-195",
    "site": "troostwijk/surplex",
-   "text": "Prolights - AlphaPix2.9 Flightcase 6 Kacheln 50x50 - LED-Panel 2.9 (6x)\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 2026-10-29T16:19:00+00:00 · Status: BIDDING_OPEN",
+   "text": "LP-HFD-RED – Projektor Audio-Visuell\nStandort: Hardenberg (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-11-20T19:54:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Projektor"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/chesto-%E2%80%93-full-hd-pro-android-%E2%80%93-projektor-A1-50581-172",
+   "site": "troostwijk/surplex",
+   "text": "Chesto – Full HD PRO Android – Projektor\nStandort: Hardenberg (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-11-20T19:46:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Projektor"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/chesto-%E2%80%93-full-hd-pro-%E2%80%93-projektor-A1-50581-229",
+   "site": "troostwijk/surplex",
+   "text": "Chesto – Full HD Pro – Projektor\nStandort: Hardenberg (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-11-20T18:31:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Projektor"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/leds-funktionieren-%E2%80%93-duoburst-4000-%E2%80%93-radio-led-lampe-A1-50335-298",
+   "site": "troostwijk/surplex",
+   "text": "LEDs funktionieren – Duoburst 4000 – Radio & LED-Lampe\nStandort: Westerhoven (NL)\nAktuelles Gebot: 25 EUR · Gebote: 0\nEnde: 2026-10-15T17:27:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
+   "first_seen": "2026-10-05T10:23:42+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-tiger-ph7-62-mm-1080-w-m%C2%B2-ledwand-innen-led-panel-%E2%80%93-6-teile-flightcase-A1-48746-236",
+   "url": "https://www.troostwijkauctions.com/de/l/leds-funktionieren-%E2%80%93-duoburst-4000-%E2%80%93-radio-led-lampe-A1-50335-299",
    "site": "troostwijk/surplex",
-   "text": "Sgm Tiger PH7,62 mm 1080 W/m² LEDWAND Innen-LED-Panel – 6 Teile Flightcase\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-29T15:15:00+00:00 · Status: BIDDING_OPEN",
+   "text": "LEDs funktionieren – Duoburst 4000 – Radio & LED-Lampe\nStandort: Westerhoven (NL)\nAktuelles Gebot: 25 EUR · Gebote: 0\nEnde: 2026-10-15T17:38:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
+   "first_seen": "2026-10-05T10:23:42+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-tiger-ph7-62-mm-1080-w-m%C2%B2-ledwand-innen-led-panel-%E2%80%93-6-teile-flightcase-A1-48746-262",
+   "url": "https://www.troostwijkauctions.com/de/l/leds-funktionieren-%E2%80%93-duoburst-4000-%E2%80%93-radio-led-lampe-A1-50335-297",
    "site": "troostwijk/surplex",
-   "text": "Sgm Tiger PH7,62 mm 1080 W/m² LEDWAND Innen-LED-Panel – 6 Teile Flightcase\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-29T15:25:00+00:00 · Status: BIDDING_OPEN",
+   "text": "LEDs funktionieren – Duoburst 4000 – Radio & LED-Lampe\nStandort: Westerhoven (NL)\nAktuelles Gebot: 25 EUR · Gebote: 0\nEnde: 2026-10-15T17:51:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
+   "first_seen": "2026-10-05T10:23:42+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-tiger-ph7-62-mm-1080-w-m%C2%B2-ledwand-innen-led-panel-%E2%80%93-6-teile-flightcase-A1-48746-237",
+   "url": "https://www.troostwijkauctions.com/de/l/48x-eversteel-led-flutlicht-30-watt-A1-50335-130",
    "site": "troostwijk/surplex",
-   "text": "Sgm Tiger PH7,62 mm 1080 W/m² LEDWAND Innen-LED-Panel – 6 Teile Flightcase\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-29T15:15:00+00:00 · Status: BIDDING_OPEN",
+   "text": "48x Eversteel LED-Flutlicht 30 Watt\nStandort: Westerhoven (NL)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 2026-10-15T18:22:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
+   "first_seen": "2026-10-05T10:23:42+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/sgm-tiger-ph7-62-mm-1080-w-m%C2%B2-ledwand-innen-led-panel-%E2%80%93-6-teile-flightcase-A1-48746-271",
+   "url": "https://www.troostwijkauctions.com/de/l/24x-led-flutlicht-70-watt-A1-50335-131",
    "site": "troostwijk/surplex",
-   "text": "Sgm Tiger PH7,62 mm 1080 W/m² LEDWAND Innen-LED-Panel – 6 Teile Flightcase\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-29T15:27:00+00:00 · Status: BIDDING_OPEN",
+   "text": "24x LED-Flutlicht 70 Watt\nStandort: Westerhoven (NL)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 2026-10-15T18:24:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
+   "first_seen": "2026-10-05T10:23:42+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/led-streifen-ca-19-boxen-A1-48746-130",
+   "url": "https://www.troostwijkauctions.com/de/l/schneider-koch-laser-vision-led-optisches-inline-testsystem-A1-50679-7",
    "site": "troostwijk/surplex",
-   "text": "LED-Streifen: ca. 19 Boxen\nStandort: Pesaro (PU) (IT)\nAktuelles Gebot: 20 EUR · Gebote: 0\nEnde: 2026-10-29T14:43:00+00:00 · Status: BIDDING_OPEN",
+   "text": "SCHNEIDER&KOCH Laser Vision LED Optisches Inline-Testsystem\nStandort: Traunstein (DE)\nAktuelles Gebot: 2500 EUR · Gebote: 0\nEnde: 2026-10-27T14:13:00+00:00 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
+   "first_seen": "2026-10-05T10:23:42+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/coef-md250-wash-moving-head-A1-50391-261",
-   "site": "troostwijk/surplex",
-   "text": "Coef MD250 Wash Moving Head\nStandort: Pesse (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-17T18:48:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/2696_Artikel_Restwarenbestand_Weihnachtsmarkt_u_Ostermarkt_Handel/982122",
+   "site": "zoll-auktion",
+   "text": "2696 Artikel Restwarenbestand Weihnachtsmarkt u. Ostermarkt Handel\nBeobachtung Auktion 982122 verwalten\nAuktion in Beobachtung nehmen.\n2696 Artikel Restwarenbes­tand Weihnachtsma­rkt u. Ostermarkt Handel\n90471 Nürnberg\nNur Abholung möglich!\n1 Tag 19 Std. 35 Min.\n0 Gebote\n5.000,00 EUR",
+   "img_alt": "Gesamtansicht Volumen des Warenbestands",
    "keywords": [
-    "Moving Head"
+    "Projektor",
+    "LED Wand"
    ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
+   "first_seen": "2026-10-05T10:23:42+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/coef-md250-wash-moving-head-A1-50391-257",
-   "site": "troostwijk/surplex",
-   "text": "Coef MD250 Wash Moving Head\nStandort: Pesse (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-17T18:01:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Kindermann_Projektor_Type_6513/983584",
+   "site": "zoll-auktion",
+   "text": "1 Kindermann Projektor Type 6513\nBeobachtung Auktion 983584 verwalten\nAuktion in Beobachtung nehmen.\n1 Kindermann Projektor Type 6513\n56075 Koblenz\nNur Abholung möglich!\n3 Tage 20 Std. 5 Min.\n0 Gebote\n30,00 EUR",
+   "img_alt": "Ansicht von vorne",
    "keywords": [
-    "Moving Head"
+    "Projektor"
    ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
+   "first_seen": "2026-10-05T10:23:42+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/showtec-wipe-out-4-moving-head-%282x%29-A1-50391-229",
-   "site": "troostwijk/surplex",
-   "text": "Showtec Wipe out 4 Moving Head (2x)\nStandort: Pesse (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-17T18:34:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/5_Tablettwagen_der_Fa_Scholl/982063",
+   "site": "zoll-auktion",
+   "text": "5 Tablettwagen der Fa. Scholl\nBeobachtung Auktion 982063 verwalten\nAuktion in Beobachtung nehmen.\n5 Tablettwagen der Fa. Scholl\n71691 Freiberg am Neckar\nNur Abholung möglich!\n1 Tag 19 Std. 22 Min.\n0 Gebote\n200,00 EUR",
+   "img_alt": "Tablettwagen",
    "keywords": [
-    "Moving Head"
+    "LED Wand"
    ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
+   "first_seen": "2026-10-05T10:23:42+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/clf-orion-moving-head-%284x%29-A1-50391-337",
-   "site": "troostwijk/surplex",
-   "text": "CLF - Orion - Moving Head (4x)\nStandort: Pesse (NL)\nAktuelles Gebot: 1000 EUR · Gebote: 0\nEnde: 2026-10-17T18:27:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Einbauk%C3%BCche_Nobilia_Speed_Wei%C3%9F/983318",
+   "site": "zoll-auktion",
+   "text": "1 Einbauküche Nobilia Speed Weiß\nBeobachtung Auktion 983318 verwalten\nAuktion in Beobachtung nehmen.\n1 Einbauküche Nobilia Speed Weiß\n53347 Alfter\nNur Abholung möglich!\n1 Tag 19 Std. 35 Min.\n14 Gebote\n110,00 EUR",
+   "img_alt": "Frontansicht",
    "keywords": [
-    "Moving Head"
+    "LED Wand"
    ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
+   "first_seen": "2026-10-05T10:23:42+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/clf-orion-moving-head-%284x%29-A1-50391-338",
-   "site": "troostwijk/surplex",
-   "text": "CLF - Orion - Moving Head (4x)\nStandort: Pesse (NL)\nAktuelles Gebot: 1000 EUR · Gebote: 0\nEnde: 2026-10-17T17:17:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_L%C3%B6schfahrzeug_LF_20_Fr%C3%BChere_Norm_TLF_1625_Typ_1124_AF_Mercedes_Benz/983937",
+   "site": "zoll-auktion",
+   "text": "1 Löschfahrzeug LF 20 (Frühere Norm TLF 16/25) Typ 1124 AF, Mercedes Benz\nBeobachtung Auktion 983937 verwalten\nAuktion in Beobachtung nehmen.\n1 Löschfahrzeu­g LF 20 (Frühere Norm TLF 16/25) Typ 1124 AF, Mercedes Benz\n59399 Olfen\nNur Abholung möglich!\n12 Tage 19 Std. 34 Min.\n0 Gebote\n3.000,00 EUR",
+   "img_alt": "Bild seitlich Beifahrerseite",
    "keywords": [
-    "Moving Head"
+    "Traverse"
    ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
+   "first_seen": "2026-10-05T10:23:42+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/clf-orion-moving-head-%284x%29-A1-50391-340",
-   "site": "troostwijk/surplex",
-   "text": "CLF - Orion - Moving Head (4x)\nStandort: Pesse (NL)\nAktuelles Gebot: 1000 EUR · Gebote: 0\nEnde: 2026-10-17T18:45:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_RettungswagenFahrgestell_Mercedes_Benz_906_HH2417/983502",
+   "site": "zoll-auktion",
+   "text": "1 Rettungswagen-Fahrgestell Mercedes Benz 906 - (HH-2417)\nBeobachtung Auktion 983502 verwalten\nAuktion in Beobachtung nehmen.\n1 Rettungswage­n-Fahrgestel­l Mercedes Benz 906 - (HH-2417)\n20539 Hamburg\nNur Abholung möglich!\n14 Tage 21 Std. 34 Min.\n0 Gebote\n4.705,00 EUR",
+   "img_alt": "Front rechts",
    "keywords": [
-    "Moving Head"
+    "Traverse"
    ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/clf-orion-moving-head-%284x%29-A1-50391-339",
-   "site": "troostwijk/surplex",
-   "text": "CLF - Orion - Moving Head (4x)\nStandort: Pesse (NL)\nAktuelles Gebot: 1000 EUR · Gebote: 0\nEnde: 2026-10-17T18:27:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Moving Head"
-   ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/clf-orion-moving-head-%282x%29-A1-50391-341",
-   "site": "troostwijk/surplex",
-   "text": "CLF - Orion - Moving Head (2x)\nStandort: Pesse (NL)\nAktuelles Gebot: 500 EUR · Gebote: 0\nEnde: 2026-10-17T18:02:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Moving Head"
-   ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/robe-wash-250-xt-moving-head-%282x%29-A1-50391-128",
-   "site": "troostwijk/surplex",
-   "text": "Robe Wash 250 XT Moving Head (2x)\nStandort: Pesse (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-17T17:18:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Moving Head"
-   ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/robe-wash-250-xt-moving-head-%282x%29-A1-50391-130",
-   "site": "troostwijk/surplex",
-   "text": "Robe Wash 250 XT Moving Head (2x)\nStandort: Pesse (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-17T18:13:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Moving Head"
-   ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/adj-vizi-hybrid-16rx-moving-head-A1-50391-88",
-   "site": "troostwijk/surplex",
-   "text": "ADJ Vizi Hybrid 16RX Moving Head\nStandort: Pesse (NL)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 2026-10-17T17:22:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Moving Head"
-   ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/adj-vizi-hybrid-16rx-moving-head-A1-50391-44",
-   "site": "troostwijk/surplex",
-   "text": "ADJ Vizi Hybrid 16RX Moving Head\nStandort: Pesse (NL)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 2026-10-17T18:28:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Moving Head"
-   ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/adj-vizi-hybrid-16rx-moving-head-A1-50391-47",
-   "site": "troostwijk/surplex",
-   "text": "ADJ Vizi Hybrid 16RX Moving Head\nStandort: Pesse (NL)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 2026-10-17T18:00:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Moving Head"
-   ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/robe-wash-250-xt-moving-head-%282x%29-A1-50391-129",
-   "site": "troostwijk/surplex",
-   "text": "Robe Wash 250 XT Moving Head (2x)\nStandort: Pesse (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-17T18:33:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Moving Head"
-   ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/adj-vizi-hybrid-16rx-moving-head-A1-50391-86",
-   "site": "troostwijk/surplex",
-   "text": "ADJ Vizi Hybrid 16RX Moving Head\nStandort: Pesse (NL)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 2026-10-17T18:13:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Moving Head"
-   ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/adj-vizi-hybrid-16rx-moving-head-A1-50391-45",
-   "site": "troostwijk/surplex",
-   "text": "ADJ Vizi Hybrid 16RX Moving Head\nStandort: Pesse (NL)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 2026-10-17T18:37:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Moving Head"
-   ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/adj-vizi-hybrid-16rx-moving-head-A1-50391-89",
-   "site": "troostwijk/surplex",
-   "text": "ADJ Vizi Hybrid 16RX Moving Head\nStandort: Pesse (NL)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 2026-10-17T17:13:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Moving Head"
-   ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/adj-vizi-hybrid-16rx-moving-head-A1-50391-46",
-   "site": "troostwijk/surplex",
-   "text": "ADJ Vizi Hybrid 16RX Moving Head\nStandort: Pesse (NL)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 2026-10-17T17:32:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Moving Head"
-   ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/showtec-infinity-iw-715-led-moving-heads-%286x%29-A1-50391-146",
-   "site": "troostwijk/surplex",
-   "text": "Showtec Infinity - IW-715 - LED-Moving Heads (6x)\nStandort: Pesse (NL)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 2026-10-17T18:55:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Moving Head"
-   ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/showtec-infinity-iw-715-led-moving-heads-%286x%29-A1-50391-147",
-   "site": "troostwijk/surplex",
-   "text": "Showtec Infinity - IW-715 - LED-Moving Heads (6x)\nStandort: Pesse (NL)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 2026-10-17T18:16:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Moving Head"
-   ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/showtec-infinity-iw-715-led-moving-heads-%286x%29-A1-50391-207",
-   "site": "troostwijk/surplex",
-   "text": "Showtec Infinity - IW-715 - LED-Moving Heads (6x)\nStandort: Pesse (NL)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 2026-10-17T17:03:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Moving Head"
-   ],
-   "first_seen": "2026-10-04T09:45:45+00:00"
+   "first_seen": "2026-10-05T10:23:42+00:00"
   }
  ]
 }
