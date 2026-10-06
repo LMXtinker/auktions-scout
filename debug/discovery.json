@@ -63,14 +63,14 @@
     "ids_matched": false
    },
    "Projektor": {
-    "cards": 12,
-    "total_reported": 12,
+    "cards": 11,
+    "total_reported": 11,
     "ids_matched": false
    },
    "LED Wand": {
-    "cards": 73,
-    "total_reported": 73,
-    "ids_matched": true
+    "cards": 66,
+    "total_reported": 66,
+    "ids_matched": false
    },
    "LED Wall": {
     "cards": 0,
@@ -142,7 +142,7 @@
     "cards": 86
    },
    "Gaming PC": {
-    "cards": 33
+    "cards": 39
    },
    "Laserprojektor": {
     "cards": 0
@@ -151,7 +151,7 @@
     "cards": 18
    },
    "Projektor": {
-    "cards": 87
+    "cards": 89
    },
    "LED Wand": {
     "cards": 200
@@ -172,7 +172,7 @@
     "cards": 0
    },
    "Moving Head": {
-    "cards": 79
+    "cards": 64
    },
    "Traverse": {
     "cards": 8
@@ -237,17 +237,17 @@
    "Laserprojektor": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Laserprojektor&n1%5B%5D=0&n0=search",
-    "cards": 4
+    "cards": 0
    },
    "Beamer": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Beamer&n1%5B%5D=0&n0=search",
-    "cards": 3
+    "cards": 10
    },
    "Projektor": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Projektor&n1%5B%5D=0&n0=search",
-    "cards": 9
+    "cards": 10
    },
    "LED Wand": {
     "form_ok": true,
@@ -257,7 +257,7 @@
    "LED Wall": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=LED+Wall&n1%5B%5D=0&n0=search",
-    "cards": 1
+    "cards": 0
    },
    "Blackmagic": {
     "form_ok": true,
@@ -287,7 +287,7 @@
    "Traverse": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Traverse&n1%5B%5D=0&n0=search",
-    "cards": 8
+    "cards": 7
    }
   },
   "errors": [],
