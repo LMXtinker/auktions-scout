@@ -43,8 +43,8 @@
     "ids_matched": false
    },
    "Workstation": {
-    "cards": 3,
-    "total_reported": 3,
+    "cards": 7,
+    "total_reported": 7,
     "ids_matched": false
    },
    "Gaming PC": {
@@ -60,17 +60,17 @@
    "Beamer": {
     "cards": 56,
     "total_reported": 56,
-    "ids_matched": true
+    "ids_matched": false
    },
    "Projektor": {
-    "cards": 11,
-    "total_reported": 11,
-    "ids_matched": true
+    "cards": 10,
+    "total_reported": 10,
+    "ids_matched": false
    },
    "LED Wand": {
-    "cards": 57,
-    "total_reported": 57,
-    "ids_matched": true
+    "cards": 56,
+    "total_reported": 56,
+    "ids_matched": false
    },
    "LED Wall": {
     "cards": 0,
@@ -88,9 +88,9 @@
     "ids_matched": false
    },
    "Veranstaltungstechnik": {
-    "cards": 7,
-    "total_reported": 7,
-    "ids_matched": true
+    "cards": 8,
+    "total_reported": 8,
+    "ids_matched": false
    },
    "Lichtpult": {
     "cards": 0,
@@ -142,13 +142,13 @@
     "cards": 86
    },
    "Gaming PC": {
-    "cards": 39
+    "cards": 42
    },
    "Laserprojektor": {
     "cards": 0
    },
    "Beamer": {
-    "cards": 16
+    "cards": 17
    },
    "Projektor": {
     "cards": 83
@@ -172,7 +172,7 @@
     "cards": 0
    },
    "Moving Head": {
-    "cards": 65
+    "cards": 63
    },
    "Traverse": {
     "cards": 6
@@ -287,7 +287,7 @@
    "Traverse": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Traverse&n1%5B%5D=0&n0=search",
-    "cards": 6
+    "cards": 8
    }
   },
   "errors": [],
