@@ -1,147 +1,319 @@
 {
- "generated": "2026-10-08T10:32:51+00:00",
- "count": 14,
+ "generated": "2026-10-09T10:31:00+00:00",
+ "count": 30,
  "lots": [
   {
-   "url": "https://www.aurena.at/s?keywords=Workstation&pagesize=96#los-5",
+   "url": "https://www.aurena.at/posten/5365748",
    "site": "aurena",
-   "text": "2087 | Workstation Lenovo ThinkPad Thunderbolt 3 | 0 6 | TAGE | : | 2 1 | STD | Gebote: 0 | € 25\nSuche: https://www.aurena.at/s?keywords=Workstation&pagesize=96",
+   "text": "164 | Flasche Jim Beam und 6 Red Bull | 1 4 | TAGE | : | 2 2 | STD | Gebote: 0 | € 4\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Beamer"
+   ],
+   "first_seen": "2026-10-09T10:31:00+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5352641",
+   "site": "aurena",
+   "text": "64 | Heimkinoanlage | 1 3 | TAGE | : | 0 1 | STD | Gebote: 1 | € 90\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Beamer"
+   ],
+   "first_seen": "2026-10-09T10:31:00+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-z240-intel-xeon-workstation-desktop-A1-50590-43",
+   "site": "troostwijk/surplex",
+   "text": "HP Z240 Intel Xeon Workstation Desktop\nStandort: Den Dolder (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-21T18:54:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "Workstation"
    ],
-   "first_seen": "2026-10-08T10:32:51+00:00"
+   "first_seen": "2026-10-09T10:31:00+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=Workstation&pagesize=96#los-6",
-   "site": "aurena",
-   "text": "2687 | Dockingstation Lenovo ThinkPad Thunderbolt 3 Dock Gen2/Workstation Dock Gen2 DK1841 | 0 6 | TAGE | : | 2 2 | STD | Gebote: 0 | € 16\nSuche: https://www.aurena.at/s?keywords=Workstation&pagesize=96",
+   "url": "https://www.troostwijkauctions.com/de/l/hp-z800-xeon-workstation-mit-nvidia-quadro-fx-4800-desktop-A1-50590-354",
+   "site": "troostwijk/surplex",
+   "text": "HP Z800 Xeon Workstation mit Nvidia Quadro FX 4800 Desktop\nStandort: Den Dolder (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-21T18:10:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "Workstation"
    ],
-   "first_seen": "2026-10-08T10:32:51+00:00"
+   "first_seen": "2026-10-09T10:31:00+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/corsair-gaming-pc-mit-oculus-rift-vr-headset-A1-50236-23",
+   "url": "https://www.troostwijkauctions.com/de/l/acer-p5390w-beamer-A1-50849-48",
    "site": "troostwijk/surplex",
-   "text": "Corsair Gaming-PC mit Oculus Rift VR-Headset\nStandort: Herstal (BE)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 2026-10-20T14:27:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "ACER - P5390W - Beamer\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-11-03T11:25:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
-    "Gaming PC"
+    "Beamer"
    ],
-   "first_seen": "2026-10-08T10:32:51+00:00"
+   "first_seen": "2026-10-09T10:31:00+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/dell-alienware-240hz-ql-led-gaming-aw345dw-monitor-A1-41829-607",
+   "url": "https://www.troostwijkauctions.com/de/l/sony-vpl-ex3-projektor-A1-50590-103",
    "site": "troostwijk/surplex",
-   "text": "Dell Alienware 240Hz QL LED-Gaming AW345DW Monitor\nStandort: Harlingen (NL)\nAktuelles Gebot: 1 EUR · Gebote: 0\nEnde: 2026-10-15T19:16:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-08T10:32:51+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/game-of-goals-%E2%80%93-interaktives-eventspiel-zum-elfmeterschie%C3%9Fen-A1-50236-15",
-   "site": "troostwijk/surplex",
-   "text": "Game of Goals – interaktives Eventspiel zum Elfmeterschießen\nStandort: Herstal (BE)\nAktuelles Gebot: 450 EUR · Gebote: 0\nEnde: 2026-10-20T13:45:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-08T10:32:51+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/game-of-goals-%E2%80%93-interaktives-eventspiel-zum-elfmeterschie%C3%9Fen-A1-50236-13",
-   "site": "troostwijk/surplex",
-   "text": "Game of Goals – interaktives Eventspiel zum Elfmeterschießen\nStandort: Herstal (BE)\nAktuelles Gebot: 450 EUR · Gebote: 0\nEnde: 2026-10-20T14:27:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-08T10:32:51+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/game-of-goals-%E2%80%93-interaktives-eventspiel-zum-elfmeterschie%C3%9Fen-A1-50236-14",
-   "site": "troostwijk/surplex",
-   "text": "Game of Goals – interaktives Eventspiel zum Elfmeterschießen\nStandort: Herstal (BE)\nAktuelles Gebot: 450 EUR · Gebote: 0\nEnde: 2026-10-20T14:21:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-08T10:32:51+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/konvolut-beamer-projektoren-A1-50537-130",
-   "site": "troostwijk/surplex",
-   "text": "Konvolut Beamer & Projektoren\nStandort: Wels (AT)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-21T12:00:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Beamer",
-    "Projektor"
-   ],
-   "first_seen": "2026-10-08T10:32:51+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/spindisplay-f100-cm-%E2%80%93-3d-holografischer-rotierender-projektor-A1-50236-18",
-   "site": "troostwijk/surplex",
-   "text": "SpinDisplay F100 cm – 3D-holografischer rotierender Projektor\nStandort: Herstal (BE)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-10-20T14:09:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "Sony VPL - EX3 Projektor\nStandort: Den Dolder (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-21T17:47:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "Projektor"
    ],
-   "first_seen": "2026-10-08T10:32:51+00:00"
+   "first_seen": "2026-10-09T10:31:00+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/spindisplay-f100-cm-%E2%80%93-3d-holografischer-rotierender-projektor-A1-50236-17",
+   "url": "https://www.troostwijkauctions.com/de/l/epson-eb-x7-projektor-A1-50590-105",
    "site": "troostwijk/surplex",
-   "text": "SpinDisplay F100 cm – 3D-holografischer rotierender Projektor\nStandort: Herstal (BE)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-10-20T13:15:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "Epson EB-X7 Projektor\nStandort: Den Dolder (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-21T18:38:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "Projektor"
    ],
-   "first_seen": "2026-10-08T10:32:51+00:00"
+   "first_seen": "2026-10-09T10:31:00+00:00"
   },
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_Passat_Variant_CB5_15_TSI_BMTStartStopp_Business_OPF/983715",
+   "url": "https://www.troostwijkauctions.com/de/l/sony-vpl-ex3-projektor-A1-50590-104",
+   "site": "troostwijk/surplex",
+   "text": "Sony VPL - EX3 Projektor\nStandort: Den Dolder (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-21T18:15:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Projektor"
+   ],
+   "first_seen": "2026-10-09T10:31:00+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/epson-eb-x7-projektor-A1-50590-106",
+   "site": "troostwijk/surplex",
+   "text": "Epson EB-X7 Projektor\nStandort: Den Dolder (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-21T18:38:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Projektor"
+   ],
+   "first_seen": "2026-10-09T10:31:00+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/vigna-abl-rht-3850-led-ece-2025-par-led-A1-50849-78",
+   "site": "troostwijk/surplex",
+   "text": "VIGNA ABL - RHT / 3850 LED ECE - 2025 - Par-LED\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-03T11:40:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-09T10:31:00+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/vigna-abl-rht-3850-led-ece-2025-par-led-A1-50849-102",
+   "site": "troostwijk/surplex",
+   "text": "VIGNA ABL - RHT / 3850 LED ECE - 2025 - Par-LED\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-03T11:52:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-09T10:31:00+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/vigna-abl-rht-3850-links-2025-led-scheinwerfer-A1-50849-33",
+   "site": "troostwijk/surplex",
+   "text": "VIGNA ABL - RHT / 3850 - Links - 2025 - LED Scheinwerfer\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-03T11:17:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-09T10:31:00+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/vigna-abl-rht-3850-links-2025-led-scheinwerfer-A1-50849-22",
+   "site": "troostwijk/surplex",
+   "text": "VIGNA ABL - RHT / 3850 - Links - 2025 - LED Scheinwerfer\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-03T11:12:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-09T10:31:00+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/vigna-abl-rht-3850-rechts-2025-led-scheinwerfer-A1-50849-24",
+   "site": "troostwijk/surplex",
+   "text": "VIGNA ABL - RHT / 3850 - Rechts - 2025 - LED Scheinwerfer\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-03T11:13:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-09T10:31:00+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/vigna-abl-rht-3850-rechts-2025-led-scheinwerfer-A1-50849-34",
+   "site": "troostwijk/surplex",
+   "text": "VIGNA ABL - RHT / 3850 - Rechts - 2025 - LED Scheinwerfer\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-03T11:18:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-09T10:31:00+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/vigna-abl-rht-3850-links-2025-led-scheinwerfer-A1-50849-23",
+   "site": "troostwijk/surplex",
+   "text": "VIGNA ABL - RHT / 3850 - Links - 2025 - LED Scheinwerfer\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-03T11:12:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-09T10:31:00+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/vigna-abl-rht-3850-rechts-2025-led-scheinwerfer-A1-50849-25",
+   "site": "troostwijk/surplex",
+   "text": "VIGNA ABL - RHT / 3850 - Rechts - 2025 - LED Scheinwerfer\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-03T11:13:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-09T10:31:00+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/vigna-abl-rht-3850-rechts-2025-led-scheinwerfer-A1-50849-113",
+   "site": "troostwijk/surplex",
+   "text": "VIGNA ABL - RHT / 3850 - Rechts - 2025 - LED Scheinwerfer\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-03T11:57:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-09T10:31:00+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/vigna-abl-rht-3850-rechts-2025-led-scheinwerfer-A1-50849-84",
+   "site": "troostwijk/surplex",
+   "text": "VIGNA ABL - RHT / 3850 - Rechts - 2025 - LED Scheinwerfer\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-03T11:43:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-09T10:31:00+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/vigna-abl-rht-3850-rechts-2025-led-scheinwerfer-A1-50849-35",
+   "site": "troostwijk/surplex",
+   "text": "VIGNA ABL - RHT / 3850 - Rechts - 2025 - LED Scheinwerfer\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-03T11:18:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-09T10:31:00+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/vigna-abl-rht-3850-links-2025-led-scheinwerfer-A1-50849-32",
+   "site": "troostwijk/surplex",
+   "text": "VIGNA ABL - RHT / 3850 - Links - 2025 - LED Scheinwerfer\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-03T11:17:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-09T10:31:00+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/40w-3-farbige-cct-60*60-versenkte-hintergrundbeleuchtete-led-panels-philips-driver-wei%C3%9F-%2824x%29-A1-50146-11",
+   "site": "troostwijk/surplex",
+   "text": "40W 3-farbige CCT 60*60 versenkte hintergrundbeleuchtete LED-Panels Philips Driver weiß (24x)\nStandort: Puurs (BE)\nAktuelles Gebot: 300 EUR · Gebote: 0\nEnde: 2026-10-20T17:09:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-09T10:31:00+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/10_x_Notebook_Lenovo_ThinkPad_X280_12_531_75_cm_inkl_div_Zubeh%C3%B6r/984762",
    "site": "zoll-auktion",
-   "text": "1 VW Passat Variant (CB5) 1.5 TSI BMT/Start-Stopp, Business OPF\nBeobachtung Auktion 983715 verwalten\nAuktion in Beobachtung nehmen.\n1 VW Passat Variant (CB5) 1.5 TSI BMT/Start-St­opp, Business OPF\n50968 Köln\nNur Abholung möglich!\n3 Tage 23 Std. 11 Min.\n0 Gebote\n15.500,00 EUR",
-   "img_alt": "Vorne Links",
+   "text": "10 x Notebook Lenovo ThinkPad X280 (12,5\"/31,75 cm) inkl. div. Zubehör\nBeobachtung Auktion 984762 verwalten\nAuktion in Beobachtung nehmen.\n10 x Notebook Lenovo ThinkPad X280 (12,5\"/31,75 cm) inkl. div. Zubehör\n50825 Köln\nNur Abholung möglich!\n13 Tage 3 Std. 57 Min.\n9 Gebote\n220,00 EUR",
+   "img_alt": "Beispielfoto",
+   "keywords": [
+    "Grafikkarte"
+   ],
+   "first_seen": "2026-10-09T10:31:00+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/10_x_Notebook_Lenovo_ThinkPad_X280_12_531_75_cm_inkl_div_Zubeh%C3%B6r/984763",
+   "site": "zoll-auktion",
+   "text": "10 x Notebook Lenovo ThinkPad X280 (12,5\"/31,75 cm) inkl. div. Zubehör\nBeobachtung Auktion 984763 verwalten\nAuktion in Beobachtung nehmen.\n10 x Notebook Lenovo ThinkPad X280 (12,5\"/31,75 cm) inkl. div. Zubehör\n50825 Köln\nNur Abholung möglich!\n13 Tage 4 Std. 3 Min.\n4 Gebote\n210,00 EUR",
+   "img_alt": "Beispielfoto",
+   "keywords": [
+    "Grafikkarte"
+   ],
+   "first_seen": "2026-10-09T10:31:00+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Sony_Playstation_5_inlc_2_Controllern/984916",
+   "site": "zoll-auktion",
+   "text": "1 Sony Playstation 5 inlc. 2 Controllern\nBeobachtung Auktion 984916 verwalten\nAuktion in Beobachtung nehmen.\n1 Sony Playstation 5 inlc. 2 Controllern\n04838 Eilenburg\n13 Tage 18 Std. 33 Min.\n5 Gebote\n330,00 EUR",
+   "img_alt": "Gesamtansicht",
+   "keywords": [
+    "Grafikkarte"
+   ],
+   "first_seen": "2026-10-09T10:31:00+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_EPSON_EBL510U_Projektor_Beamer/984181",
+   "site": "zoll-auktion",
+   "text": "1 EPSON EB-L510U Projektor (Beamer)\nBeobachtung Auktion 984181 verwalten\nAuktion in Beobachtung nehmen.\n1 EPSON EB-L510U Projektor (Beamer)\n47051 Duisburg\nNur Abholung möglich!\n10 Tage 21 Std. 2 Min.\n0 Gebote\n300,00 EUR",
+   "img_alt": "Frontansicht",
+   "keywords": [
+    "Projektor"
+   ],
+   "first_seen": "2026-10-09T10:31:00+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_Passat_Variant_CB50320192024_20_TDI_BMTStartStopp_Business/983497",
+   "site": "zoll-auktion",
+   "text": "1 VW Passat Variant (CB5)(03.2019->2024), 2.0 TDI BMT/Start-Stopp, Business\nBeobachtung Auktion 983497 verwalten\nAuktion in Beobachtung nehmen.\n1 VW Passat Variant (CB5)(03.201­9->2024), 2.0 TDI BMT/Start-St­opp, Business\n50968 Köln\nNur Abholung möglich!\n3 Tage 0 Std. 27 Min.\n5 Gebote\n16.300,00 EUR",
+   "img_alt": "Vorne rechts",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-10-08T10:32:51+00:00"
+   "first_seen": "2026-10-09T10:31:00+00:00"
   },
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Mercedes_C_320_CDI_DPF_7GTRONIC_ELEGANCE/983265",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_ID7_Pro_S_Tourer_BD83934E/982527",
    "site": "zoll-auktion",
-   "text": "1 Mercedes C 320 CDI DPF 7G-TRONIC ELEGANCE\nBeobachtung Auktion 983265 verwalten\nAuktion in Beobachtung nehmen.\n1 Mercedes C 320 CDI DPF 7G-TRONIC ELEGANCE\n44269 Dortmund\nNur Abholung möglich!\n3 Tage 23 Std. 27 Min.\n11 Gebote\n1.600,00 EUR",
-   "img_alt": "Front Fahrerseite",
+   "text": "1 VW ID.7 Pro S Tourer - BD8-3934E\nBeobachtung Auktion 982527 verwalten\nAuktion in Beobachtung nehmen.\n1 VW ID.7 Pro S Tourer - BD8-3934E\n47807 Krefeld\nNur Abholung möglich!\n3 Tage 18 Std. 57 Min.\n0 Gebote\n43.100,00 EUR",
+   "img_alt": "Frontansicht links",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-10-08T10:32:51+00:00"
+   "first_seen": "2026-10-09T10:31:00+00:00"
   },
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Still_Diesel_Gabelstapler_R70_60/984493",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_LKW_MAN_Typ_TGM_18250_4x4_BB/984640",
    "site": "zoll-auktion",
-   "text": "1 Still Diesel Gabelstapler R70 – 60\nBeobachtung Auktion 984493 verwalten\nAuktion in Beobachtung nehmen.\n1 Still Diesel Gabelstapler R70 – 60\n44628 Herne\nNur Abholung möglich!\n12 Tage 20 Std. 25 Min.\n0 Gebote\n10.500,00 EUR",
-   "img_alt": "Seitenansicht links",
+   "text": "1 LKW MAN Typ: TGM 18.250 4x4 BB\nBeobachtung Auktion 984640 verwalten\nAuktion in Beobachtung nehmen.\n1 LKW MAN Typ: TGM 18.250 4x4 BB\n83278 Traunstein\nNur Abholung möglich!\n9 Tage 23 Std. 27 Min.\n0 Gebote\n12.000,00 EUR",
+   "img_alt": "LKW MAN - links vorne",
    "keywords": [
     "Traverse"
    ],
-   "first_seen": "2026-10-08T10:32:51+00:00"
+   "first_seen": "2026-10-09T10:31:00+00:00"
   },
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_FUMO_Carrier_kurz_4x4/984542",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Anh%C3%A4nger_mit_Stromerzeugungsaggregat_VEB_FIMAG_Typ_HL_2094KR/983033",
    "site": "zoll-auktion",
-   "text": "1 FUMO Carrier kurz 4x4\nBeobachtung Auktion 984542 verwalten\nAuktion in Beobachtung nehmen.\n1 FUMO Carrier kurz 4x4\n72184 Eutingen im Gäu\nNur Abholung möglich!\n21 Tage 19 Std. 55 Min.\n0 Gebote\n30.000,00 EUR",
-   "img_alt": "Winterdienstausstattung",
+   "text": "1 Anhänger mit Stromerzeugungsaggregat VEB FIMAG Typ HL 20.94/KR\nBeobachtung Auktion 983033 verwalten\nAuktion in Beobachtung nehmen.\n1 Anhänger mit Stromerzeugu­ngsaggregat VEB FIMAG Typ HL 20.94/KR\n16225 Eberswalde\nNur Abholung möglich!\n13 Tage 0 Std. 57 Min.\n1 Gebot\n1.000,00 EUR",
+   "img_alt": "Seitenansicht Rechts",
    "keywords": [
     "Traverse"
    ],
-   "first_seen": "2026-10-08T10:32:51+00:00"
+   "first_seen": "2026-10-09T10:31:00+00:00"
   }
  ]
 }
