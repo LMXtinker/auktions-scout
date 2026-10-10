@@ -1,319 +1,939 @@
 {
- "generated": "2026-10-09T10:31:00+00:00",
- "count": 30,
+ "generated": "2026-10-10T09:48:23+00:00",
+ "count": 88,
  "lots": [
   {
-   "url": "https://www.aurena.at/posten/5365748",
+   "url": "https://www.aurena.at/posten/5357589",
    "site": "aurena",
-   "text": "164 | Flasche Jim Beam und 6 Red Bull | 1 4 | TAGE | : | 2 2 | STD | Gebote: 0 | € 4\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5352641",
-   "site": "aurena",
-   "text": "64 | Heimkinoanlage | 1 3 | TAGE | : | 0 1 | STD | Gebote: 1 | € 90\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/hp-z240-intel-xeon-workstation-desktop-A1-50590-43",
-   "site": "troostwijk/surplex",
-   "text": "HP Z240 Intel Xeon Workstation Desktop\nStandort: Den Dolder (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-21T18:54:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "117 | 2 Mini PCs HP | 1 2 | TAGE | : | 0 3 | STD | Gebote: 0 | € 10\nSuche: https://www.aurena.at/s?keywords=Workstation&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Workstation"
    ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
+   "first_seen": "2026-10-10T09:48:23+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/hp-z800-xeon-workstation-mit-nvidia-quadro-fx-4800-desktop-A1-50590-354",
-   "site": "troostwijk/surplex",
-   "text": "HP Z800 Xeon Workstation mit Nvidia Quadro FX 4800 Desktop\nStandort: Den Dolder (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-21T18:10:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "url": "https://www.aurena.at/posten/5357590",
+   "site": "aurena",
+   "text": "118 | 2 Mini PCs HP | 1 2 | TAGE | : | 0 3 | STD | Gebote: 0 | € 10\nSuche: https://www.aurena.at/s?keywords=Workstation&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Workstation"
    ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
+   "first_seen": "2026-10-10T09:48:23+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/acer-p5390w-beamer-A1-50849-48",
-   "site": "troostwijk/surplex",
-   "text": "ACER - P5390W - Beamer\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-11-03T11:25:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "url": "https://www.aurena.at/posten/5357591",
+   "site": "aurena",
+   "text": "119 | 2 Mini PCs HP | 1 2 | TAGE | : | 0 3 | STD | Gebote: 0 | € 10\nSuche: https://www.aurena.at/s?keywords=Workstation&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5357592",
+   "site": "aurena",
+   "text": "120 | Mini PC Fujitsu Esprimo Q556/2 | 1 2 | TAGE | : | 0 3 | STD | Gebote: 7 | € 16\nSuche: https://www.aurena.at/s?keywords=Workstation&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5375399",
+   "site": "aurena",
+   "text": "32 | Flachbildfernseher Samsung, 42\" | 1 6 | TAGE | : | 2 1 | STD | Gebote: 0 | € 16\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Beamer",
+    "Projektor"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5375405",
+   "site": "aurena",
+   "text": "38 | Flachbildfernseher Samsung, 42\" | 1 6 | TAGE | : | 2 1 | STD | Gebote: 0 | € 16\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Beamer",
+    "Projektor"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5362283",
+   "site": "aurena",
+   "text": "90 | Fernseher LG 43LM6370PLA | 1 3 | TAGE | : | 0 1 | STD | Gebote: 1 | € 5\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Beamer",
+    "Projektor"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5362282",
+   "site": "aurena",
+   "text": "89 | Fernseher Samsung UE43KU6070 | 1 3 | TAGE | : | 0 1 | STD | Gebote: 1 | € 5\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Beamer",
+    "Projektor"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5375693",
+   "site": "aurena",
+   "text": "327 | Beamer Epson EH-TW650 | 1 6 | TAGE | : | 2 2 | STD | Gebote: 0 | € 70\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Beamer"
    ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
+   "first_seen": "2026-10-10T09:48:23+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/sony-vpl-ex3-projektor-A1-50590-103",
-   "site": "troostwijk/surplex",
-   "text": "Sony VPL - EX3 Projektor\nStandort: Den Dolder (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-21T17:47:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "url": "https://www.aurena.at/posten/5376257",
+   "site": "aurena",
+   "text": "903 | Beamer Epson EH-TW650 | 1 6 | TAGE | : | 2 3 | STD | Gebote: 0 | € 45\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
    "img_alt": "",
    "keywords": [
-    "Projektor"
+    "Beamer"
    ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
+   "first_seen": "2026-10-10T09:48:23+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/epson-eb-x7-projektor-A1-50590-105",
-   "site": "troostwijk/surplex",
-   "text": "Epson EB-X7 Projektor\nStandort: Den Dolder (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-21T18:38:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "url": "https://www.aurena.at/posten/5373933",
+   "site": "aurena",
+   "text": "1762 | 2 LED Outdoor Wandleuchten Flector | 1 1 | TAGE | : | 0 0 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sony-vpl-ex3-projektor-A1-50590-104",
-   "site": "troostwijk/surplex",
-   "text": "Sony VPL - EX3 Projektor\nStandort: Den Dolder (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-21T18:15:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/epson-eb-x7-projektor-A1-50590-106",
-   "site": "troostwijk/surplex",
-   "text": "Epson EB-X7 Projektor\nStandort: Den Dolder (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-21T18:38:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/vigna-abl-rht-3850-led-ece-2025-par-led-A1-50849-78",
-   "site": "troostwijk/surplex",
-   "text": "VIGNA ABL - RHT / 3850 LED ECE - 2025 - Par-LED\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-03T11:40:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/vigna-abl-rht-3850-led-ece-2025-par-led-A1-50849-102",
-   "site": "troostwijk/surplex",
-   "text": "VIGNA ABL - RHT / 3850 LED ECE - 2025 - Par-LED\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-03T11:52:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/vigna-abl-rht-3850-links-2025-led-scheinwerfer-A1-50849-33",
-   "site": "troostwijk/surplex",
-   "text": "VIGNA ABL - RHT / 3850 - Links - 2025 - LED Scheinwerfer\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-03T11:17:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/vigna-abl-rht-3850-links-2025-led-scheinwerfer-A1-50849-22",
-   "site": "troostwijk/surplex",
-   "text": "VIGNA ABL - RHT / 3850 - Links - 2025 - LED Scheinwerfer\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-03T11:12:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/vigna-abl-rht-3850-rechts-2025-led-scheinwerfer-A1-50849-24",
-   "site": "troostwijk/surplex",
-   "text": "VIGNA ABL - RHT / 3850 - Rechts - 2025 - LED Scheinwerfer\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-03T11:13:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/vigna-abl-rht-3850-rechts-2025-led-scheinwerfer-A1-50849-34",
-   "site": "troostwijk/surplex",
-   "text": "VIGNA ABL - RHT / 3850 - Rechts - 2025 - LED Scheinwerfer\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-03T11:18:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/vigna-abl-rht-3850-links-2025-led-scheinwerfer-A1-50849-23",
-   "site": "troostwijk/surplex",
-   "text": "VIGNA ABL - RHT / 3850 - Links - 2025 - LED Scheinwerfer\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-03T11:12:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/vigna-abl-rht-3850-rechts-2025-led-scheinwerfer-A1-50849-25",
-   "site": "troostwijk/surplex",
-   "text": "VIGNA ABL - RHT / 3850 - Rechts - 2025 - LED Scheinwerfer\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-03T11:13:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/vigna-abl-rht-3850-rechts-2025-led-scheinwerfer-A1-50849-113",
-   "site": "troostwijk/surplex",
-   "text": "VIGNA ABL - RHT / 3850 - Rechts - 2025 - LED Scheinwerfer\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-03T11:57:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/vigna-abl-rht-3850-rechts-2025-led-scheinwerfer-A1-50849-84",
-   "site": "troostwijk/surplex",
-   "text": "VIGNA ABL - RHT / 3850 - Rechts - 2025 - LED Scheinwerfer\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-03T11:43:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/vigna-abl-rht-3850-rechts-2025-led-scheinwerfer-A1-50849-35",
-   "site": "troostwijk/surplex",
-   "text": "VIGNA ABL - RHT / 3850 - Rechts - 2025 - LED Scheinwerfer\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-03T11:18:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/vigna-abl-rht-3850-links-2025-led-scheinwerfer-A1-50849-32",
-   "site": "troostwijk/surplex",
-   "text": "VIGNA ABL - RHT / 3850 - Links - 2025 - LED Scheinwerfer\nStandort: Pfullendorf (DE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-03T11:17:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/40w-3-farbige-cct-60*60-versenkte-hintergrundbeleuchtete-led-panels-philips-driver-wei%C3%9F-%2824x%29-A1-50146-11",
-   "site": "troostwijk/surplex",
-   "text": "40W 3-farbige CCT 60*60 versenkte hintergrundbeleuchtete LED-Panels Philips Driver weiß (24x)\nStandort: Puurs (BE)\nAktuelles Gebot: 300 EUR · Gebote: 0\nEnde: 2026-10-20T17:09:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/10_x_Notebook_Lenovo_ThinkPad_X280_12_531_75_cm_inkl_div_Zubeh%C3%B6r/984762",
-   "site": "zoll-auktion",
-   "text": "10 x Notebook Lenovo ThinkPad X280 (12,5\"/31,75 cm) inkl. div. Zubehör\nBeobachtung Auktion 984762 verwalten\nAuktion in Beobachtung nehmen.\n10 x Notebook Lenovo ThinkPad X280 (12,5\"/31,75 cm) inkl. div. Zubehör\n50825 Köln\nNur Abholung möglich!\n13 Tage 3 Std. 57 Min.\n9 Gebote\n220,00 EUR",
-   "img_alt": "Beispielfoto",
-   "keywords": [
-    "Grafikkarte"
-   ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/10_x_Notebook_Lenovo_ThinkPad_X280_12_531_75_cm_inkl_div_Zubeh%C3%B6r/984763",
-   "site": "zoll-auktion",
-   "text": "10 x Notebook Lenovo ThinkPad X280 (12,5\"/31,75 cm) inkl. div. Zubehör\nBeobachtung Auktion 984763 verwalten\nAuktion in Beobachtung nehmen.\n10 x Notebook Lenovo ThinkPad X280 (12,5\"/31,75 cm) inkl. div. Zubehör\n50825 Köln\nNur Abholung möglich!\n13 Tage 4 Std. 3 Min.\n4 Gebote\n210,00 EUR",
-   "img_alt": "Beispielfoto",
-   "keywords": [
-    "Grafikkarte"
-   ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Sony_Playstation_5_inlc_2_Controllern/984916",
-   "site": "zoll-auktion",
-   "text": "1 Sony Playstation 5 inlc. 2 Controllern\nBeobachtung Auktion 984916 verwalten\nAuktion in Beobachtung nehmen.\n1 Sony Playstation 5 inlc. 2 Controllern\n04838 Eilenburg\n13 Tage 18 Std. 33 Min.\n5 Gebote\n330,00 EUR",
-   "img_alt": "Gesamtansicht",
-   "keywords": [
-    "Grafikkarte"
-   ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_EPSON_EBL510U_Projektor_Beamer/984181",
-   "site": "zoll-auktion",
-   "text": "1 EPSON EB-L510U Projektor (Beamer)\nBeobachtung Auktion 984181 verwalten\nAuktion in Beobachtung nehmen.\n1 EPSON EB-L510U Projektor (Beamer)\n47051 Duisburg\nNur Abholung möglich!\n10 Tage 21 Std. 2 Min.\n0 Gebote\n300,00 EUR",
-   "img_alt": "Frontansicht",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_Passat_Variant_CB50320192024_20_TDI_BMTStartStopp_Business/983497",
-   "site": "zoll-auktion",
-   "text": "1 VW Passat Variant (CB5)(03.2019->2024), 2.0 TDI BMT/Start-Stopp, Business\nBeobachtung Auktion 983497 verwalten\nAuktion in Beobachtung nehmen.\n1 VW Passat Variant (CB5)(03.201­9->2024), 2.0 TDI BMT/Start-St­opp, Business\n50968 Köln\nNur Abholung möglich!\n3 Tage 0 Std. 27 Min.\n5 Gebote\n16.300,00 EUR",
-   "img_alt": "Vorne rechts",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
+   "first_seen": "2026-10-10T09:48:23+00:00"
   },
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_ID7_Pro_S_Tourer_BD83934E/982527",
+   "url": "https://www.aurena.at/posten/5348900",
+   "site": "aurena",
+   "text": "682 | Traverse | 1 1 | TAGE | : | 2 1 | STD | Gebote: 0 | € 10\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5376302",
+   "site": "aurena",
+   "text": "948 | Palettenregal, ohne Traversen | 1 6 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5305724",
+   "site": "aurena",
+   "text": "1503 | Krantraverse | 0 4 | TAGE | : | 2 1 | STD | Gebote: 0 | € 60\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5328468",
+   "site": "aurena",
+   "text": "1280 | Krantraverse | 0 9 | TAGE | : | 2 2 | STD | Gebote: 0 | € 120\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5328598",
+   "site": "aurena",
+   "text": "1569 | Krantraverse | 0 9 | TAGE | : | 2 2 | STD | Gebote: 0 | € 80\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5328599",
+   "site": "aurena",
+   "text": "1570 | Krantraverse | 0 9 | TAGE | : | 2 2 | STD | Gebote: 0 | € 60\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5328467",
+   "site": "aurena",
+   "text": "1279 | Krantraverse | 0 9 | TAGE | : | 2 2 | STD | Gebote: 0 | € 80\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5330748",
+   "site": "aurena",
+   "text": "104 | Transportrahmen mit Schwerlastregalkomponenten und Traversen | 0 5 | TAGE | : | 0 2 | STD | Gebote: 0 | € 25\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5305695",
+   "site": "aurena",
+   "text": "1473 | Krantraverse Kröger | 0 4 | TAGE | : | 2 1 | STD | Gebote: 0 | € 360\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5305723",
+   "site": "aurena",
+   "text": "1502 | Krantraverse Siegert | 0 4 | TAGE | : | 2 1 | STD | Gebote: 0 | € 120\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5305720",
+   "site": "aurena",
+   "text": "1499 | Krantraverse Kröger, 20 t | 0 4 | TAGE | : | 2 1 | STD | Gebote: 0 | € 240\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5375661",
+   "site": "aurena",
+   "text": "295 | Palettenregal | 1 6 | TAGE | : | 2 1 | STD | Gebote: 0 | € 50\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5375904",
+   "site": "aurena",
+   "text": "539 | Palettenregal | 1 6 | TAGE | : | 2 2 | STD | Gebote: 0 | € 50\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5375905",
+   "site": "aurena",
+   "text": "540 | Palettenregal | 1 6 | TAGE | : | 2 2 | STD | Gebote: 0 | € 35\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5375909",
+   "site": "aurena",
+   "text": "544 | Palettenregal | 1 6 | TAGE | : | 2 2 | STD | Gebote: 0 | € 50\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5375939",
+   "site": "aurena",
+   "text": "584 | Palettenregal | 1 6 | TAGE | : | 2 2 | STD | Gebote: 0 | € 50\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5342328",
+   "site": "aurena",
+   "text": "218 | Palettenregal Nedcon, ca. 8,9 lfm | 0 6 | TAGE | : | 0 4 | STD | Gebote: 0 | € 120\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5342353",
+   "site": "aurena",
+   "text": "243 | Palettenregal Nedcon, ca. 8,9 lfm | 0 6 | TAGE | : | 0 4 | STD | Gebote: 1 | € 120\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5342327",
+   "site": "aurena",
+   "text": "217 | Palettenregal Nedcon, ca. 8,9 lfm | 0 6 | TAGE | : | 0 4 | STD | Gebote: 1 | € 120\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5342329",
+   "site": "aurena",
+   "text": "219 | Palettenregal Nedcon, ca. 8,9 lfm | 0 6 | TAGE | : | 0 4 | STD | Gebote: 0 | € 160\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5342351",
+   "site": "aurena",
+   "text": "241 | Palettenregal Nedcon, ca. 8,9 lfm | 0 6 | TAGE | : | 0 4 | STD | Gebote: 0 | € 160\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5342352",
+   "site": "aurena",
+   "text": "242 | Palettenregal Nedcon, ca. 8,9 lfm | 0 6 | TAGE | : | 0 4 | STD | Gebote: 0 | € 160\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gaming-stuhl-schwarz-A3-46089-5844",
+   "site": "troostwijk/surplex",
+   "text": "Gaming-Stuhl Schwarz\nStandort: Meerhout (BE)\nAktuelles Gebot: 80 EUR · Gebote: 0\nEnde: 2026-10-16T15:50:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/matrics-gaming-lehrstuhl-A1-50237-225",
+   "site": "troostwijk/surplex",
+   "text": "Matrics Gaming-Lehrstuhl\nStandort: Apeldoorn (NL)\nAktuelles Gebot: 15 EUR · Gebote: 1\nEnde: 2026-10-20T17:49:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/unilumin-uslim3-led-display-%2B-sd600e-controller-A1-50082-38",
+   "site": "troostwijk/surplex",
+   "text": "Unilumin Uslim3 LED-Display + SD600E-Controller\nStandort: Olen (BE)\nAktuelles Gebot: 150 EUR · Gebote: 0\nEnde: 2026-10-22T17:39:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/a23-100-badezimmerschrank-mit-integriertem-waschbecken-und-dreiseitigem-led-spiegel-A3-46089-36520",
+   "site": "troostwijk/surplex",
+   "text": "A23-100 Badezimmerschrank mit integriertem Waschbecken und dreiseitigem LED-Spiegel\nStandort: NEUFCHATEAU (BE)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 2026-10-16T15:23:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/v24-120-%E2%80%93-doppelwaschbecken-badezimmerschrank-mit-led-spiegel-badezimmerschrank-mit-waschbecken-und-spiegel-A3-46089-36515",
+   "site": "troostwijk/surplex",
+   "text": "V24-120 – Doppelwaschbecken-Badezimmerschrank mit LED-Spiegel Badezimmerschrank mit Waschbecken und Spiegel\nStandort: NEUFCHATEAU (BE)\nAktuelles Gebot: 497 EUR · Gebote: 0\nEnde: 2026-10-16T15:55:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/p1-80-badezimmerschrank-mit-waschbecken-und-led-spiegel-A3-46089-36522",
+   "site": "troostwijk/surplex",
+   "text": "P1-80 Badezimmerschrank mit Waschbecken und LED-Spiegel\nStandort: NEUFCHATEAU (BE)\nAktuelles Gebot: 195 EUR · Gebote: 0\nEnde: 2026-10-16T16:50:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/p46-120-%E2%80%93-badezimmerschrank-mit-integriertem-waschbecken-und-led-spiegel-badezimmermobel-mit-waschbecken-und-spiegel-A3-46089-36517",
+   "site": "troostwijk/surplex",
+   "text": "P46-120 – Badezimmerschrank mit integriertem Waschbecken und LED-Spiegel, Badezimmermöbel mit Waschbecken und Spiegel\nStandort: NEUFCHATEAU (BE)\nAktuelles Gebot: 470 EUR · Gebote: 0\nEnde: 2026-10-16T15:34:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/p30-120-%E2%80%93-badezimmerschrank-mit-waschbecken-und-led-spiegel-badezimmerschrank-mit-waschbecken-und-spiegel-A3-46089-36519",
+   "site": "troostwijk/surplex",
+   "text": "P30-120 – Badezimmerschrank mit Waschbecken und LED-Spiegel Badezimmerschrank mit Waschbecken und Spiegel\nStandort: NEUFCHATEAU (BE)\nAktuelles Gebot: 390 EUR · Gebote: 0\nEnde: 2026-10-16T15:40:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/24-x-g-tec-slim-led-45-watt-ultra-low-led-panels-A3-49982-236",
+   "site": "troostwijk/surplex",
+   "text": "24 x G-tec Slim LED 45 Watt Ultra Low LED-Panels\nStandort: Free Delivery (NL)\nAktuelles Gebot: 245 EUR · Gebote: 0\nEnde: 2026-10-16T17:52:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/20-x-gt-slim-led-18-watt-ultra-low-led-panels-A3-49982-343",
+   "site": "troostwijk/surplex",
+   "text": "20 x GT Slim LED 18 Watt Ultra-Low-LED-Panels\nStandort: Free Delivery (NL)\nAktuelles Gebot: 145 EUR · Gebote: 0\nEnde: 2026-10-16T18:13:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/24-x-gt-slim-led-36-watt-ultra-low-led-panels-A3-49982-149",
+   "site": "troostwijk/surplex",
+   "text": "24 x GT Slim LED 36 Watt Ultra-Low-LED-Panels\nStandort: Free Delivery (NL)\nAktuelles Gebot: 185 EUR · Gebote: 0\nEnde: 2026-10-16T17:31:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/arcao-design-floor-lamp-black-35cm-22w-led-cct-3-farben-dimmbar-%282x%29-A1-50146-286",
+   "site": "troostwijk/surplex",
+   "text": "Arcao Design Floor Lamp Black 35cm 22W LED CCT 3-Farben-Dimmbar (2x)\nStandort: Puurs (BE)\nAktuelles Gebot: 200 EUR · Gebote: 0\nEnde: 2026-10-20T19:25:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/4-86m%C2%B2-p8-led-bildschirm-anzeigetafel-A1-50082-28",
+   "site": "troostwijk/surplex",
+   "text": "4,86m² P8 LED-Bildschirm / Anzeigetafel\nStandort: Olen (BE)\nAktuelles Gebot: 600 EUR · Gebote: 0\nEnde: 2026-10-22T17:29:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/orien-design-pendellampe-sandschwarz-60cm-28w-led-cct-3-farben-3-stufen-dimmen-%281x%29-A1-50146-83",
+   "site": "troostwijk/surplex",
+   "text": "Orien Design Pendellampe Sandschwarz 60cm 28W LED CCT 3 Farben & 3 Stufen Dimmen (1x)\nStandort: Puurs (BE)\nAktuelles Gebot: 58 EUR · Gebote: 0\nEnde: 2026-10-20T17:45:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/auren-design-pendellampe-schwarz-42cm-62cm-82cm-trio-ring-160w-led-cct-3-farbe-%281x%29-A1-50146-97",
+   "site": "troostwijk/surplex",
+   "text": "Auren Design Pendellampe Schwarz 42cm&62cm&82cm Trio Ring 160W LED CCT 3 Farbe (1x)\nStandort: Puurs (BE)\nAktuelles Gebot: 190 EUR · Gebote: 0\nEnde: 2026-10-20T17:49:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/brillanter-transparenter-led-bildschirm-schwarz-10m%C2%B2-A1-50082-33",
+   "site": "troostwijk/surplex",
+   "text": "Brillanter transparenter LED-Bildschirm Schwarz 10m²\nStandort: Olen (BE)\nAktuelles Gebot: 750 EUR · Gebote: 0\nEnde: 2026-10-22T17:33:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/duora-design-pendellampe-sand-schwarz-und-gold-80cm-40cm-duo-ring-60w-led-cct-3-farben-3-stufen-dimmen-%281x%29-A1-50146-91",
+   "site": "troostwijk/surplex",
+   "text": "Duora Design Pendellampe Sand Schwarz und Gold 80cm & 40cm Duo Ring 60W LED CCT 3 Farben & 3 Stufen Dimmen (1x)\nStandort: Puurs (BE)\nAktuelles Gebot: 140 EUR · Gebote: 0\nEnde: 2026-10-20T17:49:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/auren-design-deckenlampe-gold-62cm-50w-led-cct-3-farben-3-stufen-dimmen-%281x%29-A1-50146-94",
+   "site": "troostwijk/surplex",
+   "text": "Auren Design Deckenlampe Gold 62cm 50W LED CCT 3 Farben & 3 Stufen Dimmen (1x)\nStandort: Puurs (BE)\nAktuelles Gebot: 78 EUR · Gebote: 0\nEnde: 2026-10-20T17:49:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/4-86m%C2%B2-p8-led-bildschirm-anzeigetafel-A1-50082-26",
+   "site": "troostwijk/surplex",
+   "text": "4,86m² P8 LED-Bildschirm / Anzeigetafel\nStandort: Olen (BE)\nAktuelles Gebot: 600 EUR · Gebote: 0\nEnde: 2026-10-22T17:27:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/11-52m%C2%B2-p8-led-bildschirm-anzeigetafel-A1-50082-29",
+   "site": "troostwijk/surplex",
+   "text": "11,52m² P8 LED-Bildschirm / Anzeigetafel\nStandort: Olen (BE)\nAktuelles Gebot: 1200 EUR · Gebote: 0\nEnde: 2026-10-22T17:29:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/4-86m%C2%B2-p8-led-bildschirm-anzeigetafel-A1-50082-25",
+   "site": "troostwijk/surplex",
+   "text": "4,86m² P8 LED-Bildschirm / Anzeigetafel\nStandort: Olen (BE)\nAktuelles Gebot: 600 EUR · Gebote: 0\nEnde: 2026-10-22T17:25:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/11-52m%C2%B2-p8-led-bildschirm-anzeigetafel-A1-50082-31",
+   "site": "troostwijk/surplex",
+   "text": "11,52m² P8 LED-Bildschirm / Anzeigetafel\nStandort: Olen (BE)\nAktuelles Gebot: 1200 EUR · Gebote: 0\nEnde: 2026-10-22T17:31:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/3m%C2%B2-rs2-p1-95-o-led-bildschirm-A1-50082-63",
+   "site": "troostwijk/surplex",
+   "text": "3m² RS2-P1,95-o. LED-Bildschirm\nStandort: Olen (BE)\nAktuelles Gebot: 300 EUR · Gebote: 0\nEnde: 2026-10-22T18:03:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/7w-led-wei%C3%9Fe-wandlampe-cube-duo-einstellbare-wasserdichte-leuchte-%2820x%29-A1-50146-106",
+   "site": "troostwijk/surplex",
+   "text": "7W LED weiße Wandlampe Cube Duo einstellbare wasserdichte Leuchte (20x)\nStandort: Puurs (BE)\nAktuelles Gebot: 180 EUR · Gebote: 0\nEnde: 2026-10-20T17:55:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/mawialux-led-spiegel-mit-70-80-90-100-cm-durchmesser-wahl-A1-47165-73",
+   "site": "troostwijk/surplex",
+   "text": "Mawialux LED-Spiegel mit 70/80/90/100 cm Durchmesser Wahl\nStandort: Hengelo (NL)\nAktuelles Gebot: 175 EUR · Gebote: 0\nEnde: 2026-10-11T17:45:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/11-52m%C2%B2-p8-led-bildschirm-anzeigetafel-A1-50082-30",
+   "site": "troostwijk/surplex",
+   "text": "11,52m² P8 LED-Bildschirm / Anzeigetafel\nStandort: Olen (BE)\nAktuelles Gebot: 1200 EUR · Gebote: 0\nEnde: 2026-10-22T17:31:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/4-86m%C2%B2-p8-led-bildschirm-anzeigetafel-A1-50082-27",
+   "site": "troostwijk/surplex",
+   "text": "4,86m² P8 LED-Bildschirm / Anzeigetafel\nStandort: Olen (BE)\nAktuelles Gebot: 600 EUR · Gebote: 0\nEnde: 2026-10-22T17:27:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/11-52m%C2%B2-p8-led-bildschirm-anzeigetafel-A1-50082-32",
+   "site": "troostwijk/surplex",
+   "text": "11,52m² P8 LED-Bildschirm / Anzeigetafel\nStandort: Olen (BE)\nAktuelles Gebot: 1200 EUR · Gebote: 0\nEnde: 2026-10-22T17:33:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/led-bildschirm-A1-50082-34",
+   "site": "troostwijk/surplex",
+   "text": "LED-Bildschirm\nStandort: Olen (BE)\nAktuelles Gebot: 200 EUR · Gebote: 0\nEnde: 2026-10-22T17:35:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/v8-80-%E2%80%93-badezimmerschrank-mit-waschbecken-und-led-spiegel-badezimmermobel-mit-waschbecken-und-spiegel-A3-46089-36518",
+   "site": "troostwijk/surplex",
+   "text": "V8-80 – Badezimmerschrank mit Waschbecken und LED-Spiegel, Badezimmermöbel mit Waschbecken und Spiegel\nStandort: NEUFCHATEAU (BE)\nAktuelles Gebot: 455 EUR · Gebote: 0\nEnde: 2026-10-16T17:42:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/kabelloser-controller-fur-led-lichtarmbander-A1-50236-49",
+   "site": "troostwijk/surplex",
+   "text": "Kabelloser Controller für LED-Lichtarmbänder\nStandort: Herstal (BE)\nAktuelles Gebot: 150 EUR · Gebote: 0\nEnde: 2026-10-20T14:15:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/milwaukee-m18-t-led-18v-li-ion-batterie-arbeitslampe-%E2%80%93-120lm-A1-40899-184",
+   "site": "troostwijk/surplex",
+   "text": "Milwaukee M18 T-LED 18V Li-Ion Batterie-Arbeitslampe – 120Lm\nStandort: Online (NL)\nAktuelles Gebot: 20 EUR · Gebote: 3\nEnde: 2026-10-17T17:59:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/dmx-controller-fur-led-armbander-A1-50236-50",
+   "site": "troostwijk/surplex",
+   "text": "DMX-Controller für LED-Armbänder\nStandort: Herstal (BE)\nAktuelles Gebot: 150 EUR · Gebote: 0\nEnde: 2026-10-20T14:33:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/auren-design-pendellampe-schwarz-82-cm-70w-led-cct-3-farben-3-stufen-dimmen-%284x%29-A1-50146-95",
+   "site": "troostwijk/surplex",
+   "text": "Auren Design Pendellampe Schwarz 82 cm 70W LED CCT 3 Farben & 3 Stufen Dimmen (4x)\nStandort: Puurs (BE)\nAktuelles Gebot: 380 EUR · Gebote: 0\nEnde: 2026-10-20T17:51:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/p-l-led-scheinwerfer-im-freien-%284x%29-A1-40899-134",
+   "site": "troostwijk/surplex",
+   "text": "P&L LED-Scheinwerfer im Freien (4x)\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 2026-10-17T17:07:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/12-x-g-tec-led-panels-120-x-30-cm-A3-49982-222",
+   "site": "troostwijk/surplex",
+   "text": "12 x G-Tec LED-Panels 120 x 30 cm\nStandort: Free Delivery (NL)\nAktuelles Gebot: 145 EUR · Gebote: 0\nEnde: 2026-10-16T17:48:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hbm-doppel-led-baulampe-2-x-50w-2-x-4-700-lumen-mit-stativ-5000k-A1-40899-229",
+   "site": "troostwijk/surplex",
+   "text": "HBM Doppel-LED-Baulampe 2 x 50W 2 x 4.700 Lumen mit Stativ 5000K\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 2026-10-17T17:25:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hbm-doppel-led-baulampe-2-x-50w-2-x-4-700-lumen-mit-stativ-5000k-A1-40899-495",
+   "site": "troostwijk/surplex",
+   "text": "HBM Doppel-LED-Baulampe 2 x 50W 2 x 4.700 Lumen mit Stativ 5000K\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 2026-10-17T18:49:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/12-x-g-tec-led-panels-120-x-30-cm-A3-49982-221",
+   "site": "troostwijk/surplex",
+   "text": "12 x G-Tec LED-Panels 120 x 30 cm\nStandort: Free Delivery (NL)\nAktuelles Gebot: 145 EUR · Gebote: 0\nEnde: 2026-10-16T17:48:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/100w-6500k-pro-led-ufo-highbay-waterproof-%2816x%29-A1-50146-23",
+   "site": "troostwijk/surplex",
+   "text": "100W 6500K PRO LED UFO HIGHBAY Waterproof (16x)\nStandort: Puurs (BE)\nAktuelles Gebot: 340 EUR · Gebote: 0\nEnde: 2026-10-20T17:15:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/10-x-ledvance-cob-flex-led-streifen-500-cm-A3-49982-248",
+   "site": "troostwijk/surplex",
+   "text": "10 x Ledvance COB Flex LED Streifen 500 cm\nStandort: Free Delivery (NL)\nAktuelles Gebot: 125 EUR · Gebote: 0\nEnde: 2026-10-16T17:54:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/g-tec-professional-cob-led-streifenrolle-50-meter-leuchtend-wei%C3%9F-A3-49982-220",
+   "site": "troostwijk/surplex",
+   "text": "G-Tec Professional COB LED-Streifenrolle, 50 Meter, leuchtend weiß\nStandort: Free Delivery (NL)\nAktuelles Gebot: 125 EUR · Gebote: 1\nEnde: 2026-10-16T17:48:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/g-tec-professional-cob-led-streifenrolle-50-meter-extra-warmes-wei%C3%9F-A3-49982-215",
+   "site": "troostwijk/surplex",
+   "text": "G-Tec Professional COB LED-Streifenrolle, 50 Meter, extra warmes Weiß\nStandort: Free Delivery (NL)\nAktuelles Gebot: 125 EUR · Gebote: 0\nEnde: 2026-10-16T17:46:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/8-x-ledvance-neon-flex-led-streifen-500-cm-A3-49982-30",
+   "site": "troostwijk/surplex",
+   "text": "8 x Ledvance Neon Flex LED-Streifen 500 cm\nStandort: Free Delivery (NL)\nAktuelles Gebot: 145 EUR · Gebote: 1\nEnde: 2026-10-16T17:07:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/g-tec-professional-cob-led-streifenrolle-50-meter-extra-warmes-wei%C3%9F-A3-49982-214",
+   "site": "troostwijk/surplex",
+   "text": "G-Tec Professional COB LED-Streifenrolle, 50 Meter, extra warmes Weiß\nStandort: Free Delivery (NL)\nAktuelles Gebot: 125 EUR · Gebote: 0\nEnde: 2026-10-16T17:46:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/10-x-ledvance-cob-flex-led-streifen-500-cm-A3-49982-315",
+   "site": "troostwijk/surplex",
+   "text": "10 x Ledvance COB Flex LED Streifen 500 cm\nStandort: Free Delivery (NL)\nAktuelles Gebot: 125 EUR · Gebote: 0\nEnde: 2026-10-16T18:10:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/8-x-ledvance-neon-flex-led-streifen-500-cm-A3-49982-31",
+   "site": "troostwijk/surplex",
+   "text": "8 x Ledvance Neon Flex LED-Streifen 500 cm\nStandort: Free Delivery (NL)\nAktuelles Gebot: 145 EUR · Gebote: 0\nEnde: 2026-10-16T17:07:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/g-tec-professional-cob-led-streifenrolle-50-meter-neutral-wei%C3%9F-A3-49982-218",
+   "site": "troostwijk/surplex",
+   "text": "G-Tec Professional COB LED-Streifenrolle, 50 Meter, neutral weiß\nStandort: Free Delivery (NL)\nAktuelles Gebot: 125 EUR · Gebote: 0\nEnde: 2026-10-16T17:47:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/8-x-ledvance-neon-flex-led-streifen-300-cm-A3-49982-18",
+   "site": "troostwijk/surplex",
+   "text": "8 x Ledvance Neon Flex LED-Streifen 300 cm\nStandort: Free Delivery (NL)\nAktuelles Gebot: 125 EUR · Gebote: 0\nEnde: 2026-10-16T17:04:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/2-x-g-tec-professional-cob-led-streifenrolle-50-meter-leuchtend-wei%C3%9F-A3-49982-226",
+   "site": "troostwijk/surplex",
+   "text": "2 x G-Tec Professional COB LED-Streifenrolle, 50 Meter, leuchtend weiß\nStandort: Free Delivery (NL)\nAktuelles Gebot: 195 EUR · Gebote: 0\nEnde: 2026-10-16T17:49:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/12-x-ledvance-cob-flex-led-streifen-500-cm-A3-49982-316",
+   "site": "troostwijk/surplex",
+   "text": "12 x Ledvance COB Flex LED-Streifen 500 cm\nStandort: Free Delivery (NL)\nAktuelles Gebot: 145 EUR · Gebote: 0\nEnde: 2026-10-16T18:10:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/leistung-%E2%80%93-1200-%E2%80%93-moving-head-%284x%29-A3-46089-5263",
+   "site": "troostwijk/surplex",
+   "text": "Leistung – 1200 – Moving Head (4x)\nStandort: Maasmechelen (BE)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 2026-10-16T15:33:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Moving Head"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/100_HP_ProBook_470_G3_Diplay_17_Zoll_1_TB/985015",
    "site": "zoll-auktion",
-   "text": "1 VW ID.7 Pro S Tourer - BD8-3934E\nBeobachtung Auktion 982527 verwalten\nAuktion in Beobachtung nehmen.\n1 VW ID.7 Pro S Tourer - BD8-3934E\n47807 Krefeld\nNur Abholung möglich!\n3 Tage 18 Std. 57 Min.\n0 Gebote\n43.100,00 EUR",
-   "img_alt": "Frontansicht links",
+   "text": "100 HP ProBook 470 G3 (Diplay 17 Zoll - 1 TB)\nBeobachtung Auktion 985015 verwalten\nAuktion in Beobachtung nehmen.\n100 HP ProBook 470 G3 (Diplay 17 Zoll - 1 TB)\n99099 Erfurt\nNur Abholung möglich!\n16 Tage 23 Std. 11 Min.\n0 Gebote\n3.000,00 EUR",
+   "img_alt": "Laptop aufgeklappt",
+   "keywords": [
+    "Grafikkarte"
+   ],
+   "first_seen": "2026-10-10T09:48:23+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_Touran_16_TDI_Comfortline_BD165960_Hagelschaden/982550",
+   "site": "zoll-auktion",
+   "text": "1 VW Touran 1.6 TDI Comfortline - BD16-5960 Hagelschaden\nBeobachtung Auktion 982550 verwalten\nAuktion in Beobachtung nehmen.\n1 VW Touran 1.6 TDI Comfortline - BD16-5960 Hagelschaden\n80339 München\nNur Abholung möglich!\n2 Tage 19 Std. 55 Min.\n7 Gebote\n10.050,00 EUR",
+   "img_alt": "Frontansicht vorn links",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
+   "first_seen": "2026-10-10T09:48:23+00:00"
   },
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_LKW_MAN_Typ_TGM_18250_4x4_BB/984640",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_L%C3%B6schgruppenfahrzeug_MAN_TLF_1625_L80/984686",
    "site": "zoll-auktion",
-   "text": "1 LKW MAN Typ: TGM 18.250 4x4 BB\nBeobachtung Auktion 984640 verwalten\nAuktion in Beobachtung nehmen.\n1 LKW MAN Typ: TGM 18.250 4x4 BB\n83278 Traunstein\nNur Abholung möglich!\n9 Tage 23 Std. 27 Min.\n0 Gebote\n12.000,00 EUR",
-   "img_alt": "LKW MAN - links vorne",
+   "text": "1 Löschgruppenfahrzeug MAN TLF 16/25 L80\nBeobachtung Auktion 984686 verwalten\nAuktion in Beobachtung nehmen.\n1 Löschgruppen­fahrzeug MAN TLF 16/25 L80\n51580 Reichshof\nNur Abholung möglich!\n27 Tage 1 Std. 54 Min.\n0 Gebote\n10.000,00 EUR",
+   "img_alt": "Front, Seitenansicht",
    "keywords": [
     "Traverse"
    ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Anh%C3%A4nger_mit_Stromerzeugungsaggregat_VEB_FIMAG_Typ_HL_2094KR/983033",
-   "site": "zoll-auktion",
-   "text": "1 Anhänger mit Stromerzeugungsaggregat VEB FIMAG Typ HL 20.94/KR\nBeobachtung Auktion 983033 verwalten\nAuktion in Beobachtung nehmen.\n1 Anhänger mit Stromerzeugu­ngsaggregat VEB FIMAG Typ HL 20.94/KR\n16225 Eberswalde\nNur Abholung möglich!\n13 Tage 0 Std. 57 Min.\n1 Gebot\n1.000,00 EUR",
-   "img_alt": "Seitenansicht Rechts",
-   "keywords": [
-    "Traverse"
-   ],
-   "first_seen": "2026-10-09T10:31:00+00:00"
+   "first_seen": "2026-10-10T09:48:23+00:00"
   }
  ]
 }
