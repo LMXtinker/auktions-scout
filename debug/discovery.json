@@ -45,7 +45,7 @@
    "Workstation": {
     "cards": 7,
     "total_reported": 7,
-    "ids_matched": true
+    "ids_matched": false
    },
    "Gaming PC": {
     "cards": 0,
@@ -58,19 +58,19 @@
     "ids_matched": false
    },
    "Beamer": {
-    "cards": 57,
-    "total_reported": 57,
-    "ids_matched": true
+    "cards": 31,
+    "total_reported": 31,
+    "ids_matched": false
    },
    "Projektor": {
     "cards": 10,
     "total_reported": 10,
-    "ids_matched": true
+    "ids_matched": false
    },
    "LED Wand": {
-    "cards": 57,
-    "total_reported": 57,
-    "ids_matched": true
+    "cards": 33,
+    "total_reported": 33,
+    "ids_matched": false
    },
    "LED Wall": {
     "cards": 0,
@@ -105,7 +105,7 @@
    "Traverse": {
     "cards": 22,
     "total_reported": 22,
-    "ids_matched": true
+    "ids_matched": false
    }
   },
   "errors": [],
