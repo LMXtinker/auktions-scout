@@ -58,18 +58,18 @@
     "ids_matched": false
    },
    "Beamer": {
-    "cards": 31,
-    "total_reported": 31,
+    "cards": 28,
+    "total_reported": 28,
     "ids_matched": false
    },
    "Projektor": {
-    "cards": 10,
-    "total_reported": 10,
+    "cards": 6,
+    "total_reported": 6,
     "ids_matched": false
    },
    "LED Wand": {
-    "cards": 33,
-    "total_reported": 33,
+    "cards": 32,
+    "total_reported": 32,
     "ids_matched": false
    },
    "LED Wall": {
@@ -142,7 +142,7 @@
     "cards": 86
    },
    "Gaming PC": {
-    "cards": 44
+    "cards": 45
    },
    "Laserprojektor": {
     "cards": 0
@@ -151,7 +151,7 @@
     "cards": 19
    },
    "Projektor": {
-    "cards": 86
+    "cards": 88
    },
    "LED Wand": {
     "cards": 200
