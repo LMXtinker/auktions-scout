@@ -63,13 +63,13 @@
     "ids_matched": false
    },
    "Projektor": {
-    "cards": 6,
-    "total_reported": 6,
+    "cards": 7,
+    "total_reported": 7,
     "ids_matched": false
    },
    "LED Wand": {
-    "cards": 32,
-    "total_reported": 32,
+    "cards": 43,
+    "total_reported": 43,
     "ids_matched": false
    },
    "LED Wall": {
@@ -88,8 +88,8 @@
     "ids_matched": false
    },
    "Veranstaltungstechnik": {
-    "cards": 4,
-    "total_reported": 4,
+    "cards": 5,
+    "total_reported": 5,
     "ids_matched": false
    },
    "Lichtpult": {
@@ -142,7 +142,7 @@
     "cards": 86
    },
    "Gaming PC": {
-    "cards": 45
+    "cards": 47
    },
    "Laserprojektor": {
     "cards": 0
@@ -172,7 +172,7 @@
     "cards": 0
    },
    "Moving Head": {
-    "cards": 47
+    "cards": 48
    },
    "Traverse": {
     "cards": 6
