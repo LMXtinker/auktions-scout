@@ -58,18 +58,18 @@
     "ids_matched": false
    },
    "Beamer": {
-    "cards": 17,
-    "total_reported": 17,
+    "cards": 15,
+    "total_reported": 15,
     "ids_matched": true
    },
    "Projektor": {
-    "cards": 8,
-    "total_reported": 8,
+    "cards": 9,
+    "total_reported": 9,
     "ids_matched": false
    },
    "LED Wand": {
-    "cards": 45,
-    "total_reported": 45,
+    "cards": 42,
+    "total_reported": 42,
     "ids_matched": true
    },
    "LED Wall": {
@@ -88,8 +88,8 @@
     "ids_matched": false
    },
    "Veranstaltungstechnik": {
-    "cards": 5,
-    "total_reported": 5,
+    "cards": 7,
+    "total_reported": 7,
     "ids_matched": true
    },
    "Lichtpult": {
@@ -103,9 +103,9 @@
     "ids_matched": false
    },
    "Traverse": {
-    "cards": 22,
-    "total_reported": 22,
-    "ids_matched": false
+    "cards": 18,
+    "total_reported": 18,
+    "ids_matched": true
    }
   },
   "errors": [],
@@ -115,34 +115,34 @@
   "site": "troostwijk-surplex",
   "keywords": {
    "RTX 4090": {
-    "cards": 20
+    "cards": 0
    },
    "RTX 4080": {
-    "cards": 20
+    "cards": 0
    },
    "RTX 4070": {
-    "cards": 20
+    "cards": 0
    },
    "RTX 5090": {
-    "cards": 20
+    "cards": 0
    },
    "RTX 5080": {
-    "cards": 20
+    "cards": 0
    },
    "RTX 5070": {
-    "cards": 20
+    "cards": 0
    },
    "RTX A6000": {
-    "cards": 20
+    "cards": 0
    },
    "Grafikkarte": {
     "cards": 1
    },
    "Workstation": {
-    "cards": 87
+    "cards": 34
    },
    "Gaming PC": {
-    "cards": 45
+    "cards": 52
    },
    "Laserprojektor": {
     "cards": 0
@@ -151,7 +151,7 @@
     "cards": 17
    },
    "Projektor": {
-    "cards": 68
+    "cards": 140
    },
    "LED Wand": {
     "cards": 200
@@ -222,7 +222,7 @@
    "Grafikkarte": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Grafikkarte&n1%5B%5D=0&n0=search",
-    "cards": 5
+    "cards": 6
    },
    "Workstation": {
     "form_ok": true,
