@@ -1,913 +1,887 @@
 {
- "generated": "2026-10-15T08:16:30+00:00",
- "count": 90,
+ "generated": "2026-10-16T08:08:31+00:00",
+ "count": 87,
  "lots": [
   {
-   "url": "https://www.aurena.at/posten/5404287",
+   "url": "https://www.aurena.at/posten/5423058",
    "site": "aurena",
-   "text": "15 | Workstation Dremel | 0 9 | TAGE | : | 2 3 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=Workstation&pagesize=96",
+   "text": "368 | Alu Messestand | 1 4 | TAGE | : | 0 1 | STD | Gebote: 3 | € 70\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5423487",
+   "site": "aurena",
+   "text": "11 | Posten Einweggeschirr | 1 3 | TAGE | : | 0 1 | STD | Gebote: 0 | € 3\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/aorus-rtx3060-%2812gb%29-grafikkarte-A1-50800-81",
+   "site": "troostwijk/surplex",
+   "text": "Aorus RTX3060 (12GB) Grafikkarte\nStandort: Amsterdam (NL)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 2026-11-05T09:30:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Grafikkarte"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-rtx2080ti-grafikkarte-A1-50800-83",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte RTX2080TI Grafikkarte\nStandort: Amsterdam (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-11-05T10:44:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Grafikkarte"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/phantom-gaming-intel-arc-a770-grafikkarte-A1-50800-80",
+   "site": "troostwijk/surplex",
+   "text": "Phantom Gaming Intel Arc A770 Grafikkarte\nStandort: Amsterdam (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-11-05T10:21:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Grafikkarte",
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/phantom-gaming-rx6800xt-%2816gb%29-grafikkarte-A1-50800-82",
+   "site": "troostwijk/surplex",
+   "text": "Phantom Gaming RX6800XT (16GB) Grafikkarte\nStandort: Amsterdam (NL)\nAktuelles Gebot: 15 EUR · Gebote: 2\nEnde: 2026-11-05T10:39:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Grafikkarte",
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/grafikkarten-%2816x%29-A1-50800-84",
+   "site": "troostwijk/surplex",
+   "text": "Grafikkarten (16x)\nStandort: Amsterdam (NL)\nAktuelles Gebot: 20 EUR · Gebote: 3\nEnde: 2026-11-05T10:56:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Grafikkarte"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/desktop-hp-z240-tower-workstation-A1-50244-209",
+   "site": "troostwijk/surplex",
+   "text": "Desktop - HP - Z240 Tower Workstation\nStandort: Hengelo (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-11-05T10:00:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "Workstation"
    ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
+   "first_seen": "2026-10-16T08:08:31+00:00"
   },
   {
-   "url": "https://www.aurena.at/posten/5404288",
-   "site": "aurena",
-   "text": "16 | Workstation Dremel | 0 9 | TAGE | : | 2 3 | STD | Gebote: 2 | € 2\nSuche: https://www.aurena.at/s?keywords=Workstation&pagesize=96",
+   "url": "https://www.troostwijkauctions.com/de/l/buso-audio-studio-workstation-A1-50800-229",
+   "site": "troostwijk/surplex",
+   "text": "Buso Audio Studio Workstation\nStandort: Amsterdam (NL)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-11-05T10:36:00+00:00 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Workstation"
    ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
+   "first_seen": "2026-10-16T08:08:31+00:00"
   },
   {
-   "url": "https://www.aurena.at/posten/5409859",
-   "site": "aurena",
-   "text": "463 | Beamer Acer | 1 4 | TAGE | : | 0 3 | STD | Gebote: 0 | € 10\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "url": "https://www.troostwijkauctions.com/de/l/pc-specialist-gaming-desktop-A1-50800-55",
+   "site": "troostwijk/surplex",
+   "text": "PC Specialist Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T09:15:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/pc-specialist-gaming-desktop-A1-50800-59",
+   "site": "troostwijk/surplex",
+   "text": "PC Specialist Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T10:48:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/pc-specialist-gaming-desktop-A1-50800-33",
+   "site": "troostwijk/surplex",
+   "text": "PC Specialist Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T10:23:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/pc-specialist-gaming-desktop-A1-50800-49",
+   "site": "troostwijk/surplex",
+   "text": "PC Specialist Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 1\nEnde: 2026-11-05T10:14:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/pc-specialist-gaming-desktop-A1-50800-6",
+   "site": "troostwijk/surplex",
+   "text": "PC Specialist Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 140 EUR · Gebote: 5\nEnde: 2026-11-05T10:52:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/pc-specialist-gaming-desktop-A1-50800-3",
+   "site": "troostwijk/surplex",
+   "text": "PC Specialist Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 110 EUR · Gebote: 2\nEnde: 2026-11-05T09:55:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/pc-specialist-gaming-desktop-A1-50800-51",
+   "site": "troostwijk/surplex",
+   "text": "PC Specialist Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T09:37:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/pc-specialist-gaming-desktop-A1-50800-53",
+   "site": "troostwijk/surplex",
+   "text": "PC Specialist Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T10:24:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/pc-specialist-gaming-desktop-A1-50800-52",
+   "site": "troostwijk/surplex",
+   "text": "PC Specialist Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T09:56:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/pc-specialist-gaming-desktop-A1-50800-42",
+   "site": "troostwijk/surplex",
+   "text": "PC Specialist Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T09:46:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/pc-specialist-gaming-desktop-A1-50800-4",
+   "site": "troostwijk/surplex",
+   "text": "PC Specialist Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 420 EUR · Gebote: 3\nEnde: 2026-11-05T09:02:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/pc-specialist-gaming-desktop-A1-50800-41",
+   "site": "troostwijk/surplex",
+   "text": "PC Specialist Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T10:55:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/pc-specialist-gaming-desktop-A1-50800-50",
+   "site": "troostwijk/surplex",
+   "text": "PC Specialist Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T10:06:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/pc-specialist-gaming-desktop-A1-50800-57",
+   "site": "troostwijk/surplex",
+   "text": "PC Specialist Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T09:41:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/pc-specialist-gaming-desktop-A1-50800-32",
+   "site": "troostwijk/surplex",
+   "text": "PC Specialist Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T10:59:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/pc-specialist-gaming-desktop-A1-50800-1",
+   "site": "troostwijk/surplex",
+   "text": "PC Specialist Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 440 EUR · Gebote: 4\nEnde: 2026-11-05T10:30:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/pc-specialist-gaming-desktop-A1-50800-2",
+   "site": "troostwijk/surplex",
+   "text": "PC Specialist Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 210 EUR · Gebote: 13\nEnde: 2026-11-05T09:01:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/pc-specialist-gaming-desktop-A1-50800-65",
+   "site": "troostwijk/surplex",
+   "text": "PC Specialist Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T09:14:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-62",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T09:40:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-37",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T09:20:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-39",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T10:28:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/msi-gaming-desktop-A1-50800-66",
+   "site": "troostwijk/surplex",
+   "text": "MSI Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T09:50:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-40",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T10:08:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-35",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T10:48:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-58",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 1\nEnde: 2026-11-05T10:16:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-56",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T10:04:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-54",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T10:55:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-34",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 1\nEnde: 2026-11-05T10:35:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-47",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T10:09:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-7",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 210 EUR · Gebote: 13\nEnde: 2026-11-05T09:40:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-31",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 1\nEnde: 2026-11-05T09:16:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-38",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T09:59:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-63",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T11:01:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-71",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 2026-11-05T10:42:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-36",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 1\nEnde: 2026-11-05T09:11:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-64",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T09:06:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-73",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 100 EUR · Gebote: 1\nEnde: 2026-11-05T09:03:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/msi-gaming-desktop-A1-50800-5",
+   "site": "troostwijk/surplex",
+   "text": "MSI Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 270 EUR · Gebote: 18\nEnde: 2026-11-05T09:14:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-44",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T11:01:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-70",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-11-05T09:33:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-45",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T09:17:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-46",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 60 EUR · Gebote: 3\nEnde: 2026-11-05T10:11:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-48",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T09:42:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-43",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 1\nEnde: 2026-11-05T10:05:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-omen-gaming-laptop-%2816-zoll%29-A1-50800-23",
+   "site": "troostwijk/surplex",
+   "text": "HP Omen Gaming-Laptop (16 Zoll)\nStandort: Amsterdam (NL)\nAktuelles Gebot: 110 EUR · Gebote: 2\nEnde: 2026-11-05T09:59:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-omen-gaming-laptop-%2816-zoll%29-A1-50800-24",
+   "site": "troostwijk/surplex",
+   "text": "HP Omen Gaming-Laptop (16 Zoll)\nStandort: Amsterdam (NL)\nAktuelles Gebot: 110 EUR · Gebote: 2\nEnde: 2026-11-05T09:58:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-omen-gaming-laptop-%2816-zoll%29-A1-50800-25",
+   "site": "troostwijk/surplex",
+   "text": "HP Omen Gaming-Laptop (16 Zoll)\nStandort: Amsterdam (NL)\nAktuelles Gebot: 110 EUR · Gebote: 2\nEnde: 2026-11-05T09:31:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/msi-gt75-titan-8sf-gaming-laptop-A1-50800-29",
+   "site": "troostwijk/surplex",
+   "text": "MSI GT75 Titan 8SF Gaming-Laptop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-11-05T10:00:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/party-gaming-headset-A1-50800-238",
+   "site": "troostwijk/surplex",
+   "text": "Party-Gaming-Headset\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T10:15:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gaming-desktop-A1-50800-60",
+   "site": "troostwijk/surplex",
+   "text": "Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T10:56:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gaming-desktop-A1-50800-67",
+   "site": "troostwijk/surplex",
+   "text": "Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 2026-11-05T10:53:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gaming-desktop-A1-50800-69",
+   "site": "troostwijk/surplex",
+   "text": "Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-11-05T09:56:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gaming-desktop-A1-50800-61",
+   "site": "troostwijk/surplex",
+   "text": "Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-05T10:23:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/charge-von-autoradios-und-gaming-lautsprechern-%28insgesamt-10-stuck%29-A1-47447-177",
+   "site": "troostwijk/surplex",
+   "text": "Charge von Autoradios und Gaming-Lautsprechern (insgesamt 10 Stück)\nStandort: Hengelo (NL)\nAktuelles Gebot: 110 EUR · Gebote: 2\nEnde: 2026-10-16T08:18:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gaming-desktop-A1-50800-30",
+   "site": "troostwijk/surplex",
+   "text": "Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 50 EUR · Gebote: 1\nEnde: 2026-11-05T10:46:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gaming-monitor-%283x%29-A1-50800-176",
+   "site": "troostwijk/surplex",
+   "text": "Gaming-Monitor (3x)\nStandort: Amsterdam (NL)\nAktuelles Gebot: 110 EUR · Gebote: 16\nEnde: 2026-11-05T09:05:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/optoma-beamer-A1-50244-186",
+   "site": "troostwijk/surplex",
+   "text": "Optoma Beamer\nStandort: Hengelo (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-11-05T09:32:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "Beamer"
    ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
+   "first_seen": "2026-10-16T08:08:31+00:00"
   },
   {
-   "url": "https://www.aurena.at/posten/5404712",
-   "site": "aurena",
-   "text": "440 | 7 LED Wandleuchten Basic | 1 0 | TAGE | : | 0 0 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5405040",
-   "site": "aurena",
-   "text": "768 | 2 Akku LED Wandleuchten RL Genie | 1 0 | TAGE | : | 0 0 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5405042",
-   "site": "aurena",
-   "text": "770 | 2 Akku LED Wandleuchten RL Genie | 1 0 | TAGE | : | 0 0 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5405043",
-   "site": "aurena",
-   "text": "771 | 2 Akku LED Wandleuchten RL Genie | 1 0 | TAGE | : | 0 0 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5405045",
-   "site": "aurena",
-   "text": "773 | 4 Akku LED Wandleuchten RL Genie | 1 0 | TAGE | : | 0 0 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5405046",
-   "site": "aurena",
-   "text": "774 | 4 Akku LED Wandleuchten RL Genie | 1 0 | TAGE | : | 0 0 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5405047",
-   "site": "aurena",
-   "text": "775 | 3 Akku LED Wandleuchten RL Genie | 1 0 | TAGE | : | 0 0 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5405048",
-   "site": "aurena",
-   "text": "776 | 2 Akku LED Wandleuchten RL Genie | 1 0 | TAGE | : | 0 0 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5405049",
-   "site": "aurena",
-   "text": "777 | 4 Akku LED Wandleuchten RL Genie | 1 0 | TAGE | : | 0 0 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5405050",
-   "site": "aurena",
-   "text": "778 | 4 Akku LED Wandleuchten RL Genie | 1 0 | TAGE | : | 0 0 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5405618",
-   "site": "aurena",
-   "text": "1346 | 3 LED Wand Außenleuchten Flector Juno | 1 0 | TAGE | : | 0 1 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5405619",
-   "site": "aurena",
-   "text": "1347 | 3 LED Wand Außenleuchten Flector Juno | 1 0 | TAGE | : | 0 1 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5405620",
-   "site": "aurena",
-   "text": "1348 | 3 LED Wand Außenleuchten Flector Juno | 1 0 | TAGE | : | 0 1 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5405621",
-   "site": "aurena",
-   "text": "1349 | 3 LED Wand Außenleuchten Flector Juno | 1 0 | TAGE | : | 0 1 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5405622",
-   "site": "aurena",
-   "text": "1350 | 3 LED Wand Außenleuchten Flector Juno | 1 0 | TAGE | : | 0 1 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5405044",
-   "site": "aurena",
-   "text": "772 | 2 Akku LED Wandleuchten RL Genie | 1 0 | TAGE | : | 0 0 | STD | Gebote: 2 | € 2\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5405041",
-   "site": "aurena",
-   "text": "769 | 2 Akku LED Wandleuchten RL Genie | 1 0 | TAGE | : | 0 0 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5405623",
-   "site": "aurena",
-   "text": "1351 | 4 LED Wand Außenleuchten Flector Juno | 1 0 | TAGE | : | 0 1 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5404679",
-   "site": "aurena",
-   "text": "407 | 2 LED Wand- und Deckenleuchten Sandy | 1 0 | TAGE | : | 0 0 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5404678",
-   "site": "aurena",
-   "text": "406 | 3 LED Wand- und Deckenleuchten Sandy | 1 0 | TAGE | : | 0 0 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5411209",
-   "site": "aurena",
-   "text": "285 | MiscHPult Soundcraft EPM 8 | 1 3 | TAGE | : | 2 3 | STD | Gebote: 0 | € 30\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Veranstaltungstechnik"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5411225",
-   "site": "aurena",
-   "text": "301 | 4 Mikrofonständer | 1 3 | TAGE | : | 2 3 | STD | Gebote: 0 | € 8\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Veranstaltungstechnik"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5411226",
-   "site": "aurena",
-   "text": "302 | Kamerastativ ESDDI | 1 3 | TAGE | : | 2 3 | STD | Gebote: 0 | € 3\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Veranstaltungstechnik"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/jummico-gaming-stuhl-mit-massagefunktion-bis-zu-150-kg-schwarz-wei%C3%9F-A1-50769-166",
+   "url": "https://www.troostwijkauctions.com/de/l/jcb-beaver-hydraulikantrieb-A1-42437-471",
    "site": "troostwijk/surplex",
-   "text": "JUMMICO Gaming-Stuhl mit Massagefunktion bis zu 150 kg, schwarz-weiß\nStandort: Peer (BE)\nAktuelles Gebot: 45 EUR · Gebote: 0\nEnde: 2026-10-28T14:09:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "JCB Beaver Hydraulikantrieb\nStandort: Westkapelle (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-26T19:41:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
-    "Gaming PC"
+    "Beamer"
    ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
+   "first_seen": "2026-10-16T08:08:31+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/mars-gaming-mh-glow-360%C2%B0-full-chroma-rgb-flow-headset-gerauschunterdruckendes-mikrofon-ultraleichtes-design-memory-schaum-windows-ps4-ps5-xbox-series-x%7Cs-one-mac-switch-switch-2-smartphone-tablet-schwarz-A1-50769-294",
+   "url": "https://www.troostwijkauctions.com/de/l/epson-h763b-lcd-projektor-A1-50935-50",
    "site": "troostwijk/surplex",
-   "text": "Mars Gaming MH-GLOW, 360° Full Chroma RGB Flow Headset, geräuschunterdrückendes Mikrofon, ultraleichtes Design, Memory-Schaum, Windows/PS4/PS5/XBOX SERIES X|S/ONE/Mac/Switch/Switch 2/Smartphone/Tablet, schwarz\nStandort: Peer (BE)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-28T13:17:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/corsair-%E2%80%93-gaming-pc-A1-38791-5",
-   "site": "troostwijk/surplex",
-   "text": "Corsair – Gaming-PC\nStandort: Hedel (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-27T18:30:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/gxtrust-forta-gaming-headset-lizenziert-fur-playstation-5-wei%C3%9F-A1-50769-293",
-   "site": "troostwijk/surplex",
-   "text": "GXTrust Forta Gaming-Headset lizenziert für PlayStation 5, weiß\nStandort: Peer (BE)\nAktuelles Gebot: 15 EUR · Gebote: 0\nEnde: 2026-10-28T13:57:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/jbl-quantum-100m2-kabelgebundene-over-ear-gaming-kopfhorer-schwarz-A1-50769-296",
-   "site": "troostwijk/surplex",
-   "text": "JBL Quantum 100M2, kabelgebundene Over-Ear Gaming-Kopfhörer, Schwarz\nStandort: Peer (BE)\nAktuelles Gebot: 15 EUR · Gebote: 0\nEnde: 2026-10-28T13:35:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/autorennstuhl-%E2%80%93-gaming-stuhl-A1-50713-254",
-   "site": "troostwijk/surplex",
-   "text": "Autorennstuhl – Gaming-Stuhl\nStandort: Nieuwegein (NL)\nAktuelles Gebot: 50 EUR · Gebote: 1\nEnde: 2026-10-26T18:31:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/symino-gaming-lehrstuhl-A1-49866-77",
-   "site": "troostwijk/surplex",
-   "text": "Symino Gaming-Lehrstuhl\nStandort: Tilburg (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-26T19:05:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/epson-co-fh01-3lcd-projektor-full-hd-1080p-3-000-lumen-A1-50769-35",
-   "site": "troostwijk/surplex",
-   "text": "Epson CO-FH01 3LCD-Projektor Full HD 1080p, 3.000 Lumen\nStandort: Peer (BE)\nAktuelles Gebot: 225 EUR · Gebote: 0\nEnde: 2026-10-28T13:25:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "Epson H763B LCD-Projektor\nStandort: Elst (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-11-03T13:52:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "Projektor"
    ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
+   "first_seen": "2026-10-16T08:08:31+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/car-keystone-4k-projektor-A1-50769-285",
+   "url": "https://www.troostwijkauctions.com/de/l/epson-eh-ls1200b-4k-uhd-2200-lumen-hdr10%2B-projektor-A1-50800-214",
    "site": "troostwijk/surplex",
-   "text": "Car Keystone 4K-Projektor\nStandort: Peer (BE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-28T15:13:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "Epson EH-LS1200B 4K UHD 2200 Lumen HDR10+ Projektor\nStandort: Amsterdam (NL)\nAktuelles Gebot: 140 EUR · Gebote: 5\nEnde: 2026-11-05T09:10:00+00:00 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Projektor"
    ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
+   "first_seen": "2026-10-16T08:08:31+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/oxo-kondom-c80-projektor-A1-50934-108",
+   "url": "https://www.troostwijkauctions.com/de/l/led-mesh-module-sitelight-2g-paket-A1-50947-1",
    "site": "troostwijk/surplex",
-   "text": "OXO - KONDOM C80 - Projektor\nStandort: Longjumeau (FR)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-11-12T15:17:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/jolly-hpit-400w-projektoren-%286x%29-A1-50934-71",
-   "site": "troostwijk/surplex",
-   "text": "JOLLY - HPIT 400W - Projektoren (6x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 120 EUR · Gebote: 0\nEnde: 2026-11-12T16:17:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/jolly-hpit-400w-projektoren-%286x%29-A1-50934-69",
-   "site": "troostwijk/surplex",
-   "text": "JOLLY - HPIT 400W - Projektoren (6x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 120 EUR · Gebote: 0\nEnde: 2026-11-12T14:49:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/jolly-hpit-400w-projektoren-%286x%29-A1-50934-55",
-   "site": "troostwijk/surplex",
-   "text": "JOLLY - HPIT 400W - Projektoren (6x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 120 EUR · Gebote: 0\nEnde: 2026-11-12T15:09:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/jolly-hpit-400w-projektoren-%286x%29-A1-50934-70",
-   "site": "troostwijk/surplex",
-   "text": "JOLLY - HPIT 400W - Projektoren (6x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 120 EUR · Gebote: 0\nEnde: 2026-11-12T16:53:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/jolly-hpit-400w-projektoren-%286x%29-A1-50934-73",
-   "site": "troostwijk/surplex",
-   "text": "JOLLY - HPIT 400W - Projektoren (6x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 120 EUR · Gebote: 0\nEnde: 2026-11-12T15:21:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/adb-sh50-projektoren-%284x%29-A1-50934-318",
-   "site": "troostwijk/surplex",
-   "text": "ADB - SH50 - Projektoren (4x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-11-12T16:21:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/desisti-2001-leonardo-projektoren-%284x%29-A1-50934-314",
-   "site": "troostwijk/surplex",
-   "text": "DESISTI - 2001 - LEONARDO - Projektoren (4x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 160 EUR · Gebote: 0\nEnde: 2026-11-12T15:33:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/jolly-hpit-400w-projektoren-%286x%29-A1-50934-64",
-   "site": "troostwijk/surplex",
-   "text": "JOLLY - HPIT 400W - Projektoren (6x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 60 EUR · Gebote: 0\nEnde: 2026-11-12T15:21:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/desisti-magis-projektoren-%286x%29-A1-50934-306",
-   "site": "troostwijk/surplex",
-   "text": "DESISTI - MAGIS - Projektoren (6x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 150 EUR · Gebote: 0\nEnde: 2026-11-12T15:57:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/desisti-magis-projektoren-%286x%29-A1-50934-305",
-   "site": "troostwijk/surplex",
-   "text": "DESISTI - MAGIS - Projektoren (6x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 150 EUR · Gebote: 0\nEnde: 2026-11-12T16:13:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/jolly-hpit-400w-projektoren-%286x%29-A1-50934-63",
-   "site": "troostwijk/surplex",
-   "text": "JOLLY - HPIT 400W - Projektoren (6x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 60 EUR · Gebote: 0\nEnde: 2026-11-12T15:29:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/oxo-kondom-c63-projektoren-%282x%29-A1-50934-117",
-   "site": "troostwijk/surplex",
-   "text": "OXO - KONDOM C63 - Projektoren (2x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-11-12T17:17:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/oxo-kondom-c63-projektoren-%282x%29-A1-50934-116",
-   "site": "troostwijk/surplex",
-   "text": "OXO - KONDOM C63 - Projektoren (2x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-11-12T14:45:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/oxo-kondom-c63-projektoren-%282x%29-A1-50934-119",
-   "site": "troostwijk/surplex",
-   "text": "OXO - KONDOM C63 - Projektoren (2x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-11-12T16:25:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/jolly-hpit-400w-projektoren-%286x%29-A1-50934-77",
-   "site": "troostwijk/surplex",
-   "text": "JOLLY - HPIT 400W - Projektoren (6x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 120 EUR · Gebote: 0\nEnde: 2026-11-12T14:53:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/jolly-hpit-400w-projektoren-%286x%29-A1-50934-65",
-   "site": "troostwijk/surplex",
-   "text": "JOLLY - HPIT 400W - Projektoren (6x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 120 EUR · Gebote: 0\nEnde: 2026-11-12T14:21:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/jolly-hpit-400w-projektoren-%286x%29-A1-50934-78",
-   "site": "troostwijk/surplex",
-   "text": "JOLLY - HPIT 400W - Projektoren (6x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 120 EUR · Gebote: 0\nEnde: 2026-11-12T16:45:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/jolly-hpit-400w-projektoren-%286x%29-A1-50934-76",
-   "site": "troostwijk/surplex",
-   "text": "JOLLY - HPIT 400W - Projektoren (6x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 120 EUR · Gebote: 0\nEnde: 2026-11-12T15:25:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/jolly-hpit-400w-projektoren-%286x%29-A1-50934-74",
-   "site": "troostwijk/surplex",
-   "text": "JOLLY - HPIT 400W - Projektoren (6x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 120 EUR · Gebote: 0\nEnde: 2026-11-12T16:49:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/jolly-hpit-400w-projektoren-%286x%29-A1-50934-75",
-   "site": "troostwijk/surplex",
-   "text": "JOLLY - HPIT 400W - Projektoren (6x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 120 EUR · Gebote: 0\nEnde: 2026-11-12T14:37:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/adb-sh50-projektoren-%284x%29-A1-50934-319",
-   "site": "troostwijk/surplex",
-   "text": "ADB - SH50 - Projektoren (4x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-11-12T16:01:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/desisti-2001-leonardo-projektoren-%284x%29-A1-50934-315",
-   "site": "troostwijk/surplex",
-   "text": "DESISTI - 2001 - LEONARDO - Projektoren (4x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 160 EUR · Gebote: 0\nEnde: 2026-11-12T14:21:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/oxo-kondom-c63-projektoren-%282x%29-A1-50934-125",
-   "site": "troostwijk/surplex",
-   "text": "OXO - KONDOM C63 - Projektoren (2x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-11-12T16:05:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/oxo-kondom-c63-projektoren-%282x%29-A1-50934-121",
-   "site": "troostwijk/surplex",
-   "text": "OXO - KONDOM C63 - Projektoren (2x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-11-12T17:05:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/desisti-magis-projektoren-%286x%29-A1-50934-308",
-   "site": "troostwijk/surplex",
-   "text": "DESISTI - MAGIS - Projektoren (6x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 150 EUR · Gebote: 0\nEnde: 2026-11-12T15:09:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/desisti-monet-projektoren-%284x%29-A1-50934-309",
-   "site": "troostwijk/surplex",
-   "text": "DESISTI - MONET - Projektoren (4x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 150 EUR · Gebote: 0\nEnde: 2026-11-12T14:13:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/desisti-2001-leonardo-projektoren-%284x%29-A1-50934-313",
-   "site": "troostwijk/surplex",
-   "text": "DESISTI - 2001 - LEONARDO - Projektoren (4x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 160 EUR · Gebote: 0\nEnde: 2026-11-12T17:05:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/oxo-kondom-c63-projektoren-%282x%29-A1-50934-123",
-   "site": "troostwijk/surplex",
-   "text": "OXO - KONDOM C63 - Projektoren (2x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-11-12T14:09:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/oxo-kondom-c63-projektoren-%282x%29-A1-50934-122",
-   "site": "troostwijk/surplex",
-   "text": "OXO - KONDOM C63 - Projektoren (2x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-11-12T14:41:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/jolly-hpit-400w-projektoren-%286x%29-A1-50934-67",
-   "site": "troostwijk/surplex",
-   "text": "JOLLY - HPIT 400W - Projektoren (6x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 60 EUR · Gebote: 0\nEnde: 2026-11-12T16:33:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/jolly-hpit-400w-projektoren-%283x%29-A1-50934-68",
-   "site": "troostwijk/surplex",
-   "text": "JOLLY - HPIT 400W - Projektoren (3x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 30 EUR · Gebote: 0\nEnde: 2026-11-12T17:13:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/oxo-kondom-c63-projektoren-%282x%29-A1-50934-124",
-   "site": "troostwijk/surplex",
-   "text": "OXO - KONDOM C63 - Projektoren (2x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-11-12T16:29:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/desisti-2001-leonardo-projektoren-%284x%29-A1-50934-316",
-   "site": "troostwijk/surplex",
-   "text": "DESISTI - 2001 - LEONARDO - Projektoren (4x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 160 EUR · Gebote: 0\nEnde: 2026-11-12T15:21:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/oxo-kondom-c63-projektoren-%282x%29-A1-50934-127",
-   "site": "troostwijk/surplex",
-   "text": "OXO - KONDOM C63 - Projektoren (2x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-11-12T15:09:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/desisti-magis-projektoren-%286x%29-A1-50934-307",
-   "site": "troostwijk/surplex",
-   "text": "DESISTI - MAGIS - Projektoren (6x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 150 EUR · Gebote: 0\nEnde: 2026-11-12T14:37:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/oxo-kondom-c63-projektoren-%282x%29-A1-50934-118",
-   "site": "troostwijk/surplex",
-   "text": "OXO - KONDOM C63 - Projektoren (2x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-11-12T14:49:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/oxo-kondom-c63-projektoren-%282x%29-A1-50934-126",
-   "site": "troostwijk/surplex",
-   "text": "OXO - KONDOM C63 - Projektoren (2x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-11-12T16:45:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/adb-sh50-projektoren-%284x%29-A1-50934-317",
-   "site": "troostwijk/surplex",
-   "text": "ADB - SH50 - Projektoren (4x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-11-12T14:29:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/desisti-monet-projektoren-%284x%29-A1-50934-311",
-   "site": "troostwijk/surplex",
-   "text": "DESISTI - MONET - Projektoren (4x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 150 EUR · Gebote: 0\nEnde: 2026-11-12T16:25:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/oxo-kondom-c63-projektoren-%283x%29-A1-50934-120",
-   "site": "troostwijk/surplex",
-   "text": "OXO - KONDOM C63 - Projektoren (3x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 140 EUR · Gebote: 0\nEnde: 2026-11-12T14:21:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/desisti-monet-projektoren-%284x%29-A1-50934-312",
-   "site": "troostwijk/surplex",
-   "text": "DESISTI - MONET - Projektoren (4x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 150 EUR · Gebote: 0\nEnde: 2026-11-12T14:13:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/desisti-monet-projektoren-%284x%29-A1-50934-310",
-   "site": "troostwijk/surplex",
-   "text": "DESISTI - MONET - Projektoren (4x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 150 EUR · Gebote: 0\nEnde: 2026-11-12T14:53:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/adb-sh50-projektoren-%284x%29-A1-50934-320",
-   "site": "troostwijk/surplex",
-   "text": "ADB - SH50 - Projektoren (4x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-11-12T14:57:00+00:00 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/aht-miami-185-profi-tiefkuhltruhe-%E2%80%93-533-liter-led-gepruft-und-voll-funktionsfahig-A1-51007-28",
-   "site": "troostwijk/surplex",
-   "text": "AHT Miami 185 Profi-Tiefkühltruhe – 533 Liter, LED, geprüft und voll funktionsfähig\nStandort: Mönchengladbach (DE)\nAktuelles Gebot: 340 EUR · Gebote: 0\nEnde: 2026-10-28T16:47:00+00:00 · Status: BIDDING_OPEN",
+   "text": "LED-Mesh-Module SiteLight 2G Paket\nStandort: Blindenmarkt (AT)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-10-29T14:01:00+00:00 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
+   "first_seen": "2026-10-16T08:08:31+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/aht-miami-185-profi-tiefkuhltruhe-%E2%80%93-533-liter-led-gepruft-und-voll-funktionsfahig-A1-51007-25",
+   "url": "https://www.troostwijkauctions.com/de/l/lot-anna%27s-collection-led-lichter-warmwei%C3%9Fe-20-led-1-5m-lichter-%2880x%29-A1-50924-123",
    "site": "troostwijk/surplex",
-   "text": "AHT Miami 185 Profi-Tiefkühltruhe – 533 Liter, LED, geprüft und voll funktionsfähig\nStandort: Mönchengladbach (DE)\nAktuelles Gebot: 340 EUR · Gebote: 0\nEnde: 2026-10-28T15:08:00+00:00 · Status: BIDDING_OPEN",
+   "text": "Lot Anna's Collection LED-Lichter warmweiße 20 LED 1,5m Lichter (80x)\nStandort: Deurne (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-11-02T20:21:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
+   "first_seen": "2026-10-16T08:08:31+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/aht-miami-185-profi-tiefkuhltruhe-%E2%80%93-533-liter-led-gepruft-und-voll-funktionsfahig-A1-51007-27",
+   "url": "https://www.troostwijkauctions.com/de/l/lot-anna%27s-collection-led-treecluster-luxusfarbe-384-led-%2B-5m-%2830x%29-A1-50924-112",
    "site": "troostwijk/surplex",
-   "text": "AHT Miami 185 Profi-Tiefkühltruhe – 533 Liter, LED, geprüft und voll funktionsfähig\nStandort: Mönchengladbach (DE)\nAktuelles Gebot: 340 EUR · Gebote: 0\nEnde: 2026-10-28T15:12:00+00:00 · Status: BIDDING_OPEN",
+   "text": "Lot Anna's Collection LED Treecluster Luxusfarbe 384 LED +- 5M (30x)\nStandort: Deurne (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-11-02T20:11:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
+   "first_seen": "2026-10-16T08:08:31+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/aht-miami-185-profi-tiefkuhltruhe-%E2%80%93-533-liter-led-gepruft-und-voll-funktionsfahig-A1-51007-26",
+   "url": "https://www.troostwijkauctions.com/de/l/zeller%2Bgmelin-uvaflex-fcm-led-y581-eimer-a-5kg-led-uv-flexo-druckfarbe-%282x%29-A1-50993-64",
    "site": "troostwijk/surplex",
-   "text": "AHT Miami 185 Profi-Tiefkühltruhe – 533 Liter, LED, geprüft und voll funktionsfähig\nStandort: Mönchengladbach (DE)\nAktuelles Gebot: 340 EUR · Gebote: 0\nEnde: 2026-10-28T16:44:00+00:00 · Status: BIDDING_OPEN",
+   "text": "Zeller+Gmelin Uvaflex FCM LED Y581 Eimer à 5kg LED-UV-Flexo-Druckfarbe (2x)\nStandort: Beugen (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-11-03T18:36:00+00:00 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
+   "first_seen": "2026-10-16T08:08:31+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/philips-%E2%80%93-led-pl-c-4p-led-pl-c-2p-%E2%80%93-lichtquelle-%2815x%29-A1-38791-86",
+   "url": "https://www.troostwijkauctions.com/de/l/lot-anna%27s-collection-led-treecluster-warmwei%C3%9F-576-led-%2B-7-5m-%2835x%29-A1-50924-155",
    "site": "troostwijk/surplex",
-   "text": "Philips – LED PL-C 4P / LED PL-C 2P – Lichtquelle (15x)\nStandort: Hedel (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-10-27T18:39:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "Lot Anna's Collection LED Treecluster warmweiß 576 LED +/-7,5M (35x)\nStandort: Deurne (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 2026-11-02T18:29:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
+   "first_seen": "2026-10-16T08:08:31+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/philips-246v5l-%E2%80%94-24%22-full-hd-led-monitor-A1-50769-419",
+   "url": "https://www.troostwijkauctions.com/de/l/4-x-glp-impression-x4-bar20-ip40-%2820xrgbw-led-7%C2%B0-50%C2%B0%29-A1-50020-51",
    "site": "troostwijk/surplex",
-   "text": "Philips 246V5L — 24\" Full HD LED-Monitor\nStandort: Peer (BE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-28T15:31:00+00:00 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "4 x GLP Impression X4 BAR20 IP40 (20xRGBW LED/7°-50°)\nStandort: Kerpen (DE)\nAktuelles Gebot: 800 EUR · Gebote: 2\nEnde: 2026-10-20T19:27:00+00:00 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
+   "first_seen": "2026-10-16T08:08:31+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/pulsar-chromabank-led-bars-%282x%29-A1-50934-6",
+   "url": "https://www.troostwijkauctions.com/de/l/1-x-display-samsung-pm43h-led-43%22-full-hd-data-display-A1-50020-200",
    "site": "troostwijk/surplex",
-   "text": "Pulsar - ChromaBank - LED-Bars (2x)\nStandort: Longjumeau (FR)\nAktuelles Gebot: 80 EUR · Gebote: 0\nEnde: 2026-11-12T15:29:00+00:00 · Status: BIDDING_OPEN",
+   "text": "1 x Display Samsung PM43H LED 43\"/Full HD Data-Display\nStandort: Kerpen (DE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 2026-10-20T18:18:00+00:00 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
+   "first_seen": "2026-10-16T08:08:31+00:00"
   },
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Apple_iMac_A1419_Quad_Core_Intel_i7_27_Zoll_68_58cm/985548",
+   "url": "https://www.troostwijkauctions.com/de/l/2-x-display-samsung-pm43h-led-43%22-full-hd-data-display-A1-50020-202",
+   "site": "troostwijk/surplex",
+   "text": "2 x Display Samsung PM43H LED 43\"/Full HD Data-Display\nStandort: Kerpen (DE)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-10-20T17:53:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/display-sharp-aquos-lc-80le632u-1080p-led-80%22-hdtv-A1-50020-211",
+   "site": "troostwijk/surplex",
+   "text": "Display SHARP AQUOS LC-80LE632U 1080p LED 80\" HDTV\nStandort: Kerpen (DE)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 2026-10-20T18:33:00+00:00 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Service_Terminal_kein_Typenschild_was_auf_einen_Hersteller_oder_Model_hinweist/985533",
    "site": "zoll-auktion",
-   "text": "1 Apple iMac A1419, Quad Core Intel i7, 27 Zoll, 68,58cm\nBeobachtung Auktion 985548 verwalten\nAuktion in Beobachtung nehmen.\n1 Apple iMac A1419, Quad Core Intel i7, 27 Zoll, 68,58cm\n38229 Salzgitter\nNur Abholung möglich!\n11 Tage 5 Std. 32 Min.\n0 Gebote\n250,00 EUR",
-   "img_alt": "Vorderseite",
+   "text": "1 Service Terminal / kein Typenschild was auf einen Hersteller oder Model hinweist\nBeobachtung Auktion 985533 verwalten\nAuktion in Beobachtung nehmen.\n1 Service Terminal / kein Typenschild was auf einen Hersteller oder Model hinweist\n30169 Hannover\nNur Abholung möglich!\n20 Tage 5 Std. 50 Min.\n0 Gebote\n49,00 EUR",
+   "img_alt": "Vorderseite des Terminals mit geöffneter Unterbautür.",
    "keywords": [
     "Grafikkarte"
    ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
+   "first_seen": "2026-10-16T08:08:31+00:00"
   },
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Passat_Variant_20_TSI_Business_OPF/984466",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Videokonferenzanlage_Marke_Aveo/981330",
    "site": "zoll-auktion",
-   "text": "1 Passat Variant 2.0 TSI Business OPF\nBeobachtung Auktion 984466 verwalten\nAuktion in Beobachtung nehmen.\n1 Passat Variant 2.0 TSI Business OPF\n20097 Hamburg\nNur Abholung möglich!\n1 Tag 0 Std. 42 Min.\n0 Gebote\n19.200,00 EUR",
-   "img_alt": "Diagonale vorn",
+   "text": "1 Videokonferenzanlage, Marke Aveo\nBeobachtung Auktion 981330 verwalten\nAuktion in Beobachtung nehmen.\n1 Videokonfere­nzanlage, Marke Aveo\n44137 Dortmund\nNur Abholung möglich!\n2 Tage 1 Std. 46 Min.\n8 Gebote\n130,00 EUR",
+   "img_alt": "Vordere Ansicht",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
+   "first_seen": "2026-10-16T08:08:31+00:00"
   },
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Damenfahrrad_Prince_28_Zoll_55cm_RH/982714",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Toilettenwagen_GLOBALINER_4200_Autarkic_213_TANK/981408",
    "site": "zoll-auktion",
-   "text": "1 Damenfahrrad \"Prince\" (28 Zoll, 55cm RH)\nBeobachtung Auktion 982714 verwalten\nAuktion in Beobachtung nehmen.\n1 Damenfahrrad \"Prince\" (28 Zoll, 55cm RH)\n39130 Magdeburg\nNur Abholung möglich!\n2 Tage 7 Std. 42 Min.\n0 Gebote\n13,00 EUR",
-   "img_alt": "Seitenprofilansicht",
+   "text": "1 Toilettenwagen GLOBALINER 4200 Autarkic // 213 TANK\nBeobachtung Auktion 981408 verwalten\nAuktion in Beobachtung nehmen.\n1 Toilettenwag­en GLOBALINER 4200 Autarkic // 213 TANK\n37355 Niederorschel\nNur Abholung möglich!\n2 Tage 6 Std. 32 Min.\n0 Gebote\n29.900,00 EUR",
+   "img_alt": "Rechte Seitenwand",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
+   "first_seen": "2026-10-16T08:08:31+00:00"
   },
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_ID7_Pro_BD83893E/984145",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Opel_Insignia_Country_Tourer_20_CDTI_4x4_ecoFlex/983266",
    "site": "zoll-auktion",
-   "text": "1 VW ID.7 Pro - BD8-3893E\nBeobachtung Auktion 984145 verwalten\nAuktion in Beobachtung nehmen.\n1 VW ID.7 Pro - BD8-3893E\n33602 Bielefeld\nNur Abholung möglich!\n2 Tage 21 Std. 27 Min.\n0 Gebote\n41.990,00 EUR",
+   "text": "1 Opel Insignia Country Tourer 2.0 CDTI 4x4 ecoFlex\nBeobachtung Auktion 983266 verwalten\nAuktion in Beobachtung nehmen.\n1 Opel Insignia Country Tourer 2.0 CDTI 4x4 ecoFlex\n92287 Schmidmühlen\nNur Abholung möglich!\n2 Tage 8 Std. 40 Min.\n0 Gebote\n6.900,00 EUR",
+   "img_alt": "Frontansicht diagonal rechts",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_Passat_Variant_20_TDI_4Motion_BMT_BD164349/983833",
+   "site": "zoll-auktion",
+   "text": "1 VW Passat Variant 2.0 TDI 4Motion BMT - BD16-4349\nBeobachtung Auktion 983833 verwalten\nAuktion in Beobachtung nehmen.\n1 VW Passat Variant 2.0 TDI 4Motion BMT - BD16-4349\n92726 Waidhaus\nNur Abholung möglich!\n2 Tage 20 Std. 50 Min.\n0 Gebote\n7.725,00 EUR",
    "img_alt": "Frontansicht links",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-10-15T08:16:30+00:00"
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_Passat_Variant_20_TDI_4Motion_BMT_BD166602/983853",
+   "site": "zoll-auktion",
+   "text": "1 VW Passat Variant 2.0 TDI 4Motion BMT - BD16-6602\nBeobachtung Auktion 983853 verwalten\nAuktion in Beobachtung nehmen.\n1 VW Passat Variant 2.0 TDI 4Motion BMT - BD16-6602\n96050 Bamberg\nNur Abholung möglich!\n2 Tage 21 Std. 5 Min.\n28 Gebote\n3.050,00 EUR",
+   "img_alt": "Seitenansicht links",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_ID7_Pro_S_BD83903E/983954",
+   "site": "zoll-auktion",
+   "text": "1 VW ID.7 Pro S - BD8-3903E\nBeobachtung Auktion 983954 verwalten\nAuktion in Beobachtung nehmen.\n1 VW ID.7 Pro S - BD8-3903E\n67433 Neustadt an der Weinstraße\nNur Abholung möglich!\n2 Tage 21 Std. 20 Min.\n0 Gebote\n43.590,00 EUR",
+   "img_alt": "Frontansicht rechts",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/2_KM_259_Mirofonst%C3%A4nder/985579",
+   "site": "zoll-auktion",
+   "text": "2 K&M 259 Mirofonständer\nBeobachtung Auktion 985579 verwalten\nAuktion in Beobachtung nehmen.\n2 K&M 259 Mirofonständ­er\n93197 Zeitlarn\nNur Abholung möglich!\n24 Tage 2 Std. 49 Min.\n0 Gebote\n25,00 EUR",
+   "img_alt": "maximal ausgefahren 1,65 m",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/6_KM_2012_Mikrofonstative/985581",
+   "site": "zoll-auktion",
+   "text": "6 K&M 201/2 Mikrofonstative\nBeobachtung Auktion 985581 verwalten\nAuktion in Beobachtung nehmen.\n6 K&M 201/2 Mikrofonstat­ive\n93197 Zeitlarn\nNur Abholung möglich!\n25 Tage 0 Std. 49 Min.\n0 Gebote\n24,00 EUR",
+   "img_alt": "Mikrofonständer komplett",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-10-16T08:08:31+00:00"
   }
  ]
 }

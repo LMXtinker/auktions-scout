@@ -43,8 +43,8 @@
     "ids_matched": false
    },
    "Workstation": {
-    "cards": 7,
-    "total_reported": 7,
+    "cards": 6,
+    "total_reported": 6,
     "ids_matched": true
    },
    "Gaming PC": {
@@ -58,19 +58,19 @@
     "ids_matched": false
    },
    "Beamer": {
-    "cards": 15,
-    "total_reported": 15,
-    "ids_matched": true
+    "cards": 12,
+    "total_reported": 12,
+    "ids_matched": false
    },
    "Projektor": {
-    "cards": 9,
-    "total_reported": 9,
+    "cards": 10,
+    "total_reported": 10,
     "ids_matched": false
    },
    "LED Wand": {
     "cards": 42,
     "total_reported": 42,
-    "ids_matched": true
+    "ids_matched": false
    },
    "LED Wall": {
     "cards": 0,
@@ -88,8 +88,8 @@
     "ids_matched": false
    },
    "Veranstaltungstechnik": {
-    "cards": 7,
-    "total_reported": 7,
+    "cards": 8,
+    "total_reported": 8,
     "ids_matched": true
    },
    "Lichtpult": {
@@ -103,9 +103,9 @@
     "ids_matched": false
    },
    "Traverse": {
-    "cards": 18,
-    "total_reported": 18,
-    "ids_matched": true
+    "cards": 17,
+    "total_reported": 17,
+    "ids_matched": false
    }
   },
   "errors": [],
@@ -136,22 +136,22 @@
     "cards": 0
    },
    "Grafikkarte": {
-    "cards": 1
+    "cards": 6
    },
    "Workstation": {
-    "cards": 34
+    "cards": 36
    },
    "Gaming PC": {
-    "cards": 52
+    "cards": 108
    },
    "Laserprojektor": {
     "cards": 0
    },
    "Beamer": {
-    "cards": 17
+    "cards": 16
    },
    "Projektor": {
-    "cards": 140
+    "cards": 138
    },
    "LED Wand": {
     "cards": 200
@@ -172,10 +172,10 @@
     "cards": 0
    },
    "Moving Head": {
-    "cards": 42
+    "cards": 40
    },
    "Traverse": {
-    "cards": 10
+    "cards": 8
    }
   },
   "errors": [],
@@ -222,7 +222,7 @@
    "Grafikkarte": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Grafikkarte&n1%5B%5D=0&n0=search",
-    "cards": 6
+    "cards": 7
    },
    "Workstation": {
     "form_ok": true,
@@ -272,7 +272,7 @@
    "Veranstaltungstechnik": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Veranstaltungstechnik&n1%5B%5D=0&n0=search",
-    "cards": 0
+    "cards": 2
    },
    "Lichtpult": {
     "form_ok": true,
