@@ -45,7 +45,7 @@
    "Workstation": {
     "cards": 6,
     "total_reported": 6,
-    "ids_matched": true
+    "ids_matched": false
    },
    "Gaming PC": {
     "cards": 0,
@@ -58,8 +58,8 @@
     "ids_matched": false
    },
    "Beamer": {
-    "cards": 12,
-    "total_reported": 12,
+    "cards": 42,
+    "total_reported": 42,
     "ids_matched": false
    },
    "Projektor": {
@@ -68,8 +68,8 @@
     "ids_matched": false
    },
    "LED Wand": {
-    "cards": 42,
-    "total_reported": 42,
+    "cards": 45,
+    "total_reported": 45,
     "ids_matched": false
    },
    "LED Wall": {
@@ -90,7 +90,7 @@
    "Veranstaltungstechnik": {
     "cards": 8,
     "total_reported": 8,
-    "ids_matched": true
+    "ids_matched": false
    },
    "Lichtpult": {
     "cards": 0,
@@ -103,9 +103,9 @@
     "ids_matched": false
    },
    "Traverse": {
-    "cards": 17,
-    "total_reported": 17,
-    "ids_matched": false
+    "cards": 15,
+    "total_reported": 15,
+    "ids_matched": true
    }
   },
   "errors": [],
@@ -142,7 +142,7 @@
     "cards": 36
    },
    "Gaming PC": {
-    "cards": 108
+    "cards": 103
    },
    "Laserprojektor": {
     "cards": 0
@@ -172,7 +172,7 @@
     "cards": 0
    },
    "Moving Head": {
-    "cards": 40
+    "cards": 39
    },
    "Traverse": {
     "cards": 8
@@ -272,7 +272,7 @@
    "Veranstaltungstechnik": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Veranstaltungstechnik&n1%5B%5D=0&n0=search",
-    "cards": 2
+    "cards": 3
    },
    "Lichtpult": {
     "form_ok": true,
