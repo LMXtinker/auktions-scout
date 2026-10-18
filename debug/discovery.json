@@ -38,9 +38,9 @@
     "ids_matched": false
    },
    "Grafikkarte": {
-    "cards": 0,
-    "total_reported": 0,
-    "ids_matched": false
+    "cards": 1,
+    "total_reported": 1,
+    "ids_matched": true
    },
    "Workstation": {
     "cards": 6,
@@ -48,9 +48,9 @@
     "ids_matched": false
    },
    "Gaming PC": {
-    "cards": 0,
-    "total_reported": 0,
-    "ids_matched": false
+    "cards": 1,
+    "total_reported": 1,
+    "ids_matched": true
    },
    "Laserprojektor": {
     "cards": 0,
@@ -65,7 +65,7 @@
    "Projektor": {
     "cards": 10,
     "total_reported": 10,
-    "ids_matched": false
+    "ids_matched": true
    },
    "LED Wand": {
     "cards": 45,
@@ -90,7 +90,7 @@
    "Veranstaltungstechnik": {
     "cards": 8,
     "total_reported": 8,
-    "ids_matched": false
+    "ids_matched": true
    },
    "Lichtpult": {
     "cards": 0,
@@ -105,7 +105,7 @@
    "Traverse": {
     "cards": 15,
     "total_reported": 15,
-    "ids_matched": true
+    "ids_matched": false
    }
   },
   "errors": [],
@@ -172,7 +172,7 @@
     "cards": 0
    },
    "Moving Head": {
-    "cards": 39
+    "cards": 18
    },
    "Traverse": {
     "cards": 8
