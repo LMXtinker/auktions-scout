@@ -165,7 +165,8 @@ def send(token, chat, text):
 
 def admin(text):
     tok = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
-    adm = (os.environ.get("TELEGRAM_ADMIN_CHAT_ID", "") or os.environ.get("TELEGRAM_CHAT_ID", "")).strip()
+    adm = (os.environ.get("TELEGRAM_ADMIN_CHAT_ID", "") or os.environ.get("TELEGRAM_CHAT_ID", "")
+           or str(DG.get("chat_id", ""))).strip()
     if tok and adm and not DRY:
         try:
             send(tok, adm, text)
@@ -247,7 +248,7 @@ def main():
         return
     key = os.environ.get("GEMINI_API_KEY", "").strip()
     tok = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
-    chat = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
+    chat = (os.environ.get("TELEGRAM_CHAT_ID", "") or str(DG.get("chat_id", ""))).strip()
     chats = [c.strip() for c in (chat + "," + os.environ.get("TELEGRAM_CC_CHAT_IDS", "")).split(",") if c.strip()]
     missing = [n for n, v in [("GEMINI_API_KEY", key), ("TELEGRAM_BOT_TOKEN", tok), ("TELEGRAM_CHAT_ID", chat)] if not v]
     print("::notice::Secrets gesetzt: " + ", ".join(f"{n}={'ja' if v else 'NEIN'}" for n, v in
