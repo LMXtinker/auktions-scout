@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T10:14:51+00:00",
+ "generated": "2026-10-19T11:01:08+00:00",
  "sources": {
   "willhaben": "41 Treffer",
   "kleinanzeigen": "26 Treffer",
@@ -7,11 +7,11 @@
   "aurena": "0 Treffer",
   "zoll": "0 Treffer"
  },
- "relevant": 35,
- "new": 35,
+ "relevant": 29,
+ "new": 29,
  "dropped": {
   "kein Treffer im Titel": 9,
-  "ausgeschlossen (Titel)": 14,
+  "ausgeschlossen (Titel)": 20,
   "Preis unplausibel niedrig": 9
  }
 }
