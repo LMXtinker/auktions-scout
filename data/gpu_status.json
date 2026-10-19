@@ -1,0 +1,17 @@
+{
+ "generated": "2026-10-19T10:14:51+00:00",
+ "sources": {
+  "willhaben": "41 Treffer",
+  "kleinanzeigen": "26 Treffer",
+  "troostwijk": "0 Treffer",
+  "aurena": "0 Treffer",
+  "zoll": "0 Treffer"
+ },
+ "relevant": 35,
+ "new": 35,
+ "dropped": {
+  "kein Treffer im Titel": 9,
+  "ausgeschlossen (Titel)": 14,
+  "Preis unplausibel niedrig": 9
+ }
+}
