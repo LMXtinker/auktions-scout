@@ -30,6 +30,7 @@ CFG = yaml.safe_load(open(ROOT / "config.yaml", encoding="utf-8"))
 H = CFG["gpu_hunt"]
 NOW = dt.datetime.now(dt.timezone.utc)
 DRY = os.environ.get("DRY_RUN", "").strip().lower() in ("1", "true", "yes")
+FULL = os.environ.get("FULL", "").strip().lower() in ("1", "true", "yes")   # komplette Übersicht schicken
 MUST = re.compile(H.get("must", r"5090"), re.I)
 EXCLUDE = re.compile(H.get("exclude", r"$^"), re.I)
 
@@ -149,7 +150,69 @@ async def zoll(ctx, q):
             for c in cards if "/auktion/produkt/" in c["url"]]
 
 
-SOURCES = {"willhaben": willhaben, "kleinanzeigen": kleinanzeigen, "troostwijk": troostwijk,
+async def alternate(ctx, q, tld):
+    out, seen = [], set()
+    page = await ctx.new_page()
+    for n in (1, 2, 3):
+        await page.goto(f"https://www.alternate.{tld}/listing.xhtml?q={quote_plus(q)}&page={n}",
+                        wait_until="domcontentloaded", timeout=45000)
+        if n == 1:
+            await accept_cookies(page)
+        await page.wait_for_timeout(1500)
+        cards = await page.evaluate(EXTRACT_JS, 60)
+        got = 0
+        for c in cards:
+            m = re.search(r"/html/product/(\d+)", c["url"])
+            if not m or m.group(1) in seen:
+                continue
+            seen.add(m.group(1))
+            got += 1
+            lines = [x.strip() for x in c["text"].split("\n") if x.strip()]
+            title = next((x for x in lines if MUST.search(x)), lines[0] if lines else "")
+            avail = next((x for x in lines if re.search(r"verfügbar|lieferbar|lager|tage", x, re.I)), "")
+            out.append({"source": f"alternate.{tld} (neu)", "id": f"alt:{tld}:{m.group(1)}", "title": title[:120],
+                        "price": price_of(c["text"]), "location": avail[:40], "text": c["text"],
+                        "url": c["url"], "retail": True})
+        if not got:
+            break
+    await page.close()
+    return out
+
+
+async def alternate_at(ctx, q):
+    return await alternate(ctx, q, "at")
+
+
+async def alternate_de(ctx, q):
+    return await alternate(ctx, q, "de")
+
+
+async def caseking(ctx, q):
+    page = await ctx.new_page()
+    await page.goto(f"https://www.caseking.de/search?search={quote_plus(q)}", wait_until="domcontentloaded", timeout=45000)
+    try:
+        btn = page.get_by_role("button", name=re.compile(r"ich mag cookies|alle akzeptieren", re.I)).first
+        if await btn.is_visible(timeout=4000):
+            await btn.click()
+            await page.wait_for_timeout(2500)
+    except Exception:
+        pass
+    await page.wait_for_timeout(2000)
+    cards = await page.evaluate(EXTRACT_JS, 80)
+    await page.close()
+    out = []
+    for c in cards:
+        if not MUST.search(c["text"]) or not price_of(c["text"]):
+            continue
+        lines = [x.strip() for x in c["text"].split("\n") if x.strip()]
+        title = next((x for x in lines if MUST.search(x)), lines[0])
+        out.append({"source": "caseking.de (neu)", "id": f"ck:{c['url']}", "title": title[:120],
+                    "price": price_of(c["text"]), "location": "", "text": c["text"], "url": c["url"], "retail": True})
+    return out
+
+
+SOURCES = {"alternate_at": alternate_at, "alternate_de": alternate_de, "caseking": caseking,
+           "willhaben": willhaben, "kleinanzeigen": kleinanzeigen, "troostwijk": troostwijk,
            "aurena": aurena, "zoll": zoll}
 
 
@@ -226,11 +289,26 @@ async def main():
             kept.append(o)
     print(f"gesamt={len(results)} relevant={len(kept)} aussortiert={dropped}")
 
+    # Neuware separat: nur interessant, wenn ungefähr auf Gebraucht-Niveau (Median der Gebraucht-Karten)
+    retail = [o for o in kept if o.get("retail") and o.get("price")]
+    kept = [o for o in kept if not o.get("retail")]
+    used = sorted(o["price"] for o in kept
+                  if o.get("price") and not o.get("auction") and not PC.search(o["title"]))
+    median = used[len(used) // 2] if len(used) % 2 else (sum(used[len(used) // 2 - 1:len(used) // 2 + 1]) / 2 if used else 0)
+    limit = median * (1 + H.get("retail_tolerance", 0.05)) if median else 0
+    retail_ok = sorted([o for o in retail if not PC.search(o["title"]) and o["price"] <= limit], key=lambda o: o["price"])
+    print(f"Gebraucht-Median={median:.0f} € (n={len(used)}), Neuware-Grenze={limit:.0f} €, "
+          f"Neuware gesamt={len(retail)}, davon im Rahmen={len(retail_ok)}")
+
     seen_p = DATA / "gpu_seen.json"
     seen = json.loads(seen_p.read_text(encoding="utf-8")) if seen_p.exists() else {}
     first_run = not seen
     new = [o for o in kept if o["id"] not in seen]
     new.sort(key=lambda o: (o.get("auction", False), o.get("price") or 1e9))
+    rseen_p = DATA / "gpu_retail_seen.json"
+    rseen = json.loads(rseen_p.read_text(encoding="utf-8")) if rseen_p.exists() else {}
+    # melden, wenn neu im Rahmen oder seit letzter Meldung um mind. 3 % billiger
+    retail_new = [o for o in retail_ok if o["id"] not in rseen or o["price"] <= rseen[o["id"]]["price"] * 0.97]
 
     tok = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
     chat = (os.environ.get("TELEGRAM_CHAT_ID", "") or str(CFG.get("digest", {}).get("chat_id", ""))).strip()
@@ -240,16 +318,32 @@ async def main():
         msgs = chunks([line(o) for o in top],
                       f"🎯 <b>{html.escape(q)}-Wächter aktiv</b>\n{len(kept)} aktuelle Angebote, hier die günstigsten. "
                       f"Ab jetzt melde ich nur noch neue (🔥 = bis {H.get('deal_price')} €).")
+    elif FULL and kept:
+        top = sorted(kept, key=lambda o: (o.get("auction", False), o.get("price") or 1e9))[: H.get("first_run_top", 15)]
+        msgs = chunks([line(o) for o in top],
+                      f"🎯 <b>{html.escape(q)}: Übersicht</b>\n{len(kept)} Gebraucht-/Auktionsangebote, die günstigsten:")
     elif new:
         msgs = chunks([line(o) for o in new], f"🎯 <b>{len(new)} neue {html.escape(q)}-Angebote</b>")
+    rlist = retail_ok if (FULL or first_run) else retail_new
+    if median:
+        fmt = lambda v: f"{v:,.0f}".replace(",", ".")
+        if rlist:
+            msgs += chunks([line(o) for o in rlist],
+                           f"🛒 <b>Neuware im Handel auf Gebraucht-Niveau</b>\nMedian gebraucht {fmt(median)} € "
+                           f"(aus {len(used)} Karten) → Neuware bis {fmt(limit)} €:")
+        elif FULL:
+            cheapest = min((o for o in retail if not PC.search(o["title"])), key=lambda o: o["price"], default=None)
+            msgs.append(f"🛒 <b>Neuware:</b> nichts bis {fmt(limit)} € (Median gebraucht {fmt(median)} €)."
+                        + (f"\nGünstigste neue Karte: {line(cheapest)}" if cheapest else ""))
     broken = [f"{k}: {v}" for k, v in errors.items() if v.startswith("Fehler") or v.startswith("0 ")]
     status = {"generated": NOW.isoformat(timespec="seconds"), "sources": errors, "relevant": len(kept),
+              "used_median": median, "retail_limit": limit, "retail_total": len(retail), "retail_ok": len(retail_ok),
               "new": len(new), "dropped": dropped}
     (DATA / "gpu_status.json").write_text(json.dumps(status, ensure_ascii=False, indent=1), encoding="utf-8")
     (ROOT / "debug").mkdir(exist_ok=True)
     (ROOT / "debug" / "gpu_preview.txt").write_text(
         "\n\n=====\n\n".join(msgs) + "\n\n----- alle relevanten -----\n" +
-        "\n".join(f"{o.get('price')} | {o['source']} | {o['title'][:80]} | {o['url']}" for o in kept) +
+        "\n".join(f"{o.get('price')} | {o['source']} | {o['title'][:80]} | {o['url']}" for o in kept + retail) +
         "\n\n----- aussortiert (Beispiele) -----\n" +
         "\n".join(f"{relevant(o)} | {o['source']} | {o['title'][:80]} | {o.get('price')}" for o in results if relevant(o))[:6000],
         encoding="utf-8")
@@ -263,6 +357,9 @@ async def main():
             raise SystemExit("TELEGRAM_BOT_TOKEN oder Chat-ID fehlt")
         for m in msgs:
             send(tok, chat, m)
+    for o in retail_ok:
+        rseen[o["id"]] = {"price": o["price"], "date": NOW.date().isoformat()}
+    rseen_p.write_text(json.dumps(rseen, indent=0), encoding="utf-8")
     for o in kept:
         seen.setdefault(o["id"], NOW.date().isoformat())
     old = (NOW.date() - dt.timedelta(days=90)).isoformat()

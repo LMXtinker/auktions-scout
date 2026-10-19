@@ -9,6 +9,10 @@ on:
         description: "Nur Vorschau (nichts senden)"
         type: boolean
         default: false
+      full:
+        description: "Komplette Übersicht schicken (nicht nur Neues)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -34,11 +38,12 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           DRY_RUN: ${{ github.event.inputs.dry_run }}
+          FULL: ${{ github.event.inputs.full }}
       - name: Zustand committen
         if: always()
         run: |
           git config user.name "scout-bot"
           git config user.email "scout-bot@users.noreply.github.com"
-          for f in data/gpu_seen.json data/gpu_status.json debug/gpu_preview.txt; do [ -f "$f" ] && git add "$f"; done
+          for f in data/gpu_seen.json data/gpu_retail_seen.json data/gpu_status.json debug/gpu_preview.txt; do [ -f "$f" ] && git add "$f"; done
           git diff --cached --quiet || git commit -m "gpu: $(date -u +%F\ %H:%M)"
           for i in 1 2 3; do git pull --rebase --autostash && git push && break; sleep 5; done

@@ -51,7 +51,8 @@ digest:
 # RTX-5090-Wächter (scout/gpu.py, Workflow gpu.yml) – meldet neue Angebote sofort per Telegram
 gpu_hunt:
   query: "RTX 5090"
-  sources: [willhaben, kleinanzeigen, troostwijk, aurena, zoll]
+  sources: [willhaben, kleinanzeigen, troostwijk, aurena, zoll, alternate_at, alternate_de, caseking]
+  retail_tolerance: 0.05           # Neuware melden bis Gebraucht-Median + 5 %
   must: '5090'                     # muss im Titel/Text vorkommen
   # Titel mit diesen Wörtern werden ignoriert (Gesuche, Ankauf, Laptops, Zubehör, defekt)
   exclude: '\b(suche|gesucht|ankauf|wir kaufen|kaufe|tausch\w*|defekt|bastler|laptop|notebook|\d{3,5}hx|blade 1\d|predator|legion|zephyrus|scar|titan|raider|stealth|alienware|vector|crosshair|omen|rog flow|wasserk[üu]hl\w*|waterblock|wasserblock|k[üu]hler|backplate|halterung|kabel|adapter|stecker|netzteil|riser)\b'
