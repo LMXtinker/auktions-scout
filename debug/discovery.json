@@ -50,7 +50,7 @@
    "Gaming PC": {
     "cards": 1,
     "total_reported": 1,
-    "ids_matched": true
+    "ids_matched": false
    },
    "Laserprojektor": {
     "cards": 0,
@@ -63,13 +63,13 @@
     "ids_matched": false
    },
    "Projektor": {
-    "cards": 10,
-    "total_reported": 10,
-    "ids_matched": true
+    "cards": 11,
+    "total_reported": 11,
+    "ids_matched": false
    },
    "LED Wand": {
-    "cards": 45,
-    "total_reported": 45,
+    "cards": 46,
+    "total_reported": 46,
     "ids_matched": false
    },
    "LED Wall": {
@@ -103,8 +103,8 @@
     "ids_matched": false
    },
    "Traverse": {
-    "cards": 15,
-    "total_reported": 15,
+    "cards": 16,
+    "total_reported": 16,
     "ids_matched": false
    }
   },
@@ -142,7 +142,7 @@
     "cards": 36
    },
    "Gaming PC": {
-    "cards": 103
+    "cards": 100
    },
    "Laserprojektor": {
     "cards": 0
@@ -151,7 +151,7 @@
     "cards": 16
    },
    "Projektor": {
-    "cards": 138
+    "cards": 137
    },
    "LED Wand": {
     "cards": 200
@@ -257,7 +257,7 @@
    "LED Wall": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=LED+Wall&n1%5B%5D=0&n0=search",
-    "cards": 2
+    "cards": 0
    },
    "Blackmagic": {
     "form_ok": true,
