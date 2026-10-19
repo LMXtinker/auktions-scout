@@ -39,6 +39,6 @@ jobs:
         run: |
           git config user.name "scout-bot"
           git config user.email "scout-bot@users.noreply.github.com"
-          git add data/gpu_seen.json data/gpu_status.json 2>/dev/null || true
+          for f in data/gpu_seen.json data/gpu_status.json debug/gpu_preview.txt; do [ -f "$f" ] && git add "$f"; done
           git diff --cached --quiet || git commit -m "gpu: $(date -u +%F\ %H:%M)"
           for i in 1 2 3; do git pull --rebase --autostash && git push && break; sleep 5; done

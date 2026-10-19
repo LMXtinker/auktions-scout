@@ -240,6 +240,13 @@ async def main():
     status = {"generated": NOW.isoformat(timespec="seconds"), "sources": errors, "relevant": len(kept),
               "new": len(new), "dropped": dropped}
     (DATA / "gpu_status.json").write_text(json.dumps(status, ensure_ascii=False, indent=1), encoding="utf-8")
+    (ROOT / "debug").mkdir(exist_ok=True)
+    (ROOT / "debug" / "gpu_preview.txt").write_text(
+        "\n\n=====\n\n".join(msgs) + "\n\n----- alle relevanten -----\n" +
+        "\n".join(f"{o.get('price')} | {o['source']} | {o['title'][:80]} | {o['url']}" for o in kept) +
+        "\n\n----- aussortiert (Beispiele) -----\n" +
+        "\n".join(f"{relevant(o)} | {o['source']} | {o['title'][:80]} | {o.get('price')}" for o in results if relevant(o))[:6000],
+        encoding="utf-8")
     for m in msgs:
         print(m, "\n-----")
     if DRY:
