@@ -40,6 +40,12 @@ async def main():
                     res.append(entry); await ctx.close(); continue
                 await page.goto(url, wait_until="domcontentloaded", timeout=45000)
                 await accept_cookies(page)
+                try:
+                    btn = page.locator("#gdpr-banner-accept, button:has-text('Alle akzeptieren')").first
+                    if await btn.is_visible(timeout=3000):
+                        await btn.click(); await page.wait_for_timeout(2500)
+                except Exception:
+                    pass
                 if typed == "@lot":
                     await page.wait_for_selector(".lot-gallery-container", timeout=20000)
                     await page.wait_for_timeout(3000)
@@ -66,6 +72,9 @@ async def main():
                 entry["search_links"] = await page.evaluate("""[...document.querySelectorAll('a[href],button')].filter(e=>/such|search|find/i.test((e.href||'')+' '+(e.innerText||'')+' '+(e.getAttribute('aria-label')||''))).slice(0,40).map(e=>({tag:e.tagName,href:e.href||'',text:(e.innerText||e.getAttribute('aria-label')||'').slice(0,60)}))""")
                 entry["sample_links"] = await page.evaluate("""[...new Set([...document.querySelectorAll('a[href]')].map(a=>a.href))].slice(0,150)""")
                 entry["card_html"] = await page.evaluate("""(() => { const els=[...document.querySelectorAll('body *')].filter(e=>/Gebote:/.test(e.innerText||'') && (e.innerText||'').length<400); els.sort((a,b)=>b.innerText.length-a.innerText.length); const e=els[0]; if(!e) return ''; let p=e; for(let i=0;i<3&&p.parentElement;i++) p=p.parentElement; return p.outerHTML.slice(0,6000); })()""")
+                entry["next_data"] = await page.evaluate("(document.querySelector('#__NEXT_DATA__')||{}).textContent||''")
+                entry["next_data"] = entry["next_data"][:200000]
+                entry["ka_items"] = await page.evaluate("""[...document.querySelectorAll('article.aditem')].slice(0,5).map(a=>({id:a.dataset.adid,href:a.dataset.href,text:a.innerText.slice(0,300)}))""")
                 entry["text_head"] = (await page.evaluate("document.body.innerText"))[:3000]
             except Exception as e:
                 entry["error"] = str(e)[:300]
