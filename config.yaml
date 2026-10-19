@@ -47,3 +47,14 @@ digest:
   send_at: "07:45"     # Wiener Zeit
   batch_size: 120      # Lose pro Gemini-Aufruf
   chat_id: "1232834463"  # Telegram-Empfänger (Secret TELEGRAM_CHAT_ID hat Vorrang); ohne Bot-Token nutzlos
+
+# RTX-5090-Wächter (scout/gpu.py, Workflow gpu.yml) – meldet neue Angebote sofort per Telegram
+gpu_hunt:
+  query: "RTX 5090"
+  sources: [willhaben, kleinanzeigen, troostwijk, aurena, zoll]
+  must: '5090'                     # muss im Titel/Text vorkommen
+  # Titel mit diesen Wörtern werden ignoriert (Gesuche, Ankauf, Laptops, Zubehör, defekt)
+  exclude: '\b(suche|gesucht|ankauf|wir kaufen|kaufe|tausch\w*|defekt|bastler|laptop|notebook|wasserk[üu]hl\w*|waterblock|wasserblock|k[üu]hler|backplate|halterung|kabel|adapter|stecker|netzteil|riser)\b'
+  min_price: 900                   # Kleinanzeigen darunter = Zubehör/Fake
+  deal_price: 2000                 # bis zu diesem Preis 🔥 markieren
+  first_run_top: 15
