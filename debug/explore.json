@@ -1,8 +1,1613 @@
 [
  {
-  "url": "https://geizhals.at/?fs=rtx+5090&cat=gra16_512",
+  "url": "https://www.alternate.at/listing.xhtml?q=rtx+5090",
   "typed": "",
-  "final_url": "https://geizhals.at/?fs=rtx+5090&cat=gra16_512",
+  "final_url": "https://www.alternate.at/listing.xhtml?q=rtx+5090",
+  "inputs": [
+   {
+    "tag": "INPUT",
+    "type": "search",
+    "name": "q",
+    "ph": "Shop durchsuchen...",
+    "aria": null,
+    "vis": true
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": true
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": true
+   },
+   {
+    "tag": "INPUT",
+    "type": "search",
+    "name": "q",
+    "ph": "Shop durchsuchen...",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "q",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "s",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "number",
+    "name": "",
+    "ph": "192",
+    "aria": "Mindestpreis",
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "number",
+    "name": "",
+    "ph": "11074",
+    "aria": "Maximalpreis",
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "pr1",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "pr2",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "filter_-2",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "filter_-7",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "filter_416",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "filter_416",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "filter_416",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "filter_7171",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "filter_7171",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "filter_7171",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "filter_16526",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "filter_16526",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "filter_16526",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "filter_16526",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "filter_26668",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "filter_26668",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "filter_26668",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "filter_26668",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "tle-tree-navigation-mobile:mobile-navigation-form",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "jakarta.faces.ViewState",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "tle-csrf-form-token",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "q",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "lazyForm",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "q",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "lazyComponent",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "jakarta.faces.ViewState",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "tle-csrf-form-token",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   }
+  ],
+  "search_links": [
+   {
+    "tag": "BUTTON",
+    "href": "",
+    "text": "Suche durchführen"
+   },
+   {
+    "tag": "BUTTON",
+    "href": "",
+    "text": "\n          \n          Suche durchführen\n        "
+   },
+   {
+    "tag": "A",
+    "href": "https://www.alternate.at/Drucker/Druckerzubeh%C3%B6r/Tinten-und-Tonerfinder",
+    "text": "Tinten- und Tonerfinder"
+   }
+  ],
+  "sample_links": [
+   "https://www.alternate.at/listing.xhtml?q=rtx+5090#content",
+   "https://www.alternate.at/retourFormular.xhtml",
+   "https://www.alternate.at/HILFE",
+   "https://www.alternate.at/contact.xhtml",
+   "https://www.alternate.at/",
+   "https://www.alternate.at/login.xhtml",
+   "https://www.alternate.at/customerAccountRegistration.xhtml",
+   "https://www.alternate.at/Mein-Konto",
+   "https://www.alternate.at/Mein-Konto/Bestellungen",
+   "https://www.alternate.at/Mein-Konto/Merkliste",
+   "https://www.alternate.at/Mein-Konto/Produktvergleich",
+   "https://www.alternate.at/Mein-Konto/Zuletzt-angesehen",
+   "https://www.alternate.at/cart.xhtml",
+   "https://www.alternate.at/TagesDeals",
+   "https://www.alternate.at/Refurbished",
+   "https://www.alternate.at/Outlet",
+   "https://www.alternate.at/Angebote",
+   "https://www.alternate.at/PC-Konfigurator",
+   "https://www.alternate-b2b.at/",
+   "https://www.alternate.at/Hardware",
+   "https://www.alternate.at/PC",
+   "https://www.alternate.at/AI-Enterprise-Center",
+   "https://www.alternate.at/Notebook",
+   "https://www.alternate.at/3D-Drucker-Scanner",
+   "https://www.alternate.at/Gaming",
+   "https://www.alternate.at/SimRacing",
+   "https://www.alternate.at/TV-Audio",
+   "https://www.alternate.at/Smartphone",
+   "https://www.alternate.at/Apple",
+   "https://www.alternate.at/Smart-Home",
+   "https://www.alternate.at/Photovoltaik",
+   "https://www.alternate.at/Haushalt",
+   "https://www.alternate.at/Elektroinstallation",
+   "https://www.alternate.at/Spielzeug",
+   "https://www.alternate.at/Werkzeug",
+   "https://www.alternate.at/Garten",
+   "https://www.alternate.at/Grill",
+   "https://www.alternate.at/Outdoor",
+   "https://www.alternate.at/listing.xhtml?listing=0&q=rtx+5090&page=1",
+   "https://www.alternate.at/listing.xhtml?listing=1&q=rtx+5090&page=1",
+   "https://www.alternate.at/listing.xhtml?q=rtx+5090&page=1",
+   "https://www.alternate.at/listing.xhtml?q=rtx+5090&page=2",
+   "https://www.alternate.at/listing.xhtml?q=rtx+5090&page=3",
+   "https://www.alternate.at/GIGABYTE/GeForce-RTX-5090-AORUS-XTREME-WATERFORCE-32G-Grafikkarte/html/product/100108927",
+   "https://www.alternate.at/ASUS/GeForce-RTX-5090-ROG-ASTRAL-LC-GAMING-OC-Grafikkarte/html/product/100110137",
+   "https://www.alternate.at/ASUS/GeForce-RTX-5090-ROG-ASTRAL-GAMING-OC-BTF-Grafikkarte/html/product/100145357",
+   "https://www.alternate.at/GIGABYTE/GeForce-RTX-5090-AORUS-INFINITY-32G-Grafikkarte/html/product/100210277",
+   "https://www.alternate.at/MSI/GeForce-RTX-5090-32G-SUPRIM-SOC-Grafikkarte/html/product/100109563",
+   "https://www.alternate.at/ASUS/GeForce-RTX-5090-TUF-GAMING-OC-Grafikkarte/html/product/100110147",
+   "https://www.alternate.at/ASUS/GeForce-RTX-5090-ROG-ASTRAL-GAMING-OC-Grafikkarte/html/product/100110139",
+   "https://www.alternate.at/Gainward/GeForce-RTX-5090-Phantom-GS-Grafikkarte/html/product/100111688",
+   "https://www.alternate.at/GIGABYTE/GeForce-RTX-5090-WINDFORCE-OC-32G-Grafikkarte/html/product/100108938",
+   "https://www.alternate.at/GIGABYTE/GeForce-RTX-5090-GAMING-OC-32G-Grafikkarte/html/product/100108936",
+   "https://www.alternate.at/Gainward/GeForce-RTX-5090-Phantom-Grafikkarte/html/product/100109795",
+   "https://www.alternate.at/ASUS/GeForce-RTX-5090-ROG-ASTRAL-Edition-20-Grafikkarte/html/product/100208148",
+   "https://www.alternate.at/GIGABYTE/GeForce-RTX-5090-AORUS-MASTER-ICE-32G-Grafikkarte/html/product/100108931",
+   "https://www.alternate.at/GIGABYTE/GeForce-RTX-5090-AORUS-STEALTH-ICE-32G-Grafikkarte/html/product/100141367",
+   "https://www.alternate.at/INNO3D/GeForce-RTX-5090-ICHILL-FROSTBITE-PRO-Grafikkarte/html/product/100160943",
+   "https://www.alternate.at/ASUS/GeForce-RTX-5090-ROG-ASTRAL-GAMING-OC-WHITE-Edition-Grafikkarte/html/product/100136039",
+   "https://www.alternate.at/INNO3D/GeForce-RTX-5090-ICHILL-Frostbite-Grafikkarte/html/product/100109383",
+   "https://www.alternate.at/ASUS/GeForce-RTX-5090-PROART-OC-Grafikkarte/html/product/100201605",
+   "https://www.alternate.at/MSI/Titan-18-HX-AI-A2XWJG-656-Gaming-Notebook/html/product/100125779",
+   "https://www.alternate.at/INNO3D/GeForce-RTX-5090-ICHILL-X3-Grafikkarte/html/product/100109385",
+   "https://www.alternate.at/INNO3D/GeForce-RTX-5090-X3-Grafikkarte/html/product/100109380",
+   "https://www.alternate.at/MSI/Vector-17-HX-AI-A2XWJG-039-Gaming-Notebook/html/product/100118972",
+   "https://www.alternate.at/INNO3D/GeForce-RTX-5090-X3-OC-Grafikkarte/html/product/100121077",
+   "https://www.alternate.at/MSI/Titan-18-HX-Dragon-Edition-Draco-Epic-A2WJ-1218-Gaming-Notebook/html/product/100203741",
+   "https://www.facebook.com/alternate.de/",
+   "https://www.instagram.com/alternate.de/",
+   "https://www.threads.net/@alternate.de",
+   "https://www.tiktok.com/@alternate.de",
+   "https://x.com/alternate_de",
+   "https://www.pinterest.de/alternatede/",
+   "https://techrush.de/",
+   "https://www.youtube.com/c/Alternate",
+   "https://www.twitch.tv/alternate",
+   "https://www.alternate.at/bestellung",
+   "https://www.alternate.at/HILFE/ALTERNATE/Kontakt",
+   "mailto:info@alternate.at",
+   "https://www.alternate.at/HILFE/R%C3%BCcksendung-R%C3%BCckgabe/RMA",
+   "https://www.alternate.at/HILFE/ALTERNATE/Widerrufsrecht",
+   "https://www.alternate.at/sam/contentPage.xhtml?adId=989231db-8145-434d-8400-11f3578e6b62",
+   "https://www.alternate.at/Gutschein",
+   "https://www.alternate.at/Drucker/Druckerzubeh%C3%B6r/Tinten-und-Tonerfinder",
+   "https://www.alternate.at/HILFE/ALTERNATE/AGB",
+   "https://www.alternate.at/HILFE/ALTERNATE/Presse",
+   "https://www.alternate.at/brandGlossary.xhtml",
+   "https://www.alternate.at/HILFE/ALTERNATE/Datenschutz",
+   "https://www.alternate.at/sam/contentPage.xhtml?adId=fee10576-654f-4e3d-b607-b9f4fe15c948",
+   "https://www.alternate.at/HILFE/ALTERNATE/%C3%9Cber-uns",
+   "https://www.alternate.at/Barrierefreiheit",
+   "https://www.alternate.at/HILFE/Zahlungsarten#prepay",
+   "https://www.alternate.at/HILFE/Zahlungsarten#ppx",
+   "https://www.alternate.at/HILFE/Zahlungsarten#creditcard",
+   "https://www.alternate.at/klarna",
+   "https://geizhals.at/",
+   "https://www.alternate.at/HILFE/ALTERNATE/Impressum"
+  ],
+  "card_html": "",
+  "next_data": "",
+  "ka_items": [],
+  "text_head": "Zum Hauptinhalt springen\nEinfache Retouren-Abwicklung\nHilfe & Kontakt\nSuche\nSuche durchführen\n Geschäftskunden \n Konto \nWarenkorb\nAlle Kategorien \nTAGESDEALS\nREFURBISHED\nOUTLET\nANGEBOTE\nPC-KONFIGURATOR\nAnimierter Blätterfall\nZwischen hellem und dunklem Farbmodus wechseln\nFilter\nPreis\nVerfügbarkeit\nAngebote\nProdukttyp\nMarke\nArbeitsspeicher Gesamt\nKapazität des Festspeichers\nmehr...\nErgebnisse anzeigen\nErgebnisse für: rtx 5090\n1-24 von 69 Ergebnisse\nSortieren\n1\n2\n3\nGIGABYTE GeForce RTX 5090 AORUS XTREME WATERFORCE 32G, Grafikkarte\nDLSS 5, 3x DisplayPort, 1x HDMI 2.1\n(5)\nGrafikchip: NVIDIA GeForce RTX 5090\nSpeicher: 32 GB (GDDR7, 512 Bit)\nbelegte Slots: 2 Slots\nGPU Boost-Takt: 2410 MHz\n€ 8.029,00\nSofort verfügbar\nASUS GeForce RTX 5090 ROG ASTRAL LC GAMING OC, Grafikkarte\nDLSS 5, 3x DisplayPort, 2x HDMI 2.1\n(9)\nGrafikchip: NVIDIA GeForce RTX 5090\nSpeicher: 32 GB (GDDR7, 512 Bit)\nbelegte Slots: 2,5 Slots\nGPU Boost-Takt: 2580 MHz\n€ 10.391,00\nArtikel kann derzeit nicht gekauft werden\nASUS GeForce RTX 5090 ROG ASTRAL GAMING OC BTF, Grafikkarte\nDLSS 5, 3x DisplayPort, 2x HDMI 2.1\n(3)\nGrafikchip: NVIDIA GeForce RTX 5090\nSpeicher: 32 GB (GDDR7, 512 Bit)\nbelegte Slots: 3,8 Slots\nGPU Boost-Takt: 2580 MHz\n€ 7.392,00\nArtikel kann derzeit nicht gekauft werden\nGIGABYTE GeForce RTX 5090 AORUS INFINITY 32G, Grafikkarte\nDLSS 5, 3x DisplayPort, 1x HDMI 2.1\n(1)\nGrafikchip: NVIDIA GeForce RTX 5090\nSpeicher: 32 GB (GDDR7, 512 Bit)\nbelegte Slots: 3,2 Slots\nGPU Boost-Takt: 2730 MHz\n€ 8.386,00\nSofort verfügbar\nMSI GeForce RTX 5090 32G SUPRIM SOC, Grafikkarte\nDLSS 5, 3x DisplayPort, 1x HDMI 2.1\n(4)\nGrafikchip: NVIDIA GeForce RTX 5090\nSpeicher: 32 GB (GDDR7, 512 Bit)\nbelegte Slots: 3,7 Slots\nGPU Boost-Takt: 2565 MHz\n€ 8.318,00\nSofort verfügbar\nASUS GeForce RTX 5090 TUF GAMING OC, Grafikkarte\nDLSS 5, 3x DisplayPort, 2x HDMI 2.1\n(7)\nGrafikchip: NVIDIA GeForce RTX 5090\nSpeicher: 32 GB (GDDR7, 512 Bit)\nbelegte Slots: 3,6 Slots\nGPU Boost-Takt: 2550 MHz\n€ 10.079,00\nArtikel kann derzeit nicht gekauft werden\nASUS GeForce RTX 5090 ROG ASTRAL GAMING OC, Grafikkarte\nDLSS 5, 3x DisplayPort, 2x HDMI 2.1\n(19)\nGrafikchip: NVIDIA GeForce RTX 5090\nSpeicher: 32 GB (GDDR7, 512 Bit)\nbelegte Slots: 3,8 Slots\nGPU Boost-Takt: 2580 MHz\n€ 10.245,00\nArtikel kann derzeit nicht gekauft werden\nGainward GeForce RTX 5090 Phantom GS, Grafikkarte\nDLSS 5, 3x DisplayPort, 1x HDMI 2.1\n(7)\nGrafikchip: NVIDIA GeForce RTX 5090\nSpeicher: 32 GB (GDDR7, 512 Bit)\nbelegte Slots: 3,5 Slots\nGPU Boost-Takt: 2527 MHz\n€ 8.948,00\nSofort verfügbar\nGIGABYTE GeForce RTX 5090 WINDFORCE OC 32G, Grafikkarte\nDLSS 5, 3x DisplayPort, 1x HDMI 2.1\n(2)\nGrafikchip: NVIDIA GeForce RTX 5090\nSpeicher: 32 GB (GDDR7, 512 Bit)\nbelegte Slots: 3,5 Slots\nGPU Boost-Takt: 2410 MHz\n€ 7.940,00\nSofort verfügbar\nGIGABYTE GeForce RTX 5090 GAMING OC 32G, Grafikkarte\nDLSS 5, 3x DisplayPort, 1x HDMI 2.1\n(2)\nGrafikchip: NVIDIA GeForce RTX 5090\nSpeicher: 32 GB (GDDR7, 512 Bit)\nbelegte Slots: 3,5 Slots\nGPU Boost-Takt: 2410 MHz\n€ 8.029,00\nSofort verfügbar\nGai",
+  "calls": [
+   {
+    "m": "GET",
+    "url": "https://www.alternate.at/mobile/resources/media-consent/i18n/i18n_de_AT.json?v=65891a40",
+    "post": "",
+    "status": 200,
+    "body": "{\n  \"media\": {\n    \"consent\": {\n      \"accept-provider-1\": \"Sie erkennen die Nutzung von Cookies der Seite\",\n      \"accept-provider-2\": \"an, wenn Sie den Inhalt sehen möchten.\",\n      \"accept-contains\": \"Die Nutzung schließt möglicherweise Analytics, Personalisierung und Anzeigen ein.\",\n      \"more\": \"Mehr Informationen\",\n      \"ok\": \"OK\"\n    }\n  }\n}"
+   }
+  ]
+ },
+ {
+  "url": "https://www.mindfactory.de/search_result.php?search_query=rtx+5090",
+  "typed": "",
+  "final_url": "https://www.mindfactory.de/",
+  "inputs": [
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "token",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "cf-turnstile-response",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   }
+  ],
+  "search_links": [],
+  "sample_links": [
+   "mailto:info@mindfactory.de"
+  ],
+  "card_html": "",
+  "next_data": "",
+  "ka_items": [],
+  "text_head": "SECURITY CHECK\n\nAlmost there!\n\nPlease click the button to be redirected to Mindfactory.de!\n\n\nI am human\n\nHaving trouble? Feel free to send us an email:\n\nMindfactory GmbH\ninfo@mindfactory.de",
+  "calls": []
+ },
+ {
+  "url": "https://www.caseking.de/search?search=rtx+5090",
+  "typed": "",
+  "final_url": "https://www.caseking.de/search?search=rtx+5090",
+  "inputs": [
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "radio",
+    "name": "menuLanguage",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "radio",
+    "name": "menuLanguage",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "q",
+    "ph": "Suche",
+    "aria": "Stichwort oder Artikelnummer eingeben",
+    "vis": true
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "lang",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "0",
+    "aria": null,
+    "vis": true
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "45000",
+    "aria": null,
+    "vis": true
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "0.2",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "33000.0",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "1.0",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "1700.0",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "0.18",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "45593.0",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "18",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "390",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "0.005",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "27124.0",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "164.0",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "250.0",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "21.0",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "544.3",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "573",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "820",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "0.338",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "12.6",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "35",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "320",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "26",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "190",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "16",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "300",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "270",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "272",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "300",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "400",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "80",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "440",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "45",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "400",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "480",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "480",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "400",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "470",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "60",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "500",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "240",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "",
+    "ph": "440",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   },
+   {
+    "tag": "INPUT",
+    "type": "email",
+    "name": "hpEmailSignUp",
+    "ph": "E-Mail",
+    "aria": "E-Mail",
+    "vis": true
+   }
+  ],
+  "search_links": [
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "Zustimmung"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "Details"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "[#IABV2SETTINGS#]"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "Über Cookies"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "Details zeigen"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "Cloudflare1"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "Cookiebot2"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "Google1"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "Klarna3"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "Salesforce9"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "Zendesk4"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "caseking.de1"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "s1-custom.caseking.de1"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "scripts.caseking.de1"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "static.zdassets.comgleam.iohelp.caseking.deproduction.neocom"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "static.zdassets.comhelp.caseking.de2"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "www.caseking.de8"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "Salesforce1"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "Microsoft5"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "TikTok1"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "Twitter Inc.1"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "caseking.de4"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "p.gsitrix.com3"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "scripts.caseking.de1"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "www.caseking.de1"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": " Meta Platforms, Inc.3"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "Criteo6"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "Google3"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "Microsoft13"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "Reddit7"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "TikTok8"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "Twitter Inc.9"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "YouTube16"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "caseking.de2"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "caseking.decriteo.com2"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "caseking.depixel.byspotify.com2"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "lantern.roeye.com1"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "lantern.roeyecdn.com1"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "pixel.byspotify.com1"
+   },
+   {
+    "tag": "A",
+    "href": "https://www.caseking.de/search?search=rtx+5090#",
+    "text": "roeye.com1"
+   }
+  ],
+  "sample_links": [
+   "https://www.cookiebot.com/de/was-steckt-hinter-powered-by-cookiebot/?utm_source=banner_cb&utm_medium=referral&utm_content=v2",
+   "https://www.caseking.de/search?search=rtx+5090#",
+   "https://www.caseking.de/datenschutz/cp_000006.html",
+   "https://www.caseking.de/[#DSR_FORM_URL#]",
+   "https://www.cloudflare.com/privacypolicy/",
+   "https://www.cookiebot.com/goto/privacy-policy/",
+   "https://business.safety.google/privacy/",
+   "https://www.klarna.com/uk/privacy-policy/",
+   "https://www.salesforce.com/company/privacy/",
+   "https://www.zendesk.com/company/customers-partners/privacy-policy/",
+   "https://privacy.microsoft.com/en-us/privacystatement",
+   "https://www.tiktok.com/legal/privacy-policy?lang=en",
+   "https://twitter.com/en/privacy",
+   "https://www.facebook.com/policy.php/",
+   "https://www.criteo.com/privacy/corporate-privacy-policy/",
+   "https://privacy.microsoft.com/en-US/privacystatement",
+   "https://www.redditinc.com/policies/privacy-policy",
+   "https://www.caseking.de/",
+   "https://help.caseking.de/",
+   "https://www.cookiebot.com/",
+   "https://www.caseking.de/blog/",
+   "https://help.caseking.de/hc/de",
+   "https://business.caseking.de/",
+   "https://www.caseking.de/gastbestellung-verfolgen",
+   "https://www.caseking.de/wishlist",
+   "https://www.caseking.de/login",
+   "https://www.caseking.de/cart",
+   "https://www.caseking.de/neuheiten",
+   "https://www.caseking.de/pc-systeme",
+   "https://www.caseking.de/pc-systeme/pc-konfigurator",
+   "https://www.caseking.de/pc-systeme/gaming-pcs",
+   "https://www.caseking.de/pc-systeme/gaming-pcs/intel-gaming%E2%80%91pcs",
+   "https://www.caseking.de/pc-systeme/gaming-pcs/intel-gaming%E2%80%91pcs/intel-core-ultra-7-gaming-pcs",
+   "https://www.caseking.de/pc-systeme/gaming-pcs/intel-gaming%E2%80%91pcs/intel-core-ultra-5-gaming-pcs",
+   "https://www.caseking.de/pc-systeme/gaming-pcs/amd-gaming%E2%80%91pcs",
+   "https://www.caseking.de/pc-systeme/gaming-pcs/amd-gaming%E2%80%91pcs/ryzen-9-gaming-pcs",
+   "https://www.caseking.de/pc-systeme/gaming-pcs/amd-gaming%E2%80%91pcs/ryzen-7-gaming-pcs",
+   "https://www.caseking.de/pc-systeme/gaming-pcs/amd-gaming%E2%80%91pcs/ryzen-5-gaming-pcs",
+   "https://www.caseking.de/pc-systeme/gaming-pcs/amd-gaming%E2%80%91pcs/radeon-gaming%E2%80%91pcs",
+   "https://www.caseking.de/pc-systeme/gaming-pcs/amd-gaming%E2%80%91pcs/radeon-gaming%E2%80%91pcs/rx-9070-xt-gaming-pcs",
+   "https://www.caseking.de/pc-systeme/gaming-pcs/amd-gaming%E2%80%91pcs/radeon-gaming%E2%80%91pcs/rx-9060-xt-gaming-pcs",
+   "https://www.caseking.de/pc-systeme/gaming-pcs/amd-gaming%E2%80%91pcs/radeon-gaming%E2%80%91pcs/rx-9060-xt-gaming-pcs/rx-9060-xt-16-gb-gaming-pcs",
+   "https://www.caseking.de/pc-systeme/gaming-pcs/amd-gaming%E2%80%91pcs/radeon-gaming%E2%80%91pcs/rx-9060-xt-gaming-pcs/rx-9060-xt-8-gb-gaming-pcs",
+   "https://www.caseking.de/pc-systeme/gaming-pcs/nvidia-gaming%E2%80%91pcs",
+   "https://www.caseking.de/pc-systeme/gaming-pcs/nvidia-gaming%E2%80%91pcs/rtx-5090-gaming-pcs",
+   "https://www.caseking.de/pc-systeme/gaming-pcs/nvidia-gaming%E2%80%91pcs/rtx-5080-gaming-pcs",
+   "https://www.caseking.de/pc-systeme/gaming-pcs/nvidia-gaming%E2%80%91pcs/rtx-5070-ti-gaming-pcs",
+   "https://www.caseking.de/pc-systeme/gaming-pcs/nvidia-gaming%E2%80%91pcs/rtx-5070-gaming-pcs",
+   "https://www.caseking.de/pc-systeme/gaming-pcs/nvidia-gaming%E2%80%91pcs/rtx-5060-ti-gaming-pcs",
+   "https://www.caseking.de/pc-systeme/gaming-pcs/nvidia-gaming%E2%80%91pcs/rtx-5060-ti-gaming-pcs/rtx-5060-ti-8-gb-gaming-pcs",
+   "https://www.caseking.de/pc-systeme/gaming-pcs/nvidia-gaming%E2%80%91pcs/rtx-5060-gaming-pcs",
+   "https://www.caseking.de/pc-systeme/custom-pcs",
+   "https://www.caseking.de/pc-systeme/pcs-nach-leistung",
+   "https://www.caseking.de/pc-systeme/pcs-nach-leistung/high-end-gaming-pcs",
+   "https://www.caseking.de/pc-systeme/pcs-nach-leistung/mid-range-gaming-pcs",
+   "https://www.caseking.de/pc-systeme/pcs-nach-leistung/einsteiger-gaming%E2%80%91pcs",
+   "https://www.caseking.de/pc-systeme/pcs-nach-use-case",
+   "https://www.caseking.de/pc-systeme/pcs-nach-use-case/full-hd-gaming-pcs",
+   "https://www.caseking.de/pc-systeme/pcs-nach-use-case/wqhd-gaming-pcs",
+   "https://www.caseking.de/pc-systeme/pcs-nach-use-case/4k-gaming-pcs",
+   "https://www.caseking.de/pc-systeme/pcs-nach-use-case/gaming-pcs-mit-16-gb-ram",
+   "https://www.caseking.de/pc-systeme/pcs-nach-use-case/gaming-pcs-mit-32-gb-ram",
+   "https://www.caseking.de/pc-systeme/pcs-nach-use-case/weisse-gaming-pcs",
+   "https://www.caseking.de/pc-systeme/pcs-nach-preis",
+   "https://www.caseking.de/pc-systeme/pcs-nach-preis/gaming-pcs-bis-1000-euro",
+   "https://www.caseking.de/pc-systeme/pcs-nach-preis/gaming%E2%80%91pcs-bis-1500-euro",
+   "https://www.caseking.de/pc-systeme/pcs-nach-preis/gaming-pcs-ab-1500-euro",
+   "https://www.caseking.de/pc-systeme/pcs-nach-marke",
+   "https://www.caseking.de/pc-systeme/pcs-nach-marke/king-mod-system-gaming%E2%80%91pcs",
+   "https://www.caseking.de/pc-systeme/pcs-nach-marke/powered-by-asus-gaming-pcs",
+   "https://www.caseking.de/pc-systeme/pcs-nach-marke/powered-by-amd-gaming%E2%80%91pcs",
+   "https://www.caseking.de/pc-systeme/gaming-pcs-nach-spiel",
+   "https://www.caseking.de/pc-systeme/gaming-pcs-nach-spiel/gaming-pc-fuer-fortnite",
+   "https://www.caseking.de/pc-systeme/gaming-pcs-nach-spiel/gaming-pc-fuer-sim-racing",
+   "https://www.caseking.de/pc-systeme/gaming-pcs-nach-spiel/gaming-pc-fuer-minecraft",
+   "https://www.caseking.de/pc-systeme/gaming-pcs-nach-spiel/gaming-pc-fuer-warzone",
+   "https://www.caseking.de/pc-systeme/gaming-pcs-nach-spiel/gaming-pc-fuer-valorant",
+   "https://www.caseking.de/pc-systeme/gaming-pcs-nach-spiel/gaming-pc-fuer-league-of-legends",
+   "https://www.caseking.de/pc-systeme/gaming-pcs-nach-spiel/esports-pcs",
+   "https://www.caseking.de/pc-systeme/fertig-pcs",
+   "https://www.caseking.de/pc-systeme/fertig-pcs/gaming-pcs-ohne-windows",
+   "https://www.caseking.de/pc-systeme/fertig-pcs/gaming-pcs-mit-windows",
+   "https://www.caseking.de/pc-systeme/workstation%E2%80%91pcs",
+   "https://www.caseking.de/pc-systeme/mini%E2%80%91pcs",
+   "https://www.caseking.de/pc-systeme/laptops",
+   "https://www.caseking.de/pc-systeme/laptops/gaming-laptop",
+   "https://www.caseking.de/pc-systeme/laptops/rtx-spark-laptops",
+   "https://www.caseking.de/pc-systeme/handheld-konsolen",
+   "https://www.caseking.de/pc-systeme/b%E2%80%91ware-gaming%E2%80%91pcs",
+   "https://www.caseking.de/pc-systeme/wassergekuehlte-gaming%E2%80%91pcs",
+   "https://www.caseking.de/pc-systeme/ki-pc",
+   "https://www.caseking.de/pc-systeme/ki-pc/ki-pcs-fuer-entwickler",
+   "https://www.caseking.de/pc-systeme/ki-pc/ki-pcs-fuer-creator",
+   "https://www.caseking.de/pc-komponenten",
+   "https://www.caseking.de/pc-komponenten/cpus-prozessoren",
+   "https://www.caseking.de/pc-komponenten/cpus-prozessoren/amd",
+   "https://www.caseking.de/pc-komponenten/cpus-prozessoren/intel",
+   "https://www.caseking.de/pc-komponenten/cpus-prozessoren/waermeleitpasten",
+   "https://www.caseking.de/pc-komponenten/mainboards",
+   "https://www.caseking.de/pc-komponenten/mainboards/amd",
+   "https://www.caseking.de/pc-komponenten/mainboards/intel",
+   "https://www.caseking.de/pc-komponenten/mainboards/zubehoer",
+   "https://www.caseking.de/pc-komponenten/grafikkarten",
+   "https://www.caseking.de/pc-komponenten/grafikkarten/amd",
+   "https://www.caseking.de/pc-komponenten/grafikkarten/nvidia",
+   "https://www.caseking.de/pc-komponenten/grafikkarten/intel",
+   "https://www.caseking.de/pc-komponenten/grafikkarten/zubehoer",
+   "https://www.caseking.de/pc-komponenten/arbeitsspeicher",
+   "https://www.caseking.de/pc-komponenten/arbeitsspeicher/ddr5",
+   "https://www.caseking.de/pc-komponenten/arbeitsspeicher/ddr4",
+   "https://www.caseking.de/pc-komponenten/arbeitsspeicher/led-beleuchtet",
+   "https://www.caseking.de/pc-komponenten/netzteile",
+   "https://www.caseking.de/pc-komponenten/netzteile/bis-500-watt",
+   "https://www.caseking.de/pc-komponenten/netzteile/bis-800-watt",
+   "https://www.caseking.de/pc-komponenten/netzteile/ueber-800-watt",
+   "https://www.caseking.de/pc-komponenten/netzteile/luefterlose-netzteile",
+   "https://www.caseking.de/pc-komponenten/netzteile/pcie-5.0",
+   "https://www.caseking.de/pc-komponenten/netzteile/kabel-und-zubehoer",
+   "https://www.caseking.de/pc-komponenten/kabel-und-adapter",
+   "https://www.caseking.de/pc-komponenten/kabel-und-adapter/externe-kabel",
+   "https://www.caseking.de/pc-komponenten/kabel-und-adapter/externe-kabel/micro-usb",
+   "https://www.caseking.de/pc-komponenten/kabel-und-adapter/externe-kabel/netzstecker",
+   "https://www.caseking.de/pc-komponenten/kabel-und-adapter/externe-kabel/netzwerk",
+   "https://www.caseking.de/pc-komponenten/kabel-und-adapter/externe-kabel/sata-esata",
+   "https://www.caseking.de/pc-komponenten/kabel-und-adapter/externe-kabel/sas-minisas",
+   "https://www.caseking.de/pc-komponenten/kabel-und-adapter/externe-kabel/usb",
+   "https://www.caseking.de/pc-komponenten/kabel-und-adapter/interne-kabel",
+   "https://www.caseking.de/pc-komponenten/kabel-und-adapter/interne-kabel/netzteil",
+   "https://www.caseking.de/pc-komponenten/kabel-und-adapter/interne-kabel/mainboard",
+   "https://www.caseking.de/pc-komponenten/kabel-und-adapter/interne-kabel/laufwerke",
+   "https://www.caseking.de/pc-komponenten/kabel-und-adapter/interne-kabel/gehaeuse",
+   "https://www.caseking.de/pc-komponenten/kabel-und-adapter/interne-kabel/luefter",
+   "https://www.caseking.de/pc-komponenten/kabel-und-adapter/interne-kabel/kabelsets",
+   "https://www.caseking.de/pc-komponenten/kabel-und-adapter/interne-kabel/usb",
+   "https://www.caseking.de/pc-komponenten/kabel-und-adapter/multimedia-kabel",
+   "https://www.caseking.de/pc-komponenten/kabel-und-adapter/multimedia-kabel/3.5-mm-klinke",
+   "https://www.caseking.de/pc-komponenten/kabel-und-adapter/multimedia-kabel/cinch",
+   "https://www.caseking.de/pc-komponenten/kabel-und-adapter/multimedia-kabel/dvi",
+   "https://www.caseking.de/pc-komponenten/kabel-und-adapter/multimedia-kabel/hdmi",
+   "https://www.caseking.de/pc-komponenten/kabel-und-adapter/multimedia-kabel/vga",
+   "https://www.caseking.de/pc-komponenten/kabel-und-adapter/multimedia-kabel/displayport",
+   "https://www.caseking.de/pc-komponenten/laufwerke",
+   "https://www.caseking.de/pc-komponenten/laufwerke/festplatten-hdds",
+   "https://www.caseking.de/pc-komponenten/laufwerke/festplatten-extern",
+   "https://www.caseking.de/pc-komponenten/laufwerke/solid-state-drives-ssd",
+   "https://www.caseking.de/pc-komponenten/laufwerke/blu-ray-dvd",
+   "https://www.caseking.de/pc-komponenten/laufwerke/zubehoer",
+   "https://www.caseking.de/pc-komponenten/laufwerke/cardreader",
+   "https://www.caseking.de/pc-komponenten/laufwerke/festplattengehaeuse",
+   "https://www.caseking.de/pc-komponenten/soundkarten"
+  ],
+  "card_html": "",
+  "next_data": "",
+  "ka_items": [],
+  "text_head": "Zustimmung\nDetails\nÜber Cookies\nWillkommen bei Caseking!\n\nZur Begrüßung gibt’s Cookies.\n\nWenn du auf \"Ich mag Cookies\" klickst, bist du damit einverstanden, dass wir sie nutzen, um durch Tracking und Analyse unser Angebot zu verbessern und dir so dein Shopping-Erlebnis zu versüßen. Alle Details hierzu erfährst du in unserer Datenschutzerklärung, wo du auch jederzeit deine Einstellungen ändern kannst.\n\nTechnisch notwendig\nAnpassen\nIch mag Cookies\nZum Hauptinhalt überspringen\nBlog\nKundenservice\nB2B Shop\nStatus prüfen\nDe\nWunschliste\nMein Konto\nNeuheiten\nPC-Systeme\nPC-Komponenten\nGaming\nGehäuse & Modding\nProfessionell & KI\nLuftkühlung\nWasserkühlung\nSimracing\nMonitore\nPeripherie\nSALE\nPC-Konfigurator - Traumsysteme erstellen\n4,6/5 Trustpilot - bei 4.000+ Bewertungen\nSchneller Versand - Wenn verfügbar\nBequem zahlen - Auch auf Raten\n\n🎁 Beim Newsletter anmelden & nach Bestätigung 5 € Gutschein sichern (ab 75 € Bestellwert) + 3 Tage exklusiven Vorabzugang zu den Black Friday Deals erhalten. Jetzt 5 € sichern\n\nKategorie\nNeuheiten (353)\nKing Deals (103)\nPC-Systeme (95)\nPC-Komponenten (2632)\nGaming (662)\nGehäuse & Modding (1465)\nProfessionell & KI (151)\nLuftkühlung (1123)\nWasserkühlung (1966)\nSimracing (800)\nMonitore (228)\nPeripherie (694)\nSALE (1321)\nMerchandise (8)\nThemen (34)\nMarken (9176)\nFilter\nHersteller\nADATA\nAerocool\nAkasa\nAlpenföhn\nAlphacool\nAMD\nAntec\nAOC\nAPNX\naqua computer\nMehr anzeigen\nPreis\n€\n-\n€\nProdukt Bewertung\nProduktlabel\nSale\nKostenlose Lieferung\nTopseller\nNeu\nBundle\nVerfügbarkeit\nAuf Bestellung\nAuf Lager\nNicht auf Lager\n{0} Artikel auf Lager\nVorbestellung\nHauptfarbe\nFarbfinish\nSekundärfarbe\nSpezielle Farbe\nDesign\nHauptfarbe Kissen\nSekundärfarbe Kissen\nFarbe der Nähte\nHauptfarbe Kissennähte\nSekundärfarbe Kissennähte\nHauptfarbe Kabel\nSekundärfarbe Kabel\nHauptfarbe Stecker / Buchse\nSekundärfarbe Stecker / Buchse\nLüfter Hauptfarbe (Rahmen)\nLüfter Sekundärfarbe (Rahmen)\nLüfter Hauptfarbe (Rotor)\nLüfter Sekundärfarbe (Rotor)\nHauptfarbe Radiator Gehäuse\nSekundärfarbe Radiator Gehäuse\nHauptfarbe Radiator Lamellen\nSekundärfarbe Radiator Lamellen\nUV-aktiv\nUV-Farbe\nLänge / Tiefe (mm)\nBreite (mm)\nHöhe (mm)\nDurchmesser (mm)\nVolumen (l)\nHöhe mit Stativ (mm)\nHöhe (ohne Standfuß) (mm)\nGewicht mit Stativ (g)\nGewicht (ohne Standfuß) (kg)\nBreite Nackenkissen (mm)\nHöhe Nackenkissen (mm)\nTiefe Nackenkissen (mm)\nGewicht Nackenkissen (g)\nBreite Lendenkissen (mm)\nHöhe Lendenkissen (mm)\nTiefe Lendenkissen (mm)\nGewicht Lendenkissen (g)\nBreite Sitzkissen (mm)\nHöhe Sitzkissen (mm)\nTiefe Sitzkissen (mm)\nSuchergebnisse\nBeste Ergebnisse\nPreis (aufsteigend)\nPreis (absteigend)\nVerfügbarkeit\nNeuheiten\nTopseller\nName (A-Z)\nName (Z-A)\n9.162 Ergebnisse für .\nGratisversand\nTopseller\nNeu\nKing Mod Systems Powered by ASUS Gaming-PC BattleReady, AMD Ryzen 5 7500F, RX 9060 XT - Fertig-PC\nCKPC-0104\n(3)\n1.499,90 €\nInkl. MwSt., kostenloser Versand\nAuf Lager\n In den Warenkorb\nGratisversand\nTopseller\nNeu\nKing Mod Systems Powered by ASUS Gaming-PC BattleReady, AMD Ryzen 5 7500F, RX 9060 X",
+  "calls": [
+   {
+    "m": "GET",
+    "url": "https://consentcdn.cookiebot.com/consentconfig/129acae2-ec0b-4fb9-a4be-443c47d884b2/settings.json",
+    "post": "",
+    "status": 200,
+    "body": "{\"widget\":{\"enabled\":false,\"position\":{\"position\":\"bottom-left\",\"distanceVerticalPx\":10,\"distanceHorizontalPx\":10},\"theme\":{\"closed\":{\"backgroundColor\":\"#141414\",\"foregroundColor\":\"#FFFFFF\"},\"opened\":{\"backgroundColor\":\"#FFFFFF\",\"foregroundColor\":\"#141414\",\"highlightColor\":\"#1032CF\",\"shadeColor\":\"#D6D6D6\",\"changeBackgroundColor\":\"#1032CF\",\"changeTextColor\":\"#FFFFFF\",\"changeBorderColor\":\"#1032CF\",\"withdrawBackgroundColor\":\"#FFFFFF\",\"withdrawTextColor\":\"#141414\",\"withdrawBorderColor\":\"#1032CF\",\"detailsBackgroundColor\":\"#F2F2F2\"}},\"content\":{\"cultures\":[\"de\",\"en\"],\"default\":\"de\",\"autodetectLanguage\":false}},\"twipla\":null}"
+   },
+   {
+    "m": "POST",
+    "url": "https://prompts.api.production.neocomapp.com/api/prompt/73e6602e-ae0d-4ccd-aae6-b038f3015a90/find-by-url/",
+    "post": "{\"is_draft\":false,\"current_url\":\"https://www.caseking.de/search?search=rtx+5090\"}",
+    "status": 200,
+    "body": "{}\n"
+   }
+  ]
+ },
+ {
+  "url": "https://www.cyberport.at/tools/search-results.html?q=rtx+5090",
+  "typed": "",
+  "final_url": "https://www.cyberport.at/tools/search-results.html?q=rtx+5090",
   "inputs": [
    {
     "tag": "INPUT",
@@ -14,49 +1619,116 @@
    }
   ],
   "search_links": [],
-  "sample_links": [],
-  "card_html": "",
-  "next_data": "",
-  "ka_items": [],
-  "text_head": "Sichere Verbindung wird überprüft",
-  "calls": []
- },
- {
-  "url": "https://geizhals.de/?fs=rtx+5090&cat=gra16_512",
-  "typed": "",
-  "final_url": "https://geizhals.de/?fs=rtx+5090&cat=gra16_512",
-  "inputs": [
-   {
-    "tag": "INPUT",
-    "type": "hidden",
-    "name": "cf-turnstile-response",
-    "ph": "",
-    "aria": null,
-    "vis": false
-   }
+  "sample_links": [
+   "https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m",
+   "https://www.cloudflare.com/de-de/privacypolicy/"
   ],
-  "search_links": [],
-  "sample_links": [],
   "card_html": "",
   "next_data": "",
   "ka_items": [],
-  "text_head": "Sichere Verbindung wird überprüft",
+  "text_head": "www.cyberport.at\nSicherheitsüberprüfung wird durchgeführt\n\nDiese Website nutzt einen Sicherheitsservice, um sich vor böswilligen Bots zu schützen. Diese Seite wird angezeigt, solange die Website überprüft, dass Sie kein Bot sind.\n\nRay ID: a4cf72d20fe3ccf6\nPerformance und Sicherheit von Cloudflare\nPrivatsphäre",
   "calls": []
  },
  {
-  "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=rtx+5090",
+  "url": "https://www.galaxus.at/de/search?q=rtx%205090",
   "typed": "",
-  "final_url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=rtx+5090",
+  "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.galaxus.at/de/search?q=rtx%205090\nCall log:\n  - navigating to \"https://www.galaxus.at/de/search?q=rtx%205090\", waiting until \"domcontentloaded\"\n",
+  "calls": []
+ },
+ {
+  "url": "https://www.e-tec.at/frame1/suche.php?suchbegriff=rtx+5090",
+  "typed": "",
+  "final_url": "https://www.e-tec.at/frame1/suche.php?suchbegriff=rtx+5090",
   "inputs": [],
   "search_links": [],
   "sample_links": [
-   "https://www.idealo.co.uk/",
-   "https://kundenservice.idealo.com/de/contact?topic=access-idealo&referenceId=0.49c1c917.1792409253.1bef919b"
+   "https://www.cloudflare.com/5xx-error-landing"
   ],
   "card_html": "",
   "next_data": "",
   "ka_items": [],
-  "text_head": "Sorry! Something has gone wrong. If the issue persists, please make sure your browser is updated to the latest version.\n\nStill having the issue, please reach out to our customer care with reference ID 0.49c1c917.1792409253.1bef919b for further assistance.",
+  "text_head": "Sorry, you have been blocked\nYou are unable to access e-tec.at\nWhy have I been blocked?\n\nThis website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nWhat can I do to resolve this?\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.\n\nCloudflare Ray ID: a4cf733faf55ee37 • Your IP: Click to reveal • Performance & security by Cloudflare",
   "calls": []
+ },
+ {
+  "url": "https://www.computeruniverse.net/de/search?query=rtx%205090",
+  "typed": "",
+  "final_url": "https://www.computeruniverse.net/de/search?query=rtx%205090",
+  "inputs": [
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "cf-turnstile-response",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   }
+  ],
+  "search_links": [],
+  "sample_links": [
+   "https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m",
+   "https://www.cloudflare.com/de-de/privacypolicy/"
+  ],
+  "card_html": "",
+  "next_data": "",
+  "ka_items": [],
+  "text_head": "www.computeruniverse.net\nSicherheitsüberprüfung wird durchgeführt\n\nDiese Website nutzt einen Sicherheitsservice, um sich vor böswilligen Bots zu schützen. Diese Seite wird angezeigt, solange die Website überprüft, dass Sie kein Bot sind.\n\nRay ID: a4cf73601f168eaa\nPerformance und Sicherheit von Cloudflare\nPrivatsphäre",
+  "calls": []
+ },
+ {
+  "url": "https://www.notebooksbilliger.de/produkte/rtx%205090",
+  "typed": "",
+  "final_url": "https://www.notebooksbilliger.de/produkte/rtx%205090",
+  "inputs": [],
+  "search_links": [],
+  "sample_links": [
+   "https://notebooksbilliger.de/"
+  ],
+  "card_html": "",
+  "next_data": "",
+  "ka_items": [],
+  "text_head": "uups...\n\nDie Seite wurde nicht gefunden.\n\n0.4eb01302.1792409443.2d621f4f\n\nZur Startseite",
+  "calls": [
+   {
+    "m": "POST",
+    "url": "https://www.notebooksbilliger.de/I3mZm_/h-c9f/BpjJN/Jg/2J5pwzai3c/bTdl/FSc9Vhk/7VQ0X",
+    "post": "{\"body\":\"9\\\":\\\"SWS>)\\\"z\\\"vt~QK\\\"D\\\"$B[Tm\\\"/\\\"awG|I\\\"p26hymS/ZgSla(6d8#{%&]DXfO)AE.|9v=;TIWH0AS4on@Y|Fdp.@{g6}n@\\\"g(Wxn\\\"(\\\" F\\\\\\\"7D+KS\\\\\\\"K\\\\\\\"a;1.o6VOP3uJ@p\\\\\\\"3Z(*1\\\"krFn{\\\"u\\\"ED[$M2l@\\\"R\\\"rXd[9\\\"r\\\"|\\\"J`=x()LgKd\\\"E|k;<\\\"2\\\"U`aC8\\\"FymT8\\\"Z\\\"K+Qee\\\"Y\\\"bEj=poEVH{`0rG80{%%;W,dsMZPYZ$TFT]IJr>]]^?Nnu@F(/W\\\"4%W@Pyo\\\"==\\\"~l{gE\\\"c\\\"N^VV\\\".xAK8\\\"[hC=o\\\"|\\\"9\\\"<\\\"p>qO3\\\"l\\\"y+\\\"uuj:$\\\"g6M?Ui\\\"!k`7+\\\"O\\\"P*t\\\"O\\\"c3_x>\\\"J\\\"^$h\\\"c\\\"QeAJ/\\\"M\\\"ln\\\"6{(3r\\\"i\\\"Xi1JYX!xrYwb!_UJr?[X-3Hv>R2Wx$e_f%Lz&ve6u4Ep5>]avqZ90<V}P&\\\"F7wvz\\\"_\\\"u9B$W05g;[o=;tq@D{*BWCD1?@iCdJFtf$\\\" \\\"33+<u\\\"Y\\\")\\\"~mSg\\\"Y\\\"jaCLi\\\"u\\\"a@\\\"A\\\"tQ=Bh\\\"T\\\"|2QH\\\"p\\\"?c bo\\\"!\\\"fo.-/\\\" \\\\\\\"@r::V~]\\\\\\\"@\\\\\\\"&cYw:)l\\\\\\\"*F\\\";UA<1\\\"I\\\"RGWm9e\\\"`\\\"/eBfU\\\"!\\\",\\\"&\\\"{4%=a\\\"*\\\"]\\\"K\\\\\\\"GF5W5gK\\\\\\\")\\\\\\\"+^$!n%5guK[-5\\\\\\\")b9.-R^3}m9#Q+<T*MoAY)T`3P-Xo8>E9x_\\\"i\\\"!kwi4\\\"h\\\"qjsoF~<iGZK`D2%BYTZS\\\"H\\\"Ar4i`\\\"/\\\"Dn\\\"ECpJUW=}k0&Q>W@_pN9=a44:)|XV_LwMTsS6CUu<wF}tn+Uuy/u->jAB\\\"n\\\"/vCeN\\\")\\\"+BUm\\\"H\\\"3c}Lw\\\"S\\\"~=I?e\\\">\\\"Yj$(a\\\"b\\\".\\\\\\\"M)}{r\\\\\\\"!\\\"_\\\"cKz5S\\\"{\\\"gihr.f=~pn]HF3:f&kVt+,lb#pv/&J.+$Y(0`.G]ywzIh#tx`{w^|&I3PVX~{hrX\\\")b %.h$\\\"FJ,Zr\\\"<\\\"()\\\"c\\\"^y+{5\\\"5\\\"AW^z|bW[B4^I/By2wfoNfCG*zP|$6178R<Lnb@/P<czWoxa*+q{j\\\"_j]Q)\\\"c\\\"#Z9,B\\\"s\\\"A\\\"k\\\"/k#4V\\\"j\\\"H\\\"FKsF1~n.R_<{3CFb(Eg}T\\\"i\\\"_sfE(\\\"y\\\"#\\\"0\\\"nctfs\\\"&\\\"VWuz\\\"4\\\"DjSgC\\\"P\\\"M1\\\"ZvVbu\\\"(\\\"i\\\"n\\\"B4~$U\\\"D\\\"c?\\\\\\\"xmWy@\\\\\\\"G\\\\\\\"~]c.:6+#nXPFXe\\\\\\\"O\\\"(JPZw\\\"k\\\"RC\\\\\\\"5=V+7Zb\\\\\\\"$\\\\\\\"Y^s\\\\\\\"ua\\\"E`}*O\\\"O\\\"3\\\"}u~GN\\\"i\\\"j~BBq\\\"G\\\"zW5SLuqmizhXg]IN?`kX\\\"Rf2\\\"50g9g\\\"$\\\"`<h]1z`7X $6n\\\"AA\\\"h\\\"4um@T\\\"w\\\"\\\"(;\\\"e~P%$_c]j6i{5rq=Gq,^D)P7Fll aIF,b=wi`gc=5W6>\\\"0]Nv6J=MD`KiMXVL*MF3{\\\"T:\\\\\\\"HPk^a\\\\\\\"-\\\\\\\"-pccG6hZ}8?\\\\\\\"Y\\\\\\\"pXV`8L9\\\\\\\"l\\\\\\\"/#.\\\\\\\"67\\\"!_~[*\\\"d\\\"six\\\"3= \\\"MXxyW\\\"f\\\"s^ya^2{PQ<<r^k2urkR0q$Rwc|j|h&mE/!C$gl$Ro?Eom&VWI(QA(9}HLBGR\\\"T%*5#\\\"{\\\"5=w\\\"i\\\"jQY,*\\\"h\\\"wlvz85ZW\\\"F\\\">lMN.\\\"B\\\"}\\\"g\\\".t4q=\\\"U\\\"inMike~Z*:~#[S\\\"8ozjY\\\"Z\\\"\\\"Z\\\\\\\"Mn2:lVQ\\\\\\\"8\\\\\\\"-=NJF-l 2g<0/\\\\\\\"#g\\\"/\\\"$`QhF\\\"7\\\"nI\\\\\\\">Skws\\\\\\\".\\\\\\\"d q$5AQc&B+j&6\\\\\\\":\\\"+=Qd:\\\"v\\\"}\\\"Q\\\"[=ViR\\\"~\\\"|%1(\\\"q\\\"xk/?B\\\";\\\",_\\\"D\\\"1p?b$\\\"W\\\")\\\\\\\"C!\\\\\\\"zeKu8%x7>n\\\\\\\"k[pH\\\\\\\"K\\\":\\\"%lWdw\\\"V\\",
+    "status": 200,
+    "body": ""
+   }
+  ]
+ },
+ {
+  "url": "https://www.proshop.at/?s=rtx+5090",
+  "typed": "",
+  "final_url": "https://www.proshop.at/?s=rtx+5090",
+  "inputs": [
+   {
+    "tag": "INPUT",
+    "type": "hidden",
+    "name": "cf-turnstile-response",
+    "ph": "",
+    "aria": null,
+    "vis": false
+   }
+  ],
+  "search_links": [],
+  "sample_links": [
+   "https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m",
+   "https://www.cloudflare.com/de-de/privacypolicy/"
+  ],
+  "card_html": "",
+  "next_data": "",
+  "ka_items": [],
+  "text_head": "www.proshop.at\nSicherheitsüberprüfung wird durchgeführt\n\nDiese Website nutzt einen Sicherheitsservice, um sich vor böswilligen Bots zu schützen. Diese Seite wird angezeigt, solange die Website überprüft, dass Sie kein Bot sind.\n\nRay ID: a4cf743b0b0a1d6b\nPerformance und Sicherheit von Cloudflare\nPrivatsphäre",
+  "calls": [
+   {
+    "m": "GET",
+    "url": "https://www.proshop.at/cdn-cgi/speculation",
+    "post": "",
+    "status": 200,
+    "body": "{\"tag\":\"cf-speed-brain\",\"prefetch\":[{\"eagerness\":\"conservative\",\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\",\"relative_to\":\"document\"}]}}]}"
+   }
+  ]
  }
 ]
