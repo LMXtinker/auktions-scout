@@ -89,7 +89,8 @@ async def kleinanzeigen(ctx, q):
         if not m:
             continue
         lines = [x.strip() for x in c["text"].split("\n") if x.strip()]
-        title = max(lines, key=len) if lines else ""
+        cand = [x for x in lines if not re.match(r"^(\d{5}\s|heute|gestern|\d{2}\.\d{2}\.\d{4}|.*€|vb$|top$|versand|direkt kaufen)", x, re.I)]
+        title = next((x for x in cand if MUST.search(x) and len(x) <= 140), cand[0] if cand else "")
         loc = next((x for x in lines if re.match(r"^\d{5}\s", x)), "")
         out.append({"source": "kleinanzeigen", "id": f"ka:{m.group(1)}", "title": title[:120],
                     "price": price_of(c["text"]), "location": loc, "text": c["text"], "url": c["url"]})
@@ -174,14 +175,19 @@ def send(tok, chat, text):
             raise RuntimeError("Telegram-Fehler")
 
 
+PC = re.compile(H.get("pc", r"gaming[- ]?pc|komplett|ryzen|core i\d|ddr5|tower|rechner"), re.I)
+
+
 def line(o):
-    deal = (not o.get("auction") and o.get("price") and o["price"] <= H.get("deal_price", 0))
+    is_pc = bool(PC.search(o["title"]))
+    deal = (not o.get("auction") and not is_pc and o.get("price") and o["price"] <= H.get("deal_price", 0))
     p = f"{o['price']:,.0f} €".replace(",", ".") if o.get("price") else "Preis ?"
     if o.get("auction"):
         p = "Gebot " + p
     loc = f" · {html.escape(o['location'])}" if o.get("location") else ""
+    tag = " · <i>Komplett-PC</i>" if is_pc else ""
     return (f"{'🔥 ' if deal else '• '}<a href=\"{html.escape(o['url'])}\">{html.escape(o['title'][:90])}</a>\n"
-            f"   <b>{p}</b> · {html.escape(o['source'])}{loc}")
+            f"   <b>{p}</b> · {html.escape(o['source'])}{loc}{tag}")
 
 
 def chunks(lines, head, limit=3800):

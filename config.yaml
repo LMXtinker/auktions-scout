@@ -54,7 +54,7 @@ gpu_hunt:
   sources: [willhaben, kleinanzeigen, troostwijk, aurena, zoll]
   must: '5090'                     # muss im Titel/Text vorkommen
   # Titel mit diesen Wörtern werden ignoriert (Gesuche, Ankauf, Laptops, Zubehör, defekt)
-  exclude: '\b(suche|gesucht|ankauf|wir kaufen|kaufe|tausch\w*|defekt|bastler|laptop|notebook|wasserk[üu]hl\w*|waterblock|wasserblock|k[üu]hler|backplate|halterung|kabel|adapter|stecker|netzteil|riser)\b'
+  exclude: '\b(suche|gesucht|ankauf|wir kaufen|kaufe|tausch\w*|defekt|bastler|laptop|notebook|\d{3,5}hx|blade 1\d|predator|legion|zephyrus|scar|titan|raider|stealth|alienware|vector|crosshair|omen|rog flow|wasserk[üu]hl\w*|waterblock|wasserblock|k[üu]hler|backplate|halterung|kabel|adapter|stecker|netzteil|riser)\b'
   min_price: 900                   # Kleinanzeigen darunter = Zubehör/Fake
-  deal_price: 2000                 # bis zu diesem Preis 🔥 markieren
+  deal_price: 4500                 # Grafikkarten bis zu diesem Preis 🔥 markieren (Komplett-PCs nie)
   first_run_top: 15
