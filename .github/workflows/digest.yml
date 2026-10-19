@@ -1,6 +1,9 @@
 name: digest
 
 on:
+  schedule:                # 07:45 Wien (send_at in config.yaml): zwei Einträge für Sommer-/Winterzeit, das Skript wartet bis send_at
+    - cron: "41 5 * * *"   # = 07:41 Sommerzeit / 06:41 Winterzeit
+    - cron: "41 6 * * *"   # = 08:41 Sommerzeit / 07:41 Winterzeit
   workflow_dispatch:
     inputs:
       dry_run:

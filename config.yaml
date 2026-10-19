@@ -41,3 +41,9 @@ keywords:
 
 scrolls: 3
 max_cards: 60
+
+# Telegram-Digest (scout/digest.py, Workflow digest.yml)
+digest:
+  send_at: "07:45"     # Wiener Zeit
+  batch_size: 120      # Lose pro Gemini-Aufruf
+  chat_id: "1232834463"  # Telegram-Empfänger (Secret TELEGRAM_CHAT_ID hat Vorrang); ohne Bot-Token nutzlos
