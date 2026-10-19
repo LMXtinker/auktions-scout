@@ -250,8 +250,10 @@ def main():
     chat = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
     chats = [c.strip() for c in (chat + "," + os.environ.get("TELEGRAM_CC_CHAT_IDS", "")).split(",") if c.strip()]
     missing = [n for n, v in [("GEMINI_API_KEY", key), ("TELEGRAM_BOT_TOKEN", tok), ("TELEGRAM_CHAT_ID", chat)] if not v]
+    print("::notice::Secrets gesetzt: " + ", ".join(f"{n}={'ja' if v else 'NEIN'}" for n, v in
+          [("GEMINI_API_KEY", key), ("TELEGRAM_BOT_TOKEN", tok), ("TELEGRAM_CHAT_ID", chat)]))
     if missing and not (DRY and key):
-        raise SystemExit(f"Fehlende Secrets: {', '.join(missing)}")
+        raise RuntimeError(f"Fehlende Secrets: {', '.join(missing)}")
 
     status_scrape = load("status.json", {})
     scraped = status_scrape.get("generated", "")
@@ -314,6 +316,8 @@ if __name__ == "__main__":
     try:
         main()
     except Exception as e:
-        print(f"::error::{e}")
+        import traceback
+        traceback.print_exc()
+        print(f"::error::{type(e).__name__}: {str(e)[:900]}")
         admin(f"⚠️ <b>Auktions-Scout:</b> Bewertung/Versand fehlgeschlagen:\n{esc(str(e))[:500]}")
         sys.exit(1)
