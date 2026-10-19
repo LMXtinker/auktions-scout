@@ -40,16 +40,16 @@
    "Grafikkarte": {
     "cards": 1,
     "total_reported": 1,
-    "ids_matched": false
-   },
-   "Workstation": {
-    "cards": 2,
-    "total_reported": 2,
     "ids_matched": true
    },
+   "Workstation": {
+    "cards": 6,
+    "total_reported": 6,
+    "ids_matched": false
+   },
    "Gaming PC": {
-    "cards": 3,
-    "total_reported": 3,
+    "cards": 1,
+    "total_reported": 1,
     "ids_matched": false
    },
    "Laserprojektor": {
@@ -58,18 +58,18 @@
     "ids_matched": false
    },
    "Beamer": {
-    "cards": 70,
-    "total_reported": 70,
-    "ids_matched": true
+    "cards": 42,
+    "total_reported": 42,
+    "ids_matched": false
    },
    "Projektor": {
-    "cards": 18,
-    "total_reported": 18,
+    "cards": 11,
+    "total_reported": 11,
     "ids_matched": false
    },
    "LED Wand": {
-    "cards": 96,
-    "total_reported": 111,
+    "cards": 46,
+    "total_reported": 46,
     "ids_matched": false
    },
    "LED Wall": {
@@ -88,9 +88,9 @@
     "ids_matched": false
    },
    "Veranstaltungstechnik": {
-    "cards": 96,
-    "total_reported": 113,
-    "ids_matched": false
+    "cards": 8,
+    "total_reported": 8,
+    "ids_matched": true
    },
    "Lichtpult": {
     "cards": 0,
@@ -98,13 +98,13 @@
     "ids_matched": false
    },
    "Moving Head": {
-    "cards": 4,
-    "total_reported": 4,
-    "ids_matched": true
+    "cards": 0,
+    "total_reported": 0,
+    "ids_matched": false
    },
    "Traverse": {
-    "cards": 3,
-    "total_reported": 3,
+    "cards": 16,
+    "total_reported": 16,
     "ids_matched": false
    }
   },
@@ -115,52 +115,52 @@
   "site": "troostwijk-surplex",
   "keywords": {
    "RTX 4090": {
-    "cards": 4
+    "cards": 0
    },
    "RTX 4080": {
-    "cards": 4
+    "cards": 0
    },
    "RTX 4070": {
-    "cards": 4
+    "cards": 0
    },
    "RTX 5090": {
-    "cards": 4
+    "cards": 0
    },
    "RTX 5080": {
-    "cards": 4
+    "cards": 0
    },
    "RTX 5070": {
-    "cards": 4
+    "cards": 0
    },
    "RTX A6000": {
-    "cards": 4
+    "cards": 0
    },
    "Grafikkarte": {
-    "cards": 24
+    "cards": 6
    },
    "Workstation": {
-    "cards": 25
+    "cards": 36
    },
    "Gaming PC": {
-    "cards": 19
+    "cards": 100
    },
    "Laserprojektor": {
     "cards": 0
    },
    "Beamer": {
-    "cards": 5
+    "cards": 16
    },
    "Projektor": {
-    "cards": 78
+    "cards": 137
    },
    "LED Wand": {
-    "cards": 153
+    "cards": 200
    },
    "LED Wall": {
-    "cards": 153
+    "cards": 200
    },
    "Blackmagic": {
-    "cards": 4
+    "cards": 0
    },
    "Medienserver": {
     "cards": 0
@@ -172,10 +172,10 @@
     "cards": 0
    },
    "Moving Head": {
-    "cards": 80
+    "cards": 18
    },
    "Traverse": {
-    "cards": 3
+    "cards": 8
    }
   },
   "errors": [],
@@ -222,7 +222,7 @@
    "Grafikkarte": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Grafikkarte&n1%5B%5D=0&n0=search",
-    "cards": 5
+    "cards": 7
    },
    "Workstation": {
     "form_ok": true,
@@ -237,7 +237,7 @@
    "Laserprojektor": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Laserprojektor&n1%5B%5D=0&n0=search",
-    "cards": 9
+    "cards": 0
    },
    "Beamer": {
     "form_ok": true,
@@ -257,7 +257,7 @@
    "LED Wall": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=LED+Wall&n1%5B%5D=0&n0=search",
-    "cards": 2
+    "cards": 0
    },
    "Blackmagic": {
     "form_ok": true,
@@ -272,7 +272,7 @@
    "Veranstaltungstechnik": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Veranstaltungstechnik&n1%5B%5D=0&n0=search",
-    "cards": 0
+    "cards": 3
    },
    "Lichtpult": {
     "form_ok": true,
@@ -287,7 +287,7 @@
    "Traverse": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Traverse&n1%5B%5D=0&n0=search",
-    "cards": 3
+    "cards": 10
    }
   },
   "errors": [],
@@ -359,7 +359,7 @@
    "Projektor": {
     "form_ok": true,
     "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 1
+    "cards": 0
    },
    "LED Wand": {
     "form_ok": true,
