@@ -73,7 +73,7 @@ async def main():
                 entry["sample_links"] = await page.evaluate("""[...new Set([...document.querySelectorAll('a[href]')].map(a=>a.href))].slice(0,150)""")
                 entry["card_html"] = await page.evaluate("""(() => { const els=[...document.querySelectorAll('body *')].filter(e=>/Gebote:/.test(e.innerText||'') && (e.innerText||'').length<400); els.sort((a,b)=>b.innerText.length-a.innerText.length); const e=els[0]; if(!e) return ''; let p=e; for(let i=0;i<3&&p.parentElement;i++) p=p.parentElement; return p.outerHTML.slice(0,6000); })()""")
                 entry["next_data"] = await page.evaluate("(document.querySelector('#__NEXT_DATA__')||{}).textContent||''")
-                entry["next_data"] = entry["next_data"][:200000]
+                entry["next_data"] = entry["next_data"][:3000000]
                 entry["ka_items"] = await page.evaluate("""[...document.querySelectorAll('article.aditem')].slice(0,5).map(a=>({id:a.dataset.adid,href:a.dataset.href,text:a.innerText.slice(0,300)}))""")
                 entry["text_head"] = (await page.evaluate("document.body.innerText"))[:3000]
             except Exception as e:
