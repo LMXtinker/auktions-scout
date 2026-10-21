@@ -1,22 +1,7 @@
-🎯 <b>6 neue RTX 5090-Angebote</b>
+🎯 <b>1 neue RTX 5090-Angebote</b>
 
-• <a href="https://www.kleinanzeigen.de/s-anzeige/gigabyte-aorus-geforce-rtx-5090-white-ice/3548073538-225-1529">Gigabyte AORUS GeForce RTX 5090 White / ICE</a>
-   <b>5.800 €</b> · kleinanzeigen · 57462 Olpe
-
-• <a href="https://www.kleinanzeigen.de/s-anzeige/rtx-5090-aorus-master/3548025829-225-4818">rtx 5090 aorus master</a>
-   <b>10.000 €</b> · kleinanzeigen · 63512 Hainburg
-
-• <a href="https://www.kleinanzeigen.de/s-anzeige/verkaufe-meine-gigabyte-geforce-rtx-5090-aorus-master/3547911887-225-2450">verkaufe meine GigaByte GeForce RTX 5090 AORUS Master</a>
-   <b>10.000 €</b> · kleinanzeigen · 38112 Braunschweig
-
-• <a href="https://www.kleinanzeigen.de/s-anzeige/msi-mpg-infinite-x3-ai-rtx-5090-64gb-ram-ultra-9/3547949153-228-1896">MSI MPG Infinite X3 AI | RTX 5090 | 64GB RAM | Ultra 9</a>
-   <b>Preis ?</b> · kleinanzeigen · 40668 Meerbusch
-
-• <a href="https://www.kleinanzeigen.de/s-anzeige/asus-rog-astral-geforce-rtx-5090-oc-edition-32gb/3547946441-225-19115">ASUS ROG ASTRAL GeForce RTX 5090 OC Edition 32GB</a>
-   <b>Preis ?</b> · kleinanzeigen · 25336 Elmshorn
-
-• <a href="https://www.kleinanzeigen.de/s-anzeige/mifcom-high-end-pc-nvidia-rtx-5090-msi-suprim-soc/3547879709-228-20954">MIFCOM High-End PC – NVIDIA RTX 5090 MSI Suprim SOC</a>
-   <b>Preis ?</b> · kleinanzeigen · 24395 Gelting Angeln
+• <a href="https://www.kleinanzeigen.de/s-anzeige/msi-geforce-rtx-5090-32g-ventus-3x-oc-1-jahr-neu-/3548091616-225-9266">MSI GeForce RTX 5090 32G Ventus 3X OC - 1 Jahr Neu!</a>
+   <b>5.800 €</b> · kleinanzeigen · 75175 Pforzheim
 
 ----- alle relevanten -----
 7250.0 | willhaben | High-End Gaming PC | RTX 5090 Founders Edition 32GB | Ryzen 7 7800X3D | 64GB DDR | https://www.willhaben.at/iad/kaufen-und-verkaufen/d/high-end-gaming-pc-rtx-5090-founders-edition-32gb-ryzen-7-7800x3d-64gb-ddr5-geprueft-1654987487/
@@ -29,20 +14,18 @@
 6099.0 | willhaben | ASUS ROG ASTRAL RTX 5090 | https://www.willhaben.at/iad/kaufen-und-verkaufen/d/asus-rog-astral-rtx-5090-1234895558/
 6500.0 | willhaben | RTX 5090 Gigabyte Windforce OC 32GB | https://www.willhaben.at/iad/kaufen-und-verkaufen/d/rtx-5090-gigabyte-windforce-oc-32gb-1750597038/
 7000.0 | willhaben | Rtx 5090 | https://www.willhaben.at/iad/kaufen-und-verkaufen/d/rtx-5090-1633196922/
-6300.0 | willhaben | ROG Astral GeForce RTX 5090 32GB GDDR7 OC Edition | https://www.willhaben.at/iad/kaufen-und-verkaufen/d/rog-astral-geforce-rtx-5090-32gb-gddr7-oc-edition-1859535280/
+6499.0 | willhaben | ROG Astral GeForce RTX 5090 32GB GDDR7 OC Edition | https://www.willhaben.at/iad/kaufen-und-verkaufen/d/rog-astral-geforce-rtx-5090-32gb-gddr7-oc-edition-1859535280/
 6000.0 | willhaben | MSI RTX 5090 SUPRIM LIQUID SOC | https://www.willhaben.at/iad/kaufen-und-verkaufen/d/msi-rtx-5090-suprim-liquid-soc-1366877490/
 5500.0 | willhaben | NVIDIA RTX 5090 Founders Edition | https://www.willhaben.at/iad/kaufen-und-verkaufen/d/nvidia-rtx-5090-founders-edition-922257546/
 6500.0 | willhaben | Palit RTX 5090 Gamerock OC | https://www.willhaben.at/iad/kaufen-und-verkaufen/d/palit-rtx-5090-gamerock-oc-1673142532/
 7500.0 | willhaben | High-End Gaming PC (RTX 5090 + I9 14900K) | https://www.willhaben.at/iad/kaufen-und-verkaufen/d/high-end-gaming-pc-rtx-5090-i9-14900k-1660943092/
 9000.0 | willhaben | Rtx 5090 ROG Astral OC | https://www.willhaben.at/iad/kaufen-und-verkaufen/d/rtx-5090-rog-astral-oc-2143865421/
 3999.0 | kleinanzeigen | Gaming PC | RTX 5090 | Ultra 9 285H | 1TB | 32GB DDR5 | https://www.kleinanzeigen.de/s-anzeige/gaming-pc-rtx-5090-ultra-9-285h-1tb-32gb-ddr5/3392843938-228-2907
-5800.0 | kleinanzeigen | Gigabyte AORUS GeForce RTX 5090 White / ICE | https://www.kleinanzeigen.de/s-anzeige/gigabyte-aorus-geforce-rtx-5090-white-ice/3548073538-225-1529
+5800.0 | kleinanzeigen | MSI GeForce RTX 5090 32G Ventus 3X OC - 1 Jahr Neu! | https://www.kleinanzeigen.de/s-anzeige/msi-geforce-rtx-5090-32g-ventus-3x-oc-1-jahr-neu-/3548091616-225-9266
 10000.0 | kleinanzeigen | rtx 5090 aorus master | https://www.kleinanzeigen.de/s-anzeige/rtx-5090-aorus-master/3548025829-225-4818
 None | kleinanzeigen | MSI MPG Infinite X3 AI | RTX 5090 | 64GB RAM | Ultra 9 | https://www.kleinanzeigen.de/s-anzeige/msi-mpg-infinite-x3-ai-rtx-5090-64gb-ram-ultra-9/3547949153-228-1896
-None | kleinanzeigen | ASUS ROG ASTRAL GeForce RTX 5090 OC Edition 32GB | https://www.kleinanzeigen.de/s-anzeige/asus-rog-astral-geforce-rtx-5090-oc-edition-32gb/3547946441-225-19115
 10000.0 | kleinanzeigen | verkaufe meine GigaByte GeForce RTX 5090 AORUS Master | https://www.kleinanzeigen.de/s-anzeige/verkaufe-meine-gigabyte-geforce-rtx-5090-aorus-master/3547911887-225-2450
 None | kleinanzeigen | MIFCOM High-End PC – NVIDIA RTX 5090 MSI Suprim SOC | https://www.kleinanzeigen.de/s-anzeige/mifcom-high-end-pc-nvidia-rtx-5090-msi-suprim-soc/3547879709-228-20954
-5250.0 | kleinanzeigen | Zotac Nvidia RTX 5090 Solid OC | https://www.kleinanzeigen.de/s-anzeige/zotac-nvidia-rtx-5090-solid-oc/3547802027-225-9093
 6000.0 | kleinanzeigen | Zotac Gaming GeForce RTX 5090 Solid OC White Edition | https://www.kleinanzeigen.de/s-anzeige/zotac-gaming-geforce-rtx-5090-solid-oc-white-edition/3547707202-225-1177
 6000.0 | kleinanzeigen | MSI GeForce RTX 5090 Gaming Trio OC 32GB Garantie | https://www.kleinanzeigen.de/s-anzeige/msi-geforce-rtx-5090-gaming-trio-oc-32gb-garantie/3547692859-225-1427
 7100.0 | kleinanzeigen | Geforce RTX 5090 Aorus Master ICE 32 GB GDDR7 -Neuwertig | https://www.kleinanzeigen.de/s-anzeige/geforce-rtx-5090-aorus-master-ice-32-gb-gddr7-neuwertig/3547651263-225-2860
@@ -55,67 +38,70 @@ None | kleinanzeigen | MIFCOM High-End PC – NVIDIA RTX 5090 MSI Suprim SOC | h
 6000.0 | kleinanzeigen | ASUS ROG Astral GeForce RTX 5090 OC 32GB | https://www.kleinanzeigen.de/s-anzeige/asus-rog-astral-geforce-rtx-5090-oc-32gb/3547219238-225-1399
 6000.0 | kleinanzeigen | PNY GeForce RTX 5090 OC NVIDIA 32 GB | https://www.kleinanzeigen.de/s-anzeige/pny-geforce-rtx-5090-oc-nvidia-32-gb/3547194366-225-7700
 6100.0 | kleinanzeigen | Asus Rog Astral GeForce RTX 5090 32GB | https://www.kleinanzeigen.de/s-anzeige/asus-rog-astral-geforce-rtx-5090-32gb/3547171455-225-4029
-10391.0 | alternate.at (neu) | ASUS GeForce RTX 5090 ROG ASTRAL LC GAMING OC, Grafikkarte | https://www.alternate.at/ASUS/GeForce-RTX-5090-ROG-ASTRAL-LC-GAMING-OC-Grafikkarte/html/product/100110137
+None | kleinanzeigen | MSI MPG Infinite X3 AI | RTX 5090 | 64GB RAM | Ultra 9 | https://www.kleinanzeigen.de/s-anzeige/msi-mpg-infinite-x3-ai-rtx-5090-64gb-ram-ultra-9/3547033961-228-1896
+7499.0 | kleinanzeigen | ASUS TUF RTX 5090 32GB GDDR7 Originalrechnung | Garantie | OVP | https://www.kleinanzeigen.de/s-anzeige/asus-tuf-rtx-5090-32gb-gddr7-originalrechnung-garantie-ovp/3546924602-225-38
+4499.0 | kleinanzeigen | NVIDIA Gigabyte RTX 5090D V2 24G Gaming OC NEU+OVP | https://www.kleinanzeigen.de/s-anzeige/nvidia-gigabyte-rtx-5090d-v2-24g-gaming-oc-neu-ovp/3546910034-225-983
 9990.0 | alternate.at (neu) | GIGABYTE GeForce RTX 5090 AORUS XTREME WATERFORCE 32G, Grafikkarte | https://www.alternate.at/GIGABYTE/GeForce-RTX-5090-AORUS-XTREME-WATERFORCE-32G-Grafikkarte/html/product/100108927
-9914.0 | alternate.at (neu) | GIGABYTE GeForce RTX 5090 AORUS INFINITY 32G, Grafikkarte | https://www.alternate.at/GIGABYTE/GeForce-RTX-5090-AORUS-INFINITY-32G-Grafikkarte/html/product/100210277
-10245.0 | alternate.at (neu) | ASUS GeForce RTX 5090 ROG ASTRAL GAMING OC, Grafikkarte | https://www.alternate.at/ASUS/GeForce-RTX-5090-ROG-ASTRAL-GAMING-OC-Grafikkarte/html/product/100110139
+8948.0 | alternate.at (neu) | Gainward GeForce RTX 5090 Phantom GS, Grafikkarte | https://www.alternate.at/Gainward/GeForce-RTX-5090-Phantom-GS-Grafikkarte/html/product/100111688
+10391.0 | alternate.at (neu) | ASUS GeForce RTX 5090 ROG ASTRAL LC GAMING OC, Grafikkarte | https://www.alternate.at/ASUS/GeForce-RTX-5090-ROG-ASTRAL-LC-GAMING-OC-Grafikkarte/html/product/100110137
 8695.0 | alternate.at (neu) | Gainward GeForce RTX 5090 Phantom, Grafikkarte | https://www.alternate.at/Gainward/GeForce-RTX-5090-Phantom-Grafikkarte/html/product/100109795
 10079.0 | alternate.at (neu) | ASUS GeForce RTX 5090 TUF GAMING OC, Grafikkarte | https://www.alternate.at/ASUS/GeForce-RTX-5090-TUF-GAMING-OC-Grafikkarte/html/product/100110147
-8948.0 | alternate.at (neu) | Gainward GeForce RTX 5090 Phantom GS, Grafikkarte | https://www.alternate.at/Gainward/GeForce-RTX-5090-Phantom-GS-Grafikkarte/html/product/100111688
+9914.0 | alternate.at (neu) | GIGABYTE GeForce RTX 5090 AORUS INFINITY 32G, Grafikkarte | https://www.alternate.at/GIGABYTE/GeForce-RTX-5090-AORUS-INFINITY-32G-Grafikkarte/html/product/100210277
+10245.0 | alternate.at (neu) | ASUS GeForce RTX 5090 ROG ASTRAL GAMING OC, Grafikkarte | https://www.alternate.at/ASUS/GeForce-RTX-5090-ROG-ASTRAL-GAMING-OC-Grafikkarte/html/product/100110139
 8318.0 | alternate.at (neu) | MSI GeForce RTX 5090 32G SUPRIM SOC, Grafikkarte | https://www.alternate.at/MSI/GeForce-RTX-5090-32G-SUPRIM-SOC-Grafikkarte/html/product/100109563
 9837.0 | alternate.at (neu) | GIGABYTE GeForce RTX 5090 WINDFORCE OC 32G, Grafikkarte | https://www.alternate.at/GIGABYTE/GeForce-RTX-5090-WINDFORCE-OC-32G-Grafikkarte/html/product/100108938
 9883.0 | alternate.at (neu) | GIGABYTE GeForce RTX 5090 GAMING OC 32G, Grafikkarte | https://www.alternate.at/GIGABYTE/GeForce-RTX-5090-GAMING-OC-32G-Grafikkarte/html/product/100108936
 10084.0 | alternate.at (neu) | ASUS GeForce RTX 5090 ROG ASTRAL Edition 20, Grafikkarte | https://www.alternate.at/ASUS/GeForce-RTX-5090-ROG-ASTRAL-Edition-20-Grafikkarte/html/product/100208148
 9990.0 | alternate.at (neu) | GIGABYTE GeForce RTX 5090 AORUS MASTER ICE 32G, Grafikkarte | https://www.alternate.at/GIGABYTE/GeForce-RTX-5090-AORUS-MASTER-ICE-32G-Grafikkarte/html/product/100108931
+7430.0 | alternate.at (neu) | INNO3D GeForce RTX 5090 ICHILL Frostbite, Grafikkarte | https://www.alternate.at/INNO3D/GeForce-RTX-5090-ICHILL-Frostbite-Grafikkarte/html/product/100109383
+7392.0 | alternate.at (neu) | ASUS GeForce RTX 5090 ROG ASTRAL GAMING OC BTF, Grafikkarte | https://www.alternate.at/ASUS/GeForce-RTX-5090-ROG-ASTRAL-GAMING-OC-BTF-Grafikkarte/html/product/100145357
 8753.0 | alternate.at (neu) | INNO3D GeForce RTX 5090 ICHILL FROSTBITE PRO, Grafikkarte | https://www.alternate.at/INNO3D/GeForce-RTX-5090-ICHILL-FROSTBITE-PRO-Grafikkarte/html/product/100160943
 10287.0 | alternate.at (neu) | ASUS GeForce RTX 5090 ROG ASTRAL GAMING OC WHITE Edition, Grafikkarte | https://www.alternate.at/ASUS/GeForce-RTX-5090-ROG-ASTRAL-GAMING-OC-WHITE-Edition-Grafikkarte/html/product/100136039
-7392.0 | alternate.at (neu) | ASUS GeForce RTX 5090 ROG ASTRAL GAMING OC BTF, Grafikkarte | https://www.alternate.at/ASUS/GeForce-RTX-5090-ROG-ASTRAL-GAMING-OC-BTF-Grafikkarte/html/product/100145357
-7994.0 | alternate.at (neu) | ASUS GeForce RTX 5090 PROART OC, Grafikkarte | https://www.alternate.at/ASUS/GeForce-RTX-5090-PROART-OC-Grafikkarte/html/product/100201605
 7520.0 | alternate.at (neu) | INNO3D GeForce RTX 5090 X3 OC, Grafikkarte | https://www.alternate.at/INNO3D/GeForce-RTX-5090-X3-OC-Grafikkarte/html/product/100121077
+7994.0 | alternate.at (neu) | ASUS GeForce RTX 5090 PROART OC, Grafikkarte | https://www.alternate.at/ASUS/GeForce-RTX-5090-PROART-OC-Grafikkarte/html/product/100201605
 8128.0 | alternate.at (neu) | INNO3D GeForce RTX 5090 ICHILL X3, Grafikkarte | https://www.alternate.at/INNO3D/GeForce-RTX-5090-ICHILL-X3-Grafikkarte/html/product/100109385
-7430.0 | alternate.at (neu) | INNO3D GeForce RTX 5090 ICHILL Frostbite, Grafikkarte | https://www.alternate.at/INNO3D/GeForce-RTX-5090-ICHILL-Frostbite-Grafikkarte/html/product/100109383
 8916.0 | alternate.at (neu) | INNO3D GeForce RTX 5090 X3, Grafikkarte | https://www.alternate.at/INNO3D/GeForce-RTX-5090-X3-Grafikkarte/html/product/100109380
 8753.0 | alternate.at (neu) | ZOTAC GeForce RTX 5090 ARCTICSTORM AIO, Grafikkarte | https://www.alternate.at/ZOTAC/GeForce-RTX-5090-ARCTICSTORM-AIO-Grafikkarte/html/product/100146140
 6324.0 | alternate.at (neu) | ASUS GeForce RTX 5090 ROG ASTRAL LC GAMING, Grafikkarte | https://www.alternate.at/ASUS/GeForce-RTX-5090-ROG-ASTRAL-LC-GAMING-Grafikkarte/html/product/100113293
-7324.0 | alternate.at (neu) | MSI GeForce RTX 5090 32G VENTUS 3X OC, Grafikkarte | https://www.alternate.at/MSI/GeForce-RTX-5090-32G-VENTUS-3X-OC-Grafikkarte/html/product/100109567
-5739.0 | alternate.at (neu) | ASUS GeForce RTX 5090 ROG ASTRAL GAMING BTF, Grafikkarte | https://www.alternate.at/ASUS/GeForce-RTX-5090-ROG-ASTRAL-GAMING-BTF-Grafikkarte/html/product/100147574
 8416.0 | alternate.at (neu) | Palit GeForce RTX 5090 GameRock OC, Grafikkarte | https://www.alternate.at/Palit/GeForce-RTX-5090-GameRock-OC-Grafikkarte/html/product/100111691
+5739.0 | alternate.at (neu) | ASUS GeForce RTX 5090 ROG ASTRAL GAMING BTF, Grafikkarte | https://www.alternate.at/ASUS/GeForce-RTX-5090-ROG-ASTRAL-GAMING-BTF-Grafikkarte/html/product/100147574
 8753.0 | alternate.at (neu) | ZOTAC GeForce RTX 5090 SOLID OC White Edition, Grafikkarte | https://www.alternate.at/ZOTAC/GeForce-RTX-5090-SOLID-OC-White-Edition-Grafikkarte/html/product/100119361
 5253.0 | alternate.at (neu) | schwarz, Intel® Core™ Ultra 9 386H, NVIDIA GeForce RTX 5090, 32 GB LPDDR5X, 2 TB | https://www.alternate.at/Razer/Blade-16-RZ09-05819GN4-R3G1-Gaming-Notebook/html/product/100200730
 6059.0 | alternate.at (neu) | schwarz, Intel® Core™ Ultra 9 386H, NVIDIA GeForce RTX 5090, 64 GB LPDDR5X, 2 TB | https://www.alternate.at/Razer/Blade-16-RZ09-05819GN9-R3G1-Gaming-Notebook/html/product/100200731
+7324.0 | alternate.at (neu) | MSI GeForce RTX 5090 32G VENTUS 3X OC, Grafikkarte | https://www.alternate.at/MSI/GeForce-RTX-5090-32G-VENTUS-3X-OC-Grafikkarte/html/product/100109567
 7337.0 | alternate.at (neu) | MSI GeForce RTX 5090 32G GAMING TRIO OC, Grafikkarte | https://www.alternate.at/MSI/GeForce-RTX-5090-32G-GAMING-TRIO-OC-Grafikkarte/html/product/100109565
 9990.0 | alternate.at (neu) | GIGABYTE GeForce RTX 5090 AORUS MASTER 32G, Grafikkarte | https://www.alternate.at/GIGABYTE/GeForce-RTX-5090-AORUS-MASTER-32G-Grafikkarte/html/product/100108932
 9968.0 | alternate.at (neu) | GIGABYTE GeForce RTX 5090 AORUS XTREME WATERFORCE WB 32G, Grafikkarte | https://www.alternate.at/GIGABYTE/GeForce-RTX-5090-AORUS-XTREME-WATERFORCE-WB-32G-Grafikkarte/html/product/100108929
 8753.0 | alternate.at (neu) | ZOTAC GeForce RTX 5090 SOLID OC, Grafikkarte | https://www.alternate.at/ZOTAC/GeForce-RTX-5090-SOLID-OC-Grafikkarte/html/product/100110079
-8753.0 | alternate.at (neu) | ZOTAC GeForce RTX 5090 AMP Extreme INFINITY, Grafikkarte | https://www.alternate.at/ZOTAC/GeForce-RTX-5090-AMP-Extreme-INFINITY-Grafikkarte/html/product/100110080
 5704.0 | alternate.at (neu) | ASUS GeForce RTX 5090 ROG ASTRAL GAMING WHITE Edition, Grafikkarte | https://www.alternate.at/ASUS/GeForce-RTX-5090-ROG-ASTRAL-GAMING-WHITE-Edition-Grafikkarte/html/product/100142975
+8753.0 | alternate.at (neu) | ZOTAC GeForce RTX 5090 AMP Extreme INFINITY, Grafikkarte | https://www.alternate.at/ZOTAC/GeForce-RTX-5090-AMP-Extreme-INFINITY-Grafikkarte/html/product/100110080
 8753.0 | alternate.at (neu) | ZOTAC GeForce RTX 5090 SOLID, Grafikkarte | https://www.alternate.at/ZOTAC/GeForce-RTX-5090-SOLID-Grafikkarte/html/product/100110077
 7992.0 | alternate.at (neu) | Palit GeForce RTX 5090 GameRock, Grafikkarte | https://www.alternate.at/Palit/GeForce-RTX-5090-GameRock-Grafikkarte/html/product/100111693
 11074.0 | alternate.at (neu) | Grafik: NVIDIA GeForce RTX 5090 | https://www.alternate.at/ALTERNATE/Custom-Workstation-Apex-AI-PC-System/html/product/100203483
-6287.0 | alternate.at (neu) | ASUS GeForce RTX 5090 TUF GAMING, Grafikkarte | https://www.alternate.at/ASUS/GeForce-RTX-5090-TUF-GAMING-Grafikkarte/html/product/100110148
 7304.0 | alternate.at (neu) | ASUS GeForce RTX 5090 ROG ASTRAL GAMING, Grafikkarte | https://www.alternate.at/ASUS/GeForce-RTX-5090-ROG-ASTRAL-GAMING-Grafikkarte/html/product/100110142
+6287.0 | alternate.at (neu) | ASUS GeForce RTX 5090 TUF GAMING, Grafikkarte | https://www.alternate.at/ASUS/GeForce-RTX-5090-TUF-GAMING-Grafikkarte/html/product/100110148
 6765.0 | alternate.at (neu) | schwarz, Intel® Core™ Ultra 9 386H, NVIDIA GeForce RTX 5090, 64 GB LPDDR5X, 2 TB | https://www.alternate.at/ASUS/Zephyrus-Duo-GX651AX-SR004W-Gaming-Notebook/html/product/100201866
 10068.0 | alternate.at (neu) | GIGABYTE AORUS RTX 5090 AI BOX, Grafikkarte | https://www.alternate.at/GIGABYTE/AORUS-RTX-5090-AI-BOX-Grafikkarte/html/product/100165681
 9999.0 | alternate.de (neu) | ASUS GeForce RTX 5090 ROG ASTRAL Edition 20, Grafikkarte | https://www.alternate.de/ASUS/GeForce-RTX-5090-ROG-ASTRAL-Edition-20-Grafikkarte/html/product/100208148
 10159.0 | alternate.de (neu) | ASUS GeForce RTX 5090 ROG ASTRAL GAMING OC, Grafikkarte | https://www.alternate.de/ASUS/GeForce-RTX-5090-ROG-ASTRAL-GAMING-OC-Grafikkarte/html/product/100110139
 9906.0 | alternate.de (neu) | GIGABYTE GeForce RTX 5090 AORUS XTREME WATERFORCE 32G, Grafikkarte | https://www.alternate.de/GIGABYTE/GeForce-RTX-5090-AORUS-XTREME-WATERFORCE-32G-Grafikkarte/html/product/100108927
 9830.0 | alternate.de (neu) | GIGABYTE GeForce RTX 5090 AORUS INFINITY 32G, Grafikkarte | https://www.alternate.de/GIGABYTE/GeForce-RTX-5090-AORUS-INFINITY-32G-Grafikkarte/html/product/100210277
-9754.0 | alternate.de (neu) | GIGABYTE GeForce RTX 5090 WINDFORCE OC 32G, Grafikkarte | https://www.alternate.de/GIGABYTE/GeForce-RTX-5090-WINDFORCE-OC-32G-Grafikkarte/html/product/100108938
 9994.0 | alternate.de (neu) | ASUS GeForce RTX 5090 TUF GAMING OC, Grafikkarte | https://www.alternate.de/ASUS/GeForce-RTX-5090-TUF-GAMING-OC-Grafikkarte/html/product/100110147
+9754.0 | alternate.de (neu) | GIGABYTE GeForce RTX 5090 WINDFORCE OC 32G, Grafikkarte | https://www.alternate.de/GIGABYTE/GeForce-RTX-5090-WINDFORCE-OC-32G-Grafikkarte/html/product/100108938
 9800.0 | alternate.de (neu) | GIGABYTE GeForce RTX 5090 GAMING OC 32G, Grafikkarte | https://www.alternate.de/GIGABYTE/GeForce-RTX-5090-GAMING-OC-32G-Grafikkarte/html/product/100108936
 10304.0 | alternate.de (neu) | ASUS GeForce RTX 5090 ROG ASTRAL LC GAMING OC, Grafikkarte | https://www.alternate.de/ASUS/GeForce-RTX-5090-ROG-ASTRAL-LC-GAMING-OC-Grafikkarte/html/product/100110137
 8622.0 | alternate.de (neu) | Gainward GeForce RTX 5090 Phantom, Grafikkarte | https://www.alternate.de/Gainward/GeForce-RTX-5090-Phantom-Grafikkarte/html/product/100109795
 8248.0 | alternate.de (neu) | MSI GeForce RTX 5090 32G SUPRIM SOC, Grafikkarte | https://www.alternate.de/MSI/GeForce-RTX-5090-32G-SUPRIM-SOC-Grafikkarte/html/product/100109563
-8873.0 | alternate.de (neu) | Gainward GeForce RTX 5090 Phantom GS, Grafikkarte | https://www.alternate.de/Gainward/GeForce-RTX-5090-Phantom-GS-Grafikkarte/html/product/100111688
+7367.0 | alternate.de (neu) | INNO3D GeForce RTX 5090 ICHILL Frostbite, Grafikkarte | https://www.alternate.de/INNO3D/GeForce-RTX-5090-ICHILL-Frostbite-Grafikkarte/html/product/100109383
 7456.0 | alternate.de (neu) | INNO3D GeForce RTX 5090 X3 OC, Grafikkarte | https://www.alternate.de/INNO3D/GeForce-RTX-5090-X3-OC-Grafikkarte/html/product/100121077
 8679.0 | alternate.de (neu) | INNO3D GeForce RTX 5090 ICHILL FROSTBITE PRO, Grafikkarte | https://www.alternate.de/INNO3D/GeForce-RTX-5090-ICHILL-FROSTBITE-PRO-Grafikkarte/html/product/100160943
 9906.0 | alternate.de (neu) | GIGABYTE GeForce RTX 5090 AORUS MASTER ICE 32G, Grafikkarte | https://www.alternate.de/GIGABYTE/GeForce-RTX-5090-AORUS-MASTER-ICE-32G-Grafikkarte/html/product/100108931
+8873.0 | alternate.de (neu) | Gainward GeForce RTX 5090 Phantom GS, Grafikkarte | https://www.alternate.de/Gainward/GeForce-RTX-5090-Phantom-GS-Grafikkarte/html/product/100111688
 10200.0 | alternate.de (neu) | ASUS GeForce RTX 5090 ROG ASTRAL GAMING OC WHITE Edition, Grafikkarte | https://www.alternate.de/ASUS/GeForce-RTX-5090-ROG-ASTRAL-GAMING-OC-WHITE-Edition-Grafikkarte/html/product/100136039
 7330.0 | alternate.de (neu) | ASUS GeForce RTX 5090 ROG ASTRAL GAMING OC BTF, Grafikkarte | https://www.alternate.de/ASUS/GeForce-RTX-5090-ROG-ASTRAL-GAMING-OC-BTF-Grafikkarte/html/product/100145357
 7275.0 | alternate.de (neu) | MSI GeForce RTX 5090 32G GAMING TRIO OC, Grafikkarte | https://www.alternate.de/MSI/GeForce-RTX-5090-32G-GAMING-TRIO-OC-Grafikkarte/html/product/100109565
 7262.0 | alternate.de (neu) | MSI GeForce RTX 5090 32G VENTUS 3X OC, Grafikkarte | https://www.alternate.de/MSI/GeForce-RTX-5090-32G-VENTUS-3X-OC-Grafikkarte/html/product/100109567
 7926.0 | alternate.de (neu) | ASUS GeForce RTX 5090 PROART OC, Grafikkarte | https://www.alternate.de/ASUS/GeForce-RTX-5090-PROART-OC-Grafikkarte/html/product/100201605
-7367.0 | alternate.de (neu) | INNO3D GeForce RTX 5090 ICHILL Frostbite, Grafikkarte | https://www.alternate.de/INNO3D/GeForce-RTX-5090-ICHILL-Frostbite-Grafikkarte/html/product/100109383
 8841.0 | alternate.de (neu) | INNO3D GeForce RTX 5090 X3, Grafikkarte | https://www.alternate.de/INNO3D/GeForce-RTX-5090-X3-Grafikkarte/html/product/100109380
 8059.0 | alternate.de (neu) | INNO3D GeForce RTX 5090 ICHILL X3, Grafikkarte | https://www.alternate.de/INNO3D/GeForce-RTX-5090-ICHILL-X3-Grafikkarte/html/product/100109385
 9906.0 | alternate.de (neu) | GIGABYTE GeForce RTX 5090 AORUS MASTER 32G, Grafikkarte | https://www.alternate.de/GIGABYTE/GeForce-RTX-5090-AORUS-MASTER-32G-Grafikkarte/html/product/100108932
@@ -131,8 +117,8 @@ None | kleinanzeigen | MIFCOM High-End PC – NVIDIA RTX 5090 MSI Suprim SOC | h
 7925.0 | alternate.de (neu) | Palit GeForce RTX 5090 GameRock, Grafikkarte | https://www.alternate.de/Palit/GeForce-RTX-5090-GameRock-Grafikkarte/html/product/100111693
 10916.0 | alternate.de (neu) | Grafik: NVIDIA GeForce RTX 5090 | https://www.alternate.de/ALTERNATE/Custom-Workstation-Apex-AI-PC-System/html/product/100203483
 6234.0 | alternate.de (neu) | ASUS GeForce RTX 5090 TUF GAMING, Grafikkarte | https://www.alternate.de/ASUS/GeForce-RTX-5090-TUF-GAMING-Grafikkarte/html/product/100110148
-8679.0 | alternate.de (neu) | ZOTAC GeForce RTX 5090 SOLID OC White Edition, Grafikkarte | https://www.alternate.de/ZOTAC/GeForce-RTX-5090-SOLID-OC-White-Edition-Grafikkarte/html/product/100119361
 7242.0 | alternate.de (neu) | ASUS GeForce RTX 5090 ROG ASTRAL GAMING, Grafikkarte | https://www.alternate.de/ASUS/GeForce-RTX-5090-ROG-ASTRAL-GAMING-Grafikkarte/html/product/100110142
+8679.0 | alternate.de (neu) | ZOTAC GeForce RTX 5090 SOLID OC White Edition, Grafikkarte | https://www.alternate.de/ZOTAC/GeForce-RTX-5090-SOLID-OC-White-Edition-Grafikkarte/html/product/100119361
 8679.0 | alternate.de (neu) | ZOTAC GeForce RTX 5090 ARCTICSTORM AIO, Grafikkarte | https://www.alternate.de/ZOTAC/GeForce-RTX-5090-ARCTICSTORM-AIO-Grafikkarte/html/product/100146140
 5656.0 | alternate.de (neu) | ASUS GeForce RTX 5090 ROG ASTRAL GAMING WHITE Edition, Grafikkarte | https://www.alternate.de/ASUS/GeForce-RTX-5090-ROG-ASTRAL-GAMING-WHITE-Edition-Grafikkarte/html/product/100142975
 6270.0 | alternate.de (neu) | ASUS GeForce RTX 5090 ROG ASTRAL LC GAMING, Grafikkarte | https://www.alternate.de/ASUS/GeForce-RTX-5090-ROG-ASTRAL-LC-GAMING-Grafikkarte/html/product/100113293
@@ -166,7 +152,6 @@ ausgeschlossen (Titel) | willhaben | Silverstone DA1650-G, 1650 Watt ATX Netztei
 Preis unplausibel niedrig | willhaben | Cablemod 16Pin auf 16Pin, 12vhpwr | 10.0
 kein Treffer im Titel | willhaben | ASUS ROG Strix GeForce RTX 3090 OC - 24 GB GDDR6X | 1400.0
 ausgeschlossen (Titel) | kleinanzeigen | Gaming Laptop | RTX 5090 | Ultra 9 275HX | 32GB DDR5 | 2TB | 3799.0
-ausgeschlossen (Titel) | kleinanzeigen | Rtx 5090 zotac gaming 32 (defekt) | 650.0
 ausgeschlossen (Titel) | kleinanzeigen | HP HyperX OMEN MAX 16 | RTX 5090 24GB | Ultra 9 | 32GB | 1TB | 3500.0
 ausgeschlossen (Titel) | kleinanzeigen | Razer Blade 16 AI 9 HX 370 RTX 5090 32GB 2TB 240 Hz OLED Gaming | 3200.0
 ausgeschlossen (Titel) | kleinanzeigen | MSI Vector 17 HX AI Gaming-Laptop RTX 5090 – Ultra 9 275HX | 3050.0
@@ -175,9 +160,9 @@ ausgeschlossen (Titel) | alternate.at (neu) | GIGABYTE GeForce RTX 5090 AORUS ST
 ausgeschlossen (Titel) | alternate.at (neu) | schwarz/silber, Intel® Core™ Ultra 9 285HX, NVIDIA GeForce RTX 5090, 64 GB DDR5, | 6765.0
 ausgeschlossen (Titel) | alternate.at (neu) | grau, Intel® Core™ Ultra 9 275HX, NVIDIA GeForce RTX 5090, 32 GB DDR5, 2 TB (1 T | 4139.0
 ausgeschlossen (Titel) | alternate.at (neu) | schwarz, Intel® Core™ Ultra 9 290HX Plus, NVIDIA GeForce RTX 5090, 96 GB DDR5, 4 | 7824.0
+ausgeschlossen (Titel) | alternate.at (neu) | schwarz, Intel® Core™ Ultra 9 290HX Plus, NVIDIA GeForce RTX 5090, 64 GB DDR5, 1 | 6362.0
 ausgeschlossen (Titel) | alternate.at (neu) | Alphacool Core Geforce RTX 5090 Reference, Wasserkühlung | 196.0
 ausgeschlossen (Titel) | alternate.at (neu) | schwarz, Intel® Core™ Ultra 9 290HX Plus, NVIDIA GeForce RTX 5090, 32 GB DDR5, 1 | 5454.0
-ausgeschlossen (Titel) | alternate.at (neu) | schwarz, Intel® Core™ Ultra 9 290HX Plus, NVIDIA GeForce RTX 5090, 64 GB DDR5, 1 | 6362.0
 ausgeschlossen (Titel) | alternate.at (neu) | Alphacool Core Geforce RTX 5090 Solid + AMP, Wasserkühlung | 201.0
 ausgeschlossen (Titel) | alternate.at (neu) | schwarz, AMD Ryzen 9 9955HX, NVIDIA GeForce RTX 5090, 32 GB DDR5, 1 TB (1 TB SSD | 3942.0
 ausgeschlossen (Titel) | alternate.at (neu) | schwarz, Intel® Core™ Ultra 9 290HX Plus, NVIDIA GeForce RTX 5090, 64 GB DDR5, 4 | 6664.0
@@ -193,4 +178,5 @@ ausgeschlossen (Titel) | alternate.at (neu) | schwarz, Intel® Core™ Ultra 9 2
 ausgeschlossen (Titel) | alternate.at (neu) | schwarz, Intel® Core™ Ultra 9 275HX, NVIDIA GeForce RTX 5090, 128 GB DDR5, 1 TB  | 9745.0
 ausgeschlossen (Titel) | alternate.at (neu) | Alphacool ES RTX 6000 Pro WS/RTX 5090 Founders Edition., Wasserkühlung | 505.0
 ausgeschlossen (Titel) | alternate.at (neu) | Intel® Core™ Ultra 9 275HX, NVIDIA GeForce RTX 5090, 64 GB DDR5, 4 TB (2 TB SSD  | 5249.0
-ausgeschlossen (Titel) | alternate.at (neu) | schwarz, Intel® Core™ Ultra 9 290HX Plus, NVIDIA GeForce RTX 5090, 64 GB D
+ausgeschlossen (Titel) | alternate.at (neu) | schwarz, Intel® Core™ Ultra 9 290HX Plus, NVIDIA GeForce RTX 5090, 64 GB DDR5, 2 | 5858.0
+ausgeschlossen (Titel) | alternate.at (neu) | schwarz, Intel® Core™

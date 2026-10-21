@@ -1,24 +1,24 @@
 {
- "generated": "2026-10-21T19:15:47+00:00",
+ "generated": "2026-10-21T22:39:58+00:00",
  "sources": {
   "willhaben": "42 Treffer",
   "kleinanzeigen": "26 Treffer",
   "troostwijk": "0 Treffer",
   "aurena": "0 Treffer",
-  "zoll": "Fehler: TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.zoll-auktion.de/auktion/auktionsuebersicht",
+  "zoll": "0 Treffer",
   "alternate_at": "68 Treffer",
   "alternate_de": "68 Treffer",
   "caseking": "0 Treffer"
  },
- "relevant": 36,
- "used_median": 6099.0,
- "retail_limit": 6403.95,
+ "relevant": 37,
+ "used_median": 6099.5,
+ "retail_limit": 6404.475,
  "retail_total": 82,
  "retail_ok": 8,
- "new": 6,
+ "new": 1,
  "dropped": {
   "kein Treffer im Titel": 10,
-  "ausgeschlossen (Titel)": 65,
+  "ausgeschlossen (Titel)": 64,
   "Preis unplausibel niedrig": 11
  }
 }
