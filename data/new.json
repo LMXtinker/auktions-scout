@@ -1,677 +1,957 @@
 {
- "generated": "2026-10-22T08:34:38+00:00",
- "count": 66,
+ "generated": "2026-10-23T08:30:49+00:00",
+ "count": 89,
  "lots": [
   {
-   "url": "https://www.aurena.at/posten/5470044",
+   "url": "https://www.aurena.at/posten/5439011",
    "site": "aurena",
-   "text": "13 | Flachbildfernseher Samsung UE40B6000VP, 40\" | 1 3 | TAGE | : | 2 2 | STD | Gebote: 0 | € 14\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "text": "1444 | Inhalt Regalebene: LED Zubehör | 1 3 | TAGE | : | 0 6 | STD | Gebote: 0 | € 20\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5478418",
+   "site": "aurena",
+   "text": "2012 | Outdoor LED Wandleuchte Steinel | 1 4 | TAGE | : | 0 1 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5480002",
+   "site": "aurena",
+   "text": "3596 | 4 LED Wandleuchten Eglo | 1 4 | TAGE | : | 0 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5478791",
+   "site": "aurena",
+   "text": "2385 | LED Outdoor-Wandleuchte Eglo Ninnarella | 1 4 | TAGE | : | 0 1 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5478792",
+   "site": "aurena",
+   "text": "2386 | LED Outdoor-Wandleuchte Eglo Ninnarella | 1 4 | TAGE | : | 0 1 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5480008",
+   "site": "aurena",
+   "text": "3602 | 2 LED Outdoor-Wandleuchten Eglo | 1 4 | TAGE | : | 0 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5480009",
+   "site": "aurena",
+   "text": "3603 | 3 LED Outdoor-Wandleuchten Eglo | 1 4 | TAGE | : | 0 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5480097",
+   "site": "aurena",
+   "text": "3691 | LED Outdoor-Wandleuchte Steinel L830 | 1 4 | TAGE | : | 0 3 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5480096",
+   "site": "aurena",
+   "text": "3690 | LED Outdoor-Wandleuchte Steinel L830 | 1 4 | TAGE | : | 0 3 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5480095",
+   "site": "aurena",
+   "text": "3689 | LED Outdoor-Wandleuchte Steinel L830 | 1 4 | TAGE | : | 0 3 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5437889",
+   "site": "aurena",
+   "text": "149 | 13 Paneel-Wandmontagekits | 1 3 | TAGE | : | 0 3 | STD | Gebote: 0 | € 6\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hp-z240-tower-workstation-desktop-A1-50662-1212",
+   "site": "troostwijk/surplex",
+   "text": "HP - Z240 Tower Workstation - Desktop\nStandort: Veldhoven (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.10. 11:07 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/qiagen-ez-1-bio-robot-workstation-%283x%29-A1-50936-266",
+   "site": "troostwijk/surplex",
+   "text": "Qiagen - EZ 1 - Bio Robot Workstation (3x)\nStandort: Eindhoven (NL)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 12.11. 14:32 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/desktop-hp-z240-tower-workstation-A1-50662-1210",
+   "site": "troostwijk/surplex",
+   "text": "Desktop - HP - Z240 Tower Workstation\nStandort: Veldhoven (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.10. 11:03 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/desktop-hp-z240-tower-workstation-A1-50662-1211",
+   "site": "troostwijk/surplex",
+   "text": "Desktop - HP - Z240 Tower Workstation\nStandort: Veldhoven (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.10. 11:05 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/2x-twinform-t-bom-%E2%80%93-elektrischer-akustischer-sitz-stand-trio-workstation-205x110-A1-50761-4",
+   "site": "troostwijk/surplex",
+   "text": "2x TwinForm T-Bom – elektrischer akustischer Sitz-Stand-Trio-Workstation 205x110\nStandort: Oosterhout (NL)\nAktuelles Gebot: 1 EUR · Gebote: 0\nEnde: 09.11. 19:32 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/desktop-hewlett-packard-z440-workstation-A1-50662-1200",
+   "site": "troostwijk/surplex",
+   "text": "Desktop - Hewlett-Packard - Z440 Workstation\nStandort: Veldhoven (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.10. 10:49 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/desktop-hewlett-packard-z440-workstation-A1-50662-1203",
+   "site": "troostwijk/surplex",
+   "text": "Desktop - Hewlett-Packard - Z440 Workstation\nStandort: Veldhoven (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.10. 10:55 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/desktop-hewlett-packard-z440-workstation-A1-50662-1204",
+   "site": "troostwijk/surplex",
+   "text": "Desktop - Hewlett-Packard - Z440 Workstation\nStandort: Veldhoven (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.10. 10:57 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/desktop-hewlett-packard-z440-workstation-A1-50662-1201",
+   "site": "troostwijk/surplex",
+   "text": "Desktop - Hewlett-Packard - Z440 Workstation\nStandort: Veldhoven (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.10. 10:51 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hewlett-packard-z440-workstation-desktop-A1-50662-1202",
+   "site": "troostwijk/surplex",
+   "text": "Hewlett-Packard - Z440 Workstation - Desktop\nStandort: Veldhoven (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.10. 10:53 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/bulo-vitra-%E2%80%93-workstation-200x100-A1-50761-112",
+   "site": "troostwijk/surplex",
+   "text": "BULO/Vitra – Workstation 200x100\nStandort: Boven-Leeuwen (NL)\nAktuelles Gebot: 1 EUR · Gebote: 0\nEnde: 09.11. 20:05 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/optimo-sanyo-beamer-%282x%29-A1-38804-31",
+   "site": "troostwijk/surplex",
+   "text": "Optimo / Sanyo Beamer (2x)\nStandort: Hedel (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 04.11. 19:14 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "Beamer"
    ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
+   "first_seen": "2026-10-23T08:30:49+00:00"
   },
   {
-   "url": "https://www.aurena.at/posten/5470664",
-   "site": "aurena",
-   "text": "637 | Flachbildfernseher Philips 37PFL6606K, 37\" | 1 4 | TAGE | : | 0 0 | STD | Gebote: 0 | € 14\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5440444",
-   "site": "aurena",
-   "text": "640 | Rohrleitungslaser Beam Aligner 5700 | 1 3 | TAGE | : | 0 2 | STD | Gebote: 1 | € 200\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5458035",
-   "site": "aurena",
-   "text": "1790 | LED Wandleuchte Brilo | 0 8 | TAGE | : | 0 0 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5441107",
-   "site": "aurena",
-   "text": "135 | 6 LED Einbaustrahler mit Trafo | 1 1 | TAGE | : | 0 6 | STD | Gebote: 0 | € 12\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5441108",
-   "site": "aurena",
-   "text": "136 | 6 LED Einbaustrahler mit Trafo | 1 1 | TAGE | : | 0 6 | STD | Gebote: 0 | € 12\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5459955",
-   "site": "aurena",
-   "text": "3850 | LED Wandleuchte Eglo Cardillio | 0 8 | TAGE | : | 0 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5459956",
-   "site": "aurena",
-   "text": "3851 | LED Wandleuchte Eglo Cardillio | 0 8 | TAGE | : | 0 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5459957",
-   "site": "aurena",
-   "text": "3852 | LED Wandleuchte Eglo Cardillio | 0 8 | TAGE | : | 0 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5459958",
-   "site": "aurena",
-   "text": "3853 | LED Wandleuchte Eglo Cardillio | 0 8 | TAGE | : | 0 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460902",
-   "site": "aurena",
-   "text": "4867 | LED Outdoor Wandleuchte Steinel | 0 8 | TAGE | : | 0 4 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460172",
-   "site": "aurena",
-   "text": "4067 | LED Outdoor Wandleuchte Eglo | 0 8 | TAGE | : | 0 3 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460173",
-   "site": "aurena",
-   "text": "4068 | LED Outdoor Wandleuchte Eglo | 0 8 | TAGE | : | 0 3 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460174",
-   "site": "aurena",
-   "text": "4069 | LED Outdoor Wandleuchte Eglo | 0 8 | TAGE | : | 0 3 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460183",
-   "site": "aurena",
-   "text": "4078 | LED Outdoor Wandleuchte Eglo | 0 8 | TAGE | : | 0 3 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460901",
-   "site": "aurena",
-   "text": "4866 | LED Outdoor Wandleuchte Steinel | 0 8 | TAGE | : | 0 4 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460903",
-   "site": "aurena",
-   "text": "4868 | LED Outdoor Wandleuchte Steinel | 0 8 | TAGE | : | 0 4 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460904",
-   "site": "aurena",
-   "text": "4869 | LED Outdoor Wandleuchte Steinel | 0 8 | TAGE | : | 0 4 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460899",
-   "site": "aurena",
-   "text": "4864 | LED Outdoor Wandleuchte Steinel | 0 8 | TAGE | : | 0 4 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460900",
-   "site": "aurena",
-   "text": "4865 | LED Outdoor Wandleuchte Steinel | 0 8 | TAGE | : | 0 4 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460898",
-   "site": "aurena",
-   "text": "4863 | LED Outdoor Wandleuchte Steinel | 0 8 | TAGE | : | 0 4 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460171",
-   "site": "aurena",
-   "text": "4066 | 2 LED Outdoor Wandleuchten Eglo | 0 8 | TAGE | : | 0 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460178",
-   "site": "aurena",
-   "text": "4073 | LED Outdoor Wandleuchte Eglo Riga | 0 8 | TAGE | : | 0 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460179",
-   "site": "aurena",
-   "text": "4074 | LED Outdoor Wandleuchte Eglo Riga | 0 8 | TAGE | : | 0 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460180",
-   "site": "aurena",
-   "text": "4075 | LED Outdoor Wandleuchte Eglo Riga | 0 8 | TAGE | : | 0 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460181",
-   "site": "aurena",
-   "text": "4076 | LED Outdoor Wandleuchte Eglo Riga | 0 8 | TAGE | : | 0 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460194",
-   "site": "aurena",
-   "text": "4089 | LED Outdoor Wandleuchte Eglo Vento | 0 8 | TAGE | : | 0 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460195",
-   "site": "aurena",
-   "text": "4090 | LED Outdoor Wandleuchte Eglo Vento | 0 8 | TAGE | : | 0 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460240",
-   "site": "aurena",
-   "text": "4135 | LED Outdoor Wandleuchte Eglo Izzalini | 0 8 | TAGE | : | 0 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460241",
-   "site": "aurena",
-   "text": "4136 | LED Outdoor Wandleuchte Eglo Izzalini | 0 8 | TAGE | : | 0 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460242",
-   "site": "aurena",
-   "text": "4137 | LED Outdoor Wandleuchte Eglo Izzalini | 0 8 | TAGE | : | 0 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5457760",
-   "site": "aurena",
-   "text": "1515 | LED Neonlichtwand Flector, 5 m | 0 8 | TAGE | : | 0 0 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5457758",
-   "site": "aurena",
-   "text": "1513 | LED Neonlichtwand Flector, 5 m | 0 8 | TAGE | : | 0 0 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5457759",
-   "site": "aurena",
-   "text": "1514 | LED Neonlichtwand Flector, 5 m | 0 8 | TAGE | : | 0 0 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460184",
-   "site": "aurena",
-   "text": "4079 | 2 LED Outdoor Wandleuchten Eglo | 0 8 | TAGE | : | 0 3 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460182",
-   "site": "aurena",
-   "text": "4077 | LED Outdoor Wandleuchte Eglo Riga | 0 8 | TAGE | : | 0 3 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460185",
-   "site": "aurena",
-   "text": "4080 | LED Outdoor Wandleuchte Eglo Cerno 1 | 0 8 | TAGE | : | 0 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460186",
-   "site": "aurena",
-   "text": "4081 | LED Outdoor Wandleuchte Eglo Cerno 1 | 0 8 | TAGE | : | 0 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5460905",
-   "site": "aurena",
-   "text": "4870 | LED Outdoor Wandleuchte Steinel, 2-flammig | 0 8 | TAGE | : | 0 4 | STD | Gebote: 2 | € 2\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/mars-gaming-ms72-gaming-lautsprecher-15-w-A1-50938-254",
+   "url": "https://www.troostwijkauctions.com/de/l/dodge-charger-r-t-plus-max-%7C-5-7-hemi-v8-%7C-375-ps-%7C-2014-%7C-20-zoll-performance-felgen-%7C-sportfederung-%7C-hid-projektorscheinwerfer-%7C-margin-auto-A1-49274-58",
    "site": "troostwijk/surplex",
-   "text": "Mars Gaming MS72, Gaming-Lautsprecher 15 W\nStandort: Peer (BE)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 04.11. 19:49 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/mars-gaming-ms72-gaming-lautsprecher-15-w-A1-50938-73",
-   "site": "troostwijk/surplex",
-   "text": "Mars Gaming MS72, Gaming-Lautsprecher 15 W\nStandort: Peer (BE)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 04.11. 19:05 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/mars-gaming-mpb1000sim-komplett-modulares-atx-netzteil-A1-50938-72",
-   "site": "troostwijk/surplex",
-   "text": "Mars Gaming MPB1000SIM, komplett modulares ATX-Netzteil\nStandort: Peer (BE)\nAktuelles Gebot: 32 EUR · Gebote: 0\nEnde: 04.11. 19:21 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/mars-gaming-msbax-bluetooth-lautsprecher-10w-A1-50938-75",
-   "site": "troostwijk/surplex",
-   "text": "Mars Gaming MSBAX, Bluetooth-Lautsprecher 10W\nStandort: Peer (BE)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 04.11. 19:05 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/msi-claw-8-ai%2B-gaming-handheld-computer-A1-50938-70",
-   "site": "troostwijk/surplex",
-   "text": "MSI Claw 8 AI+ Gaming-Handheld-Computer\nStandort: Peer (BE)\nAktuelles Gebot: 780 EUR · Gebote: 0\nEnde: 04.11. 19:49 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/logitech-g213-prodigy-gaming-tastatur-rgb-lightsync-beleuchtung-A1-50938-68",
-   "site": "troostwijk/surplex",
-   "text": "Logitech G213 Prodigy, Gaming-Tastatur, RGB LIGHTSYNC-Beleuchtung\nStandort: Peer (BE)\nAktuelles Gebot: 25 EUR · Gebote: 0\nEnde: 04.11. 20:31 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/logitech-g-pro-x-gaming-headset-%E2%80%93-schwarz-A1-50938-66",
-   "site": "troostwijk/surplex",
-   "text": "Logitech G PRO X Gaming-Headset – Schwarz.\nStandort: Peer (BE)\nAktuelles Gebot: 47 EUR · Gebote: 0\nEnde: 04.11. 19:59 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/g733-gaming-headset-A1-50938-62",
-   "site": "troostwijk/surplex",
-   "text": "G733 Gaming-Headset \nStandort: Peer (BE)\nAktuelles Gebot: 28 EUR · Gebote: 0\nEnde: 04.11. 19:45 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/asus-rog-kithara-%E2%80%93-gaming-headset-A1-50938-57",
-   "site": "troostwijk/surplex",
-   "text": "ASUS ROG Kithara – Gaming-Headset \nStandort: Peer (BE)\nAktuelles Gebot: 125 EUR · Gebote: 0\nEnde: 04.11. 20:19 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/jbl-quantum-100x-gaming-headset-A1-50938-227",
-   "site": "troostwijk/surplex",
-   "text": "JBL Quantum 100X Gaming-Headset\nStandort: Peer (BE)\nAktuelles Gebot: 15 EUR · Gebote: 0\nEnde: 04.11. 20:01 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/nec-beamer-A1-50945-147",
-   "site": "troostwijk/surplex",
-   "text": "NEC Beamer\nStandort: Wals-Siezenheim (AT)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 03.11. 11:38 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/nomadix-mobile-marketing-projektor-2020-A1-51201-36",
-   "site": "troostwijk/surplex",
-   "text": "NOMADIX MOBILE MARKETING-PROJEKTOR 2020\nStandort: Haut-Rhin (FR)\nAktuelles Gebot: 500 EUR · Gebote: 0\nEnde: 10.11. 15:09 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "Dodge Charger R/T Plus Max | 5.7 HEMI V8 | 375 PS | 2014 | 20-Zoll-Performance-Felgen | Sportfederung | HID-Projektorscheinwerfer | Margin-Auto\nStandort: De Mortel (NL)\nAktuelles Gebot: 6000 EUR · Gebote: 0\nEnde: 02.11. 19:43 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "Projektor"
    ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
+   "first_seen": "2026-10-23T08:30:49+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/nomadix-mobile-marketing-projektor-2020-A1-51201-37",
+   "url": "https://www.troostwijkauctions.com/de/l/horoz-elektrische-led-projektorlampe-%2814x%29-A1-51058-103",
    "site": "troostwijk/surplex",
-   "text": "NOMADIX MOBILE MARKETING-PROJEKTOR 2020\nStandort: Haut-Rhin (FR)\nAktuelles Gebot: 500 EUR · Gebote: 0\nEnde: 10.11. 15:33 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "Horoz elektrische LED-Projektorlampe (14x)\nStandort: Lummen (BE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 12.11. 14:33 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "Projektor"
    ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
+   "first_seen": "2026-10-23T08:30:49+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/uv-3d-druckerprojektoren-%282x%29-A1-51157-21",
+   "url": "https://www.troostwijkauctions.com/de/l/%2820x%29-7-5w-led-wandlampendesign-und-schwarz-warmwei%C3%9F-A1-50147-217",
    "site": "troostwijk/surplex",
-   "text": "UV-3D-Druckerprojektoren (2x)\nStandort: Cote d'or (FR)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 17.11. 15:42 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/oberheadprojektoren-%282x%29-A1-50945-89",
-   "site": "troostwijk/surplex",
-   "text": "Oberheadprojektoren (2x)\nStandort: Wals-Siezenheim (AT)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 03.11. 12:29 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/led-weihnachtsbaume-%283x%29-A1-51201-108",
-   "site": "troostwijk/surplex",
-   "text": "LED-Weihnachtsbäume (3x)\nStandort: Haut-Rhin (FR)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 10.11. 15:37 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "(20x) 7,5W LED-Wandlampendesign und schwarz warmweiß\nStandort: Puurs (BE)\nAktuelles Gebot: 585 EUR · Gebote: 0\nEnde: 03.11. 20:49 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
+   "first_seen": "2026-10-23T08:30:49+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/leavesden-%E2%80%93-wei%C3%9Fe-led-krone-A1-51201-118",
+   "url": "https://www.troostwijkauctions.com/de/l/%288x%29-7-5w-led-wandlampendesign-und-schwarz-warmwei%C3%9F-A1-50147-216",
    "site": "troostwijk/surplex",
-   "text": "Leavesden – Weiße LED-Krone\nStandort: Haut-Rhin (FR)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 10.11. 15:20 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "(8x) 7,5W LED-Wandlampendesign und schwarz warmweiß\nStandort: Puurs (BE)\nAktuelles Gebot: 300 EUR · Gebote: 0\nEnde: 03.11. 20:53 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
+   "first_seen": "2026-10-23T08:30:49+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/%22manhattan%22-beleuchteter-baum-%E2%80%93-kuhler-weisser-led-%22manhattan%22-beleuchteter-baum-%E2%80%93-4-2-m-A1-51201-113",
+   "url": "https://www.troostwijkauctions.com/de/l/%2812x%29-40w-3-color-cct-60*60-einbauleuchtende-led-panels-philips-driver-wei%C3%9F-A1-50147-11",
    "site": "troostwijk/surplex",
-   "text": "\"MANHATTAN\" BELEUCHTETER BAUM – KÜHLER WEISSER LED \"Manhattan\" beleuchteter Baum – 4,2 m\nStandort: Haut-Rhin (FR)\nAktuelles Gebot: 500 EUR · Gebote: 0\nEnde: 10.11. 15:45 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "(12x) 40W 3 Color CCT 60*60 Einbauleuchtende LED-Panels Philips Driver weiß\nStandort: Puurs (BE)\nAktuelles Gebot: 155 EUR · Gebote: 0\nEnde: 03.11. 19:09 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
+   "first_seen": "2026-10-23T08:30:49+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/%22manhattan%22-beleuchteter-baum-%E2%80%93-kuhler-weisser-led-%22manhattan%22-beleuchteter-baum-%E2%80%93-2-3-m-A1-51201-112",
+   "url": "https://www.troostwijkauctions.com/de/l/%281x%29-orien-design-pendellampe-sand-schwarz-und-gold-20cm-40cm-60cm-80cm-100cm-5-ring-160w-led-cct-3-farbe-A1-50147-1",
    "site": "troostwijk/surplex",
-   "text": "\"MANHATTAN\" BELEUCHTETER BAUM – KÜHLER WEISSER LED \"Manhattan\" beleuchteter Baum – 2,3 m\nStandort: Haut-Rhin (FR)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 10.11. 15:35 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "(1x) Orien Design Pendellampe Sand Schwarz und Gold 20cm&40cm&60cm&80cm&100cm 5 Ring 160W LED CCT 3 Farbe\nStandort: Puurs (BE)\nAktuelles Gebot: 200 EUR · Gebote: 0\nEnde: 03.11. 19:01 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
+   "first_seen": "2026-10-23T08:30:49+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/led-dekoration-weihnachts-stehlampe-%282x%29-A1-51201-43",
+   "url": "https://www.troostwijkauctions.com/de/l/%281x%29-auren-design-pendellampe-schwarz-und-gold-42cm-62cm-82cm-trio-ring-160w-led-cct-3-farbe-A1-50147-42",
    "site": "troostwijk/surplex",
-   "text": "LED-Dekoration Weihnachts-Stehlampe (2x)\nStandort: Haut-Rhin (FR)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 10.11. 15:50 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "(1x) Auren Design Pendellampe Schwarz und Gold 42cm&62cm&82cm Trio Ring 160W LED CCT 3 Farbe\nStandort: Puurs (BE)\nAktuelles Gebot: 190 EUR · Gebote: 0\nEnde: 03.11. 19:23 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
+   "first_seen": "2026-10-23T08:30:49+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/philips-2017-led-beleuchtung-%28100x%29-A1-38982-18",
+   "url": "https://www.troostwijkauctions.com/de/l/%282x%29-alura-linear-pendellampe-sandschwarz-100cm-100cm-duo-line-40w-led-cct-3-color-3-step-dimming-A1-50147-19",
    "site": "troostwijk/surplex",
-   "text": "Philips 2017 LED-Beleuchtung (100x)\nStandort: De Lier (NL)\nAktuelles Gebot: 1000 EUR · Gebote: 0\nEnde: 04.11. 19:23 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "(2x) Alura Linear Pendellampe Sandschwarz 100cm&100cm Duo Line 40W LED CCT 3 Color & 3 Step Dimming\nStandort: Puurs (BE)\nAktuelles Gebot: 150 EUR · Gebote: 0\nEnde: 03.11. 19:13 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
+   "first_seen": "2026-10-23T08:30:49+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/philips-2017-led-beleuchtung-%28100x%29-A1-38982-19",
+   "url": "https://www.troostwijkauctions.com/de/l/%282x%29-orien-design-hangelampe-sand-schwarz-20cm-40cm-60cm-80cm-100cm-5-ring-160w-led-cct-3-farbe-A1-50147-23",
    "site": "troostwijk/surplex",
-   "text": "Philips 2017 LED-Beleuchtung (100x)\nStandort: De Lier (NL)\nAktuelles Gebot: 1000 EUR · Gebote: 0\nEnde: 04.11. 20:49 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "(2x) Orien Design Hängelampe Sand Schwarz 20cm&40cm&60cm&80cm&100cm 5 Ring 160W LED CCT 3 Farbe\nStandort: Puurs (BE)\nAktuelles Gebot: 400 EUR · Gebote: 0\nEnde: 03.11. 19:15 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
+   "first_seen": "2026-10-23T08:30:49+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/led-dekoration-weihnachts-stehlampe-%282x%29-A1-51201-42",
+   "url": "https://www.troostwijkauctions.com/de/l/%282x%29-alura-linear-pendellampe-sandschwarz-100cm-100cm-duo-line-40w-led-cct-3-color-3-step-dimming-A1-50147-20",
    "site": "troostwijk/surplex",
-   "text": "LED-Dekoration Weihnachts-Stehlampe (2x)\nStandort: Haut-Rhin (FR)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 10.11. 15:11 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "(2x) Alura Linear Pendellampe Sandschwarz 100cm&100cm Duo Line 40W LED CCT 3 Color & 3 Step Dimming\nStandort: Puurs (BE)\nAktuelles Gebot: 150 EUR · Gebote: 0\nEnde: 03.11. 19:15 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
+   "first_seen": "2026-10-23T08:30:49+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/led-dekoration-weihnachts-stehlampe-%282x%29-A1-51201-41",
+   "url": "https://www.troostwijkauctions.com/de/l/%282x%29-arcao-design-fu%C3%9Flampe-schwarz-35cm-22w-led-cct-3-farbig-dimmbar-A1-50147-12",
    "site": "troostwijk/surplex",
-   "text": "LED-Dekoration Weihnachts-Stehlampe (2x)\nStandort: Haut-Rhin (FR)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 10.11. 15:21 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "(2x) Arcao Design Fußlampe Schwarz 35cm 22W LED CCT 3-farbig dimmbar\nStandort: Puurs (BE)\nAktuelles Gebot: 200 EUR · Gebote: 0\nEnde: 03.11. 19:11 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
+   "first_seen": "2026-10-23T08:30:49+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/philips-2017-led-beleuchtung-%2850x%29-A1-38982-20",
+   "url": "https://www.troostwijkauctions.com/de/l/%281x%29-edera-design-pendellampe-sandschwarz-110cm-40w-led-cct-3-farben-3-stufen-dimmen-A1-50147-21",
    "site": "troostwijk/surplex",
-   "text": "Philips 2017 LED-Beleuchtung (50x)\nStandort: De Lier (NL)\nAktuelles Gebot: 500 EUR · Gebote: 0\nEnde: 04.11. 20:13 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "(1x) Edera Design Pendellampe Sandschwarz 110cm 40W LED CCT 3 Farben & 3 Stufen Dimmen\nStandort: Puurs (BE)\nAktuelles Gebot: 78 EUR · Gebote: 0\nEnde: 03.11. 19:11 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "LED Wand",
     "LED Wall"
    ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
+   "first_seen": "2026-10-23T08:30:49+00:00"
   },
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_mobiles_Whiteboard_mit_interaktiven_Kurzdistanzbeamer_EPSON_EB585Wi/986285",
+   "url": "https://www.troostwijkauctions.com/de/l/7w-led-wei%C3%9Fe-wandlampe-cube-duo-verstellbare-wasserdichte-%2810x%29-A1-50147-153",
+   "site": "troostwijk/surplex",
+   "text": "7W LED weiße Wandlampe Cube Duo verstellbare Wasserdichte (10x)\nStandort: Puurs (BE)\nAktuelles Gebot: 92 EUR · Gebote: 0\nEnde: 03.11. 20:17 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%281x%29-duora-design-pendellampe-schwarz-60cm-40w-led-cct-3-farben-3-stufen-dimmen-A1-50147-33",
+   "site": "troostwijk/surplex",
+   "text": "(1x) Duora Design Pendellampe Schwarz 60cm 40W LED CCT 3 Farben & 3 Stufen Dimmen\nStandort: Puurs (BE)\nAktuelles Gebot: 73 EUR · Gebote: 0\nEnde: 03.11. 19:17 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%281x%29-duora-design-hangelampe-sandschwarz-20cm-40cm-60cm-trio-ring-60w-led-cct-3-farben-3-stufen-dimmen-A1-50147-36",
+   "site": "troostwijk/surplex",
+   "text": "(1x) Duora Design Hängelampe Sandschwarz 20cm&40cm&60cm Trio Ring 60W LED CCT 3 Farben & 3 Stufen Dimmen\nStandort: Puurs (BE)\nAktuelles Gebot: 125 EUR · Gebote: 0\nEnde: 03.11. 19:23 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%282x%29-orien-design-hangelampe-sandschwarz-60cm-28w-led-cct-3-farbe-3-stufe-dimming-A1-50147-24",
+   "site": "troostwijk/surplex",
+   "text": "(2x) Orien Design Hängelampe Sandschwarz 60cm 28W LED CCT 3 Farbe & 3 Stufe Dimming\nStandort: Puurs (BE)\nAktuelles Gebot: 110 EUR · Gebote: 0\nEnde: 03.11. 19:17 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%284x%29-auren-design-pendellampe-schwarz-82cm-70w-led-cct-3-farben-3-stufen-dimmen-A1-50147-39",
+   "site": "troostwijk/surplex",
+   "text": "(4x) Auren Design Pendellampe Schwarz 82cm 70W LED CCT 3 Farben & 3 Stufen Dimmen\nStandort: Puurs (BE)\nAktuelles Gebot: 380 EUR · Gebote: 0\nEnde: 03.11. 19:23 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/7w-led-wei%C3%9Fe-wandlampe-cube-duo-einstellbare-wasserdichte-leuchte-%2820x%29-A1-50147-154",
+   "site": "troostwijk/surplex",
+   "text": "7W LED weiße Wandlampe Cube Duo einstellbare wasserdichte Leuchte (20x)\nStandort: Puurs (BE)\nAktuelles Gebot: 180 EUR · Gebote: 0\nEnde: 03.11. 20:19 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%281x%29-auren-design-pendellampe-schwarz-42cm-62cm-82cm-trio-ring-160w-led-cct-3-farbe-A1-50147-40",
+   "site": "troostwijk/surplex",
+   "text": "(1x) Auren Design Pendellampe Schwarz 42cm&62cm&82cm Trio Ring 160W LED CCT 3 Farbe\nStandort: Puurs (BE)\nAktuelles Gebot: 190 EUR · Gebote: 0\nEnde: 03.11. 19:25 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%281x%29-duora-design-pendellampe-sand-schwarz-und-gold-80cm-40cm-duo-ring-60w-led-cct-3-farben-3-stufen-dimmen-A1-50147-38",
+   "site": "troostwijk/surplex",
+   "text": "(1x) Duora Design Pendellampe Sand Schwarz und Gold 80cm & 40cm Duo Ring 60W LED CCT 3 Farben & 3 Stufen Dimmen\nStandort: Puurs (BE)\nAktuelles Gebot: 140 EUR · Gebote: 0\nEnde: 03.11. 19:21 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%281x%29-auren-design-pendellampe-schwarz-42cm-62cm-82cm-trio-ring-160w-led-cct-3-farbe-A1-50147-41",
+   "site": "troostwijk/surplex",
+   "text": "(1x) Auren Design Pendellampe Schwarz 42cm&62cm&82cm Trio Ring 160W LED CCT 3 Farbe\nStandort: Puurs (BE)\nAktuelles Gebot: 190 EUR · Gebote: 0\nEnde: 03.11. 19:21 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%281x%29-orien-design-pendellampe-sand-schwarz-und-gold-80cm-40cm-duo-ring-50w-led-cct-3-farben-3-stufen-dimmen-A1-50147-32",
+   "site": "troostwijk/surplex",
+   "text": "(1x) Orien Design Pendellampe Sand Schwarz und Gold 80cm & 40cm Duo Ring 50W LED CCT 3 Farben & 3 Stufen Dimmen\nStandort: Puurs (BE)\nAktuelles Gebot: 115 EUR · Gebote: 0\nEnde: 03.11. 19:21 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%281x%29-orien-design-hangende-lampe-sandschwarz-80cm-40cm-duo-ring-50w-led-cct-3-farben-3-stufen-dimmen-A1-50147-43",
+   "site": "troostwijk/surplex",
+   "text": "(1x) Orien Design Hängende Lampe Sandschwarz 80cm & 40cm Duo Ring 50W LED CCT 3 Farben & 3 Stufen Dimmen\nStandort: Puurs (BE)\nAktuelles Gebot: 115 EUR · Gebote: 0\nEnde: 03.11. 19:25 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%281x%29-duora-design-pendellampe-schwarz-60cm-40w-led-cct-3-farben-3-stufen-dimmen-A1-50147-34",
+   "site": "troostwijk/surplex",
+   "text": "(1x) Duora Design Pendellampe Schwarz 60cm 40W LED CCT 3 Farben & 3 Stufen Dimmen\nStandort: Puurs (BE)\nAktuelles Gebot: 73 EUR · Gebote: 0\nEnde: 03.11. 19:19 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%281x%29-duora-design-hangelampe-sandschwarz-20cm-40cm-60cm-trio-ring-60w-led-cct-3-farben-3-stufen-dimmen-A1-50147-37",
+   "site": "troostwijk/surplex",
+   "text": "(1x) Duora Design Hängelampe Sandschwarz 20cm&40cm&60cm Trio Ring 60W LED CCT 3 Farben & 3 Stufen Dimmen\nStandort: Puurs (BE)\nAktuelles Gebot: 125 EUR · Gebote: 0\nEnde: 03.11. 19:19 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%284x%29-orien-design-pendellampe-sandschwarz-80cm-40w-led-cct-3-farben-3-stufen-dimmen-A1-50147-27",
+   "site": "troostwijk/surplex",
+   "text": "(4x) Orien Design Pendellampe Sandschwarz 80cm 40W LED CCT 3 Farben & 3 Stufen Dimmen\nStandort: Puurs (BE)\nAktuelles Gebot: 295 EUR · Gebote: 0\nEnde: 03.11. 19:17 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%281x%29-duora-design-hangelampe-sandschwarz-20cm-40cm-60cm-trio-ring-60w-led-cct-3-farben-3-stufen-dimmen-A1-50147-35",
+   "site": "troostwijk/surplex",
+   "text": "(1x) Duora Design Hängelampe Sandschwarz 20cm&40cm&60cm Trio Ring 60W LED CCT 3 Farben & 3 Stufen Dimmen\nStandort: Puurs (BE)\nAktuelles Gebot: 125 EUR · Gebote: 0\nEnde: 03.11. 19:21 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%281x%29-orien-design-pendellampe-sandschwarz-80cm-40w-led-cct-3-farben-3-stufen-dimmen-A1-50147-25",
+   "site": "troostwijk/surplex",
+   "text": "(1x) Orien Design Pendellampe Sandschwarz 80cm 40W LED CCT 3 Farben & 3 Stufen Dimmen\nStandort: Puurs (BE)\nAktuelles Gebot: 78 EUR · Gebote: 0\nEnde: 03.11. 19:13 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%281x%29-auren-design-deckenlampe-schwarz-62cm-50w-led-cct-3-farben-3-stufen-dimmen-A1-50147-8",
+   "site": "troostwijk/surplex",
+   "text": "(1x) Auren Design Deckenlampe Schwarz 62cm 50W LED CCT 3 Farben & 3 Stufen Dimmen\nStandort: Puurs (BE)\nAktuelles Gebot: 78 EUR · Gebote: 0\nEnde: 03.11. 19:09 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%282x%29-edera-design-pendellampe-sandschwarz-110cm-40w-led-cct-3-farben-3-stufen-dimmen-A1-50147-22",
+   "site": "troostwijk/surplex",
+   "text": "(2x) Edera Design Pendellampe Sandschwarz 110cm 40W LED CCT 3 Farben & 3 Stufen Dimmen\nStandort: Puurs (BE)\nAktuelles Gebot: 150 EUR · Gebote: 0\nEnde: 03.11. 19:13 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%281x%29-orien-design-pendellampe-sandschwarz-20cm-40cm-60cm-trio-ring-50w-led-cct-3-farben-3-stufen-dimmen-A1-50147-29",
+   "site": "troostwijk/surplex",
+   "text": "(1x) Orien Design Pendellampe Sandschwarz 20cm&40cm&60cm Trio Ring 50W LED CCT 3 Farben & 3 Stufen Dimmen\nStandort: Puurs (BE)\nAktuelles Gebot: 90 EUR · Gebote: 0\nEnde: 03.11. 19:15 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%281x%29-orien-design-pendellampe-sandschwarz-20cm-40cm-60cm-trio-ring-50w-led-cct-3-farben-3-stufen-dimmen-A1-50147-30",
+   "site": "troostwijk/surplex",
+   "text": "(1x) Orien Design Pendellampe Sandschwarz 20cm&40cm&60cm Trio Ring 50W LED CCT 3 Farben & 3 Stufen Dimmen\nStandort: Puurs (BE)\nAktuelles Gebot: 90 EUR · Gebote: 0\nEnde: 03.11. 19:17 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%281x%29-orien-design-pendellampe-sandschwarz-20cm-40cm-60cm-trio-ring-50w-led-cct-3-farben-3-stufen-dimmen-A1-50147-28",
+   "site": "troostwijk/surplex",
+   "text": "(1x) Orien Design Pendellampe Sandschwarz 20cm&40cm&60cm Trio Ring 50W LED CCT 3 Farben & 3 Stufen Dimmen\nStandort: Puurs (BE)\nAktuelles Gebot: 90 EUR · Gebote: 0\nEnde: 03.11. 19:19 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%2830x%29-10w-3000k-led-tl-rohren-led-60cm-g13-t8-A1-50147-269",
+   "site": "troostwijk/surplex",
+   "text": "(30x) 10W 3000K LED TL Röhren LED 60cm G13 T8\nStandort: Puurs (BE)\nAktuelles Gebot: 195 EUR · Gebote: 0\nEnde: 03.11. 21:15 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%281x%29-orien-design-pendellampe-sand-schwarz-und-gold-20cm-40cm-60cm-trio-ring-50w-led-cct-3-farbe-3-stufe-dimming-A1-50147-31",
+   "site": "troostwijk/surplex",
+   "text": "(1x) Orien Design Pendellampe Sand Schwarz und Gold 20cm&40cm&60cm Trio Ring 50W LED CCT 3 Farbe & 3 Stufe Dimming\nStandort: Puurs (BE)\nAktuelles Gebot: 90 EUR · Gebote: 0\nEnde: 03.11. 19:19 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%281x%29-duora-design-pendellampe-sandschwarz-80cm-50w-led-cct-3-farben-3-stufen-dimmen-A1-50147-44",
+   "site": "troostwijk/surplex",
+   "text": "(1x) Duora Design Pendellampe Sandschwarz 80cm 50W LED CCT 3 Farben & 3 Stufen Dimmen\nStandort: Puurs (BE)\nAktuelles Gebot: 105 EUR · Gebote: 0\nEnde: 03.11. 19:27 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%2812x%29-200w-6500k-pro-led-ufo-highbay-wasserdicht-A1-50147-3",
+   "site": "troostwijk/surplex",
+   "text": "(12x) 200W 6500K PRO LED UFO HIGHBAY Wasserdicht\nStandort: Puurs (BE)\nAktuelles Gebot: 365 EUR · Gebote: 0\nEnde: 03.11. 19:05 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%281x%29-duora-design-pendellampe-sandschwarz-80cm-40cm-duo-ring-60w-led-cct-3-farbe-3-stufe-dimmen-A1-50147-45",
+   "site": "troostwijk/surplex",
+   "text": "(1x) Duora Design Pendellampe Sandschwarz 80cm & 40cm Duo Ring 60W LED CCT 3 Farbe & 3 Stufe Dimmen\nStandort: Puurs (BE)\nAktuelles Gebot: 140 EUR · Gebote: 0\nEnde: 03.11. 19:23 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%282x%29-orien-design-pendellampe-sandschwarz-80cm-40w-led-cct-3-farben-3-stufen-dimmen-A1-50147-26",
+   "site": "troostwijk/surplex",
+   "text": "(2x) Orien Design Pendellampe Sandschwarz 80cm 40W LED CCT 3 Farben & 3 Stufen Dimmen\nStandort: Puurs (BE)\nAktuelles Gebot: 150 EUR · Gebote: 0\nEnde: 03.11. 19:15 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/100w-6500k-pro-led-ufo-highbay-wasserdicht-%2832x%29-A1-50147-184",
+   "site": "troostwijk/surplex",
+   "text": "100W 6500K PRO LED UFO HIGHBAY Wasserdicht (32x)\nStandort: Puurs (BE)\nAktuelles Gebot: 650 EUR · Gebote: 0\nEnde: 03.11. 20:37 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/100w-6500k-pro-led-ufo-highbay-waterproof-%2816x%29-A1-50147-183",
+   "site": "troostwijk/surplex",
+   "text": "100W 6500K PRO LED UFO HIGHBAY Waterproof (16x)\nStandort: Puurs (BE)\nAktuelles Gebot: 335 EUR · Gebote: 0\nEnde: 03.11. 20:35 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/ford-mustang-gt-fastback-%7C-5-0-ti-vct-v8-%7C-460-ps-%7C-2021-%7C-ford-co-pilot360-%7C-navigation-%7C-beheizbare-sitze-%7C-led-scheinwerfer-%7C-mehrwertsteuerwagen-A1-49274-17",
+   "site": "troostwijk/surplex",
+   "text": "Ford Mustang GT Fastback | 5.0 Ti VCT V8 | 460 PS | 2021 | Ford Co Pilot360 | Navigation | Beheizbare Sitze | LED-Scheinwerfer | Mehrwertsteuerwagen\nStandort: De Mortel (NL)\nAktuelles Gebot: 5000 EUR · Gebote: 0\nEnde: 02.11. 19:45 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/2020-philips-44bdl8148l-00-led-display-%2850x%29-A1-50862-1",
+   "site": "troostwijk/surplex",
+   "text": "2020 Philips 44BDL8148L/00 LED-Display (50x)\nStandort: Meerkerk (NL)\nAktuelles Gebot: 2500 EUR · Gebote: 0\nEnde: 05.11. 19:01 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%28100x%29-7w-gu10-led-spot-dimmbar-mit-objektiv-3000k-A1-50147-126",
+   "site": "troostwijk/surplex",
+   "text": "(100x) 7W GU10 LED-Spot-Dimmbar mit Objektiv 3000K\nStandort: Puurs (BE)\nAktuelles Gebot: 105 EUR · Gebote: 0\nEnde: 03.11. 20:05 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/2020-philips-44bdl8148l-00-led-display-%2816x%29-A1-50862-4",
+   "site": "troostwijk/surplex",
+   "text": "2020 Philips 44BDL8148L/00 LED-Display (16x)\nStandort: Meerkerk (NL)\nAktuelles Gebot: 500 EUR · Gebote: 0\nEnde: 05.11. 19:07 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/unicarat-led-hexagon-led-garagenbeleuchtung-9-facher-A1-38804-50",
+   "site": "troostwijk/surplex",
+   "text": "Unicarat - LED-Hexagon-LED-Garagenbeleuchtung, 9 Fächer\nStandort: Hedel (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 04.11. 19:34 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/2020-philips-44bdl8148l-00-led-display-%2831x%29-A1-50862-3",
+   "site": "troostwijk/surplex",
+   "text": "2020 Philips 44BDL8148L/00 LED-Display (31x)\nStandort: Meerkerk (NL)\nAktuelles Gebot: 1000 EUR · Gebote: 0\nEnde: 05.11. 19:13 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/2020-philips-44bdl8139l-00-led-display-%2832x%29-A1-50862-2",
+   "site": "troostwijk/surplex",
+   "text": "2020 Philips 44BDL8139L/00 LED-Display (32x)\nStandort: Meerkerk (NL)\nAktuelles Gebot: 1000 EUR · Gebote: 0\nEnde: 05.11. 19:05 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/2020-philips-44bdl8128l-00-led-display-%2816x%29-A1-50862-5",
+   "site": "troostwijk/surplex",
+   "text": "2020 Philips 44BDL8128L/00 LED-Display (16x)\nStandort: Meerkerk (NL)\nAktuelles Gebot: 1000 EUR · Gebote: 0\nEnde: 05.11. 19:09 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/ford-mustang-coupe-%7C-4-0-v6-210-ps-%7C-2010-%7C-youngtimer-%7C-brillantes-silber-metall-%7C-led-ruckleuchten-%7C-margin-auto-A1-49274-73",
+   "site": "troostwijk/surplex",
+   "text": "Ford Mustang Coupé | 4,0 V6 210 PS | 2010 | Youngtimer | Brillantes Silber Metall | LED-Rückleuchten | Margin-Auto\nStandort: De Mortel (NL)\nAktuelles Gebot: 5000 EUR · Gebote: 0\nEnde: 02.11. 19:17 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%284x%29-15w-led-wandlampe-mit-gebogenem-design-und-schwarz-warmwei%C3%9F-wasserdicht-A1-50147-219",
+   "site": "troostwijk/surplex",
+   "text": "(4x) 15W LED-Wandlampe mit gebogenem Design und schwarz warmweiß wasserdicht\nStandort: Puurs (BE)\nAktuelles Gebot: 34 EUR · Gebote: 0\nEnde: 03.11. 20:53 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%28400x%29-7w-gu10-led-scheinwerfer-mit-objektiv-3000k-A1-50147-112",
+   "site": "troostwijk/surplex",
+   "text": "(400x) 7W GU10 LED-Scheinwerfer mit Objektiv 3000K\nStandort: Puurs (BE)\nAktuelles Gebot: 300 EUR · Gebote: 0\nEnde: 03.11. 20:01 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%28100x%29-7w-gu10-led-spot-dimmable-6000k-A1-50147-128",
+   "site": "troostwijk/surplex",
+   "text": "(100x) 7W GU10 LED Spot-Dimmable 6000K\nStandort: Puurs (BE)\nAktuelles Gebot: 96 EUR · Gebote: 0\nEnde: 03.11. 20:09 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%28100x%29-7w-gu10-led-spotlight-mit-objektiv-4000k-A1-50147-113",
+   "site": "troostwijk/surplex",
+   "text": "(100x) 7W GU10 LED-Spotlight mit Objektiv 4000K\nStandort: Puurs (BE)\nAktuelles Gebot: 77 EUR · Gebote: 0\nEnde: 03.11. 19:57 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%28100x%29-4-9w-gu10-led-spot-dimmable-4000k-A1-50147-127",
+   "site": "troostwijk/surplex",
+   "text": "(100x) 4,9W GU10 LED-Spot-Dimmable 4000K\nStandort: Puurs (BE)\nAktuelles Gebot: 96 EUR · Gebote: 0\nEnde: 03.11. 20:07 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/150w-6500k-pro-led-ufo-highbay-waterproof-%2812x%29-A1-50147-182",
+   "site": "troostwijk/surplex",
+   "text": "150W 6500K PRO LED UFO HIGHBAY Waterproof (12x)\nStandort: Puurs (BE)\nAktuelles Gebot: 310 EUR · Gebote: 0\nEnde: 03.11. 20:33 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/7w-led-schwarze-wandlampe-cube-duo-lampe-verstellbar-wasserdicht-%2820x%29-A1-50147-151",
+   "site": "troostwijk/surplex",
+   "text": "7W LED schwarze Wandlampe Cube Duo Lampe verstellbar wasserdicht (20x)\nStandort: Puurs (BE)\nAktuelles Gebot: 180 EUR · Gebote: 0\nEnde: 03.11. 20:19 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%2832x%29-7w-led-sandschwarze-gartenlampe-60-cm-warmwei%C3%9F-A1-50147-61",
+   "site": "troostwijk/surplex",
+   "text": "(32x) 7W LED sandschwarze Gartenlampe 60 cm warmweiß\nStandort: Puurs (BE)\nAktuelles Gebot: 750 EUR · Gebote: 0\nEnde: 03.11. 19:31 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%28200x%29-4-9w-gu10-led-spot-3000k-A1-50147-116",
+   "site": "troostwijk/surplex",
+   "text": "(200x) 4,9W GU10 LED Spot 3000K\nStandort: Puurs (BE)\nAktuelles Gebot: 125 EUR · Gebote: 0\nEnde: 03.11. 20:03 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%28100x%29-9w-gu10-led-spot-4000k-A1-50147-123",
+   "site": "troostwijk/surplex",
+   "text": "(100x) 9W GU10 LED Spot 4000K\nStandort: Puurs (BE)\nAktuelles Gebot: 125 EUR · Gebote: 0\nEnde: 03.11. 20:05 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%2850x%29-4-9w-gu10-led-spot-on-off-dimming-mit-objektiv-3000k-schwarz-A1-50147-106",
+   "site": "troostwijk/surplex",
+   "text": "(50x) 4,9W GU10 LED Spot On/Off Dimming mit Objektiv 3000K Schwarz\nStandort: Puurs (BE)\nAktuelles Gebot: 49 EUR · Gebote: 0\nEnde: 03.11. 19:55 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/led-streifen-A1-38804-52",
+   "site": "troostwijk/surplex",
+   "text": "LED-Streifen\nStandort: Hedel (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 04.11. 19:33 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/2024-lumaphore-600xl-led-lichtballon-600w-led-mit-gehause-A1-40164-270",
+   "site": "troostwijk/surplex",
+   "text": "2024 Lumaphore 600XL LED-Lichtballon 600W LED mit Gehäuse\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 31.10. 19:23 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Apple_MacBook_Pro_15_Zoll_A1398/986622",
    "site": "zoll-auktion",
-   "text": "1 mobiles Whiteboard mit interaktiven Kurzdistanzbeamer EPSON EB-585Wi\nBeobachtung Auktion 986285 verwalten\nAuktion in Beobachtung nehmen.\n1 mobiles Whiteboard mit interaktiven Kurzdistanzb­eamer EPSON EB-585Wi\n30827 Garbsen\nNur Abholung möglich!\n22 Tage 3 Std. 0 Min.\n0 Gebote\n100,00 EUR",
-   "img_alt": "Ansicht von vorn",
+   "text": "1 Apple MacBook Pro 15 Zoll A1398\nBeobachtung Auktion 986622 verwalten\nAuktion in Beobachtung nehmen.\n1 Apple MacBook Pro 15 Zoll A1398\n55131 Mainz\n6 Tage 6 Std. 28 Min.\n1 Gebot\n50,00 EUR",
+   "img_alt": "Gesamtansicht",
    "keywords": [
-    "Beamer",
-    "Projektor"
+    "Grafikkarte"
    ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
+   "first_seen": "2026-10-23T08:30:49+00:00"
   },
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Volkswagen_Golf_Variant_1_6_TDI_Comfortline/985663",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/10_x_Notebook_Lenovo_ThinkPad_X280_12_531_75_cm_inkl_div_Zubeh%C3%B6r/986904",
    "site": "zoll-auktion",
-   "text": "1 Volkswagen Golf Variant 1,6 TDI Comfortline\nBeobachtung Auktion 985663 verwalten\nAuktion in Beobachtung nehmen.\n1 Volkswagen Golf Variant 1,6 TDI Comfortline\n26382 Wilhelmshaven\nNur Abholung möglich!\n4 Tage 1 Std. 24 Min.\n21 Gebote\n3.050,00 EUR",
-   "img_alt": "Frontansicht links",
+   "text": "10 x Notebook Lenovo ThinkPad X280 (12,5\"/31,75 cm) inkl. div. Zubehör\nBeobachtung Auktion 986904 verwalten\nAuktion in Beobachtung nehmen.\n10 x Notebook Lenovo ThinkPad X280 (12,5\"/31,75 cm) inkl. div. Zubehör\n50825 Köln\nNur Abholung möglich!\n13 Tage 4 Std. 30 Min.\n18 Gebote\n410,00 EUR",
+   "img_alt": "Beispielfoto",
    "keywords": [
-    "LED Wand"
+    "Grafikkarte"
    ],
-   "first_seen": "2026-10-22T08:34:38+00:00"
+   "first_seen": "2026-10-23T08:30:49+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/10_x_Notebook_Lenovo_ThinkPad_X280_12_531_75_cm_inkl_div_Zubeh%C3%B6r/986911",
+   "site": "zoll-auktion",
+   "text": "10 x Notebook Lenovo ThinkPad X280 (12,5\"/31,75 cm) inkl. div. Zubehör\nBeobachtung Auktion 986911 verwalten\nAuktion in Beobachtung nehmen.\n10 x Notebook Lenovo ThinkPad X280 (12,5\"/31,75 cm) inkl. div. Zubehör\n50825 Köln\nNur Abholung möglich!\n13 Tage 5 Std. 1 Min.\n3 Gebote\n719,00 EUR",
+   "img_alt": "Beispielfoto",
+   "keywords": [
+    "Grafikkarte"
+   ],
+   "first_seen": "2026-10-23T08:30:49+00:00"
   }
  ]
 }
