@@ -45,12 +45,12 @@
    "Workstation": {
     "cards": 2,
     "total_reported": 2,
-    "ids_matched": false
+    "ids_matched": true
    },
    "Gaming PC": {
     "cards": 1,
     "total_reported": 1,
-    "ids_matched": false
+    "ids_matched": true
    },
    "Laserprojektor": {
     "cards": 0,
@@ -58,18 +58,18 @@
     "ids_matched": false
    },
    "Beamer": {
-    "cards": 45,
-    "total_reported": 45,
-    "ids_matched": false
+    "cards": 43,
+    "total_reported": 43,
+    "ids_matched": true
    },
    "Projektor": {
-    "cards": 15,
-    "total_reported": 15,
-    "ids_matched": false
+    "cards": 12,
+    "total_reported": 12,
+    "ids_matched": true
    },
    "LED Wand": {
     "cards": 96,
-    "total_reported": 124,
+    "total_reported": 119,
     "ids_matched": true
    },
    "LED Wall": {
@@ -88,8 +88,8 @@
     "ids_matched": false
    },
    "Veranstaltungstechnik": {
-    "cards": 6,
-    "total_reported": 6,
+    "cards": 8,
+    "total_reported": 8,
     "ids_matched": false
    },
    "Lichtpult": {
@@ -103,9 +103,9 @@
     "ids_matched": false
    },
    "Traverse": {
-    "cards": 14,
-    "total_reported": 14,
-    "ids_matched": false
+    "cards": 15,
+    "total_reported": 15,
+    "ids_matched": true
    }
   },
   "errors": [],
@@ -139,16 +139,16 @@
     "cards": 6
    },
    "Workstation": {
-    "cards": 37
+    "cards": 19
    },
    "Gaming PC": {
-    "cards": 105
+    "cards": 106
    },
    "Laserprojektor": {
     "cards": 0
    },
    "Beamer": {
-    "cards": 17
+    "cards": 15
    },
    "Projektor": {
     "cards": 132
@@ -172,7 +172,7 @@
     "cards": 0
    },
    "Moving Head": {
-    "cards": 33
+    "cards": 34
    },
    "Traverse": {
     "cards": 8
@@ -295,30 +295,114 @@
  },
  {
   "site": "justiz-auktion",
-  "keywords": {},
-  "errors": [
-   "RTX 4090: TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.justiz-auktion.de/\", waiting until \"domcontentloaded\"\n",
-   "RTX 4080: TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.justiz-auktion.de/\", waiting until \"domcontentloaded\"\n",
-   "RTX 4070: Error: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.justiz-auktion.de/\nCall log:\n  - navigating to \"https://www.justiz-auktion.de/\", waiting until \"domcontentloaded\"\n",
-   "RTX 5090: Error: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.justiz-auktion.de/\nCall log:\n  - navigating to \"https://www.justiz-auktion.de/\", waiting until \"domcontentloaded\"\n",
-   "RTX 5080: Error: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.justiz-auktion.de/\nCall log:\n  - navigating to \"https://www.justiz-auktion.de/\", waiting until \"domcontentloaded\"\n",
-   "RTX 5070: Error: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.justiz-auktion.de/\nCall log:\n  - navigating to \"https://www.justiz-auktion.de/\", waiting until \"domcontentloaded\"\n",
-   "RTX A6000: Error: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.justiz-auktion.de/\nCall log:\n  - navigating to \"https://www.justiz-auktion.de/\", waiting until \"domcontentloaded\"\n",
-   "Grafikkarte: Error: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.justiz-auktion.de/\nCall log:\n  - navigating to \"https://www.justiz-auktion.de/\", waiting until \"domcontentloaded\"\n",
-   "Workstation: Error: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.justiz-auktion.de/\nCall log:\n  - navigating to \"https://www.justiz-auktion.de/\", waiting until \"domcontentloaded\"\n",
-   "Gaming PC: Error: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.justiz-auktion.de/\nCall log:\n  - navigating to \"https://www.justiz-auktion.de/\", waiting until \"domcontentloaded\"\n",
-   "Laserprojektor: Error: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.justiz-auktion.de/\nCall log:\n  - navigating to \"https://www.justiz-auktion.de/\", waiting until \"domcontentloaded\"\n",
-   "Beamer: Error: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.justiz-auktion.de/\nCall log:\n  - navigating to \"https://www.justiz-auktion.de/\", waiting until \"domcontentloaded\"\n",
-   "Projektor: Error: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.justiz-auktion.de/\nCall log:\n  - navigating to \"https://www.justiz-auktion.de/\", waiting until \"domcontentloaded\"\n",
-   "LED Wand: Error: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.justiz-auktion.de/\nCall log:\n  - navigating to \"https://www.justiz-auktion.de/\", waiting until \"domcontentloaded\"\n",
-   "LED Wall: Error: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.justiz-auktion.de/\nCall log:\n  - navigating to \"https://www.justiz-auktion.de/\", waiting until \"domcontentloaded\"\n",
-   "Blackmagic: Error: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.justiz-auktion.de/\nCall log:\n  - navigating to \"https://www.justiz-auktion.de/\", waiting until \"domcontentloaded\"\n",
-   "Medienserver: Error: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.justiz-auktion.de/\nCall log:\n  - navigating to \"https://www.justiz-auktion.de/\", waiting until \"domcontentloaded\"\n",
-   "Veranstaltungstechnik: Error: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.justiz-auktion.de/\nCall log:\n  - navigating to \"https://www.justiz-auktion.de/\", waiting until \"domcontentloaded\"\n",
-   "Lichtpult: Error: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.justiz-auktion.de/\nCall log:\n  - navigating to \"https://www.justiz-auktion.de/\", waiting until \"domcontentloaded\"\n",
-   "Moving Head: Error: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.justiz-auktion.de/\nCall log:\n  - navigating to \"https://www.justiz-auktion.de/\", waiting until \"domcontentloaded\"\n",
-   "Traverse: Error: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.justiz-auktion.de/\nCall log:\n  - navigating to \"https://www.justiz-auktion.de/\", waiting until \"domcontentloaded\"\n"
-  ],
+  "keywords": {
+   "RTX 4090": {
+    "form_ok": true,
+    "final_url": "https://www.justiz-auktion.de/suche",
+    "cards": 0
+   },
+   "RTX 4080": {
+    "form_ok": true,
+    "final_url": "https://www.justiz-auktion.de/suche",
+    "cards": 0
+   },
+   "RTX 4070": {
+    "form_ok": true,
+    "final_url": "https://www.justiz-auktion.de/suche",
+    "cards": 0
+   },
+   "RTX 5090": {
+    "form_ok": true,
+    "final_url": "https://www.justiz-auktion.de/suche",
+    "cards": 0
+   },
+   "RTX 5080": {
+    "form_ok": true,
+    "final_url": "https://www.justiz-auktion.de/suche",
+    "cards": 0
+   },
+   "RTX 5070": {
+    "form_ok": true,
+    "final_url": "https://www.justiz-auktion.de/suche",
+    "cards": 0
+   },
+   "RTX A6000": {
+    "form_ok": true,
+    "final_url": "https://www.justiz-auktion.de/suche",
+    "cards": 0
+   },
+   "Grafikkarte": {
+    "form_ok": true,
+    "final_url": "https://www.justiz-auktion.de/suche",
+    "cards": 0
+   },
+   "Workstation": {
+    "form_ok": true,
+    "final_url": "https://www.justiz-auktion.de/suche",
+    "cards": 0
+   },
+   "Gaming PC": {
+    "form_ok": true,
+    "final_url": "https://www.justiz-auktion.de/suche",
+    "cards": 0
+   },
+   "Laserprojektor": {
+    "form_ok": true,
+    "final_url": "https://www.justiz-auktion.de/suche",
+    "cards": 0
+   },
+   "Beamer": {
+    "form_ok": true,
+    "final_url": "https://www.justiz-auktion.de/suche",
+    "cards": 0
+   },
+   "Projektor": {
+    "form_ok": true,
+    "final_url": "https://www.justiz-auktion.de/suche",
+    "cards": 0
+   },
+   "LED Wand": {
+    "form_ok": true,
+    "final_url": "https://www.justiz-auktion.de/suche",
+    "cards": 0
+   },
+   "LED Wall": {
+    "form_ok": true,
+    "final_url": "https://www.justiz-auktion.de/suche",
+    "cards": 0
+   },
+   "Blackmagic": {
+    "form_ok": true,
+    "final_url": "https://www.justiz-auktion.de/suche",
+    "cards": 0
+   },
+   "Medienserver": {
+    "form_ok": true,
+    "final_url": "https://www.justiz-auktion.de/suche",
+    "cards": 0
+   },
+   "Veranstaltungstechnik": {
+    "form_ok": true,
+    "final_url": "https://www.justiz-auktion.de/suche",
+    "cards": 0
+   },
+   "Lichtpult": {
+    "form_ok": true,
+    "final_url": "https://www.justiz-auktion.de/suche",
+    "cards": 0
+   },
+   "Moving Head": {
+    "form_ok": true,
+    "final_url": "https://www.justiz-auktion.de/suche",
+    "cards": 0
+   },
+   "Traverse": {
+    "form_ok": true,
+    "final_url": "https://www.justiz-auktion.de/suche",
+    "cards": 0
+   }
+  },
+  "errors": [],
   "json_calls": []
  }
 ]
