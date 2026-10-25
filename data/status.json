@@ -1,10 +1,10 @@
 {
- "generated": "2026-10-24T08:05:56+00:00",
- "lots": 594,
- "new": 85,
+ "generated": "2026-10-25T08:23:13+00:00",
+ "lots": 601,
+ "new": 7,
  "sites": {
   "aurena": {
-   "cards": 178,
+   "cards": 179,
    "errors": 0
   },
   "troostwijk-surplex": {
