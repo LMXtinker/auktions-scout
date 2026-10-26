@@ -40,7 +40,7 @@
    "Grafikkarte": {
     "cards": 1,
     "total_reported": 1,
-    "ids_matched": false
+    "ids_matched": true
    },
    "Workstation": {
     "cards": 0,
@@ -50,7 +50,7 @@
    "Gaming PC": {
     "cards": 1,
     "total_reported": 1,
-    "ids_matched": false
+    "ids_matched": true
    },
    "Laserprojektor": {
     "cards": 0,
@@ -65,11 +65,11 @@
    "Projektor": {
     "cards": 12,
     "total_reported": 12,
-    "ids_matched": false
+    "ids_matched": true
    },
    "LED Wand": {
     "cards": 96,
-    "total_reported": 119,
+    "total_reported": 99,
     "ids_matched": true
    },
    "LED Wall": {
@@ -105,7 +105,7 @@
    "Traverse": {
     "cards": 18,
     "total_reported": 18,
-    "ids_matched": false
+    "ids_matched": true
    }
   },
   "errors": [],
@@ -115,25 +115,25 @@
   "site": "troostwijk-surplex",
   "keywords": {
    "RTX 4090": {
-    "cards": 0
+    "cards": 1
    },
    "RTX 4080": {
-    "cards": 0
+    "cards": 1
    },
    "RTX 4070": {
-    "cards": 0
+    "cards": 1
    },
    "RTX 5090": {
-    "cards": 0
+    "cards": 1
    },
    "RTX 5080": {
-    "cards": 0
+    "cards": 1
    },
    "RTX 5070": {
-    "cards": 0
+    "cards": 1
    },
    "RTX A6000": {
-    "cards": 0
+    "cards": 1
    },
    "Grafikkarte": {
     "cards": 6
@@ -142,16 +142,16 @@
     "cards": 19
    },
    "Gaming PC": {
-    "cards": 106
+    "cards": 107
    },
    "Laserprojektor": {
     "cards": 0
    },
    "Beamer": {
-    "cards": 15
+    "cards": 17
    },
    "Projektor": {
-    "cards": 132
+    "cards": 134
    },
    "LED Wand": {
     "cards": 200
@@ -172,7 +172,7 @@
     "cards": 0
    },
    "Moving Head": {
-    "cards": 34
+    "cards": 47
    },
    "Traverse": {
     "cards": 8
@@ -222,7 +222,7 @@
    "Grafikkarte": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Grafikkarte&n1%5B%5D=0&n0=search",
-    "cards": 10
+    "cards": 6
    },
    "Workstation": {
     "form_ok": true,
@@ -287,7 +287,7 @@
    "Traverse": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Traverse&n1%5B%5D=0&n0=search",
-    "cards": 10
+    "cards": 6
    }
   },
   "errors": [],
@@ -334,7 +334,7 @@
    "Grafikkarte": {
     "form_ok": true,
     "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 0
+    "cards": 1
    },
    "Workstation": {
     "form_ok": true,
