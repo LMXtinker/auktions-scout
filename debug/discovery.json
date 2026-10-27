@@ -58,18 +58,18 @@
     "ids_matched": false
    },
    "Beamer": {
-    "cards": 42,
-    "total_reported": 42,
+    "cards": 40,
+    "total_reported": 40,
     "ids_matched": true
    },
    "Projektor": {
-    "cards": 12,
-    "total_reported": 12,
+    "cards": 11,
+    "total_reported": 11,
     "ids_matched": true
    },
    "LED Wand": {
-    "cards": 96,
-    "total_reported": 99,
+    "cards": 93,
+    "total_reported": 93,
     "ids_matched": true
    },
    "LED Wall": {
@@ -103,9 +103,9 @@
     "ids_matched": false
    },
    "Traverse": {
-    "cards": 18,
-    "total_reported": 18,
-    "ids_matched": true
+    "cards": 13,
+    "total_reported": 13,
+    "ids_matched": false
    }
   },
   "errors": [],
@@ -148,10 +148,10 @@
     "cards": 0
    },
    "Beamer": {
-    "cards": 17
+    "cards": 16
    },
    "Projektor": {
-    "cards": 134
+    "cards": 136
    },
    "LED Wand": {
     "cards": 200
@@ -175,7 +175,7 @@
     "cards": 47
    },
    "Traverse": {
-    "cards": 8
+    "cards": 12
    }
   },
   "errors": [],
@@ -222,7 +222,7 @@
    "Grafikkarte": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Grafikkarte&n1%5B%5D=0&n0=search",
-    "cards": 6
+    "cards": 5
    },
    "Workstation": {
     "form_ok": true,
@@ -242,12 +242,12 @@
    "Beamer": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Beamer&n1%5B%5D=0&n0=search",
-    "cards": 9
+    "cards": 4
    },
    "Projektor": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Projektor&n1%5B%5D=0&n0=search",
-    "cards": 10
+    "cards": 5
    },
    "LED Wand": {
     "form_ok": true,
@@ -354,7 +354,7 @@
    "Beamer": {
     "form_ok": true,
     "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 0
+    "cards": 1
    },
    "Projektor": {
     "form_ok": true,
