@@ -1,24 +1,24 @@
 {
- "generated": "2026-10-28T11:14:54+00:00",
+ "generated": "2026-10-28T17:19:04+00:00",
  "sources": {
-  "willhaben": "51 Treffer",
-  "kleinanzeigen": "26 Treffer",
+  "willhaben": "50 Treffer",
+  "kleinanzeigen": "25 Treffer",
   "troostwijk": "1 Treffer",
   "aurena": "0 Treffer",
   "zoll": "0 Treffer",
-  "alternate_at": "66 Treffer",
-  "alternate_de": "66 Treffer",
+  "alternate_at": "65 Treffer",
+  "alternate_de": "65 Treffer",
   "caseking": "0 Treffer"
  },
- "relevant": 45,
- "used_median": 6474.5,
- "retail_limit": 6798.225,
+ "relevant": 44,
+ "used_median": 6200.0,
+ "retail_limit": 6510.0,
  "retail_total": 82,
  "retail_ok": 0,
- "new": 15,
+ "new": 9,
  "dropped": {
   "ausgeschlossen (Titel)": 58,
-  "kein Treffer im Titel": 12,
-  "Preis unplausibel niedrig": 13
+  "kein Treffer im Titel": 11,
+  "Preis unplausibel niedrig": 11
  }
 }
