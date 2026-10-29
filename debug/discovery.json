@@ -43,8 +43,8 @@
     "ids_matched": false
    },
    "Workstation": {
-    "cards": 0,
-    "total_reported": 0,
+    "cards": 3,
+    "total_reported": 3,
     "ids_matched": false
    },
    "Gaming PC": {
@@ -58,18 +58,18 @@
     "ids_matched": false
    },
    "Beamer": {
-    "cards": 41,
-    "total_reported": 41,
+    "cards": 40,
+    "total_reported": 40,
     "ids_matched": false
    },
    "Projektor": {
-    "cards": 12,
-    "total_reported": 12,
-    "ids_matched": true
+    "cards": 11,
+    "total_reported": 11,
+    "ids_matched": false
    },
    "LED Wand": {
-    "cards": 87,
-    "total_reported": 87,
+    "cards": 95,
+    "total_reported": 95,
     "ids_matched": true
    },
    "LED Wall": {
@@ -88,8 +88,8 @@
     "ids_matched": false
    },
    "Veranstaltungstechnik": {
-    "cards": 9,
-    "total_reported": 9,
+    "cards": 4,
+    "total_reported": 4,
     "ids_matched": false
    },
    "Lichtpult": {
@@ -142,16 +142,16 @@
     "cards": 11
    },
    "Gaming PC": {
-    "cards": 107
+    "cards": 105
    },
    "Laserprojektor": {
     "cards": 0
    },
    "Beamer": {
-    "cards": 14
+    "cards": 16
    },
    "Projektor": {
-    "cards": 136
+    "cards": 134
    },
    "LED Wand": {
     "cards": 200
@@ -222,7 +222,7 @@
    "Grafikkarte": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Grafikkarte&n1%5B%5D=0&n0=search",
-    "cards": 6
+    "cards": 8
    },
    "Workstation": {
     "form_ok": true,
