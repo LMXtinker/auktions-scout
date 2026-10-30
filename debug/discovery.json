@@ -58,9 +58,9 @@
     "ids_matched": false
    },
    "Beamer": {
-    "cards": 40,
-    "total_reported": 40,
-    "ids_matched": false
+    "cards": 39,
+    "total_reported": 39,
+    "ids_matched": true
    },
    "Projektor": {
     "cards": 11,
@@ -68,8 +68,8 @@
     "ids_matched": false
    },
    "LED Wand": {
-    "cards": 95,
-    "total_reported": 95,
+    "cards": 91,
+    "total_reported": 91,
     "ids_matched": true
    },
    "LED Wall": {
@@ -88,8 +88,8 @@
     "ids_matched": false
    },
    "Veranstaltungstechnik": {
-    "cards": 4,
-    "total_reported": 4,
+    "cards": 3,
+    "total_reported": 3,
     "ids_matched": false
    },
    "Lichtpult": {
@@ -103,8 +103,8 @@
     "ids_matched": false
    },
    "Traverse": {
-    "cards": 12,
-    "total_reported": 12,
+    "cards": 13,
+    "total_reported": 13,
     "ids_matched": false
    }
   },
@@ -139,10 +139,10 @@
     "cards": 6
    },
    "Workstation": {
-    "cards": 11
+    "cards": 9
    },
    "Gaming PC": {
-    "cards": 105
+    "cards": 93
    },
    "Laserprojektor": {
     "cards": 0
@@ -151,13 +151,13 @@
     "cards": 16
    },
    "Projektor": {
-    "cards": 134
+    "cards": 115
    },
    "LED Wand": {
-    "cards": 200
+    "cards": 193
    },
    "LED Wall": {
-    "cards": 200
+    "cards": 193
    },
    "Blackmagic": {
     "cards": 0
@@ -172,7 +172,7 @@
     "cards": 0
    },
    "Moving Head": {
-    "cards": 45
+    "cards": 46
    },
    "Traverse": {
     "cards": 8
@@ -222,7 +222,7 @@
    "Grafikkarte": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Grafikkarte&n1%5B%5D=0&n0=search",
-    "cards": 8
+    "cards": 7
    },
    "Workstation": {
     "form_ok": true,
@@ -242,7 +242,7 @@
    "Beamer": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Beamer&n1%5B%5D=0&n0=search",
-    "cards": 4
+    "cards": 3
    },
    "Projektor": {
     "form_ok": true,
@@ -287,7 +287,7 @@
    "Traverse": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Traverse&n1%5B%5D=0&n0=search",
-    "cards": 8
+    "cards": 6
    }
   },
   "errors": [],
