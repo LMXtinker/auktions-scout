@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T19:53:50+00:00",
+ "generated": "2026-10-31T23:17:36+00:00",
  "sources": {
   "willhaben": "57 Treffer",
   "kleinanzeigen": "26 Treffer",
@@ -11,14 +11,14 @@
   "caseking": "0 Treffer"
  },
  "relevant": 53,
- "used_median": 6000.0,
- "retail_limit": 6300.0,
+ "used_median": 6049.5,
+ "retail_limit": 6351.975,
  "retail_total": 82,
  "retail_ok": 0,
- "new": 3,
+ "new": 0,
  "dropped": {
   "kein Treffer im Titel": 12,
-  "Preis unplausibel niedrig": 11,
-  "ausgeschlossen (Titel)": 56
+  "Preis unplausibel niedrig": 12,
+  "ausgeschlossen (Titel)": 55
  }
 }
