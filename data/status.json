@@ -1,18 +1,18 @@
 {
- "generated": "2026-10-30T09:58:53+00:00",
- "lots": 577,
- "new": 75,
+ "generated": "2026-10-31T09:36:23+00:00",
+ "lots": 602,
+ "new": 64,
  "sites": {
   "aurena": {
-   "cards": 162,
+   "cards": 126,
    "errors": 0
   },
   "troostwijk-surplex": {
-   "cards": 686,
+   "cards": 720,
    "errors": 0
   },
   "zoll-auktion": {
-   "cards": 35,
+   "cards": 33,
    "errors": 0
   },
   "justiz-auktion": {
