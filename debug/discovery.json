@@ -40,7 +40,7 @@
    "Grafikkarte": {
     "cards": 1,
     "total_reported": 1,
-    "ids_matched": true
+    "ids_matched": false
    },
    "Workstation": {
     "cards": 3,
@@ -68,9 +68,9 @@
     "ids_matched": false
    },
    "LED Wand": {
-    "cards": 57,
-    "total_reported": 57,
-    "ids_matched": true
+    "cards": 62,
+    "total_reported": 62,
+    "ids_matched": false
    },
    "LED Wall": {
     "cards": 0,
@@ -139,7 +139,7 @@
     "cards": 6
    },
    "Workstation": {
-    "cards": 12
+    "cards": 11
    },
    "Gaming PC": {
     "cards": 92
@@ -154,10 +154,10 @@
     "cards": 143
    },
    "LED Wand": {
-    "cards": 195
+    "cards": 182
    },
    "LED Wall": {
-    "cards": 195
+    "cards": 182
    },
    "Blackmagic": {
     "cards": 0
