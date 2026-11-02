@@ -1,46 +1,89 @@
 {
- "generated": "2026-11-01T10:25:21+00:00",
- "count": 4,
+ "generated": "2026-11-02T10:59:52+00:00",
+ "count": 8,
  "lots": [
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_ID7_Pro_S_BD83904E/986855",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Projektor_Sony_VPLPHZ10_5000_Lumen/988194",
    "site": "zoll-auktion",
-   "text": "1 VW ID.7 Pro S - BD8-3904E\nBeobachtung Auktion 986855 verwalten\nAuktion in Beobachtung nehmen.\n1 VW ID.7 Pro S - BD8-3904E\n46446 Emmerich am Rhein\nNur Abholung möglich!\n1 Tag 19 Std. 33 Min.\n0 Gebote\n43.950,00 EUR",
+   "text": "1 Projektor Sony VPL-PHZ10, 5000 Lumen\nBeobachtung Auktion 988194 verwalten\nAuktion in Beobachtung nehmen.\n1 Projektor Sony VPL-PHZ10, 5000 Lumen\n53113 Bonn\nNur Abholung möglich!\n6 Tage 20 Std. 57 Min.\n1 Gebot\n100,00 EUR",
+   "img_alt": "Laserbeamer Vorderansicht",
+   "keywords": [
+    "Beamer",
+    "Projektor"
+   ],
+   "first_seen": "2026-11-02T10:59:52+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/5_Projektor_Sony_VPLPHZ10_5000_Lumen/988228",
+   "site": "zoll-auktion",
+   "text": "5 Projektor Sony VPL-PHZ10, 5000 Lumen\nBeobachtung Auktion 988228 verwalten\nAuktion in Beobachtung nehmen.\n5 Projektor Sony VPL-PHZ10, 5000 Lumen\n53113 Bonn\nNur Abholung möglich!\n6 Tage 22 Std. 59 Min.\n1 Gebot\n500,00 EUR",
+   "img_alt": "Laserbeamer Vorderansicht",
+   "keywords": [
+    "Beamer",
+    "Projektor"
+   ],
+   "first_seen": "2026-11-02T10:59:52+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/5_Projektor_Sony_VPLPHZ12_5000_Lumen/988239",
+   "site": "zoll-auktion",
+   "text": "5 Projektor Sony VPL-PHZ12, 5000 Lumen\nBeobachtung Auktion 988239 verwalten\nAuktion in Beobachtung nehmen.\n5 Projektor Sony VPL-PHZ12, 5000 Lumen\n53113 Bonn\nNur Abholung möglich!\n6 Tage 23 Std. 4 Min.\n0 Gebote\n500,00 EUR",
+   "img_alt": "Laserbeamer Vorderansicht",
+   "keywords": [
+    "Beamer",
+    "Projektor"
+   ],
+   "first_seen": "2026-11-02T10:59:52+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Renault_Kangoo_Express_ZE_33_EKleintransporter_mit_Werkstattausstattung/975961",
+   "site": "zoll-auktion",
+   "text": "1 Renault Kangoo Express Z.E. 33 – E-Kleintransporter mit Werkstattausstattung\nBeobachtung Auktion 975961 verwalten\nAuktion in Beobachtung nehmen.\n1 Renault Kangoo Express Z.E. 33 – E-Kleintrans­porter mit Werkstattaus­stattung\n23730 Neustadt in Holstein\nNur Abholung möglich!\n1 Tag 19 Std. 59 Min.\n2 Gebote\n4.550,00 EUR",
+   "img_alt": "Frontansicht weißer Kangoo Express Z.E. Elektrisch",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-11-02T10:59:52+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Ger%C3%A4tetr%C3%A4ger_HANSA_APZ_1003_M/985490",
+   "site": "zoll-auktion",
+   "text": "1 Geräteträger HANSA APZ 1003 M\nBeobachtung Auktion 985490 verwalten\nAuktion in Beobachtung nehmen.\n1 Geräteträger HANSA APZ 1003 M\n29221 Celle\nNur Abholung möglich!\n1 Tag 22 Std. 59 Min.\n0 Gebote\n65.000,00 EUR",
+   "img_alt": "Geräteträger HANSA",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-11-02T10:59:52+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Unimog_U400_40512_mit_Gmeiner_Streuer_und_Epoke_Federklappenschneepflug/986326",
+   "site": "zoll-auktion",
+   "text": "1 Unimog U400 405/12 mit Gmeiner Streuer und Epoke Federklappenschneepflug\nBeobachtung Auktion 986326 verwalten\nAuktion in Beobachtung nehmen.\n1 Unimog U400 405/12 mit Gmeiner Streuer und Epoke Federklappen­schneepflug\n97618 Hohenroth\nNur Abholung möglich!\n1 Tag 22 Std. 59 Min.\n0 Gebote\n39.000,00 EUR",
+   "img_alt": "Titelbild",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-11-02T10:59:52+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Volkswagen_Model_up_GTI/987644",
+   "site": "zoll-auktion",
+   "text": "1 Volkswagen Model up! GTI\nBeobachtung Auktion 987644 verwalten\nAuktion in Beobachtung nehmen.\n1 Volkswagen Model up! GTI\n63069 Offenbach am Main\nNur Abholung möglich!\n2 Tage 1 Std. 46 Min.\n24 Gebote\n5.650,00 EUR",
    "img_alt": "Frontansicht vorn links",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-11-01T10:25:21+00:00"
+   "first_seen": "2026-11-02T10:59:52+00:00"
   },
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_ID7_Pro_S_BD83726E/987005",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_MercedesBenz_B_180_7GangDCT_Progressive_Line/987172",
    "site": "zoll-auktion",
-   "text": "1 VW ID.7 Pro S - BD8-3726E\nBeobachtung Auktion 987005 verwalten\nAuktion in Beobachtung nehmen.\n1 VW ID.7 Pro S - BD8-3726E\n56072 Koblenz\nNur Abholung möglich!\n1 Tag 20 Std. 3 Min.\n0 Gebote\n38.900,00 EUR",
-   "img_alt": "Frontansicht links",
+   "text": "1 Mercedes-Benz B 180 7-Gang-DCT \"Progressive Line\"\nBeobachtung Auktion 987172 verwalten\nAuktion in Beobachtung nehmen.\n1 Mercedes-Ben­z B 180 7-Gang-DCT \"Progressive Line\"\n50765 Köln\nNur Abholung möglich!\n2 Tage 7 Std. 44 Min.\n0 Gebote\n19.180,00 EUR",
+   "img_alt": "Übersicht vorne links",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-11-01T10:25:21+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Daimler_MercedesBenz_Sprinter_II_315_CDI_906_Hochdach_bedingt_fahrbereit/986224",
-   "site": "zoll-auktion",
-   "text": "1 Daimler Mercedes-Benz Sprinter II 315 CDI (906) Hochdach *bedingt fahrbereit*\nBeobachtung Auktion 986224 verwalten\nAuktion in Beobachtung nehmen.\n1 Daimler Mercedes-Ben­z Sprinter II 315 CDI (906) Hochdach *bedingt fahrbereit*\n70376 Stuttgart\nNur Abholung möglich!\n1 Tag 20 Std. 33 Min.\n39 Gebote\n6.600,00 EUR",
-   "img_alt": "Ansicht von vorne links",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-11-01T10:25:21+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Citroen_Elektromotor_113_MAX_44_Kwh_Unfallschaden/986918",
-   "site": "zoll-auktion",
-   "text": "1 Citroen Elektromotor 113 ë-MAX 44 Kwh (Unfallschaden)\nBeobachtung Auktion 986918 verwalten\nAuktion in Beobachtung nehmen.\n1 Citroen Elektromotor 113 ë-MAX 44 Kwh (Unfallschad­en)\n33609 Bielefeld\nNur Abholung möglich!\n1 Tag 22 Std. 48 Min.\n0 Gebote\n7.222,00 EUR",
-   "img_alt": "Vorne-rechts",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-11-01T10:25:21+00:00"
+   "first_seen": "2026-11-02T10:59:52+00:00"
   }
  ]
 }

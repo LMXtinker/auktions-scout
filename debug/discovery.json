@@ -38,8 +38,8 @@
     "ids_matched": false
    },
    "Grafikkarte": {
-    "cards": 1,
-    "total_reported": 1,
+    "cards": 0,
+    "total_reported": 0,
     "ids_matched": false
    },
    "Workstation": {
@@ -48,8 +48,8 @@
     "ids_matched": false
    },
    "Gaming PC": {
-    "cards": 1,
-    "total_reported": 1,
+    "cards": 0,
+    "total_reported": 0,
     "ids_matched": false
    },
    "Laserprojektor": {
@@ -58,18 +58,18 @@
     "ids_matched": false
    },
    "Beamer": {
-    "cards": 39,
-    "total_reported": 39,
+    "cards": 47,
+    "total_reported": 47,
     "ids_matched": false
    },
    "Projektor": {
-    "cards": 10,
-    "total_reported": 10,
+    "cards": 19,
+    "total_reported": 19,
     "ids_matched": false
    },
    "LED Wand": {
-    "cards": 62,
-    "total_reported": 62,
+    "cards": 96,
+    "total_reported": 107,
     "ids_matched": false
    },
    "LED Wall": {
@@ -154,10 +154,10 @@
     "cards": 143
    },
    "LED Wand": {
-    "cards": 182
+    "cards": 179
    },
    "LED Wall": {
-    "cards": 182
+    "cards": 179
    },
    "Blackmagic": {
     "cards": 0
@@ -242,12 +242,12 @@
    "Beamer": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Beamer&n1%5B%5D=0&n0=search",
-    "cards": 2
+    "cards": 5
    },
    "Projektor": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Projektor&n1%5B%5D=0&n0=search",
-    "cards": 4
+    "cards": 7
    },
    "LED Wand": {
     "form_ok": true,
@@ -354,7 +354,7 @@
    "Beamer": {
     "form_ok": true,
     "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 1
+    "cards": 0
    },
    "Projektor": {
     "form_ok": true,
