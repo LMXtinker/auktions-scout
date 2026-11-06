@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-05T10:51:21+00:00",
- "count": 604,
+ "generated": "2026-11-06T10:50:26+00:00",
+ "count": 612,
  "lots": [
   {
    "url": "https://www.aurena.at/s?keywords=Workstation&pagesize=96#los-0",
    "site": "aurena",
-   "text": "163 | Workstation HP Z400 | 0 6 | TAGE | : | 2 2 | STD | Gebote: 0 | € 25\nSuche: https://www.aurena.at/s?keywords=Workstation&pagesize=96",
+   "text": "163 | Workstation HP Z400 | 0 5 | TAGE | : | 2 2 | STD | Gebote: 0 | € 25\nSuche: https://www.aurena.at/s?keywords=Workstation&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Workstation"
@@ -15,7 +15,7 @@
   {
    "url": "https://www.aurena.at/s?keywords=Workstation&pagesize=96#los-1",
    "site": "aurena",
-   "text": "175 | Workstation HP Z6 | 0 6 | TAGE | : | 2 2 | STD | Gebote: 9 | € 140\nSuche: https://www.aurena.at/s?keywords=Workstation&pagesize=96",
+   "text": "175 | Workstation HP Z6 | 0 5 | TAGE | : | 2 2 | STD | Gebote: 9 | € 140\nSuche: https://www.aurena.at/s?keywords=Workstation&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Workstation"
@@ -25,7 +25,7 @@
   {
    "url": "https://www.aurena.at/s?keywords=Workstation&pagesize=96#los-2",
    "site": "aurena",
-   "text": "176 | Workstation HP Z6 | 0 6 | TAGE | : | 2 2 | STD | Gebote: 9 | € 130\nSuche: https://www.aurena.at/s?keywords=Workstation&pagesize=96",
+   "text": "176 | Workstation HP Z6 | 0 5 | TAGE | : | 2 2 | STD | Gebote: 9 | € 130\nSuche: https://www.aurena.at/s?keywords=Workstation&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Workstation"
@@ -35,127 +35,139 @@
   {
    "url": "https://www.aurena.at/posten/5461673",
    "site": "aurena",
-   "text": "138 | DVD Player Philips | 0 5 | TAGE | : | 0 1 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "text": "138 | DVD Player Philips | 0 4 | TAGE | : | 0 1 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
    "img_alt": "",
    "keywords": [
-    "Beamer"
+    "Beamer",
+    "Projektor"
    ],
    "first_seen": "2026-10-27T08:57:32+00:00"
   },
   {
    "url": "https://www.aurena.at/posten/5522653",
    "site": "aurena",
-   "text": "16 | Curved Monitor Samsunt ViewFinity S6, 34 Zoll | 0 9 | TAGE | : | 0 5 | STD | Gebote: 14 | € 190\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "text": "16 | Curved Monitor Samsunt ViewFinity S6, 34 Zoll | 0 8 | TAGE | : | 0 5 | STD | Gebote: 14 | € 190\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
    "img_alt": "",
    "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-11-04T12:18:11+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5522650",
-   "site": "aurena",
-   "text": "13 | UHD Signage Display Samsung QM75C, 75 Zoll | 0 9 | TAGE | : | 0 5 | STD | Gebote: 22 | € 750\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
+    "Beamer",
+    "Projektor"
    ],
    "first_seen": "2026-11-04T12:18:11+00:00"
   },
   {
    "url": "https://www.aurena.at/posten/5530627",
    "site": "aurena",
-   "text": "12 | Fernseher Hisense | 1 1 | TAGE | : | 0 0 | STD | Gebote: 1 | € 6\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "text": "12 | Fernseher Hisense | 1 0 | TAGE | : | 0 0 | STD | Gebote: 1 | € 6\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
    "img_alt": "",
    "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-11-04T12:18:11+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5522666",
-   "site": "aurena",
-   "text": "29 | UHD Signage Display Samsung QM43C, 43 Zoll | 0 9 | TAGE | : | 0 5 | STD | Gebote: 15 | € 220\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
+    "Beamer",
+    "Projektor"
    ],
    "first_seen": "2026-11-04T12:18:11+00:00"
   },
   {
    "url": "https://www.aurena.at/posten/5522667",
    "site": "aurena",
-   "text": "30 | UHD Signage Display Samsung QM43C, 43 Zoll | 0 9 | TAGE | : | 0 5 | STD | Gebote: 13 | € 220\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "text": "30 | UHD Signage Display Samsung QM43C, 43 Zoll | 0 8 | TAGE | : | 0 5 | STD | Gebote: 13 | € 220\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
    "img_alt": "",
    "keywords": [
-    "Beamer"
+    "Beamer",
+    "Projektor"
    ],
    "first_seen": "2026-11-04T12:18:11+00:00"
   },
   {
    "url": "https://www.aurena.at/posten/5522669",
    "site": "aurena",
-   "text": "32 | Curved Monitor Samsunt ViewFinity S6, 34 Zoll | 0 9 | TAGE | : | 0 5 | STD | Gebote: 13 | € 180\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "text": "32 | Curved Monitor Samsunt ViewFinity S6, 34 Zoll | 0 8 | TAGE | : | 0 5 | STD | Gebote: 13 | € 180\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
    "img_alt": "",
    "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-11-04T12:18:11+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/posten/5522651",
-   "site": "aurena",
-   "text": "14 | UHD Signage Display Samsung QM55C, 55 Zoll | 0 9 | TAGE | : | 0 5 | STD | Gebote: 16 | € 340\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
+    "Beamer",
+    "Projektor"
    ],
    "first_seen": "2026-11-04T12:18:11+00:00"
   },
   {
    "url": "https://www.aurena.at/posten/5530712",
    "site": "aurena",
-   "text": "97 | Fernseher Hisense | 1 1 | TAGE | : | 0 0 | STD | Gebote: 5 | € 14\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "text": "97 | Fernseher Hisense | 1 0 | TAGE | : | 0 0 | STD | Gebote: 5 | € 14\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
    "img_alt": "",
    "keywords": [
-    "Beamer"
+    "Beamer",
+    "Projektor"
    ],
    "first_seen": "2026-11-04T12:18:11+00:00"
   },
   {
    "url": "https://www.aurena.at/posten/5542238",
    "site": "aurena",
-   "text": "179 | Fernseher Samsung | 1 0 | TAGE | : | 2 3 | STD | Gebote: 0 | € 5\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "text": "179 | Fernseher Samsung | 0 9 | TAGE | : | 2 3 | STD | Gebote: 0 | € 5\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
    "img_alt": "",
    "keywords": [
-    "Beamer"
+    "Beamer",
+    "Projektor"
    ],
    "first_seen": "2026-11-05T10:51:21+00:00"
   },
   {
    "url": "https://www.aurena.at/posten/5522668",
    "site": "aurena",
-   "text": "31 | Monitor Samsung Smart Monitor M5, 32 Zoll | 0 9 | TAGE | : | 0 5 | STD | Gebote: 10 | € 100\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "text": "31 | Monitor Samsung Smart Monitor M5, 32 Zoll | 0 8 | TAGE | : | 0 5 | STD | Gebote: 10 | € 100\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
    "img_alt": "",
    "keywords": [
-    "Beamer"
+    "Beamer",
+    "Projektor"
+   ],
+   "first_seen": "2026-11-04T12:18:11+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5522650",
+   "site": "aurena",
+   "text": "13 | UHD Signage Display Samsung QM75C, 75 Zoll | 0 8 | TAGE | : | 0 5 | STD | Gebote: 23 | € 800\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Beamer",
+    "Projektor"
    ],
    "first_seen": "2026-11-04T12:18:11+00:00"
   },
   {
    "url": "https://www.aurena.at/posten/5522652",
    "site": "aurena",
-   "text": "15 | UHD Signage Display Samsung QM43C, 43 Zoll | 0 9 | TAGE | : | 0 5 | STD | Gebote: 15 | € 240\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "text": "15 | UHD Signage Display Samsung QM43C, 43 Zoll | 0 8 | TAGE | : | 0 5 | STD | Gebote: 16 | € 260\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
    "img_alt": "",
    "keywords": [
-    "Beamer"
+    "Beamer",
+    "Projektor"
+   ],
+   "first_seen": "2026-11-04T12:18:11+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5522666",
+   "site": "aurena",
+   "text": "29 | UHD Signage Display Samsung QM43C, 43 Zoll | 0 8 | TAGE | : | 0 5 | STD | Gebote: 16 | € 240\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Beamer",
+    "Projektor"
+   ],
+   "first_seen": "2026-11-04T12:18:11+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5522651",
+   "site": "aurena",
+   "text": "14 | UHD Signage Display Samsung QM55C, 55 Zoll | 0 8 | TAGE | : | 0 5 | STD | Gebote: 17 | € 360\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Beamer",
+    "Projektor"
    ],
    "first_seen": "2026-11-04T12:18:11+00:00"
   },
   {
    "url": "https://www.aurena.at/posten/5498647",
    "site": "aurena",
-   "text": "224 | Beamer LG PA70G | 0 4 | TAGE | : | 2 0 | STD | Gebote: 0 | € 240\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "text": "224 | Beamer LG PA70G | 0 3 | TAGE | : | 2 0 | STD | Gebote: 0 | € 240\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Beamer"
@@ -165,7 +177,7 @@
   {
    "url": "https://www.aurena.at/posten/5475437",
    "site": "aurena",
-   "text": "1449 | Beamer Dell 2400MP | 0 4 | TAGE | : | 0 0 | STD | Gebote: 14 | € 30\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "text": "1449 | Beamer Dell 2400MP | 0 3 | TAGE | : | 0 0 | STD | Gebote: 14 | € 30\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Beamer"
@@ -175,7 +187,17 @@
   {
    "url": "https://www.aurena.at/posten/5540398",
    "site": "aurena",
-   "text": "565 | Beamer Acer DWX1842 | 1 3 | TAGE | : | 2 1 | STD | Gebote: 2 | € 7\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "text": "565 | Beamer Acer DWX1842 | 1 2 | TAGE | : | 2 1 | STD | Gebote: 2 | € 7\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Beamer"
+   ],
+   "first_seen": "2026-11-04T12:18:11+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/posten/5538002",
+   "site": "aurena",
+   "text": "785 | Beamer Acer DWX1842 | 1 1 | TAGE | : | 2 2 | STD | Gebote: 2 | € 7\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Beamer"
@@ -185,7 +207,7 @@
   {
    "url": "https://www.aurena.at/posten/5475436",
    "site": "aurena",
-   "text": "1448 | Beamer Medion MD2950NA | 0 4 | TAGE | : | 0 0 | STD | Gebote: 7 | € 9\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "text": "1448 | Beamer Medion MD2950NA | 0 3 | TAGE | : | 0 0 | STD | Gebote: 10 | € 12\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Beamer"
@@ -193,19 +215,9 @@
    "first_seen": "2026-10-24T08:05:56+00:00"
   },
   {
-   "url": "https://www.aurena.at/posten/5538002",
-   "site": "aurena",
-   "text": "785 | Beamer Acer DWX1842 | 1 2 | TAGE | : | 2 2 | STD | Gebote: 2 | € 7\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-11-04T12:18:11+00:00"
-  },
-  {
    "url": "https://www.aurena.at/posten/5538392",
    "site": "aurena",
-   "text": "13 | Beamer Epson EB-L510U | 1 2 | TAGE | : | 0 1 | STD | Gebote: 8 | € 90\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "text": "13 | Beamer Epson EB-L510U | 1 1 | TAGE | : | 0 1 | STD | Gebote: 15 | € 150\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Beamer"
@@ -215,7 +227,7 @@
   {
    "url": "https://www.aurena.at/posten/5538745",
    "site": "aurena",
-   "text": "369 | Beamer Epson EB-L510U | 1 2 | TAGE | : | 0 2 | STD | Gebote: 9 | € 100\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "text": "369 | Beamer Epson EB-L510U | 1 1 | TAGE | : | 0 2 | STD | Gebote: 11 | € 120\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Beamer"
@@ -223,9 +235,19 @@
    "first_seen": "2026-11-04T12:18:11+00:00"
   },
   {
+   "url": "https://www.aurena.at/posten/5550431",
+   "site": "aurena",
+   "text": "107 | Beamer SANYO Pro XTRAX | 1 3 | TAGE | : | 0 1 | STD | Gebote: 0 | € 8\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Beamer"
+   ],
+   "first_seen": "2026-11-06T10:50:26+00:00"
+  },
+  {
    "url": "https://www.aurena.at/posten/5480093",
    "site": "aurena",
-   "text": "3687 | Outdoorleuchte Mister Beams | 0 1 | TAGE | : | 0 1 | STD | Gebote: 10 | € 10\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "text": "3687 | Outdoorleuchte Mister Beams | 0 1 | STD | : | 0 7 | MIN | Gebote: 10 | € 10\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Beamer"
@@ -235,7 +257,7 @@
   {
    "url": "https://www.aurena.at/posten/5501014",
    "site": "aurena",
-   "text": "519 | E-Bike Frontscheinwerfer Haibike Skybeamer 300 AM | 0 5 | TAGE | : | 0 7 | STD | Gebote: 4 | € 25\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
+   "text": "519 | E-Bike Frontscheinwerfer Haibike Skybeamer 300 AM | 0 4 | TAGE | : | 0 7 | STD | Gebote: 4 | € 25\nSuche: https://www.aurena.at/s?keywords=Beamer&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Beamer"
@@ -243,819 +265,739 @@
    "first_seen": "2026-10-30T09:58:53+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=Projektor&pagesize=96#los-0",
+   "url": "https://www.aurena.at/posten/5508997",
    "site": "aurena",
-   "text": "138 | DVD Player Philips | 0 5 | TAGE | : | 0 1 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
+   "text": "49 | Projektor Episkop | 0 3 | TAGE | : | 0 4 | STD | Gebote: 0 | € 3\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Projektor"
    ],
-   "first_seen": "2026-09-26T08:34:45+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=Projektor&pagesize=96#los-1",
+   "url": "https://www.aurena.at/posten/5512904",
    "site": "aurena",
-   "text": "16 | Curved Monitor Samsunt ViewFinity S6, 34 Zoll | 0 9 | TAGE | : | 0 5 | STD | Gebote: 14 | € 190\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
+   "text": "222 | Projektorleinwand | 0 5 | TAGE | : | 0 2 | STD | Gebote: 0 | € 4\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Projektor"
    ],
-   "first_seen": "2026-09-26T08:34:45+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=Projektor&pagesize=96#los-2",
+   "url": "https://www.aurena.at/posten/5509179",
    "site": "aurena",
-   "text": "13 | UHD Signage Display Samsung QM75C, 75 Zoll | 0 9 | TAGE | : | 0 5 | STD | Gebote: 22 | € 750\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
+   "text": "231 | Diaprojektor Braun | 0 3 | TAGE | : | 0 4 | STD | Gebote: 0 | € 4\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Projektor"
    ],
-   "first_seen": "2026-09-26T08:34:45+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=Projektor&pagesize=96#los-3",
+   "url": "https://www.aurena.at/posten/5492259",
    "site": "aurena",
-   "text": "12 | Fernseher Hisense | 1 1 | TAGE | : | 0 0 | STD | Gebote: 1 | € 6\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
+   "text": "391 | Alter Filmprojektor | 0 8 | TAGE | : | 2 3 | STD | Gebote: 0 | € 25\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Projektor"
    ],
-   "first_seen": "2026-09-26T08:34:45+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=Projektor&pagesize=96#los-4",
+   "url": "https://www.aurena.at/posten/5475429",
    "site": "aurena",
-   "text": "29 | UHD Signage Display Samsung QM43C, 43 Zoll | 0 9 | TAGE | : | 0 5 | STD | Gebote: 15 | € 220\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
+   "text": "1441 | Overheadprojektor Medium 2024 | 0 3 | TAGE | : | 0 0 | STD | Gebote: 0 | € 5\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Projektor"
    ],
-   "first_seen": "2026-09-26T08:34:45+00:00"
+   "first_seen": "2026-10-24T08:05:56+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=Projektor&pagesize=96#los-5",
+   "url": "https://www.aurena.at/posten/5481436",
    "site": "aurena",
-   "text": "30 | UHD Signage Display Samsung QM43C, 43 Zoll | 0 9 | TAGE | : | 0 5 | STD | Gebote: 13 | € 220\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
+   "text": "74 | Diaprojektor Leitz Pradolux | 0 3 | STD | : | 4 8 | MIN | Gebote: 1 | € 5\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Projektor"
    ],
-   "first_seen": "2026-09-26T08:34:45+00:00"
+   "first_seen": "2026-10-24T08:05:56+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=Projektor&pagesize=96#los-6",
+   "url": "https://www.aurena.at/posten/5538952",
    "site": "aurena",
-   "text": "32 | Curved Monitor Samsunt ViewFinity S6, 34 Zoll | 0 9 | TAGE | : | 0 5 | STD | Gebote: 13 | € 180\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
+   "text": "592 | Diaprojektor Leitz Pradovit CA 2502 | 1 1 | TAGE | : | 0 2 | STD | Gebote: 0 | € 7\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Projektor"
    ],
-   "first_seen": "2026-09-26T08:34:45+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=Projektor&pagesize=96#los-7",
+   "url": "https://www.aurena.at/posten/5544347",
    "site": "aurena",
-   "text": "14 | UHD Signage Display Samsung QM55C, 55 Zoll | 0 9 | TAGE | : | 0 5 | STD | Gebote: 16 | € 340\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
+   "text": "201 | Historischer Diaprojektor Durst Amplicolor M50 | 1 2 | TAGE | : | 0 2 | STD | Gebote: 0 | € 8\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Projektor"
    ],
-   "first_seen": "2026-09-26T08:34:45+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=Projektor&pagesize=96#los-8",
+   "url": "https://www.aurena.at/posten/5538953",
    "site": "aurena",
-   "text": "97 | Fernseher Hisense | 1 1 | TAGE | : | 0 0 | STD | Gebote: 5 | € 14\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
+   "text": "593 | Tonfilmprojektor Bauer P8 TS Universal | 1 1 | TAGE | : | 0 2 | STD | Gebote: 1 | € 40\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Projektor"
    ],
-   "first_seen": "2026-09-26T08:34:45+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=Projektor&pagesize=96#los-9",
+   "url": "https://www.aurena.at/posten/5501451",
    "site": "aurena",
-   "text": "179 | Fernseher Samsung | 1 0 | TAGE | : | 2 3 | STD | Gebote: 0 | € 5\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
+   "text": "185 | Vintage Filmprojektor Eumig P8 8 mm, 50er Jahre | 0 1 | TAGE | : | 2 3 | STD | Gebote: 0 | € 5\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Projektor"
    ],
-   "first_seen": "2026-09-26T08:34:45+00:00"
+   "first_seen": "2026-10-28T09:37:29+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=Projektor&pagesize=96#los-10",
+   "url": "https://www.aurena.at/posten/5510194",
    "site": "aurena",
-   "text": "31 | Monitor Samsung Smart Monitor M5, 32 Zoll | 0 9 | TAGE | : | 0 5 | STD | Gebote: 10 | € 100\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-09-26T08:34:45+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/s?keywords=Projektor&pagesize=96#los-11",
-   "site": "aurena",
-   "text": "15 | UHD Signage Display Samsung QM43C, 43 Zoll | 0 9 | TAGE | : | 0 5 | STD | Gebote: 15 | € 240\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-09-26T08:34:45+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/s?keywords=Projektor&pagesize=96#los-12",
-   "site": "aurena",
-   "text": "49 | Projektor Episkop | 0 4 | TAGE | : | 0 4 | STD | Gebote: 0 | € 3\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-09-26T08:34:45+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/s?keywords=Projektor&pagesize=96#los-13",
-   "site": "aurena",
-   "text": "222 | Projektorleinwand | 0 6 | TAGE | : | 0 2 | STD | Gebote: 0 | € 4\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-09-26T08:34:45+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/s?keywords=Projektor&pagesize=96#los-14",
-   "site": "aurena",
-   "text": "231 | Diaprojektor Braun | 0 4 | TAGE | : | 0 4 | STD | Gebote: 0 | € 4\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-09-26T08:34:45+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/s?keywords=Projektor&pagesize=96#los-15",
-   "site": "aurena",
-   "text": "391 | Alter Filmprojektor | 0 9 | TAGE | : | 2 3 | STD | Gebote: 0 | € 25\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-09-26T08:34:45+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/s?keywords=Projektor&pagesize=96#los-16",
-   "site": "aurena",
-   "text": "1441 | Overheadprojektor Medium 2024 | 0 4 | TAGE | : | 0 0 | STD | Gebote: 0 | € 5\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-09-26T08:34:45+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/s?keywords=Projektor&pagesize=96#los-17",
-   "site": "aurena",
-   "text": "74 | Diaprojektor Leitz Pradolux | 0 1 | TAGE | : | 0 3 | STD | Gebote: 0 | € 5\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-09-26T08:34:45+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/s?keywords=Projektor&pagesize=96#los-18",
-   "site": "aurena",
-   "text": "592 | Diaprojektor Leitz Pradovit CA 2502 | 1 2 | TAGE | : | 0 2 | STD | Gebote: 0 | € 7\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/s?keywords=Projektor&pagesize=96#los-19",
-   "site": "aurena",
-   "text": "593 | Tonfilmprojektor Bauer P8 TS Universal | 1 2 | TAGE | : | 0 2 | STD | Gebote: 0 | € 40\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-09-29T09:47:58+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/s?keywords=Projektor&pagesize=96#los-20",
-   "site": "aurena",
-   "text": "185 | Vintage Filmprojektor Eumig P8 8 mm, 50er Jahre | 0 2 | TAGE | : | 2 3 | STD | Gebote: 0 | € 5\nSuche: https://www.aurena.at/s?keywords=Projektor&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-04T12:18:11+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-0",
-   "site": "aurena",
-   "text": "466 | LED Wandleuchte Kröncke, wandmontiert | 0 5 | TAGE | : | 2 1 | STD | Gebote: 0 | € 110\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "466 | LED Wandleuchte Kröncke, wandmontiert | 0 4 | TAGE | : | 2 1 | STD | Gebote: 0 | € 110\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-10-29T09:55:56+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-1",
+   "url": "https://www.aurena.at/posten/5502790",
    "site": "aurena",
-   "text": "150 | LED Wandspiegel Wenko | 0 6 | TAGE | : | 0 0 | STD | Gebote: 3 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "150 | LED Wandspiegel Wenko | 0 5 | TAGE | : | 0 0 | STD | Gebote: 3 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-10-28T09:37:29+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-2",
+   "url": "https://www.aurena.at/posten/5510166",
    "site": "aurena",
-   "text": "1444 | Inhalt Regalebene: LED Zubehör | 0 4 | STD | : | 3 6 | MIN | Gebote: 1 | € 20\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "434 | Wandvertäfelung Modulor | 0 4 | TAGE | : | 2 1 | STD | Gebote: 0 | € 3.200\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-10-29T09:55:56+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-3",
+   "url": "https://www.aurena.at/posten/5509791",
    "site": "aurena",
-   "text": "434 | Wandvertäfelung Modulor | 0 5 | TAGE | : | 2 1 | STD | Gebote: 0 | € 3.200\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "22 | LED Wandleuchte Vibia Guise | 0 4 | TAGE | : | 2 0 | STD | Gebote: 2 | € 190\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-10-29T09:55:56+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-4",
+   "url": "https://www.aurena.at/posten/5480002",
    "site": "aurena",
-   "text": "3596 | 4 LED Wandleuchten Eglo | 0 1 | TAGE | : | 0 0 | STD | Gebote: 1 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "3596 | 4 LED Wandleuchten Eglo | 5 9 | MIN | : | 5 3 | SEK | Gebote: 5 | € 5\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-10-23T08:30:49+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-5",
+   "url": "https://www.aurena.at/posten/5522137",
    "site": "aurena",
-   "text": "2012 | Outdoor LED Wandleuchte Steinel | 2 2 | STD | : | 4 7 | MIN | Gebote: 17 | € 20\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "33 | LED-Wand-/Deckenleuchte EGLO Elgvero | 0 8 | TAGE | : | 0 4 | STD | Gebote: 0 | € 12\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-6",
+   "url": "https://www.aurena.at/posten/5522298",
    "site": "aurena",
-   "text": "22 | LED Wandleuchte Vibia Guise | 0 5 | TAGE | : | 2 0 | STD | Gebote: 2 | € 190\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "194 | LED-Wand-/Deckenleuchte EGLO Elgvero | 0 8 | TAGE | : | 0 4 | STD | Gebote: 0 | € 12\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-7",
+   "url": "https://www.aurena.at/posten/5531003",
    "site": "aurena",
-   "text": "33 | LED-Wand-/Deckenleuchte EGLO Elgvero | 0 9 | TAGE | : | 0 4 | STD | Gebote: 0 | € 12\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "388 | Deckenleuchte, Wandleuchte und LED-Paneel | 1 0 | TAGE | : | 0 1 | STD | Gebote: 0 | € 2\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-8",
+   "url": "https://www.aurena.at/posten/5498122",
    "site": "aurena",
-   "text": "194 | LED-Wand-/Deckenleuchte EGLO Elgvero | 0 9 | TAGE | : | 0 4 | STD | Gebote: 0 | € 12\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "4047 | LED Wandleuchte Eglo Vento 2 | 0 1 | TAGE | : | 0 2 | STD | Gebote: 2 | € 2\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-10-28T09:37:29+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-9",
+   "url": "https://www.aurena.at/posten/5480097",
    "site": "aurena",
-   "text": "388 | Deckenleuchte, Wandleuchte und LED-Paneel | 1 1 | TAGE | : | 0 1 | STD | Gebote: 0 | € 2\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "3691 | LED Outdoor-Wandleuchte Steinel L830 | 0 1 | STD | : | 0 7 | MIN | Gebote: 24 | € 60\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-10-23T08:30:49+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-10",
+   "url": "https://www.aurena.at/posten/5480095",
    "site": "aurena",
-   "text": "3602 | 2 LED Outdoor-Wandleuchten Eglo | 0 1 | TAGE | : | 0 0 | STD | Gebote: 2 | € 2\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "3689 | LED Outdoor-Wandleuchte Steinel L830 | 0 1 | STD | : | 0 7 | MIN | Gebote: 21 | € 45\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-10-23T08:30:49+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-11",
+   "url": "https://www.aurena.at/posten/5480096",
    "site": "aurena",
-   "text": "3603 | 3 LED Outdoor-Wandleuchten Eglo | 0 1 | TAGE | : | 0 0 | STD | Gebote: 6 | € 6\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "3690 | LED Outdoor-Wandleuchte Steinel L830 | 0 1 | STD | : | 0 7 | MIN | Gebote: 20 | € 40\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-10-23T08:30:49+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-12",
+   "url": "https://www.aurena.at/posten/5547843",
    "site": "aurena",
-   "text": "4047 | LED Wandleuchte Eglo Vento 2 | 0 2 | TAGE | : | 0 2 | STD | Gebote: 2 | € 2\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "398 | LED Wandleuchte Molto Luce KATHA | 1 2 | TAGE | : | 2 3 | STD | Gebote: 0 | € 6\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-13",
+   "url": "https://www.aurena.at/posten/5480008",
    "site": "aurena",
-   "text": "2385 | LED Outdoor-Wandleuchte Eglo Ninnarella | 2 3 | STD | : | 1 8 | MIN | Gebote: 5 | € 5\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "3602 | 2 LED Outdoor-Wandleuchten Eglo | 0 1 | STD | : | 0 0 | MIN | Gebote: 13 | € 16\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-10-23T08:30:49+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-14",
+   "url": "https://www.aurena.at/posten/5480009",
    "site": "aurena",
-   "text": "2386 | LED Outdoor-Wandleuchte Eglo Ninnarella | 2 3 | STD | : | 1 8 | MIN | Gebote: 5 | € 5\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "3603 | 3 LED Outdoor-Wandleuchten Eglo | 0 1 | STD | : | 0 0 | MIN | Gebote: 10 | € 10\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-10-23T08:30:49+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-15",
+   "url": "https://www.aurena.at/posten/5522147",
    "site": "aurena",
-   "text": "3691 | LED Outdoor-Wandleuchte Steinel L830 | 0 1 | TAGE | : | 0 1 | STD | Gebote: 24 | € 60\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "43 | LED-Wandleuchte EGLO Galdakao, 5,4 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 0 | € 6\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-16",
+   "url": "https://www.aurena.at/posten/5522251",
    "site": "aurena",
-   "text": "3689 | LED Outdoor-Wandleuchte Steinel L830 | 0 1 | TAGE | : | 0 1 | STD | Gebote: 21 | € 45\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "147 | LED-Wandleuchte EGLO Galdakao, 5,4 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 0 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-17",
+   "url": "https://www.aurena.at/posten/5522259",
    "site": "aurena",
-   "text": "3690 | LED Outdoor-Wandleuchte Steinel L830 | 0 1 | TAGE | : | 0 1 | STD | Gebote: 20 | € 40\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "155 | LED-Wandleuchte EGLO Galdakao, 5,4 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 0 | € 6\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-18",
+   "url": "https://www.aurena.at/posten/5522313",
    "site": "aurena",
-   "text": "149 | 13 Paneel-Wandmontagekits | 0 1 | STD | : | 2 9 | MIN | Gebote: 0 | € 6\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "209 | LED-Wandleuchte EGLO Galdakao, 5,4 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 0 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-19",
+   "url": "https://www.aurena.at/posten/5522325",
    "site": "aurena",
-   "text": "43 | LED-Wandleuchte EGLO Galdakao, 5,4 W | 0 9 | TAGE | : | 0 4 | STD | Gebote: 0 | € 6\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "221 | LED-Wandleuchte EGLO Galdakao, 5,4 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 0 | € 6\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-20",
+   "url": "https://www.aurena.at/posten/5522380",
    "site": "aurena",
-   "text": "147 | LED-Wandleuchte EGLO Galdakao, 5,4 W | 0 9 | TAGE | : | 0 4 | STD | Gebote: 0 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "276 | LED-Wandleuchte EGLO Galdakao, 5,4 W | 0 8 | TAGE | : | 0 5 | STD | Gebote: 0 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-21",
+   "url": "https://www.aurena.at/posten/5522386",
    "site": "aurena",
-   "text": "155 | LED-Wandleuchte EGLO Galdakao, 5,4 W | 0 9 | TAGE | : | 0 4 | STD | Gebote: 0 | € 6\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "282 | LED-Wandleuchte EGLO Galdakao, 5,4 W | 0 8 | TAGE | : | 0 5 | STD | Gebote: 0 | € 6\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-22",
+   "url": "https://www.aurena.at/posten/5522132",
    "site": "aurena",
-   "text": "209 | LED-Wandleuchte EGLO Galdakao, 5,4 W | 0 9 | TAGE | : | 0 4 | STD | Gebote: 0 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "28 | LED-Wandleuchte EGLO Galdakao, 5,4 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 1 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-23",
+   "url": "https://www.aurena.at/posten/5522195",
    "site": "aurena",
-   "text": "221 | LED-Wandleuchte EGLO Galdakao, 5,4 W | 0 9 | TAGE | : | 0 4 | STD | Gebote: 0 | € 6\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "91 | LED-Wandleuchte EGLO Galdakao, 5,4 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 1 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-24",
+   "url": "https://www.aurena.at/posten/5522202",
    "site": "aurena",
-   "text": "276 | LED-Wandleuchte EGLO Galdakao, 5,4 W | 0 9 | TAGE | : | 0 5 | STD | Gebote: 0 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "98 | LED-Wandleuchte EGLO Galdakao, 5,4 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 1 | € 6\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-25",
+   "url": "https://www.aurena.at/posten/5547844",
    "site": "aurena",
-   "text": "282 | LED-Wandleuchte EGLO Galdakao, 5,4 W | 0 9 | TAGE | : | 0 5 | STD | Gebote: 0 | € 6\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "399 | LED Wandleuchte Orion AL 11-1192A | 1 2 | TAGE | : | 2 3 | STD | Gebote: 0 | € 12\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-26",
+   "url": "https://www.aurena.at/posten/5480056",
    "site": "aurena",
-   "text": "2009 | Outdoor LED Wandleuchte mit Sensor Steinel | 2 2 | STD | : | 4 6 | MIN | Gebote: 15 | € 18\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "3650 | 3 LED Outdoor-Wandleuchten Eglo Sonella | 0 1 | STD | : | 0 4 | MIN | Gebote: 14 | € 18\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-10-27T08:57:32+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-27",
+   "url": "https://www.aurena.at/posten/5510153",
    "site": "aurena",
-   "text": "28 | LED-Wandleuchte EGLO Galdakao, 5,4 W | 0 9 | TAGE | : | 0 4 | STD | Gebote: 1 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "420 | Wandvertäfelung Rimadesio Modulor 2 | 0 4 | TAGE | : | 2 1 | STD | Gebote: 0 | € 2.800\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-10-30T09:58:53+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-28",
+   "url": "https://www.aurena.at/posten/5529059",
    "site": "aurena",
-   "text": "91 | LED-Wandleuchte EGLO Galdakao, 5,4 W | 0 9 | TAGE | : | 0 4 | STD | Gebote: 1 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "292 | 2 LED Wandleuchten Ares Kirk D.90 | 0 4 | TAGE | : | 2 2 | STD | Gebote: 0 | € 20\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-29",
+   "url": "https://www.aurena.at/posten/5529060",
    "site": "aurena",
-   "text": "98 | LED-Wandleuchte EGLO Galdakao, 5,4 W | 0 9 | TAGE | : | 0 4 | STD | Gebote: 1 | € 6\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "293 | 2 LED Wandleuchten Ares Kirk D.90 | 0 4 | TAGE | : | 2 2 | STD | Gebote: 0 | € 20\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-30",
+   "url": "https://www.aurena.at/posten/5529061",
    "site": "aurena",
-   "text": "3650 | 3 LED Outdoor-Wandleuchten Eglo Sonella | 0 1 | TAGE | : | 0 1 | STD | Gebote: 2 | € 2\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "294 | 2 LED Wandleuchten Ares Kirk D.90 | 0 4 | TAGE | : | 2 2 | STD | Gebote: 0 | € 20\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-31",
+   "url": "https://www.aurena.at/posten/5529062",
    "site": "aurena",
-   "text": "2013 | Outdoor LED Wandleuchte mit Sensor Steinel | 2 2 | STD | : | 4 7 | MIN | Gebote: 18 | € 35\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "295 | 2 LED Wandleuchten Ares Kirk D.90 | 0 4 | TAGE | : | 2 2 | STD | Gebote: 0 | € 20\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-32",
+   "url": "https://www.aurena.at/posten/5529063",
    "site": "aurena",
-   "text": "2008 | Outdoor LED Wandleuchte mit Sensor Steinel | 2 2 | STD | : | 4 6 | MIN | Gebote: 13 | € 16\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "296 | 2 LED Wandleuchten Ares Kirk D.90 | 0 4 | TAGE | : | 2 2 | STD | Gebote: 0 | € 20\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-33",
+   "url": "https://www.aurena.at/posten/5522150",
    "site": "aurena",
-   "text": "2007 | Outdoor LED Wandleuchte mit Sensor Steinel | 2 2 | STD | : | 4 6 | MIN | Gebote: 13 | € 16\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "46 | LED-Außen-Wandleuchte EGLO Pias, 5 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 0 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-34",
+   "url": "https://www.aurena.at/posten/5522183",
    "site": "aurena",
-   "text": "2030 | LED Wandleuchte Steinel XLED ONE S | 2 2 | STD | : | 4 8 | MIN | Gebote: 15 | € 18\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "79 | LED-Wand-/Deckenleuchte EGLO Brea, 5 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 0 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-35",
+   "url": "https://www.aurena.at/posten/5522187",
    "site": "aurena",
-   "text": "420 | Wandvertäfelung Rimadesio Modulor 2 | 0 5 | TAGE | : | 2 1 | STD | Gebote: 0 | € 2.800\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "83 | LED-Wand-/Deckenleuchte EGLO Ferreros, 18,9 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 0 | € 9\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-36",
+   "url": "https://www.aurena.at/posten/5522208",
    "site": "aurena",
-   "text": "2381 | LED Outdoor-Wandleuchte mit Bewegungsmelder Eglo Atollari | 2 3 | STD | : | 1 7 | MIN | Gebote: 2 | € 2\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "104 | LED-Außen-Wandleuchte EGLO Pias, 5 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 0 | € 6\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-37",
+   "url": "https://www.aurena.at/posten/5522288",
    "site": "aurena",
-   "text": "2384 | LED Outdoor-Wandleuchte mit Bewegungsmelder Eglo Palosco | 2 3 | STD | : | 1 8 | MIN | Gebote: 13 | € 20\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "184 | LED-Wand-/Deckenleuchte EGLO Vicaro, 5 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 0 | € 6\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-38",
+   "url": "https://www.aurena.at/posten/5522292",
    "site": "aurena",
-   "text": "292 | 2 LED Wandleuchten Ares Kirk D.90 | 0 5 | TAGE | : | 2 2 | STD | Gebote: 0 | € 20\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "188 | LED-Wand-/Deckenleuchte EGLO Fradelo, 14 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 0 | € 12\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-39",
+   "url": "https://www.aurena.at/posten/5522295",
    "site": "aurena",
-   "text": "293 | 2 LED Wandleuchten Ares Kirk D.90 | 0 5 | TAGE | : | 2 2 | STD | Gebote: 0 | € 20\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "191 | LED-Wand-/Deckenleuchte EGLO Brea, 5 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 0 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-40",
+   "url": "https://www.aurena.at/posten/5522330",
    "site": "aurena",
-   "text": "294 | 2 LED Wandleuchten Ares Kirk D.90 | 0 5 | TAGE | : | 2 2 | STD | Gebote: 0 | € 20\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "226 | LED-Außen-Wandleuchte EGLO Pias, 5 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 0 | € 6\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-41",
+   "url": "https://www.aurena.at/posten/5522341",
    "site": "aurena",
-   "text": "295 | 2 LED Wandleuchten Ares Kirk D.90 | 0 5 | TAGE | : | 2 2 | STD | Gebote: 0 | € 20\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "237 | LED-Decken-/Wandleuchte EGLO Albariza, 18,4 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 0 | € 25\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-42",
+   "url": "https://www.aurena.at/posten/5522344",
    "site": "aurena",
-   "text": "296 | 2 LED Wandleuchten Ares Kirk D.90 | 0 5 | TAGE | : | 2 2 | STD | Gebote: 0 | € 20\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "240 | LED-Wand-/Deckenleuchte EGLO Vicaro, 22,5 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 0 | € 25\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-43",
+   "url": "https://www.aurena.at/posten/5522350",
    "site": "aurena",
-   "text": "2378 | LED Outdoor-Wandleuchte mit Bewegungsmelder Eglo Morino | 2 3 | STD | : | 1 7 | MIN | Gebote: 4 | € 12\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "246 | LED-Wand-/Deckenleuchte EGLO Ferreros, 18,9 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 0 | € 9\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-44",
+   "url": "https://www.aurena.at/posten/5522358",
    "site": "aurena",
-   "text": "3597 | LED Outdoor-Wandleuchte mit Bewegungsmelder Eglo Pernate | 0 1 | TAGE | : | 0 0 | STD | Gebote: 8 | € 8\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "254 | LED-Wand-/Deckenleuchte EGLO Brea, 10 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 0 | € 12\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-45",
+   "url": "https://www.aurena.at/posten/5522390",
    "site": "aurena",
-   "text": "46 | LED-Außen-Wandleuchte EGLO Pias, 5 W | 0 9 | TAGE | : | 0 4 | STD | Gebote: 0 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "286 | LED-Wand-/Deckenleuchte EGLO Brea, 20 W | 0 8 | TAGE | : | 0 5 | STD | Gebote: 0 | € 20\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-46",
+   "url": "https://www.aurena.at/posten/5522394",
    "site": "aurena",
-   "text": "79 | LED-Wand-/Deckenleuchte EGLO Brea, 5 W | 0 9 | TAGE | : | 0 4 | STD | Gebote: 0 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "290 | LED-Außen-Wandleuchte EGLO Pias, 5 W | 0 8 | TAGE | : | 0 5 | STD | Gebote: 0 | € 6\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-47",
+   "url": "https://www.aurena.at/posten/5522395",
    "site": "aurena",
-   "text": "83 | LED-Wand-/Deckenleuchte EGLO Ferreros, 18,9 W | 0 9 | TAGE | : | 0 4 | STD | Gebote: 0 | € 9\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "291 | LED-Wand-/Deckenleuchte EGLO Brea, 5 W | 0 8 | TAGE | : | 0 5 | STD | Gebote: 0 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-48",
+   "url": "https://www.aurena.at/posten/5522197",
    "site": "aurena",
-   "text": "104 | LED-Außen-Wandleuchte EGLO Pias, 5 W | 0 9 | TAGE | : | 0 4 | STD | Gebote: 0 | € 6\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "93 | LED-Wand-/Deckenleuchte EGLO Brea, 5 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 1 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-49",
+   "url": "https://www.aurena.at/posten/5522256",
    "site": "aurena",
-   "text": "184 | LED-Wand-/Deckenleuchte EGLO Vicaro, 5 W | 0 9 | TAGE | : | 0 4 | STD | Gebote: 0 | € 6\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "152 | LED-Wand-/Deckenleuchte EGLO Brea, 5 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 1 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-50",
+   "url": "https://www.aurena.at/posten/5522322",
    "site": "aurena",
-   "text": "188 | LED-Wand-/Deckenleuchte EGLO Fradelo, 14 W | 0 9 | TAGE | : | 0 4 | STD | Gebote: 0 | € 12\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "218 | LED-Wand-/Deckenleuchte EGLO Brea, 5 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 1 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-51",
+   "url": "https://www.aurena.at/posten/5522140",
    "site": "aurena",
-   "text": "191 | LED-Wand-/Deckenleuchte EGLO Brea, 5 W | 0 9 | TAGE | : | 0 4 | STD | Gebote: 0 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "36 | LED-Wand-/Deckenleuchte EGLO Brea, 5 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 1 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-52",
+   "url": "https://www.aurena.at/posten/5522385",
    "site": "aurena",
-   "text": "226 | LED-Außen-Wandleuchte EGLO Pias, 5 W | 0 9 | TAGE | : | 0 4 | STD | Gebote: 0 | € 6\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "281 | LED-Wand-/Deckenleuchte EGLO Brea, 5 W | 0 8 | TAGE | : | 0 5 | STD | Gebote: 1 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-53",
+   "url": "https://www.aurena.at/posten/5522235",
    "site": "aurena",
-   "text": "237 | LED-Decken-/Wandleuchte EGLO Albariza, 18,4 W | 0 9 | TAGE | : | 0 4 | STD | Gebote: 0 | € 25\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "131 | LED-Wand-/Deckenleuchte EGLO Brea, 20 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 1 | € 20\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-54",
+   "url": "https://www.aurena.at/posten/5522171",
    "site": "aurena",
-   "text": "240 | LED-Wand-/Deckenleuchte EGLO Vicaro, 22,5 W | 0 9 | TAGE | : | 0 4 | STD | Gebote: 0 | € 25\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "67 | LED-Wand-/Deckenleuchte EGLO Ronzano, 13,2 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 1 | € 18\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-55",
+   "url": "https://www.aurena.at/posten/5522255",
    "site": "aurena",
-   "text": "246 | LED-Wand-/Deckenleuchte EGLO Ferreros, 18,9 W | 0 9 | TAGE | : | 0 4 | STD | Gebote: 0 | € 9\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "151 | LED-Außen-Wandleuchte EGLO Pias, 5 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 1 | € 6\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-56",
+   "url": "https://www.aurena.at/posten/5522118",
    "site": "aurena",
-   "text": "254 | LED-Wand-/Deckenleuchte EGLO Brea, 10 W | 0 9 | TAGE | : | 0 4 | STD | Gebote: 0 | € 12\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "14 | LED-Decken-/Wandleuchte EGLO Valdecabras, 33,5 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 1 | € 10\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-57",
+   "url": "https://www.aurena.at/posten/5522216",
    "site": "aurena",
-   "text": "286 | LED-Wand-/Deckenleuchte EGLO Brea, 20 W | 0 9 | TAGE | : | 0 5 | STD | Gebote: 0 | € 20\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "112 | LED-Wand-/Deckenleuchte EGLO Arapiles, 33 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 2 | € 9\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-58",
+   "url": "https://www.aurena.at/posten/5522367",
    "site": "aurena",
-   "text": "290 | LED-Außen-Wandleuchte EGLO Pias, 5 W | 0 9 | TAGE | : | 0 5 | STD | Gebote: 0 | € 6\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "263 | LED-Wand-/Deckenleuchte EGLO Arapiles, 33 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 1 | € 8\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wand&pagesize=96#los-59",
+   "url": "https://www.aurena.at/posten/5522130",
    "site": "aurena",
-   "text": "291 | LED-Wand-/Deckenleuchte EGLO Brea, 5 W | 0 9 | TAGE | : | 0 5 | STD | Gebote: 0 | € 7\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "26 | LED-Wand-/Deckenleuchte EGLO Fradelo, 14 W | 0 8 | TAGE | : | 0 4 | STD | Gebote: 1 | € 12\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-09-25T15:12:09+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
    "url": "https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96#los-0",
    "site": "aurena",
-   "text": "272 | Posten Weinflaschen Geschenkboxen | 1 0 | TAGE | : | 2 0 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "text": "272 | Posten Weinflaschen Geschenkboxen | 0 9 | TAGE | : | 2 0 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-09-25T15:12:09+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96#los-1",
+   "site": "aurena",
+   "text": "734 | Verkaufsautomat Klix | 1 9 | TAGE | : | 2 3 | STD | Gebote: 0 | € 40\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-09-25T15:12:09+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96#los-2",
+   "site": "aurena",
+   "text": "38 | Palette mit Bühnenscheinwerfern | 1 2 | TAGE | : | 2 1 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Veranstaltungstechnik"
+   ],
+   "first_seen": "2026-09-25T15:12:09+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96#los-3",
+   "site": "aurena",
+   "text": "333 | Bühnenscheinwerfer Showtec | 1 3 | TAGE | : | 2 2 | STD | Gebote: 0 | € 5\nSuche: https://www.aurena.at/s?keywords=Veranstaltungstechnik&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Veranstaltungstechnik"
@@ -1065,7 +1007,7 @@
   {
    "url": "https://www.aurena.at/s?keywords=Moving+Head&pagesize=96#los-0",
    "site": "aurena",
-   "text": "291 | Lichtanlage | 1 1 | TAGE | : | 0 1 | STD | Gebote: 0 | € 12\nSuche: https://www.aurena.at/s?keywords=Moving+Head&pagesize=96",
+   "text": "291 | Lichtanlage | 1 0 | TAGE | : | 0 1 | STD | Gebote: 0 | € 12\nSuche: https://www.aurena.at/s?keywords=Moving+Head&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Moving Head"
@@ -1075,7 +1017,7 @@
   {
    "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-0",
    "site": "aurena",
-   "text": "664 | 2 Traversen | 0 3 | TAGE | : | 2 1 | STD | Gebote: 0 | € 4\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "text": "664 | 2 Traversen | 0 2 | TAGE | : | 2 1 | STD | Gebote: 0 | € 4\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Traverse"
@@ -1085,7 +1027,7 @@
   {
    "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-1",
    "site": "aurena",
-   "text": "2323 | 2 Niro-Hebetraversen | 0 4 | TAGE | : | 0 2 | STD | Gebote: 0 | € 40\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "text": "2323 | 2 Niro-Hebetraversen | 0 3 | TAGE | : | 0 2 | STD | Gebote: 0 | € 40\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Traverse"
@@ -1095,7 +1037,7 @@
   {
    "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-2",
    "site": "aurena",
-   "text": "528 | Stapler-Lasttraverse Tigrip TTS 3,15 Z | 0 3 | TAGE | : | 2 1 | STD | Gebote: 2 | € 35\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "text": "528 | Stapler-Lasttraverse Tigrip TTS 3,15 Z | 0 2 | TAGE | : | 2 1 | STD | Gebote: 2 | € 35\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Traverse"
@@ -1105,7 +1047,7 @@
   {
    "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-3",
    "site": "aurena",
-   "text": "344 | Messezubehör, ca. 10-teilig | 0 6 | TAGE | : | 0 5 | STD | Gebote: 15 | € 420\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "text": "851 | Schwerlastregal, ca. 12 lfm | 1 9 | TAGE | : | 2 3 | STD | Gebote: 0 | € 300\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Traverse"
@@ -1113,9 +1055,239 @@
    "first_seen": "2026-09-30T09:40:32+00:00"
   },
   {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-4",
+   "site": "aurena",
+   "text": "856 | Schwerlastregal, ca. 12 lfm | 1 9 | TAGE | : | 2 3 | STD | Gebote: 0 | € 300\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-5",
+   "site": "aurena",
+   "text": "756 | Schwerlastregal, ca. 6,4 lfm | 1 9 | TAGE | : | 2 3 | STD | Gebote: 0 | € 150\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-6",
+   "site": "aurena",
+   "text": "781 | Schwerlastregal, ca. 4,6 lfm | 1 9 | TAGE | : | 2 3 | STD | Gebote: 0 | € 120\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-09-30T09:40:32+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-7",
+   "site": "aurena",
+   "text": "22 | Posten diverse Schwerlastregalkomponenten | 1 9 | TAGE | : | 2 1 | STD | Gebote: 0 | € 10\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-02T09:44:17+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-8",
+   "site": "aurena",
+   "text": "187 | Schwerlastregal, ca. 3,5 lfm | 1 9 | TAGE | : | 2 1 | STD | Gebote: 0 | € 80\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-02T09:44:17+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-9",
+   "site": "aurena",
+   "text": "188 | Schwerlastregal, ca. 3,5 lfm | 1 9 | TAGE | : | 2 1 | STD | Gebote: 0 | € 80\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-02T09:44:17+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-10",
+   "site": "aurena",
+   "text": "118 | Schwerlastregal, ca. 3,5 lfm | 1 9 | TAGE | : | 2 1 | STD | Gebote: 0 | € 80\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-02T09:44:17+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-11",
+   "site": "aurena",
+   "text": "837 | Schwerlastregal, ca. 12 lfm | 1 9 | TAGE | : | 2 3 | STD | Gebote: 0 | € 300\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-03T09:07:29+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-12",
+   "site": "aurena",
+   "text": "841 | Schwerlastregal, ca. 12 lfm | 1 9 | TAGE | : | 2 3 | STD | Gebote: 0 | € 300\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-03T09:07:29+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-13",
+   "site": "aurena",
+   "text": "843 | Schwerlastregal Top Regal, ca. 6 lfm | 1 9 | TAGE | : | 2 3 | STD | Gebote: 0 | € 140\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-03T09:07:29+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-14",
+   "site": "aurena",
+   "text": "745 | Schwerlastregal, ca. 1,8 lfm | 1 9 | TAGE | : | 2 3 | STD | Gebote: 0 | € 40\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-03T09:07:29+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-15",
+   "site": "aurena",
+   "text": "861 | Schwerlastregal, ca. 9 lfm | 1 9 | TAGE | : | 2 3 | STD | Gebote: 0 | € 220\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-03T09:07:29+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-16",
+   "site": "aurena",
+   "text": "9 | Schwerlastregal Topregal PR9000, ca. 11,2 lfm | 1 9 | TAGE | : | 2 1 | STD | Gebote: 0 | € 300\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-03T09:07:29+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-17",
+   "site": "aurena",
+   "text": "21 | Schwerlastregal, ca. 8,5 lfm | 1 9 | TAGE | : | 2 1 | STD | Gebote: 0 | € 220\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-05T10:23:42+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-18",
+   "site": "aurena",
+   "text": "14 | Schwerlastregal, ca. 5,8 lfm | 1 9 | TAGE | : | 2 1 | STD | Gebote: 0 | € 160\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-11T09:58:41+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-19",
+   "site": "aurena",
+   "text": "778 | Schwerlastregal, ca. 8,4 lfm | 1 9 | TAGE | : | 2 3 | STD | Gebote: 0 | € 180\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-11T09:58:41+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-20",
+   "site": "aurena",
+   "text": "865 | Schwerlastregal, ca. 6,5 lfm | 1 9 | TAGE | : | 2 3 | STD | Gebote: 0 | € 150\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-11T09:58:41+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-21",
+   "site": "aurena",
+   "text": "24 | Schwerlastregal, ca. 6 lfm | 1 9 | TAGE | : | 2 1 | STD | Gebote: 0 | € 150\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-10-11T09:58:41+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-22",
+   "site": "aurena",
+   "text": "846 | Schwerlastregal, ca. 2,7 lfm | 1 9 | TAGE | : | 2 3 | STD | Gebote: 0 | € 60\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-11-06T10:50:26+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-23",
+   "site": "aurena",
+   "text": "848 | Schwerlastregal, ca. 5,4 lfm | 1 9 | TAGE | : | 2 3 | STD | Gebote: 0 | € 140\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-11-06T10:50:26+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-24",
+   "site": "aurena",
+   "text": "12 | Schwerlastregal, ca. 3 lfm | 1 9 | TAGE | : | 2 1 | STD | Gebote: 0 | € 80\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-11-06T10:50:26+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-25",
+   "site": "aurena",
+   "text": "16 | Schwerlastregal, ca. 5,8 lfm | 1 9 | TAGE | : | 2 1 | STD | Gebote: 0 | € 160\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-11-06T10:50:26+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-26",
+   "site": "aurena",
+   "text": "344 | Messezubehör, ca. 10-teilig | 0 5 | TAGE | : | 0 5 | STD | Gebote: 15 | € 420\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-11-06T10:50:26+00:00"
+  },
+  {
    "url": "https://www.troostwijkauctions.com/de/l/gaming-pc-%E2%80%93-asus-tuf-gaming-palit-geforce-rtx-5070-infinity-3-cooler-master-aio-A1-51232-58",
    "site": "troostwijk/surplex",
-   "text": "Gaming-PC – asus TUF Gaming / Palit GeForce RTX 5070 Infinity 3 / Cooler Master AIO\nStandort: Hardenberg (NL)\nAktuelles Gebot: 910 EUR · Gebote: 54\nEnde: 19.11. 19:16 · Status: BIDDING_OPEN",
+   "text": "Gaming-PC – asus TUF Gaming / Palit GeForce RTX 5070 Infinity 3 / Cooler Master AIO\nStandort: Hardenberg (NL)\nAktuelles Gebot: 960 EUR · Gebote: 55\nEnde: 19.11. 19:16 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "RTX 4090",
@@ -1132,7 +1304,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/dell-precision-5560-15-6%22-core%28tm%29-i7-11-generation-32-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4gb-touchscreen-laptop-A1-38891-9589",
    "site": "troostwijk/surplex",
-   "text": "Dell Precision 5560 15,6\", Core(TM) i7 11. Generation, 32 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4GB Touchscreen-Laptop\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 35 EUR · Gebote: 6\nEnde: 18.11. 15:51 · Status: BIDDING_OPEN",
+   "text": "Dell Precision 5560 15,6\", Core(TM) i7 11. Generation, 32 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4GB Touchscreen-Laptop\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 45 EUR · Gebote: 8\nEnde: 18.11. 15:51 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "RTX 4090",
@@ -1180,7 +1352,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-5%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4-gb-mobile-workstation-A1-38891-12148",
    "site": "troostwijk/surplex",
-   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 110 EUR · Gebote: 6\nEnde: 18.11. 15:04 · Status: BIDDING_OPEN",
+   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 270 EUR · Gebote: 22\nEnde: 18.11. 15:04 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "RTX 4090",
@@ -1197,7 +1369,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-5%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4-gb-mobile-workstation-A1-38891-12146",
    "site": "troostwijk/surplex",
-   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 145 EUR · Gebote: 10\nEnde: 18.11. 16:23 · Status: BIDDING_OPEN",
+   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 211 EUR · Gebote: 17\nEnde: 18.11. 16:23 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "RTX 4090",
@@ -1214,7 +1386,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-5%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4-gb-mobile-workstation-A1-38891-12150",
    "site": "troostwijk/surplex",
-   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 110 EUR · Gebote: 5\nEnde: 18.11. 15:50 · Status: BIDDING_OPEN",
+   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 150 EUR · Gebote: 9\nEnde: 18.11. 15:50 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "RTX 4090",
@@ -1231,7 +1403,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-6%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a5000-16-gb-mobile-workstation-A1-38891-12716",
    "site": "troostwijk/surplex",
-   "text": "HP ZBook Fury G8 15,6\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A5000 16 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 110 EUR · Gebote: 5\nEnde: 18.11. 14:12 · Status: BIDDING_OPEN",
+   "text": "HP ZBook Fury G8 15,6\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A5000 16 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 310 EUR · Gebote: 22\nEnde: 18.11. 14:12 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "RTX 4090",
@@ -1248,7 +1420,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-6%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4-gb-mobile-workstation-A1-38891-12715",
    "site": "troostwijk/surplex",
-   "text": "HP ZBook Fury G8 15,6\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 100 EUR · Gebote: 3\nEnde: 18.11. 15:38 · Status: BIDDING_OPEN",
+   "text": "HP ZBook Fury G8 15,6\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 110 EUR · Gebote: 4\nEnde: 18.11. 15:38 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "RTX 4090",
@@ -1282,7 +1454,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-5%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4-gb-mobile-workstation-A1-38891-12139",
    "site": "troostwijk/surplex",
-   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 120 EUR · Gebote: 7\nEnde: 18.11. 15:00 · Status: BIDDING_OPEN",
+   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 160 EUR · Gebote: 11\nEnde: 18.11. 15:00 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "RTX 4090",
@@ -1316,7 +1488,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-6%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4-gb-mobile-workstation-A1-38891-12720",
    "site": "troostwijk/surplex",
-   "text": "HP ZBook Fury G8 15,6\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 100 EUR · Gebote: 4\nEnde: 18.11. 15:33 · Status: BIDDING_OPEN",
+   "text": "HP ZBook Fury G8 15,6\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 110 EUR · Gebote: 5\nEnde: 18.11. 15:33 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "RTX 4090",
@@ -1333,7 +1505,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-6%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4-gb-mobile-workstation-A1-38891-12717",
    "site": "troostwijk/surplex",
-   "text": "HP ZBook Fury G8 15,6\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 100 EUR · Gebote: 4\nEnde: 18.11. 16:13 · Status: BIDDING_OPEN",
+   "text": "HP ZBook Fury G8 15,6\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 110 EUR · Gebote: 5\nEnde: 18.11. 16:13 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "RTX 4090",
@@ -1350,7 +1522,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-hp-z6-g4-2x-xeon%28r%29-silver-4210r-192-gb-ram-%2812x16-gb%29-1x-1-tb-nvme-2x-4-tb-ssd-2x-nvidia-quadro-rtx-4000-8-gb-workstation-A1-38891-12906",
    "site": "troostwijk/surplex",
-   "text": "HP HP Z6 G4, 2x Xeon(R) Silver 4210R, 192 GB RAM (12x16 GB), 1x 1 TB NVMe - 2x 4 TB SSD, 2x NVIDIA Quadro RTX 4000 8 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 1050 EUR · Gebote: 4\nEnde: 18.11. 15:45 · Status: BIDDING_OPEN",
+   "text": "HP HP Z6 G4, 2x Xeon(R) Silver 4210R, 192 GB RAM (12x16 GB), 1x 1 TB NVMe - 2x 4 TB SSD, 2x NVIDIA Quadro RTX 4000 8 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 1750 EUR · Gebote: 12\nEnde: 18.11. 15:45 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "RTX 4090",
@@ -1367,7 +1539,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-6%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4-gb-mobile-workstation-A1-38891-12718",
    "site": "troostwijk/surplex",
-   "text": "HP ZBook Fury G8 15,6\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 100 EUR · Gebote: 4\nEnde: 18.11. 15:32 · Status: BIDDING_OPEN",
+   "text": "HP ZBook Fury G8 15,6\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 110 EUR · Gebote: 5\nEnde: 18.11. 15:32 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "RTX 4090",
@@ -1384,7 +1556,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-z6-g4-2x-xeon%28r%29-silver-4210r-128-gb-ram-%288x-16-gb%29-keine-hdd-nvidia-rtx-a4000-16-gb-workstation-A1-38891-12960",
    "site": "troostwijk/surplex",
-   "text": "HP Z6 G4, 2x Xeon(R) Silver 4210R, 128 GB RAM (8x 16 GB), keine HDD, NVIDIA RTX A4000 16 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 801 EUR · Gebote: 12\nEnde: 18.11. 14:29 · Status: BIDDING_OPEN",
+   "text": "HP Z6 G4, 2x Xeon(R) Silver 4210R, 128 GB RAM (8x 16 GB), keine HDD, NVIDIA RTX A4000 16 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 851 EUR · Gebote: 13\nEnde: 18.11. 14:29 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "RTX 4090",
@@ -1434,7 +1606,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-5%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4-gb-mobile-workstation-A1-38891-12141",
    "site": "troostwijk/surplex",
-   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 110 EUR · Gebote: 6\nEnde: 18.11. 15:55 · Status: BIDDING_OPEN",
+   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 120 EUR · Gebote: 7\nEnde: 18.11. 15:55 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "RTX 4090",
@@ -1468,7 +1640,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-5%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4-gb-mobile-workstation-A1-38891-12145",
    "site": "troostwijk/surplex",
-   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 110 EUR · Gebote: 7\nEnde: 18.11. 15:00 · Status: BIDDING_OPEN",
+   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 140 EUR · Gebote: 10\nEnde: 18.11. 15:00 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "RTX 4090",
@@ -1485,7 +1657,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-z6-g4-2x-xeon%28r%29-silver-4210r-128-gb-ram-%288x-16-gb%29-1-tb-nvme-2x-nvidia-rtx-a4000-16-gb-workstation-A1-38891-12959",
    "site": "troostwijk/surplex",
-   "text": "HP Z6 G4, 2x Xeon(R) Silver 4210R, 128 GB RAM (8x 16 GB), 1 TB NVMe, 2x NVIDIA RTX A4000 16 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 1300 EUR · Gebote: 28\nEnde: 18.11. 15:51 · Status: BIDDING_OPEN",
+   "text": "HP Z6 G4, 2x Xeon(R) Silver 4210R, 128 GB RAM (8x 16 GB), 1 TB NVMe, 2x NVIDIA RTX A4000 16 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 1650 EUR · Gebote: 35\nEnde: 18.11. 15:51 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "RTX 4090",
@@ -1502,7 +1674,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-5%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4-gb-mobile-workstation-A1-38891-12140",
    "site": "troostwijk/surplex",
-   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 100 EUR · Gebote: 5\nEnde: 18.11. 15:44 · Status: BIDDING_OPEN",
+   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 140 EUR · Gebote: 9\nEnde: 18.11. 15:44 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "RTX 4090",
@@ -1519,7 +1691,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-6%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4-gb-mobile-workstation-A1-38891-12719",
    "site": "troostwijk/surplex",
-   "text": "HP ZBook Fury G8 15,6\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 100 EUR · Gebote: 4\nEnde: 18.11. 15:43 · Status: BIDDING_OPEN",
+   "text": "HP ZBook Fury G8 15,6\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 120 EUR · Gebote: 6\nEnde: 18.11. 15:43 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "RTX 4090",
@@ -1536,7 +1708,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-5%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4-gb-mobile-workstation-A1-38891-12142",
    "site": "troostwijk/surplex",
-   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 110 EUR · Gebote: 6\nEnde: 18.11. 14:40 · Status: BIDDING_OPEN",
+   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 300 EUR · Gebote: 23\nEnde: 18.11. 14:40 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "RTX 4090",
@@ -1553,7 +1725,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-5%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4-gb-mobile-workstation-A1-38891-12143",
    "site": "troostwijk/surplex",
-   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 100 EUR · Gebote: 4\nEnde: 18.11. 15:10 · Status: BIDDING_OPEN",
+   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 120 EUR · Gebote: 6\nEnde: 18.11. 15:10 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "RTX 4090",
@@ -1570,7 +1742,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g8-15-5%22-core%28tm%29-i9-11-generation-64-gb-ram-1-tb-nvme-nvidia-rtx-a2000-4-gb-mobile-workstation-A1-38891-12114",
    "site": "troostwijk/surplex",
-   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 130 EUR · Gebote: 8\nEnde: 18.11. 14:50 · Status: BIDDING_OPEN",
+   "text": "HP ZBook Fury G8 15,5\", Core(TM) i9 11. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA RTX A2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 160 EUR · Gebote: 11\nEnde: 18.11. 14:50 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "RTX 4090",
@@ -1602,16 +1774,6 @@
    "first_seen": "2026-11-04T12:18:11+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-rtx2080ti-grafikkarte-A1-50800-83",
-   "site": "troostwijk/surplex",
-   "text": "Gigabyte RTX2080TI Grafikkarte\nStandort: Amsterdam (NL)\nAktuelles Gebot: 250 EUR · Gebote: 31\nEnde: 05.11. 11:52 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Grafikkarte"
-   ],
-   "first_seen": "2026-10-16T08:08:31+00:00"
-  },
-  {
    "url": "https://www.troostwijkauctions.com/de/l/xfx-%E2%80%93-speedster-merc-310-%E2%80%93-eine-high-end-amd-grafikkarte-A1-50581-105",
    "site": "troostwijk/surplex",
    "text": "XFX – SPEEDSTER MERC 310 – eine High-End-AMD-Grafikkarte\nStandort: Hardenberg (NL)\nAktuelles Gebot: 350 EUR · Gebote: 26\nEnde: 16.11. 19:19 · Status: BIDDING_OPEN",
@@ -1620,16 +1782,6 @@
     "Grafikkarte"
    ],
    "first_seen": "2026-10-05T10:23:42+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/grafikkarten-%2816x%29-A1-50800-84",
-   "site": "troostwijk/surplex",
-   "text": "Grafikkarten (16x)\nStandort: Amsterdam (NL)\nAktuelles Gebot: 1151 EUR · Gebote: 57\nEnde: 05.11. 12:02 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Grafikkarte"
-   ],
-   "first_seen": "2026-10-16T08:08:31+00:00"
   },
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-firefly-g8-15-6%22-core%28tm%29-i7-11-generation-32-gb-ram-512-gb-nvme-nvidia-quadro-t500-4-gb-mobile-workstation-A1-38891-12556",
@@ -1654,7 +1806,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/lenovo-p520-xeon%28r%29-w-2135-32-gb-ram-%282x-16-gb%29-512-gb-nvme-nvidia-quadro-p1000-4-gb-workstation-A1-38891-12197",
    "site": "troostwijk/surplex",
-   "text": "Lenovo P520, Xeon(R) W-2135, 32 GB RAM (2x 16 GB), 512 GB NVMe, NVIDIA Quadro P1000 4 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 50 EUR · Gebote: 2\nEnde: 18.11. 15:04 · Status: BIDDING_OPEN",
+   "text": "Lenovo P520, Xeon(R) W-2135, 32 GB RAM (2x 16 GB), 512 GB NVMe, NVIDIA Quadro P1000 4 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 55 EUR · Gebote: 3\nEnde: 18.11. 15:04 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Workstation"
@@ -1664,7 +1816,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g7-15-6%22-core%28tm%29-i9-10-generation-64-gb-ram-1-tb-nvme-nvidia-quadro-t2000-4-gb-mobile-workstation-A1-38891-12721",
    "site": "troostwijk/surplex",
-   "text": "HP ZBook Fury G7 15,6\", Core(TM) i9 10. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA Quadro T2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 100 EUR · Gebote: 4\nEnde: 18.11. 14:47 · Status: BIDDING_OPEN",
+   "text": "HP ZBook Fury G7 15,6\", Core(TM) i9 10. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA Quadro T2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 110 EUR · Gebote: 5\nEnde: 18.11. 14:47 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Workstation"
@@ -1694,7 +1846,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-g6-15-5%22-core%28tm%29-i9-9-generation-64-gb-ram-1-tb-nvme-nvidia-quadro-t2000-4-gb-mobile-workstation-A1-38891-12115",
    "site": "troostwijk/surplex",
-   "text": "HP ZBook G6 15,5\", Core(TM) i9 9. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA Quadro T2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 100 EUR · Gebote: 2\nEnde: 18.11. 16:39 · Status: BIDDING_OPEN",
+   "text": "HP ZBook G6 15,5\", Core(TM) i9 9. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA Quadro T2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 130 EUR · Gebote: 5\nEnde: 18.11. 16:39 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Workstation"
@@ -1744,7 +1896,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-z4-g4-xeon%28r%29-w-2245-64-gb-ram-%288x-8-gb%29-1-tb-nvme-nvidia-quadro-p400-2-gb-workstation-A1-38891-12907",
    "site": "troostwijk/surplex",
-   "text": "HP Z4 G4, Xeon(R) W-2245, 64 GB RAM (8x 8 GB), 1 TB NVMe, NVIDIA Quadro P400 2 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 18.11. 15:58 · Status: BIDDING_OPEN",
+   "text": "HP Z4 G4, Xeon(R) W-2245, 64 GB RAM (8x 8 GB), 1 TB NVMe, NVIDIA Quadro P400 2 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 15 EUR · Gebote: 2\nEnde: 18.11. 15:58 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Workstation"
@@ -1754,7 +1906,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-z4-g4-xeon%28r%29-w-2123-32-gb-ram-%284x-8-gb%29-1x-1-tb-hdd-2x-480-gb-ssd-nvidia-quadro-p600-2-gb-workstation-A1-38891-12908",
    "site": "troostwijk/surplex",
-   "text": "HP Z4 G4, Xeon(R) W-2123, 32 GB RAM (4x 8 GB), 1x 1 TB HDD - 2x 480 GB SSD, NVIDIA Quadro P600 2 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 18.11. 16:36 · Status: BIDDING_OPEN",
+   "text": "HP Z4 G4, Xeon(R) W-2123, 32 GB RAM (4x 8 GB), 1x 1 TB HDD - 2x 480 GB SSD, NVIDIA Quadro P600 2 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 20 EUR · Gebote: 3\nEnde: 18.11. 16:36 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Workstation"
@@ -1794,7 +1946,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/lenovo-p520-xeon%28r%29-w-2135-128-gb-ram-%288x-16-gb%29-512-gb-nvme-nvidia-quadro-p1000-4-gb-workstation-A1-38891-12000",
    "site": "troostwijk/surplex",
-   "text": "Lenovo P520, Xeon(R) W-2135, 128 GB RAM (8x 16 GB), 512 GB NVMe, NVIDIA Quadro P1000 4 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 55 EUR · Gebote: 5\nEnde: 18.11. 16:03 · Status: BIDDING_OPEN",
+   "text": "Lenovo P520, Xeon(R) W-2135, 128 GB RAM (8x 16 GB), 512 GB NVMe, NVIDIA Quadro P1000 4 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 160 EUR · Gebote: 16\nEnde: 18.11. 16:03 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Workstation"
@@ -1804,7 +1956,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-firefly-g9-14%22-core%28tm%29-i7-12-generation-32-gb-ram-512-gb-nvme-nvidia-t550-4-gb-mobile-workstation-A1-38891-12557",
    "site": "troostwijk/surplex",
-   "text": "HP ZBook Firefly G9 14\", Core(TM) i7 12. Generation, 32 GB RAM, 512 GB NVMe, NVIDIA T550 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 100 EUR · Gebote: 3\nEnde: 18.11. 15:55 · Status: BIDDING_OPEN",
+   "text": "HP ZBook Firefly G9 14\", Core(TM) i7 12. Generation, 32 GB RAM, 512 GB NVMe, NVIDIA T550 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 110 EUR · Gebote: 4\nEnde: 18.11. 15:55 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Workstation"
@@ -1814,7 +1966,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/lenovo-p520-xeon%28r%29-w-2135-128-gb-ram-%288x-16-gb%29-512-gb-nvme-nvidia-quadro-p1000-4-gb-workstation-A1-38891-12002",
    "site": "troostwijk/surplex",
-   "text": "Lenovo P520, Xeon(R) W-2135, 128 GB RAM (8x 16 GB), 512 GB NVMe, NVIDIA Quadro P1000 4 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 55 EUR · Gebote: 6\nEnde: 18.11. 16:15 · Status: BIDDING_OPEN",
+   "text": "Lenovo P520, Xeon(R) W-2135, 128 GB RAM (8x 16 GB), 512 GB NVMe, NVIDIA Quadro P1000 4 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 80 EUR · Gebote: 9\nEnde: 18.11. 16:15 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Workstation"
@@ -1834,7 +1986,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-zbook-fury-g7-15-5%22-core%28tm%29-i9-10-generation-64-gb-ram-1-tb-nvme-nvidia-quadro-t2000-4-gb-mobile-workstation-A1-38891-12151",
    "site": "troostwijk/surplex",
-   "text": "HP ZBook Fury G7 15,5\", Core(TM) i9 10. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA Quadro T2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 100 EUR · Gebote: 4\nEnde: 18.11. 15:34 · Status: BIDDING_OPEN",
+   "text": "HP ZBook Fury G7 15,5\", Core(TM) i9 10. Generation, 64 GB RAM, 1 TB NVMe, NVIDIA Quadro T2000 4 GB Mobile WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 120 EUR · Gebote: 6\nEnde: 18.11. 15:34 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Workstation"
@@ -1844,7 +1996,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-z4-g4-xeon%28r%29-w-2123-32-gb-ram-%284x-8gb%29-240-gb-ssd-nvidia-quadro-p600-2gb-workstation-A1-38891-12451",
    "site": "troostwijk/surplex",
-   "text": "HP Z4 G4, Xeon(R) W-2123, 32 GB RAM (4x 8GB), 240 GB SSD, NVIDIA Quadro P600 2GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 18.11. 16:37 · Status: BIDDING_OPEN",
+   "text": "HP Z4 G4, Xeon(R) W-2123, 32 GB RAM (4x 8GB), 240 GB SSD, NVIDIA Quadro P600 2GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 15 EUR · Gebote: 2\nEnde: 18.11. 16:37 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Workstation"
@@ -1864,7 +2016,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-z640-xeon%28r%29-e5-1620-16-gb-ram-%282x-8-gb%29-256-gb-ssd-nvidia-quadro-k420-1-gb-workstation-A1-38891-12910",
    "site": "troostwijk/surplex",
-   "text": "HP Z640, Xeon(R) E5-1620, 16 GB RAM (2x 8 GB), 256 GB SSD, NVIDIA Quadro K420 1 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 18.11. 14:45 · Status: BIDDING_OPEN",
+   "text": "HP Z640, Xeon(R) E5-1620, 16 GB RAM (2x 8 GB), 256 GB SSD, NVIDIA Quadro K420 1 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 18.11. 14:45 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Workstation"
@@ -1874,7 +2026,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/lenovo-p920-2x-xeon%28r%29-gold-6154-192-gb-ram-%2812x-16-gb%29-1-tb-nvme-nvidia-quadro-p1000-4gb-workstation-A1-38891-12004",
    "site": "troostwijk/surplex",
-   "text": "Lenovo P920, 2x Xeon(R) Gold 6154, 192 GB RAM (12x 16 GB), 1 TB NVMe, NVIDIA Quadro P1000 4GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 250 EUR · Gebote: 8\nEnde: 18.11. 16:46 · Status: BIDDING_OPEN",
+   "text": "Lenovo P920, 2x Xeon(R) Gold 6154, 192 GB RAM (12x 16 GB), 1 TB NVMe, NVIDIA Quadro P1000 4GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 510 EUR · Gebote: 22\nEnde: 18.11. 16:46 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Workstation"
@@ -1904,7 +2056,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-z4-g4-xeon%28r%29-w-2145-64-gb-ram-%284x-16-gb%29-512-gb-nvme-2x-nvidia-quadro-p620-2-gb-workstation-A1-38891-12962",
    "site": "troostwijk/surplex",
-   "text": "HP Z4 G4, Xeon(R) W-2145, 64 GB RAM (4x 16 GB), 512 GB NVMe, 2x NVIDIA Quadro P620 2 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 55 EUR · Gebote: 2\nEnde: 18.11. 14:37 · Status: BIDDING_OPEN",
+   "text": "HP Z4 G4, Xeon(R) W-2145, 64 GB RAM (4x 16 GB), 512 GB NVMe, 2x NVIDIA Quadro P620 2 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 180 EUR · Gebote: 16\nEnde: 18.11. 14:37 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Workstation"
@@ -1934,7 +2086,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-z4-g4-xeon%28r%29-w-2123-32-gb-ram-%282x-16-gb%29-keine-festplatte-nvidia-quadro-p600-2-gb-workstation-A1-38891-12922",
    "site": "troostwijk/surplex",
-   "text": "HP Z4 G4, Xeon(R) W-2123, 32 GB RAM (2x 16 GB), keine Festplatte, NVIDIA Quadro P600 2 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 18.11. 15:26 · Status: BIDDING_OPEN",
+   "text": "HP Z4 G4, Xeon(R) W-2123, 32 GB RAM (2x 16 GB), keine Festplatte, NVIDIA Quadro P600 2 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 15 EUR · Gebote: 2\nEnde: 18.11. 15:26 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Workstation"
@@ -1944,7 +2096,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-z4-g4-xeon%28r%29-w-2123-32-gb-ram-%288x-4gb%29-480-gb-ssd-nvidia-quadro-p600-2gb-workstation-A1-38891-12450",
    "site": "troostwijk/surplex",
-   "text": "HP Z4 G4, Xeon(R) W-2123, 32 GB RAM (8x 4GB), 480 GB SSD, NVIDIA Quadro P600 2GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 18.11. 14:22 · Status: BIDDING_OPEN",
+   "text": "HP Z4 G4, Xeon(R) W-2123, 32 GB RAM (8x 4GB), 480 GB SSD, NVIDIA Quadro P600 2GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 15 EUR · Gebote: 2\nEnde: 18.11. 14:22 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Workstation"
@@ -1954,7 +2106,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-z6-g4-2x-xeon%28r%29-silver-4112-192-gb-ram-%2812x-16-gb%29-1-tb-nvme-2x-nvidia-quadro-p4000-8-gb-workstation-A1-38891-12904",
    "site": "troostwijk/surplex",
-   "text": "HP Z6 G4, 2x Xeon(R) Silver 4112, 192 GB RAM (12x 16 GB), 1 TB NVMe, 2x NVIDIA Quadro P4000 8 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 250 EUR · Gebote: 10\nEnde: 18.11. 15:32 · Status: BIDDING_OPEN",
+   "text": "HP Z6 G4, 2x Xeon(R) Silver 4112, 192 GB RAM (12x 16 GB), 1 TB NVMe, 2x NVIDIA Quadro P4000 8 GB WorkStation\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 330 EUR · Gebote: 14\nEnde: 18.11. 15:32 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Workstation"
@@ -2014,7 +2166,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/2x-twinform-t-bom-%E2%80%93-elektrischer-akustischer-sitz-stand-trio-workstation-205x110-A1-50761-4",
    "site": "troostwijk/surplex",
-   "text": "2x TwinForm T-Bom – elektrischer akustischer Sitz-Stand-Trio-Workstation 205x110\nStandort: Oosterhout (NL)\nAktuelles Gebot: 150 EUR · Gebote: 3\nEnde: 09.11. 19:32 · Status: BIDDING_OPEN",
+   "text": "2x TwinForm T-Bom – elektrischer akustischer Sitz-Stand-Trio-Workstation 205x110\nStandort: Oosterhout (NL)\nAktuelles Gebot: 190 EUR · Gebote: 7\nEnde: 09.11. 19:32 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Workstation"
@@ -2044,7 +2196,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/bulo-vitra-%E2%80%93-workstation-200x100-A1-50761-112",
    "site": "troostwijk/surplex",
-   "text": "BULO/Vitra – Workstation 200x100\nStandort: Boven-Leeuwen (NL)\nAktuelles Gebot: 1 EUR · Gebote: 1\nEnde: 09.11. 20:05 · Status: BIDDING_OPEN",
+   "text": "BULO/Vitra – Workstation 200x100\nStandort: Boven-Leeuwen (NL)\nAktuelles Gebot: 70 EUR · Gebote: 15\nEnde: 09.11. 20:05 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Workstation"
@@ -2054,7 +2206,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hp-z4-g4-xeon%28r%29-w-2123-32-gb-ram-%284x-8-gb%29-keine-hdd-nvidia-quadro-p600-2-gb-workstations-%282x%29-A1-38891-12446",
    "site": "troostwijk/surplex",
-   "text": "HP Z4 G4, Xeon(R) W-2123, 32 GB RAM (4x 8 GB), keine HDD, NVIDIA Quadro P600 2 GB WorkStations (2x)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 15 EUR · Gebote: 2\nEnde: 18.11. 14:36 · Status: BIDDING_OPEN",
+   "text": "HP Z4 G4, Xeon(R) W-2123, 32 GB RAM (4x 8 GB), keine HDD, NVIDIA Quadro P600 2 GB WorkStations (2x)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 20 EUR · Gebote: 3\nEnde: 18.11. 14:36 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Workstation"
@@ -2074,7 +2226,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/ams-gaming-%E2%80%93-gamer-butterfly-%E2%80%93-gaming-stuhl-A1-50578-236",
    "site": "troostwijk/surplex",
-   "text": "AMS GAMING – Gamer#butterfly – Gaming-Stuhl\nStandort: Hardenberg (NL)\nAktuelles Gebot: 30 EUR · Gebote: 5\nEnde: 17.11. 19:45 · Status: BIDDING_OPEN",
+   "text": "AMS GAMING – Gamer#butterfly – Gaming-Stuhl\nStandort: Hardenberg (NL)\nAktuelles Gebot: 35 EUR · Gebote: 6\nEnde: 17.11. 19:45 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Gaming PC"
@@ -2084,7 +2236,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/flowup-x-powered-by-msi-blazeforce-2-gaming-pc-A1-51232-5",
    "site": "troostwijk/surplex",
-   "text": "FlowUp x Powered By MSI - BLAZEFORCE 2 - Gaming-PC\nStandort: Hardenberg (NL)\nAktuelles Gebot: 420 EUR · Gebote: 10\nEnde: 19.11. 19:29 · Status: BIDDING_OPEN",
+   "text": "FlowUp x Powered By MSI - BLAZEFORCE 2 - Gaming-PC\nStandort: Hardenberg (NL)\nAktuelles Gebot: 460 EUR · Gebote: 12\nEnde: 19.11. 19:29 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Gaming PC"
@@ -2094,7 +2246,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/flowup-x-powered-by-msi-the-joyride-gaming-pc-A1-51232-1",
    "site": "troostwijk/surplex",
-   "text": "FlowUp x Powered By MSI - - The Joyride - Gaming-PC\nStandort: Hardenberg (NL)\nAktuelles Gebot: 1160 EUR · Gebote: 13\nEnde: 19.11. 19:02 · Status: BIDDING_OPEN",
+   "text": "FlowUp x Powered By MSI - - The Joyride - Gaming-PC\nStandort: Hardenberg (NL)\nAktuelles Gebot: 1310 EUR · Gebote: 16\nEnde: 19.11. 19:02 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Gaming PC"
@@ -2104,7 +2256,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/sharknoon-tk4-rgb-midi-gaming-pc-gehause-A1-50581-267",
    "site": "troostwijk/surplex",
-   "text": "Sharknoon - TK4 RGB MIDI - Gaming-PC-Gehäuse\nStandort: Hardenberg (NL)\nAktuelles Gebot: 40 EUR · Gebote: 7\nEnde: 16.11. 20:33 · Status: BIDDING_OPEN",
+   "text": "Sharknoon - TK4 RGB MIDI - Gaming-PC-Gehäuse\nStandort: Hardenberg (NL)\nAktuelles Gebot: 45 EUR · Gebote: 8\nEnde: 16.11. 20:33 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Gaming PC"
@@ -2114,52 +2266,12 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/flowup-x-powered-by-msi-the-not-crazy-gaming-pc-A1-51232-3",
    "site": "troostwijk/surplex",
-   "text": "FlowUp X Powered By MSI - The Not Crazy - Gaming-PC\nStandort: Hardenberg (NL)\nAktuelles Gebot: 850 EUR · Gebote: 14\nEnde: 19.11. 19:22 · Status: BIDDING_OPEN",
+   "text": "FlowUp X Powered By MSI - The Not Crazy - Gaming-PC\nStandort: Hardenberg (NL)\nAktuelles Gebot: 900 EUR · Gebote: 15\nEnde: 19.11. 19:22 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Gaming PC"
    ],
    "first_seen": "2026-10-26T08:52:07+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/pc-specialist-gaming-desktop-A1-50800-59",
-   "site": "troostwijk/surplex",
-   "text": "PC Specialist Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 650 EUR · Gebote: 33\nEnde: 05.11. 11:54 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-16T08:08:31+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/pc-specialist-gaming-desktop-A1-50800-6",
-   "site": "troostwijk/surplex",
-   "text": "PC Specialist Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 1650 EUR · Gebote: 35\nEnde: 05.11. 11:58 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-16T08:08:31+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/pc-specialist-gaming-desktop-A1-50800-41",
-   "site": "troostwijk/surplex",
-   "text": "PC Specialist Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 760 EUR · Gebote: 28\nEnde: 05.11. 12:02 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-16T08:08:31+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/pc-specialist-gaming-desktop-A1-50800-32",
-   "site": "troostwijk/surplex",
-   "text": "PC Specialist Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 660 EUR · Gebote: 40\nEnde: 05.11. 12:06 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-16T08:08:31+00:00"
   },
   {
    "url": "https://www.troostwijkauctions.com/de/l/gaming-pc-gijs-A1-51232-27",
@@ -2180,6 +2292,16 @@
     "Gaming PC"
    ],
    "first_seen": "2026-10-06T10:15:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/msi-gaming-g272qpf-monitor-A1-51614-3070",
+   "site": "troostwijk/surplex",
+   "text": "MSI Gaming G272QPF Monitor\nStandort: Emmeloord (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 15.11. 17:47 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Gaming PC"
+   ],
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
    "url": "https://www.troostwijkauctions.com/de/l/sharkoon-intel-core-i5-7400-cpu-%403-00ghz-game-desktop-ausgestattet-mit-2-lenovo-thinkvision-monitoren-A1-51514-177",
@@ -2224,7 +2346,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/lps-%E2%80%93-game-of-thrones-%284x%29-A1-51233-50",
    "site": "troostwijk/surplex",
-   "text": "LPs – Game of Thrones (4x)\nStandort: Hardenberg (NL)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 20.11. 19:46 · Status: BIDDING_OPEN",
+   "text": "LPs – Game of Thrones (4x)\nStandort: Hardenberg (NL)\nAktuelles Gebot: 15 EUR · Gebote: 2\nEnde: 20.11. 19:46 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Gaming PC"
@@ -2234,7 +2356,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/samsung-odyssey-ls24d366gauxen-gaming-monitor-A1-50578-244",
    "site": "troostwijk/surplex",
-   "text": "Samsung - Odyssey LS24D366GAUXEN - Gaming-Monitor\nStandort: Hardenberg (NL)\nAktuelles Gebot: 20 EUR · Gebote: 3\nEnde: 17.11. 20:11 · Status: BIDDING_OPEN",
+   "text": "Samsung - Odyssey LS24D366GAUXEN - Gaming-Monitor\nStandort: Hardenberg (NL)\nAktuelles Gebot: 25 EUR · Gebote: 4\nEnde: 17.11. 20:11 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Gaming PC"
@@ -2282,49 +2404,9 @@
    "first_seen": "2026-10-06T10:15:05+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-35",
-   "site": "troostwijk/surplex",
-   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 800 EUR · Gebote: 36\nEnde: 05.11. 11:55 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-16T08:08:31+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-54",
-   "site": "troostwijk/surplex",
-   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 650 EUR · Gebote: 34\nEnde: 05.11. 12:01 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-16T08:08:31+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-63",
-   "site": "troostwijk/surplex",
-   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 660 EUR · Gebote: 37\nEnde: 05.11. 12:08 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-16T08:08:31+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-gaming-desktop-A1-50800-44",
-   "site": "troostwijk/surplex",
-   "text": "Gigabyte Gaming Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 601 EUR · Gebote: 43\nEnde: 05.11. 12:07 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-16T08:08:31+00:00"
-  },
-  {
    "url": "https://www.troostwijkauctions.com/de/l/thrustmaster-t248r-gaming-lenkrad-A1-50581-236",
    "site": "troostwijk/surplex",
-   "text": "Thrustmaster - T248R - Gaming-Lenkrad\nStandort: Hardenberg (NL)\nAktuelles Gebot: 60 EUR · Gebote: 11\nEnde: 16.11. 20:45 · Status: BIDDING_OPEN",
+   "text": "Thrustmaster - T248R - Gaming-Lenkrad\nStandort: Hardenberg (NL)\nAktuelles Gebot: 70 EUR · Gebote: 12\nEnde: 16.11. 20:45 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Gaming PC"
@@ -2342,26 +2424,6 @@
    "first_seen": "2026-10-26T08:52:07+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/gaming-desktop-A1-50800-60",
-   "site": "troostwijk/surplex",
-   "text": "Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 660 EUR · Gebote: 35\nEnde: 05.11. 12:03 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-16T08:08:31+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/gaming-desktop-A1-50800-67",
-   "site": "troostwijk/surplex",
-   "text": "Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 430 EUR · Gebote: 39\nEnde: 05.11. 11:59 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-16T08:08:31+00:00"
-  },
-  {
    "url": "https://www.troostwijkauctions.com/de/l/msi-crosshair-16-hx-ai-d2xwgkg-001fr-16%22-gaming-laptop-A1-50760-191",
    "site": "troostwijk/surplex",
    "text": "MSI - Crosshair 16 HX AI D2XWGKG-001FR 16\" - Gaming-Laptop\nStandort: Hardenberg (NL)\nAktuelles Gebot: 1050 EUR · Gebote: 8\nEnde: 18.11. 20:10 · Status: BIDDING_OPEN",
@@ -2374,7 +2436,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/omen-qhd-180-hz-gaming-monitor-%2827-zoll%29-A1-50581-438",
    "site": "troostwijk/surplex",
-   "text": "Omen - QHD 180 Hz - Gaming-Monitor (27 Zoll)\nStandort: Hardenberg (NL)\nAktuelles Gebot: 30 EUR · Gebote: 5\nEnde: 16.11. 20:36 · Status: BIDDING_OPEN",
+   "text": "Omen - QHD 180 Hz - Gaming-Monitor (27 Zoll)\nStandort: Hardenberg (NL)\nAktuelles Gebot: 75 EUR · Gebote: 9\nEnde: 16.11. 20:36 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Gaming PC"
@@ -2382,19 +2444,9 @@
    "first_seen": "2026-10-05T10:23:42+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/gaming-desktop-A1-50800-30",
-   "site": "troostwijk/surplex",
-   "text": "Gaming-Desktop\nStandort: Amsterdam (NL)\nAktuelles Gebot: 900 EUR · Gebote: 45\nEnde: 05.11. 11:52 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Gaming PC"
-   ],
-   "first_seen": "2026-10-16T08:08:31+00:00"
-  },
-  {
    "url": "https://www.troostwijkauctions.com/de/l/buch-game-of-thrones-A1-40523-3308",
    "site": "troostwijk/surplex",
-   "text": "Buch Game of Thrones\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 20.11. 18:31 · Status: BIDDING_OPEN",
+   "text": "Buch Game of Thrones\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 20.11. 18:31 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Gaming PC"
@@ -2444,7 +2496,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/beamer-dmx-024-lichtmischtisch-A1-50789-127",
    "site": "troostwijk/surplex",
-   "text": "Beamer Dmx-024 Lichtmischtisch\nStandort: Pepingen (BE)\nAktuelles Gebot: 20 EUR · Gebote: 1\nEnde: 10.11. 16:25 · Status: BIDDING_OPEN",
+   "text": "Beamer Dmx-024 Lichtmischtisch\nStandort: Pepingen (BE)\nAktuelles Gebot: 25 EUR · Gebote: 2\nEnde: 10.11. 16:25 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Beamer"
@@ -2454,7 +2506,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/beamer-snow1800-schneemaschine-A1-50789-114",
    "site": "troostwijk/surplex",
-   "text": "Beamer Snow1800 Schneemaschine\nStandort: Pepingen (BE)\nAktuelles Gebot: 55 EUR · Gebote: 2\nEnde: 10.11. 16:19 · Status: BIDDING_OPEN",
+   "text": "Beamer Snow1800 Schneemaschine\nStandort: Pepingen (BE)\nAktuelles Gebot: 60 EUR · Gebote: 3\nEnde: 10.11. 16:19 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Beamer"
@@ -2464,7 +2516,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/beamer-spots-%288x%29-A1-50789-60",
    "site": "troostwijk/surplex",
-   "text": "Beamer-Spots (8x)\nStandort: Pepingen (BE)\nAktuelles Gebot: 600 EUR · Gebote: 28\nEnde: 10.11. 15:43 · Status: BIDDING_OPEN",
+   "text": "Beamer-Spots (8x)\nStandort: Pepingen (BE)\nAktuelles Gebot: 650 EUR · Gebote: 29\nEnde: 10.11. 15:43 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Beamer"
@@ -2474,7 +2526,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/beamer-hz3000-rauchmaschine-A1-50789-99",
    "site": "troostwijk/surplex",
-   "text": "Beamer Hz3000 Rauchmaschine\nStandort: Pepingen (BE)\nAktuelles Gebot: 150 EUR · Gebote: 11\nEnde: 10.11. 16:09 · Status: BIDDING_OPEN",
+   "text": "Beamer Hz3000 Rauchmaschine\nStandort: Pepingen (BE)\nAktuelles Gebot: 180 EUR · Gebote: 14\nEnde: 10.11. 16:09 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Beamer"
@@ -2504,7 +2556,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/uhappy-multi-led-kurzwurf-beamer-A1-51135-2172",
    "site": "troostwijk/surplex",
-   "text": "Uhappy Multi-LED Kurzwurf-Beamer\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 09.11. 14:54 · Status: BIDDING_OPEN",
+   "text": "Uhappy Multi-LED Kurzwurf-Beamer\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 15 EUR · Gebote: 2\nEnde: 09.11. 14:54 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Beamer"
@@ -2634,7 +2686,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/nomadix-mobile-marketing-projektor-2020-A1-51201-36",
    "site": "troostwijk/surplex",
-   "text": "NOMADIX MOBILE MARKETING-PROJEKTOR 2020\nStandort: Haut-Rhin (FR)\nAktuelles Gebot: 500 EUR · Gebote: 0\nEnde: 10.11. 15:10 · Status: BIDDING_OPEN",
+   "text": "NOMADIX MOBILE MARKETING-PROJEKTOR 2020\nStandort: Haut-Rhin (FR)\nAktuelles Gebot: 500 EUR · Gebote: 1\nEnde: 10.11. 15:10 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Projektor"
@@ -2652,6 +2704,16 @@
    "first_seen": "2026-11-04T12:18:11+00:00"
   },
   {
+   "url": "https://www.troostwijkauctions.com/de/l/hitachi-cp-x1250-projektor-A1-50788-298",
+   "site": "troostwijk/surplex",
+   "text": "Hitachi CP-X1250 Projektor\nStandort: Hendrik-Ido-Ambacht (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 20.11. 20:16 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Projektor"
+   ],
+   "first_seen": "2026-11-06T10:50:26+00:00"
+  },
+  {
    "url": "https://www.troostwijkauctions.com/de/l/oxo-kondom-c80-projektor-A1-50934-108",
    "site": "troostwijk/surplex",
    "text": "OXO - KONDOM C80 - Projektor\nStandort: Longjumeau (FR)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 12.11. 16:17 · Status: BIDDING_OPEN",
@@ -2664,7 +2726,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/dell-%28s320wi%29-3000-lumen-xga-projektor-%2820-lampenstunden%29-A1-38891-12728",
    "site": "troostwijk/surplex",
-   "text": "Dell (S320WI) 3000 Lumen XGA-Projektor (20 Lampenstunden)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 18.11. 16:30 · Status: BIDDING_OPEN",
+   "text": "Dell (S320WI) 3000 Lumen XGA-Projektor (20 Lampenstunden)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 15 EUR · Gebote: 2\nEnde: 18.11. 16:30 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Projektor"
@@ -2674,7 +2736,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hitachi-cp-wu5055-projektor-A1-51388-24",
    "site": "troostwijk/surplex",
-   "text": "Hitachi CP-WU5055 Projektor\nStandort: Beuningen (NL)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 18.11. 14:46 · Status: BIDDING_OPEN",
+   "text": "Hitachi CP-WU5055 Projektor\nStandort: Beuningen (NL)\nAktuelles Gebot: 15 EUR · Gebote: 2\nEnde: 18.11. 14:46 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Projektor"
@@ -2684,7 +2746,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/dell-%28s320wi%29-3000-lumen-xga-projektor-%28222-lampenstunden%29-A1-38891-12727",
    "site": "troostwijk/surplex",
-   "text": "Dell (S320WI) 3000 Lumen XGA-Projektor (222 Lampenstunden)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 18.11. 15:13 · Status: BIDDING_OPEN",
+   "text": "Dell (S320WI) 3000 Lumen XGA-Projektor (222 Lampenstunden)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 15 EUR · Gebote: 2\nEnde: 18.11. 15:13 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Projektor"
@@ -2704,7 +2766,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/nec-%28p554u%29-5300-lumen-wuxga-projektor-%28101-lampenstunden%29-A1-38891-12723",
    "site": "troostwijk/surplex",
-   "text": "NEC (P554U) 5300 Lumen WUXGA-Projektor (101 Lampenstunden)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 60 EUR · Gebote: 11\nEnde: 18.11. 15:58 · Status: BIDDING_OPEN",
+   "text": "NEC (P554U) 5300 Lumen WUXGA-Projektor (101 Lampenstunden)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 70 EUR · Gebote: 12\nEnde: 18.11. 15:58 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Projektor"
@@ -2714,7 +2776,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/dell-%28s320wi%29-3000-lumen-xga-projektor-%28535-lampenstunden%29-A1-38891-12725",
    "site": "troostwijk/surplex",
-   "text": "Dell (S320WI) 3000 Lumen XGA-Projektor (535 Lampenstunden)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 18.11. 16:35 · Status: BIDDING_OPEN",
+   "text": "Dell (S320WI) 3000 Lumen XGA-Projektor (535 Lampenstunden)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 18.11. 16:35 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Projektor"
@@ -2734,7 +2796,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/infocus-in5108-projektor-A1-51388-31",
    "site": "troostwijk/surplex",
-   "text": "InFocus IN5108-Projektor\nStandort: Beuningen (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 18.11. 15:43 · Status: BIDDING_OPEN",
+   "text": "InFocus IN5108-Projektor\nStandort: Beuningen (NL)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 18.11. 15:43 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Projektor"
@@ -2754,7 +2816,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/dell-%28s320wi%29-3000-lumen-xga-projektor-%28211-lampenstunden%29-A1-38891-12726",
    "site": "troostwijk/surplex",
-   "text": "Dell (S320WI) 3000 Lumen XGA-Projektor (211 Lampenstunden)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 18.11. 15:48 · Status: BIDDING_OPEN",
+   "text": "Dell (S320WI) 3000 Lumen XGA-Projektor (211 Lampenstunden)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 15 EUR · Gebote: 2\nEnde: 18.11. 15:48 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Projektor"
@@ -2784,7 +2846,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/chesto-%E2%80%93-full-hd-pro-android-%E2%80%93-projektor-A1-50581-172",
    "site": "troostwijk/surplex",
-   "text": "Chesto – Full HD PRO Android – Projektor\nStandort: Hardenberg (NL)\nAktuelles Gebot: 45 EUR · Gebote: 8\nEnde: 16.11. 20:46 · Status: BIDDING_OPEN",
+   "text": "Chesto – Full HD PRO Android – Projektor\nStandort: Hardenberg (NL)\nAktuelles Gebot: 50 EUR · Gebote: 9\nEnde: 16.11. 20:46 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Projektor"
@@ -2804,7 +2866,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/benq-mh530-projektor-mit-projektionsleinwand-A1-50943-701",
    "site": "troostwijk/surplex",
-   "text": "Benq MH530 Projektor mit Projektionsleinwand\nStandort: Hoorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 30.11. 15:25 · Status: BIDDING_OPEN",
+   "text": "Benq MH530 Projektor mit Projektionsleinwand\nStandort: Hoorn (NL)\nAktuelles Gebot: 15 EUR · Gebote: 2\nEnde: 30.11. 15:25 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Projektor"
@@ -2864,7 +2926,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/panasonic-pt-lx26ea-2-600-ansi-lumens-xga-projektor-A1-51214-120",
    "site": "troostwijk/surplex",
-   "text": "Panasonic - PT-LX26EA - 2.600 ANSI Lumens, XGA-Projektor\nStandort: Fót (HU)\nAktuelles Gebot: 80 EUR · Gebote: 0\nEnde: 16.11. 13:40 · Status: BIDDING_OPEN",
+   "text": "Panasonic - PT-LX26EA - 2.600 ANSI Lumens, XGA-Projektor\nStandort: Fót (HU)\nAktuelles Gebot: 80 EUR · Gebote: 1\nEnde: 16.11. 13:40 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Projektor"
@@ -2874,7 +2936,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/panasonic-pt-lx26ea-2-600-ansi-lumens-xga-projektor-A1-51214-117",
    "site": "troostwijk/surplex",
-   "text": "Panasonic - PT-LX26EA - 2.600 ANSI Lumens, XGA-Projektor\nStandort: Fót (HU)\nAktuelles Gebot: 80 EUR · Gebote: 0\nEnde: 16.11. 14:10 · Status: BIDDING_OPEN",
+   "text": "Panasonic - PT-LX26EA - 2.600 ANSI Lumens, XGA-Projektor\nStandort: Fót (HU)\nAktuelles Gebot: 80 EUR · Gebote: 1\nEnde: 16.11. 14:10 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Projektor"
@@ -2934,7 +2996,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/panasonic-pt-lx26ea-2-600-ansi-lumens-xga-projektor-A1-51214-118",
    "site": "troostwijk/surplex",
-   "text": "Panasonic - PT-LX26EA - 2.600 ANSI Lumens, XGA-Projektor\nStandort: Fót (HU)\nAktuelles Gebot: 80 EUR · Gebote: 0\nEnde: 16.11. 13:50 · Status: BIDDING_OPEN",
+   "text": "Panasonic - PT-LX26EA - 2.600 ANSI Lumens, XGA-Projektor\nStandort: Fót (HU)\nAktuelles Gebot: 80 EUR · Gebote: 1\nEnde: 16.11. 13:50 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Projektor"
@@ -2964,7 +3026,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/panasonic-pt-lx26ea-2-600-ansi-lumens-xga-projektor-A1-51214-119",
    "site": "troostwijk/surplex",
-   "text": "Panasonic - PT-LX26EA - 2.600 ANSI Lumens, XGA-Projektor\nStandort: Fót (HU)\nAktuelles Gebot: 80 EUR · Gebote: 0\nEnde: 16.11. 14:36 · Status: BIDDING_OPEN",
+   "text": "Panasonic - PT-LX26EA - 2.600 ANSI Lumens, XGA-Projektor\nStandort: Fót (HU)\nAktuelles Gebot: 80 EUR · Gebote: 1\nEnde: 16.11. 14:36 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Projektor"
@@ -3757,6 +3819,17 @@
    "first_seen": "2026-10-24T08:05:56+00:00"
   },
   {
+   "url": "https://www.troostwijkauctions.com/de/l/set-von-disco-led-lichteffekten-A1-49691-1056",
+   "site": "troostwijk/surplex",
+   "text": "Set von Disco-LED-Lichteffekten\nStandort: Hulst (NL)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 24.11. 11:50 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-06T10:50:26+00:00"
+  },
+  {
    "url": "https://www.troostwijkauctions.com/de/l/16-x-led-panel-36w-%E2%80%93-4200k-neutral-white-%E2%80%93-1195x295mm-%E2%80%93-ip20-%E2%80%93-zodiac-36-A1-49977-3615",
    "site": "troostwijk/surplex",
    "text": "16 x LED-Panel 36W – 4200K Neutral White – 1195x295mm – IP20 – ZODIAC-36\nStandort: Le Roeulx (BE)\nAktuelles Gebot: 355 EUR · Gebote: 0\nEnde: 06.11. 19:41 · Status: BIDDING_OPEN",
@@ -3858,7 +3931,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/5-x-led-flutlicht-100w-mit-bewegungsmelder-%E2%80%93-6500k-cold-white-%E2%80%93-ip65-%E2%80%93-flag-100-A1-49977-3588",
    "site": "troostwijk/surplex",
-   "text": "5 x LED-Flutlicht 100W mit Bewegungsmelder – 6500K Cold White – IP65 – FLAG-100\nStandort: Le Roeulx (BE)\nAktuelles Gebot: 75 EUR · Gebote: 0\nEnde: 06.11. 19:31 · Status: BIDDING_OPEN",
+   "text": "5 x LED-Flutlicht 100W mit Bewegungsmelder – 6500K Cold White – IP65 – FLAG-100\nStandort: Le Roeulx (BE)\nAktuelles Gebot: 75 EUR · Gebote: 1\nEnde: 06.11. 19:31 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -3880,7 +3953,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/5-x-led-flutlicht-50w-mit-bewegungsmelder-%E2%80%93-6500k-cold-white-%E2%80%93-ip65-%E2%80%93-flag-50-A1-49977-3584",
    "site": "troostwijk/surplex",
-   "text": "5 x LED-Flutlicht 50W mit Bewegungsmelder – 6500K Cold White – IP65 – FLAG-50\nStandort: Le Roeulx (BE)\nAktuelles Gebot: 60 EUR · Gebote: 0\nEnde: 06.11. 19:33 · Status: BIDDING_OPEN",
+   "text": "5 x LED-Flutlicht 50W mit Bewegungsmelder – 6500K Cold White – IP65 – FLAG-50\nStandort: Le Roeulx (BE)\nAktuelles Gebot: 60 EUR · Gebote: 1\nEnde: 06.11. 19:33 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -3891,7 +3964,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/10-x-led-flutlicht-50w-mit-bewegungsmelder-%E2%80%93-6500k-cold-white-%E2%80%93-ip65-%E2%80%93-flag-50-A1-49977-3585",
    "site": "troostwijk/surplex",
-   "text": "10 x LED-Flutlicht 50W mit Bewegungsmelder – 6500K Cold White – IP65 – FLAG-50\nStandort: Le Roeulx (BE)\nAktuelles Gebot: 120 EUR · Gebote: 0\nEnde: 06.11. 19:35 · Status: BIDDING_OPEN",
+   "text": "10 x LED-Flutlicht 50W mit Bewegungsmelder – 6500K Cold White – IP65 – FLAG-50\nStandort: Le Roeulx (BE)\nAktuelles Gebot: 120 EUR · Gebote: 1\nEnde: 06.11. 19:35 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -3913,7 +3986,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/64-led-hexa-led-par-%288x%29-A1-51135-2454",
    "site": "troostwijk/surplex",
-   "text": "64 LED HEXA LED-par (8x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 100 EUR · Gebote: 1\nEnde: 09.11. 16:00 · Status: BIDDING_OPEN",
+   "text": "64 LED HEXA LED-par (8x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 110 EUR · Gebote: 2\nEnde: 09.11. 16:00 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -3968,7 +4041,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/64-led-hexa-led-par-%288x%29-A1-51135-2456",
    "site": "troostwijk/surplex",
-   "text": "64 LED HEXA LED-par (8x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 09.11. 15:59 · Status: BIDDING_OPEN",
+   "text": "64 LED HEXA LED-par (8x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 110 EUR · Gebote: 2\nEnde: 09.11. 15:59 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -3990,7 +4063,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/bsl-twist-beam-7-led-led-headwash-%284x%29-A1-51135-2232",
    "site": "troostwijk/surplex",
-   "text": "BSL Twist Beam 7-LED LED-Headwash (4x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 90 EUR · Gebote: 6\nEnde: 09.11. 15:09 · Status: BIDDING_OPEN",
+   "text": "BSL Twist Beam 7-LED LED-Headwash (4x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 110 EUR · Gebote: 8\nEnde: 09.11. 15:09 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -4078,7 +4151,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/64-led-hexa-led-par-%288x%29-A1-51135-2455",
    "site": "troostwijk/surplex",
-   "text": "64 LED HEXA LED-par (8x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 09.11. 15:58 · Status: BIDDING_OPEN",
+   "text": "64 LED HEXA LED-par (8x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 110 EUR · Gebote: 2\nEnde: 09.11. 15:58 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -4166,7 +4239,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/bsl-twist-beam-7-led-led-headwash-%284x%29-A1-51135-2234",
    "site": "troostwijk/surplex",
-   "text": "BSL Twist Beam 7-LED LED-Headwash (4x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 70 EUR · Gebote: 4\nEnde: 09.11. 15:11 · Status: BIDDING_OPEN",
+   "text": "BSL Twist Beam 7-LED LED-Headwash (4x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 80 EUR · Gebote: 5\nEnde: 09.11. 15:11 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -4342,7 +4415,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/samsung-hg55ee690db-55-zoll-led-tv-fernseher-A3-51312-198",
    "site": "troostwijk/surplex",
-   "text": "Samsung - HG55EE690DB - 55 Zoll LED-TV - Fernseher\nStandort: Stekene (BE)\nAktuelles Gebot: 50 EUR · Gebote: 5\nEnde: 12.11. 21:01 · Status: BIDDING_OPEN",
+   "text": "Samsung - HG55EE690DB - 55 Zoll LED-TV - Fernseher\nStandort: Stekene (BE)\nAktuelles Gebot: 55 EUR · Gebote: 6\nEnde: 12.11. 21:01 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -4353,7 +4426,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/samsung-hg55ee690db-55-zoll-led-tv-fernseher-A3-51312-197",
    "site": "troostwijk/surplex",
-   "text": "Samsung - HG55EE690DB - 55 Zoll LED-TV - Fernseher\nStandort: Stekene (BE)\nAktuelles Gebot: 45 EUR · Gebote: 4\nEnde: 12.11. 21:03 · Status: BIDDING_OPEN",
+   "text": "Samsung - HG55EE690DB - 55 Zoll LED-TV - Fernseher\nStandort: Stekene (BE)\nAktuelles Gebot: 55 EUR · Gebote: 6\nEnde: 12.11. 21:03 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -4364,7 +4437,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/samsung-hg55ee690db-55-zoll-led-tv-fernseher-A3-51312-199",
    "site": "troostwijk/surplex",
-   "text": "Samsung - HG55EE690DB - 55 Zoll LED-TV - Fernseher\nStandort: Stekene (BE)\nAktuelles Gebot: 50 EUR · Gebote: 5\nEnde: 12.11. 21:03 · Status: BIDDING_OPEN",
+   "text": "Samsung - HG55EE690DB - 55 Zoll LED-TV - Fernseher\nStandort: Stekene (BE)\nAktuelles Gebot: 55 EUR · Gebote: 6\nEnde: 12.11. 21:03 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -4375,7 +4448,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/4-x-led-flutlicht-300w-%E2%80%93-6500k-kaltwei%C3%9F-%E2%80%93-ip65-%E2%80%93-eyes-300-A1-49977-3539",
    "site": "troostwijk/surplex",
-   "text": "4 x LED-Flutlicht 300W – 6500K Kaltweiß – IP65 – EYES-300\nStandort: Le Roeulx (BE)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 06.11. 19:21 · Status: BIDDING_OPEN",
+   "text": "4 x LED-Flutlicht 300W – 6500K Kaltweiß – IP65 – EYES-300\nStandort: Le Roeulx (BE)\nAktuelles Gebot: 250 EUR · Gebote: 1\nEnde: 06.11. 19:21 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -4397,7 +4470,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/2-x-led-flutlicht-300w-%E2%80%93-6500k-kaltwei%C3%9F-%E2%80%93-ip65-%E2%80%93-eyes-300-A1-49977-3538",
    "site": "troostwijk/surplex",
-   "text": "2 x LED-Flutlicht 300W – 6500K Kaltweiß – IP65 – EYES-300\nStandort: Le Roeulx (BE)\nAktuelles Gebot: 130 EUR · Gebote: 0\nEnde: 06.11. 19:19 · Status: BIDDING_OPEN",
+   "text": "2 x LED-Flutlicht 300W – 6500K Kaltweiß – IP65 – EYES-300\nStandort: Le Roeulx (BE)\nAktuelles Gebot: 130 EUR · Gebote: 1\nEnde: 06.11. 19:19 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -4463,7 +4536,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/trime-x-solar-led-solar-lichtmastanhanger-%E2%80%93-bj-2020-%E2%80%93-1-440-w-solarleistung-A1-51512-30",
    "site": "troostwijk/surplex",
-   "text": "Trime X-Solar LED Solar-Lichtmastanhänger – Bj. 2020 – 1.440 W Solarleistung\nStandort: Berlin (DE)\nAktuelles Gebot: 1000 EUR · Gebote: 0\nEnde: 10.11. 10:26 · Status: BIDDING_OPEN",
+   "text": "Trime X-Solar LED Solar-Lichtmastanhänger – Bj. 2020 – 1.440 W Solarleistung\nStandort: Berlin (DE)\nAktuelles Gebot: 1000 EUR · Gebote: 1\nEnde: 10.11. 10:26 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -4549,31 +4622,20 @@
    "first_seen": "2026-11-04T12:18:11+00:00"
   },
   {
+   "url": "https://www.troostwijkauctions.com/de/l/led-scroll-schild-A1-49691-1070",
+   "site": "troostwijk/surplex",
+   "text": "LED-Scroll-Schild\nStandort: Hulst (NL)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 24.11. 10:29 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-06T10:50:26+00:00"
+  },
+  {
    "url": "https://www.troostwijkauctions.com/de/l/led-pendelleuchte-12w-%E2%80%93-4000k-neutral-wei%C3%9F-%E2%80%93-schwarz-%E2%80%93-ip20-%E2%80%93-santana-A1-49977-3809",
    "site": "troostwijk/surplex",
    "text": "LED-Pendelleuchte 12W – 4000K Neutral Weiß – Schwarz – IP20 – SANTANA\nStandort: Le Roeulx (BE)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 06.11. 19:51 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-04T12:18:11+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/batch-led-beleuchtung-A1-50943-493",
-   "site": "troostwijk/surplex",
-   "text": "Batch-LED-Beleuchtung\nStandort: Hoorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 30.11. 14:19 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-04T12:18:11+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/24-x-g-tec-slim-led-45-watt-ultra-low-led-panels-A3-50928-236",
-   "site": "troostwijk/surplex",
-   "text": "24 x G-tec Slim LED 45 Watt Ultra Low LED-Panels\nStandort: Free Delivery (NL)\nAktuelles Gebot: 125 EUR · Gebote: 0\nEnde: 08.11. 19:31 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -4760,7 +4822,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hbm-doppel-led-baulampe-2-x-50w-2-x-4-700-lumen-mit-stativ-5000k-A1-40901-499",
    "site": "troostwijk/surplex",
-   "text": "HBM Doppel-LED-Baulampe 2 x 50W 2 x 4.700 Lumen mit Stativ 5000K\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 14.11. 19:37 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "HBM Doppel-LED-Baulampe 2 x 50W 2 x 4.700 Lumen mit Stativ 5000K\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 14.11. 19:37 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -4771,7 +4833,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hbm-doppel-led-baulampe-2-x-50w-2-x-4-700-lumen-mit-stativ-5000k-A1-40901-508",
    "site": "troostwijk/surplex",
-   "text": "HBM Doppel-LED-Baulampe 2 x 50W 2 x 4.700 Lumen mit Stativ 5000K\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 14.11. 19:38 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "HBM Doppel-LED-Baulampe 2 x 50W 2 x 4.700 Lumen mit Stativ 5000K\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 14.11. 19:38 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -4782,7 +4844,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hbm-doppel-led-baulampe-2-x-50w-2-x-4-700-lumen-mit-stativ-5000k-A1-40901-504",
    "site": "troostwijk/surplex",
-   "text": "HBM Doppel-LED-Baulampe 2 x 50W 2 x 4.700 Lumen mit Stativ 5000K\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 14.11. 19:01 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "HBM Doppel-LED-Baulampe 2 x 50W 2 x 4.700 Lumen mit Stativ 5000K\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 14.11. 19:01 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -4793,7 +4855,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/milwaukee-m18-t-led-18v-li-ion-batterie-arbeitslampe-%E2%80%93-120lm-A1-40901-184",
    "site": "troostwijk/surplex",
-   "text": "Milwaukee M18 T-LED 18V Li-Ion Batterie-Arbeitslampe – 120Lm\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 14.11. 20:17 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "Milwaukee M18 T-LED 18V Li-Ion Batterie-Arbeitslampe – 120Lm\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 14.11. 20:17 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -4815,7 +4877,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hbm-doppel-led-baulampe-2-x-50w-2-x-4-700-lumen-mit-stativ-5000k-A1-40901-229",
    "site": "troostwijk/surplex",
-   "text": "HBM Doppel-LED-Baulampe 2 x 50W 2 x 4.700 Lumen mit Stativ 5000K\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 14.11. 19:08 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "HBM Doppel-LED-Baulampe 2 x 50W 2 x 4.700 Lumen mit Stativ 5000K\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 14.11. 19:08 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -4837,7 +4899,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/p-l-led-scheinwerfer-im-freien-%284x%29-A1-40901-134",
    "site": "troostwijk/surplex",
-   "text": "P&L LED-Scheinwerfer im Freien (4x)\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 14.11. 20:41 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "P&L LED-Scheinwerfer im Freien (4x)\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 14.11. 20:41 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -4848,7 +4910,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/p-l-au%C3%9Fen-led-scheinwerfer-mit-sensor-%284x%29-A1-40901-535",
    "site": "troostwijk/surplex",
-   "text": "P&L Außen-LED-Scheinwerfer mit Sensor (4x)\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 14.11. 20:29 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "P&L Außen-LED-Scheinwerfer mit Sensor (4x)\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 14.11. 20:29 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -4859,7 +4921,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hbm-wand-deckenschleifer-750-watt-%2B-led-lampe-A1-40901-153",
    "site": "troostwijk/surplex",
-   "text": "HBM Wand-Deckenschleifer 750 Watt + LED-Lampe\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 14.11. 21:02 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "HBM Wand-Deckenschleifer 750 Watt + LED-Lampe\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 14.11. 21:02 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand"
@@ -4869,7 +4931,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/hbm-wand-deckenschleifer-750-watt-%2B-led-lampe-A1-40901-17",
    "site": "troostwijk/surplex",
-   "text": "HBM Wand-Deckenschleifer 750 Watt + LED-Lampe\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 14.11. 20:07 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "HBM Wand-Deckenschleifer 750 Watt + LED-Lampe\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 14.11. 20:07 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand"
@@ -4879,7 +4941,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/led-licht-%E2%80%93-10m-%E2%80%93-16-farben-%E2%80%93-usb-%283x%29-A1-40901-113",
    "site": "troostwijk/surplex",
-   "text": "LED-Licht – 10m – 16 Farben – USB (3x)\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 14.11. 19:12 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "LED-Licht – 10m – 16 Farben – USB (3x)\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 14.11. 19:12 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -4956,7 +5018,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/2026-ep-efxz-251-2500kg-gabelstapler-led-display-A1-40407-45",
    "site": "troostwijk/surplex",
-   "text": "2026 EP EFXZ-251 2500KG Gabelstapler-LED-Display\nStandort: Cruquius (NL)\nAktuelles Gebot: 5000 EUR · Gebote: 0\nEnde: 09.11. 10:09 · Status: BIDDING_OPEN",
+   "text": "2026 EP EFXZ-251 2500KG Gabelstapler-LED-Display\nStandort: Cruquius (NL)\nAktuelles Gebot: 5000 EUR · Gebote: 1\nEnde: 09.11. 10:09 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -4967,7 +5029,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/2026-ep-efxz-351-h-3500kg-gabelstapler-led-display-A1-40407-14",
    "site": "troostwijk/surplex",
-   "text": "2026 EP EFXZ-351-H 3500KG Gabelstapler-LED-Display\nStandort: Cruquius (NL)\nAktuelles Gebot: 5000 EUR · Gebote: 0\nEnde: 09.11. 10:02 · Status: BIDDING_OPEN",
+   "text": "2026 EP EFXZ-351-H 3500KG Gabelstapler-LED-Display\nStandort: Cruquius (NL)\nAktuelles Gebot: 5000 EUR · Gebote: 1\nEnde: 09.11. 10:02 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -4978,7 +5040,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/2026-ep-efxz-h-3000kg-gabelstapler-led-display-A1-40407-18",
    "site": "troostwijk/surplex",
-   "text": "2026 EP EFXZ-H 3000KG Gabelstapler-LED-Display\nStandort: Cruquius (NL)\nAktuelles Gebot: 5000 EUR · Gebote: 0\nEnde: 09.11. 10:22 · Status: BIDDING_OPEN",
+   "text": "2026 EP EFXZ-H 3000KG Gabelstapler-LED-Display\nStandort: Cruquius (NL)\nAktuelles Gebot: 5000 EUR · Gebote: 1\nEnde: 09.11. 10:22 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -5077,7 +5139,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/p-l-led-scheinwerfer-%284x%29-A1-40901-337",
    "site": "troostwijk/surplex",
-   "text": "P&L LED-Scheinwerfer (4x)\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 14.11. 20:39 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "P&L LED-Scheinwerfer (4x)\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 14.11. 20:39 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -5341,7 +5403,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/p-l-led-scheinwerfer-%284x%29-A1-40901-45",
    "site": "troostwijk/surplex",
-   "text": "P&L LED-Scheinwerfer (4x)\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 14.11. 19:43 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "P&L LED-Scheinwerfer (4x)\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 14.11. 19:43 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -5363,7 +5425,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/p-l-led-scheinwerfer-%284x%29-A1-40901-336",
    "site": "troostwijk/surplex",
-   "text": "P&L LED-Scheinwerfer (4x)\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 14.11. 20:20 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "P&L LED-Scheinwerfer (4x)\nStandort: Online (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 14.11. 20:20 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "LED Wand",
@@ -5636,7 +5698,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/blackmagic-%286gsdi%29-4k-automatisch-umschaltende-sdi-zu-hdmi-mini-konverter-%288x%29-A1-38891-12741",
    "site": "troostwijk/surplex",
-   "text": "BlackMagic (6GSDI) 4K automatisch-umschaltende SDI-zu-HDMI-Mini-Konverter (8x)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 15 EUR · Gebote: 2\nEnde: 18.11. 14:39 · Status: BIDDING_OPEN",
+   "text": "BlackMagic (6GSDI) 4K automatisch-umschaltende SDI-zu-HDMI-Mini-Konverter (8x)\nStandort: Loon op Zand (NL)\nAktuelles Gebot: 25 EUR · Gebote: 4\nEnde: 18.11. 14:39 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Blackmagic"
@@ -5716,7 +5778,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/bsl-goliath-17r-moving-head-hybrid-%282x%29-A1-51135-2228",
    "site": "troostwijk/surplex",
-   "text": "BSL Goliath 17R Moving Head Hybrid (2x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 60 EUR · Gebote: 3\nEnde: 09.11. 15:08 · Status: BIDDING_OPEN",
+   "text": "BSL Goliath 17R Moving Head Hybrid (2x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 70 EUR · Gebote: 4\nEnde: 09.11. 15:08 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Moving Head"
@@ -5776,7 +5838,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/bsl-goliath-17r-moving-head-hybrid-%282x%29-A1-51135-2230",
    "site": "troostwijk/surplex",
-   "text": "BSL Goliath 17R Moving Head Hybrid (2x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 09.11. 15:10 · Status: BIDDING_OPEN",
+   "text": "BSL Goliath 17R Moving Head Hybrid (2x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 50 EUR · Gebote: 1\nEnde: 09.11. 15:10 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Moving Head"
@@ -5786,7 +5848,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/robe-spot-700-at-moving-head-%284x%29-A1-50861-19",
    "site": "troostwijk/surplex",
-   "text": "Robe Spot 700 AT Moving Head (4x)\nStandort: Wevelgem (BE)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 18.11. 19:10 · Status: BIDDING_OPEN",
+   "text": "Robe Spot 700 AT Moving Head (4x)\nStandort: Wevelgem (BE)\nAktuelles Gebot: 100 EUR · Gebote: 1\nEnde: 18.11. 19:10 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Moving Head"
@@ -5806,7 +5868,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/top-move-shopper-bag-%28200x%29-A1-51024-112",
    "site": "troostwijk/surplex",
-   "text": "Top-Move Shopper Bag (200x)\nStandort: De Lutte (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 16.11. 14:28 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "Top-Move Shopper Bag (200x)\nStandort: De Lutte (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 16.11. 14:28 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Moving Head"
@@ -5846,7 +5908,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/light-inc-mh200-mkii-led-moving-head-hybrid-%282x%29-A1-51135-2247",
    "site": "troostwijk/surplex",
-   "text": "Light-inc MH200 MKII LED-Moving Head Hybrid (2x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 70 EUR · Gebote: 4\nEnde: 09.11. 15:14 · Status: BIDDING_OPEN",
+   "text": "Light-inc MH200 MKII LED-Moving Head Hybrid (2x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 80 EUR · Gebote: 5\nEnde: 09.11. 15:14 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Moving Head"
@@ -5856,7 +5918,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/light-inc-mh200-mkii-led-moving-head-hybrid-%282x%29-A1-51135-2246",
    "site": "troostwijk/surplex",
-   "text": "Light-inc MH200 MKII LED-Moving Head Hybrid (2x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 60 EUR · Gebote: 3\nEnde: 09.11. 15:13 · Status: BIDDING_OPEN",
+   "text": "Light-inc MH200 MKII LED-Moving Head Hybrid (2x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 80 EUR · Gebote: 5\nEnde: 09.11. 15:13 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Moving Head"
@@ -5866,7 +5928,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/light-inc-mh200-mkii-led-moving-head-hybrid-%282x%29-A1-51135-2245",
    "site": "troostwijk/surplex",
-   "text": "Light-inc MH200 MKII LED-Moving Head Hybrid (2x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 60 EUR · Gebote: 3\nEnde: 09.11. 15:12 · Status: BIDDING_OPEN",
+   "text": "Light-inc MH200 MKII LED-Moving Head Hybrid (2x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 100 EUR · Gebote: 7\nEnde: 09.11. 15:12 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Moving Head"
@@ -5876,7 +5938,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/light-inc-mh200-mkii-led-moving-head-hybrid-%282x%29-A1-51135-2248",
    "site": "troostwijk/surplex",
-   "text": "Light-inc MH200 MKII LED-Moving Head Hybrid (2x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 60 EUR · Gebote: 3\nEnde: 09.11. 15:12 · Status: BIDDING_OPEN",
+   "text": "Light-inc MH200 MKII LED-Moving Head Hybrid (2x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 70 EUR · Gebote: 4\nEnde: 09.11. 15:12 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Moving Head"
@@ -5936,7 +5998,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/party-top-move-shopper-bags-A1-51024-113",
    "site": "troostwijk/surplex",
-   "text": "Party Top move Shopper Bags\nStandort: De Lutte (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 16.11. 15:32 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "Party Top move Shopper Bags\nStandort: De Lutte (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 16.11. 15:32 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Moving Head"
@@ -5946,7 +6008,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/bsl-magic-zoom-7-led-moving-headwash-%284x%29-A1-51135-2244",
    "site": "troostwijk/surplex",
-   "text": "BSL Magic Zoom 7 LED-moving Headwash (4x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 120 EUR · Gebote: 9\nEnde: 09.11. 15:11 · Status: BIDDING_OPEN",
+   "text": "BSL Magic Zoom 7 LED-moving Headwash (4x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 180 EUR · Gebote: 15\nEnde: 09.11. 15:11 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Moving Head"
@@ -5956,22 +6018,12 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/bsl-magic-zoom-7-led-moving-headwash-%284x%29-A1-51135-2243",
    "site": "troostwijk/surplex",
-   "text": "BSL Magic Zoom 7 LED-moving Headwash (4x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 130 EUR · Gebote: 10\nEnde: 09.11. 15:13 · Status: BIDDING_OPEN",
+   "text": "BSL Magic Zoom 7 LED-moving Headwash (4x)\nStandort: Valkenswaard (NL)\nAktuelles Gebot: 150 EUR · Gebote: 12\nEnde: 09.11. 15:13 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Moving Head"
    ],
    "first_seen": "2026-10-26T08:52:07+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/2023-luczko-ts-1u-heben-traverse-1-tonne-A1-50694-102",
-   "site": "troostwijk/surplex",
-   "text": "2023 - Luczko - TS-1U - Heben-Traverse 1 Tonne\nStandort: Trnava (SK)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 05.11. 14:20 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Traverse"
-   ],
-   "first_seen": "2026-10-14T08:41:14+00:00"
   },
   {
    "url": "https://www.troostwijkauctions.com/de/l/2013-rotwein-le-traversee-%2836x%29-A1-51254-69",
@@ -6004,6 +6056,26 @@
    "first_seen": "2026-10-27T08:57:32+00:00"
   },
   {
+   "url": "https://www.troostwijkauctions.com/de/l/kroger-1980-krantraverse-A1-51692-3",
+   "site": "troostwijk/surplex",
+   "text": "KRÖGER - 1980 - Krantraverse\nStandort: Hagen (DE)\nAktuelles Gebot: 500 EUR · Gebote: 0\nEnde: 24.11. 13:02 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-11-06T10:50:26+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/kroger-1970-krantraverse-A1-51692-93",
+   "site": "troostwijk/surplex",
+   "text": "KRÖGER - 1970 - Krantraverse\nStandort: Hagen (DE)\nAktuelles Gebot: 500 EUR · Gebote: 0\nEnde: 24.11. 13:12 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-11-06T10:50:26+00:00"
+  },
+  {
    "url": "https://www.troostwijkauctions.com/de/l/ssi-schafer-traversenregal-2012-2014-palettenregal-A1-51321-27",
    "site": "troostwijk/surplex",
    "text": "SSi Schäfer - Traversenregal - 2012-2014 - Palettenregal\nStandort: Oelde (DE)\nAktuelles Gebot: 1750 EUR · Gebote: 0\nEnde: 16.11. 16:26 · Status: BIDDING_OPEN",
@@ -6026,7 +6098,7 @@
   {
    "url": "https://www.troostwijkauctions.com/de/l/2013-rotwein-le-traversee-%2812x%29-A1-51254-66",
    "site": "troostwijk/surplex",
-   "text": "2013 Rotwein Le Traversée (12x)\nStandort: Mollem (BE)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 13.11. 15:11 · Status: BIDDING_OPEN",
+   "text": "2013 Rotwein Le Traversée (12x)\nStandort: Mollem (BE)\nAktuelles Gebot: 10 EUR · Gebote: 1\nEnde: 13.11. 15:11 · Status: BIDDING_OPEN",
    "img_alt": "",
    "keywords": [
     "Traverse"
@@ -6034,14 +6106,24 @@
    "first_seen": "2026-11-04T12:18:11+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/2022-luczko-tsw-3-hubtraverse-3-tonnen-A1-50694-98",
+   "url": "https://www.troostwijkauctions.com/de/l/ernst-kroger-1986-krantraverse-A1-51692-608",
    "site": "troostwijk/surplex",
-   "text": "2022 - Luczko - TSW 3 - Hubtraverse 3 Tonnen\nStandort: Trnava (SK)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 05.11. 14:18 · Status: BIDDING_OPEN",
+   "text": "ERNST KRÖGER - 1986 - Krantraverse\nStandort: Hagen (DE)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 24.11. 14:01 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "Traverse"
    ],
-   "first_seen": "2026-10-14T08:41:14+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/ernst-kroger-1996-krantraverse-A1-51692-607",
+   "site": "troostwijk/surplex",
+   "text": "ERNST KRÖGER - 1996 - Krantraverse\nStandort: Hagen (DE)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 24.11. 14:00 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
    "url": "https://www.troostwijkauctions.com/de/l/hywema-trb-hv-7-5-traversenbock-%282x%29-A1-51634-38",
@@ -6054,39 +6136,9 @@
    "first_seen": "2026-11-04T12:18:11+00:00"
   },
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/10_x_Notebook_Lenovo_ThinkPad_X280_12_531_75_cm_inkl_div_Zubeh%C3%B6r/986904",
-   "site": "zoll-auktion",
-   "text": "10 x Notebook Lenovo ThinkPad X280 (12,5\"/31,75 cm) inkl. div. Zubehör\nBeobachtung Auktion 986904 verwalten\nAuktion in Beobachtung nehmen.\n10 x Notebook Lenovo ThinkPad X280 (12,5\"/31,75 cm) inkl. div. Zubehör\n50825 Köln\nNur Abholung möglich!\nnoch 2 Std. 10 Min.\n35 Gebote\n1.550,00 EUR",
-   "img_alt": "Beispielfoto",
-   "keywords": [
-    "Grafikkarte"
-   ],
-   "first_seen": "2026-10-23T08:30:49+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/10_x_Notebook_Lenovo_ThinkPad_X280_12_531_75_cm_inkl_div_Zubeh%C3%B6r/986911",
-   "site": "zoll-auktion",
-   "text": "10 x Notebook Lenovo ThinkPad X280 (12,5\"/31,75 cm) inkl. div. Zubehör\nBeobachtung Auktion 986911 verwalten\nAuktion in Beobachtung nehmen.\n10 x Notebook Lenovo ThinkPad X280 (12,5\"/31,75 cm) inkl. div. Zubehör\n50825 Köln\nNur Abholung möglich!\nnoch 2 Std. 41 Min.\n13 Gebote\n1.551,00 EUR",
-   "img_alt": "Beispielfoto",
-   "keywords": [
-    "Grafikkarte"
-   ],
-   "first_seen": "2026-10-23T08:30:49+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Service_Terminal_kein_Typenschild_was_auf_einen_Hersteller_oder_Model_hinweist/985533",
-   "site": "zoll-auktion",
-   "text": "1 Service Terminal / kein Typenschild was auf einen Hersteller oder Model hinweist\nBeobachtung Auktion 985533 verwalten\nAuktion in Beobachtung nehmen.\n1 Service Terminal / kein Typenschild was auf einen Hersteller oder Model hinweist\n30169 Hannover\nNur Abholung möglich!\nnoch 3 Std. 8 Min.\n0 Gebote\n49,00 EUR",
-   "img_alt": "Vorderseite des Terminals mit geöffneter Unterbautür.",
-   "keywords": [
-    "Grafikkarte"
-   ],
-   "first_seen": "2026-10-16T08:08:31+00:00"
-  },
-  {
    "url": "https://www.zoll-auktion.de/auktion/produkt/10_x_Notebook_Lenovo_ThinkPad_X280_12_531_75_cm_inkl_Dockingstation/987149",
    "site": "zoll-auktion",
-   "text": "10 x Notebook Lenovo ThinkPad X280 (12,5\"/31,75 cm) inkl. Dockingstation\nBeobachtung Auktion 987149 verwalten\nAuktion in Beobachtung nehmen.\n10 x Notebook Lenovo ThinkPad X280 (12,5\"/31,75 cm) inkl. Dockingstati­on\n50825 Köln\nNur Abholung möglich!\n1 Tag 23 Std. 28 Min.\n9 Gebote\n1.250,00 EUR",
+   "text": "10 x Notebook Lenovo ThinkPad X280 (12,5\"/31,75 cm) inkl. Dockingstation\nBeobachtung Auktion 987149 verwalten\nAuktion in Beobachtung nehmen.\n10 x Notebook Lenovo ThinkPad X280 (12,5\"/31,75 cm) inkl. Dockingstati­on\n50825 Köln\nNur Abholung möglich!\nnoch 23 Std. 29 Min.\n15 Gebote\n1.751,00 EUR",
    "img_alt": "Beispielfoto",
    "keywords": [
     "Grafikkarte"
@@ -6096,7 +6148,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/10_x_Notebook_Lenovo_ThinkPad_X280_12_531_75_cm_inkl_Dockingstation/987150",
    "site": "zoll-auktion",
-   "text": "10 x Notebook Lenovo ThinkPad X280 (12,5\"/31,75 cm) inkl. Dockingstation\nBeobachtung Auktion 987150 verwalten\nAuktion in Beobachtung nehmen.\n10 x Notebook Lenovo ThinkPad X280 (12,5\"/31,75 cm) inkl. Dockingstati­on\n50825 Köln\nNur Abholung möglich!\n3 Tage 23 Std. 33 Min.\n13 Gebote\n1.300,00 EUR",
+   "text": "10 x Notebook Lenovo ThinkPad X280 (12,5\"/31,75 cm) inkl. Dockingstation\nBeobachtung Auktion 987150 verwalten\nAuktion in Beobachtung nehmen.\n10 x Notebook Lenovo ThinkPad X280 (12,5\"/31,75 cm) inkl. Dockingstati­on\n50825 Köln\nNur Abholung möglich!\n2 Tage 23 Std. 34 Min.\n23 Gebote\n1.800,00 EUR",
    "img_alt": "Beispielfoto",
    "keywords": [
     "Grafikkarte"
@@ -6106,7 +6158,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/1_Apple_iMac_A1419_Quad_Core_Intel_i7_27_Zoll_68_58cm/987658",
    "site": "zoll-auktion",
-   "text": "1 Apple iMac A1419, Quad Core Intel i7, 27 Zoll, 68,58cm\nBeobachtung Auktion 987658 verwalten\nAuktion in Beobachtung nehmen.\n1 Apple iMac A1419, Quad Core Intel i7, 27 Zoll, 68,58cm\n38229 Salzgitter\nNur Abholung möglich!\n4 Tage 3 Std. 17 Min.\n1 Gebot\n250,00 EUR",
+   "text": "1 Apple iMac A1419, Quad Core Intel i7, 27 Zoll, 68,58cm\nBeobachtung Auktion 987658 verwalten\nAuktion in Beobachtung nehmen.\n1 Apple iMac A1419, Quad Core Intel i7, 27 Zoll, 68,58cm\n38229 Salzgitter\nNur Abholung möglich!\n3 Tage 3 Std. 18 Min.\n1 Gebot\n250,00 EUR",
    "img_alt": "Vorderseite",
    "keywords": [
     "Grafikkarte"
@@ -6116,7 +6168,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/2_Dell_OptiPlex_380_MT/981501",
    "site": "zoll-auktion",
-   "text": "2 Dell OptiPlex 380 MT\nBeobachtung Auktion 981501 verwalten\nAuktion in Beobachtung nehmen.\n2 Dell OptiPlex 380 MT\n38120 Braunschweig\nNur Abholung möglich!\n8 Tage 23 Std. 8 Min.\n0 Gebote\n20,00 EUR",
+   "text": "2 Dell OptiPlex 380 MT\nBeobachtung Auktion 981501 verwalten\nAuktion in Beobachtung nehmen.\n2 Dell OptiPlex 380 MT\n38120 Braunschweig\nNur Abholung möglich!\n7 Tage 23 Std. 9 Min.\n0 Gebote\n20,00 EUR",
    "img_alt": "Frontansicht",
    "keywords": [
     "Grafikkarte"
@@ -6126,7 +6178,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/3_HP_8200_Elite_vPro_Technologie_Tower_baugleich/981502",
    "site": "zoll-auktion",
-   "text": "3 HP 8200 Elite vPro Technologie Tower baugleich\nBeobachtung Auktion 981502 verwalten\nAuktion in Beobachtung nehmen.\n3 HP 8200 Elite vPro Technologie Tower baugleich\n38120 Braunschweig\nNur Abholung möglich!\n8 Tage 23 Std. 38 Min.\n0 Gebote\n20,00 EUR",
+   "text": "3 HP 8200 Elite vPro Technologie Tower baugleich\nBeobachtung Auktion 981502 verwalten\nAuktion in Beobachtung nehmen.\n3 HP 8200 Elite vPro Technologie Tower baugleich\n38120 Braunschweig\nNur Abholung möglich!\n7 Tage 23 Std. 39 Min.\n0 Gebote\n20,00 EUR",
    "img_alt": "CE-Kennzeichnung des ersten HP 8200 Elite",
    "keywords": [
     "Grafikkarte"
@@ -6136,7 +6188,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/1_Projektor_Sony_VPLPHZ10_5000_Lumen/988194",
    "site": "zoll-auktion",
-   "text": "1 Projektor Sony VPL-PHZ10, 5000 Lumen\nBeobachtung Auktion 988194 verwalten\nAuktion in Beobachtung nehmen.\n1 Projektor Sony VPL-PHZ10, 5000 Lumen\n53113 Bonn\nNur Abholung möglich!\n3 Tage 21 Std. 5 Min.\n2 Gebote\n110,00 EUR",
+   "text": "1 Projektor Sony VPL-PHZ10, 5000 Lumen\nBeobachtung Auktion 988194 verwalten\nAuktion in Beobachtung nehmen.\n1 Projektor Sony VPL-PHZ10, 5000 Lumen\n53113 Bonn\nNur Abholung möglich!\n2 Tage 21 Std. 6 Min.\n8 Gebote\n210,00 EUR",
    "img_alt": "Laserbeamer Vorderansicht",
    "keywords": [
     "Beamer",
@@ -6147,7 +6199,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/5_Projektor_Sony_VPLPHZ10_5000_Lumen/988228",
    "site": "zoll-auktion",
-   "text": "5 Projektor Sony VPL-PHZ10, 5000 Lumen\nBeobachtung Auktion 988228 verwalten\nAuktion in Beobachtung nehmen.\n5 Projektor Sony VPL-PHZ10, 5000 Lumen\n53113 Bonn\nNur Abholung möglich!\n3 Tage 23 Std. 7 Min.\n4 Gebote\n570,00 EUR",
+   "text": "5 Projektor Sony VPL-PHZ10, 5000 Lumen\nBeobachtung Auktion 988228 verwalten\nAuktion in Beobachtung nehmen.\n5 Projektor Sony VPL-PHZ10, 5000 Lumen\n53113 Bonn\nNur Abholung möglich!\n2 Tage 23 Std. 8 Min.\n12 Gebote\n790,00 EUR",
    "img_alt": "Laserbeamer Vorderansicht",
    "keywords": [
     "Beamer",
@@ -6158,7 +6210,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/5_Projektor_Sony_VPLPHZ12_5000_Lumen/988239",
    "site": "zoll-auktion",
-   "text": "5 Projektor Sony VPL-PHZ12, 5000 Lumen\nBeobachtung Auktion 988239 verwalten\nAuktion in Beobachtung nehmen.\n5 Projektor Sony VPL-PHZ12, 5000 Lumen\n53113 Bonn\nNur Abholung möglich!\n3 Tage 23 Std. 12 Min.\n1 Gebot\n500,00 EUR",
+   "text": "5 Projektor Sony VPL-PHZ12, 5000 Lumen\nBeobachtung Auktion 988239 verwalten\nAuktion in Beobachtung nehmen.\n5 Projektor Sony VPL-PHZ12, 5000 Lumen\n53113 Bonn\nNur Abholung möglich!\n2 Tage 23 Std. 13 Min.\n15 Gebote\n800,00 EUR",
    "img_alt": "Laserbeamer Vorderansicht",
    "keywords": [
     "Beamer",
@@ -6169,7 +6221,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/1_Projektor_Sony_VPLPHZ12_5000_Lumen/988207",
    "site": "zoll-auktion",
-   "text": "1 Projektor Sony VPL-PHZ12, 5000 Lumen\nBeobachtung Auktion 988207 verwalten\nAuktion in Beobachtung nehmen.\n1 Projektor Sony VPL-PHZ12, 5000 Lumen\n53113 Bonn\nNur Abholung möglich!\n5 Tage 21 Std. 40 Min.\n0 Gebote\n100,00 EUR",
+   "text": "1 Projektor Sony VPL-PHZ12, 5000 Lumen\nBeobachtung Auktion 988207 verwalten\nAuktion in Beobachtung nehmen.\n1 Projektor Sony VPL-PHZ12, 5000 Lumen\n53113 Bonn\nNur Abholung möglich!\n4 Tage 21 Std. 41 Min.\n1 Gebot\n100,00 EUR",
    "img_alt": "Laserbeamer Vorderansicht",
    "keywords": [
     "Beamer",
@@ -6180,7 +6232,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/1_NEC_MHL_UM301W_Kurzdistanzbeamer_aus_Schulbetrieb_mit_Fernbedienung/982178",
    "site": "zoll-auktion",
-   "text": "1 NEC MHL UM301W Kurzdistanzbeamer aus Schulbetrieb mit Fernbedienung\nBeobachtung Auktion 982178 verwalten\nAuktion in Beobachtung nehmen.\n1 NEC MHL UM301W Kurzdistanzb­eamer aus Schulbetrieb mit Fernbedienun­g\n24306 Plön\nNur Abholung möglich!\n7 Tage 2 Std. 7 Min.\n0 Gebote\n200,00 EUR",
+   "text": "1 NEC MHL UM301W Kurzdistanzbeamer aus Schulbetrieb mit Fernbedienung\nBeobachtung Auktion 982178 verwalten\nAuktion in Beobachtung nehmen.\n1 NEC MHL UM301W Kurzdistanzb­eamer aus Schulbetrieb mit Fernbedienun­g\n24306 Plön\nNur Abholung möglich!\n6 Tage 2 Std. 8 Min.\n0 Gebote\n200,00 EUR",
    "img_alt": "Draufsicht mit Fernbedienung\nB7T/H 378x428x112mm",
    "keywords": [
     "Beamer",
@@ -6191,7 +6243,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/1_mobiles_Whiteboard_mit_interaktiven_Kurzdistanzbeamer_EPSON_EB585Wi/986285",
    "site": "zoll-auktion",
-   "text": "1 mobiles Whiteboard mit interaktiven Kurzdistanzbeamer EPSON EB-585Wi\nBeobachtung Auktion 986285 verwalten\nAuktion in Beobachtung nehmen.\n1 mobiles Whiteboard mit interaktiven Kurzdistanzb­eamer EPSON EB-585Wi\n30827 Garbsen\nNur Abholung möglich!\n8 Tage 0 Std. 43 Min.\n6 Gebote\n176,66 EUR",
+   "text": "1 mobiles Whiteboard mit interaktiven Kurzdistanzbeamer EPSON EB-585Wi\nBeobachtung Auktion 986285 verwalten\nAuktion in Beobachtung nehmen.\n1 mobiles Whiteboard mit interaktiven Kurzdistanzb­eamer EPSON EB-585Wi\n30827 Garbsen\nNur Abholung möglich!\n7 Tage 0 Std. 44 Min.\n6 Gebote\n176,66 EUR",
    "img_alt": "Ansicht von vorn",
    "keywords": [
     "Beamer",
@@ -6200,20 +6252,39 @@
    "first_seen": "2026-10-22T08:34:38+00:00"
   },
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_ProjektorBeamerlampe_NEC_NP06LP/988411",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Beamer_BenQ_PB2240_inklusive_Tragetasche/989223",
    "site": "zoll-auktion",
-   "text": "1 Projektor-/Beamerlampe NEC NP06LP\nBeobachtung Auktion 988411 verwalten\nAuktion in Beobachtung nehmen.\n1 Projektor-/B­eamerlampe NEC NP06LP\n92526 Oberviechtach\n28 Tage 0 Std. 7 Min.\n0 Gebote\n50,00 EUR",
-   "img_alt": "Gesamtansicht",
+   "text": "1 Beamer BenQ PB2240 inklusive Tragetasche\nBeobachtung Auktion 989223 verwalten\nAuktion in Beobachtung nehmen.\n1 Beamer BenQ PB2240 inklusive Tragetasche\n99096 Erfurt\nNur Abholung möglich!\n17 Tage 21 Std. 9 Min.\n0 Gebote\n13,00 EUR",
+   "img_alt": "Beamer draufsicht",
    "keywords": [
-    "Beamer",
-    "Projektor"
+    "Beamer"
    ],
-   "first_seen": "2026-11-04T12:18:11+00:00"
+   "first_seen": "2026-11-06T10:50:26+00:00"
   },
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_ProjektorBeamerlampe_NEC_NP07LP/988412",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Beamer_BenQ_PB2220_inklusive_Tragetasche/989226",
    "site": "zoll-auktion",
-   "text": "1 Projektor-/Beamerlampe NEC NP07LP\nBeobachtung Auktion 988412 verwalten\nAuktion in Beobachtung nehmen.\n1 Projektor-/B­eamerlampe NEC NP07LP\n92526 Oberviechtach\n28 Tage 0 Std. 12 Min.\n0 Gebote\n50,00 EUR",
+   "text": "1 Beamer BenQ PB2220 inklusive Tragetasche\nBeobachtung Auktion 989226 verwalten\nAuktion in Beobachtung nehmen.\n1 Beamer BenQ PB2220 inklusive Tragetasche\n99096 Erfurt\nNur Abholung möglich!\n17 Tage 21 Std. 10 Min.\n0 Gebote\n13,00 EUR",
+   "img_alt": "Beamer frontal",
+   "keywords": [
+    "Beamer"
+   ],
+   "first_seen": "2026-11-06T10:50:26+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Beamer_Nec_MultiSync_MT830_inklusive_Transportkoffer/989236",
+   "site": "zoll-auktion",
+   "text": "1 Beamer Nec MultiSync MT830+ inklusive Transportkoffer\nBeobachtung Auktion 989236 verwalten\nAuktion in Beobachtung nehmen.\n1 Beamer Nec MultiSync MT830+ inklusive Transportkof­fer\n99096 Erfurt\nNur Abholung möglich!\n17 Tage 21 Std. 11 Min.\n0 Gebote\n13,00 EUR",
+   "img_alt": "Beamer frontal",
+   "keywords": [
+    "Beamer"
+   ],
+   "first_seen": "2026-11-06T10:50:26+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_ProjektorBeamerlampe_NEC_NP06LP/988411",
+   "site": "zoll-auktion",
+   "text": "1 Projektor-/Beamerlampe NEC NP06LP\nBeobachtung Auktion 988411 verwalten\nAuktion in Beobachtung nehmen.\n1 Projektor-/B­eamerlampe NEC NP06LP\n92526 Oberviechtach\n27 Tage 0 Std. 8 Min.\n0 Gebote\n50,00 EUR",
    "img_alt": "Gesamtansicht",
    "keywords": [
     "Beamer",
@@ -6224,7 +6295,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/1_Projektor_Epson_EB585Wi/978453",
    "site": "zoll-auktion",
-   "text": "1 Projektor Epson EB-585Wi\nBeobachtung Auktion 978453 verwalten\nAuktion in Beobachtung nehmen.\n1 Projektor Epson EB-585Wi\n06846 Dessau-Roßlau\n3 Tage 21 Std. 19 Min.\n16 Gebote\n85,01 EUR",
+   "text": "1 Projektor Epson EB-585Wi\nBeobachtung Auktion 978453 verwalten\nAuktion in Beobachtung nehmen.\n1 Projektor Epson EB-585Wi\n06846 Dessau-Roßlau\n2 Tage 21 Std. 20 Min.\n16 Gebote\n85,01 EUR",
    "img_alt": "Beamer Vorderansicht",
    "keywords": [
     "Projektor"
@@ -6234,7 +6305,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/2_Philips_Vari_Lite_VL1000TS_Movinglight_Scheinwerfer_1000WHalogen/987955",
    "site": "zoll-auktion",
-   "text": "2 Philips Vari Lite VL1000TS Movinglight Scheinwerfer, 1000W-Halogen\nBeobachtung Auktion 987955 verwalten\nAuktion in Beobachtung nehmen.\n2 Philips Vari Lite VL1000TS Movinglight Scheinwerfer­, 1000W-Haloge­n\n53113 Bonn\nNur Abholung möglich!\n5 Tage 22 Std. 37 Min.\n0 Gebote\n250,00 EUR",
+   "text": "2 Philips Vari Lite VL1000TS Movinglight Scheinwerfer, 1000W-Halogen\nBeobachtung Auktion 987955 verwalten\nAuktion in Beobachtung nehmen.\n2 Philips Vari Lite VL1000TS Movinglight Scheinwerfer­, 1000W-Haloge­n\n53113 Bonn\nNur Abholung möglich!\n4 Tage 22 Std. 38 Min.\n0 Gebote\n250,00 EUR",
    "img_alt": "Ansicht von oben",
    "keywords": [
     "Projektor"
@@ -6242,39 +6313,19 @@
    "first_seen": "2026-10-30T09:58:53+00:00"
   },
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Ford_Ranger_22_TDCi_Limited_4x4_Doppelkabine_EURO_6_Standhzg_AHK/985723",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_ProjektorBeamerlampe_NEC_NP07LP/988412",
    "site": "zoll-auktion",
-   "text": "1 Ford Ranger 2.2 TDCi Limited 4x4 Doppelkabine (EURO 6) *Standhzg. *AHK\nBeobachtung Auktion 985723 verwalten\nAuktion in Beobachtung nehmen.\n1 Ford Ranger 2.2 TDCi Limited 4x4 Doppelkabine (EURO 6) *Standhzg. *AHK\n36456 Barchfeld-Immelborn\nNur Abholung möglich!\nnoch 9 Minuten\n50 Gebote\n13.500,00 EUR",
-   "img_alt": "Frontansicht vorn links",
+   "text": "1 Projektor-/Beamerlampe NEC NP07LP\nBeobachtung Auktion 988412 verwalten\nAuktion in Beobachtung nehmen.\n1 Projektor-/B­eamerlampe NEC NP07LP\n92526 Oberviechtach\n27 Tage 0 Std. 13 Min.\n0 Gebote\n50,00 EUR",
+   "img_alt": "Gesamtansicht",
    "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-11-04T12:18:11+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Toyota_Avensis_2_2_DCAT/986808",
-   "site": "zoll-auktion",
-   "text": "1 Toyota Avensis 2,2 D-CAT\nBeobachtung Auktion 986808 verwalten\nAuktion in Beobachtung nehmen.\n1 Toyota Avensis 2,2 D-CAT\n57080 Siegen\nNur Abholung möglich!\nnoch 21 Std. 7 Min.\n7 Gebote\n305,00 EUR",
-   "img_alt": "Ansicht von schräg vorne links",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-11-04T12:18:11+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Ford_Transit_Trend/987370",
-   "site": "zoll-auktion",
-   "text": "1 Ford Transit Trend\nBeobachtung Auktion 987370 verwalten\nAuktion in Beobachtung nehmen.\n1 Ford Transit Trend\n28197 Bremen\nNur Abholung möglich!\nnoch 22 Std. 36 Min.\n3 Gebote\n1.850,00 EUR",
-   "img_alt": "Diagonale vorne links",
-   "keywords": [
-    "LED Wand"
+    "Projektor"
    ],
    "first_seen": "2026-11-04T12:18:11+00:00"
   },
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/1_BMW_i5_eDrive_40/984579",
    "site": "zoll-auktion",
-   "text": "1 BMW i5 eDrive 40\nBeobachtung Auktion 984579 verwalten\nAuktion in Beobachtung nehmen.\n1 BMW i5 eDrive 40\n82049 Pullach i. Isartal\nNur Abholung möglich!\n1 Tag 21 Std. 38 Min.\n0 Gebote\n44.360,00 EUR",
+   "text": "1 BMW i5 eDrive 40\nBeobachtung Auktion 984579 verwalten\nAuktion in Beobachtung nehmen.\n1 BMW i5 eDrive 40\n82049 Pullach i. Isartal\nNur Abholung möglich!\nnoch 21 Std. 39 Min.\n0 Gebote\n44.360,00 EUR",
    "img_alt": "Frontseite links",
    "keywords": [
     "LED Wand"
@@ -6284,7 +6335,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_ID7_Pro_S_BD83556E/986785",
    "site": "zoll-auktion",
-   "text": "1 VW ID.7 Pro S - BD8-3556E\nBeobachtung Auktion 986785 verwalten\nAuktion in Beobachtung nehmen.\n1 VW ID.7 Pro S - BD8-3556E\n10409 Berlin\nNur Abholung möglich!\n3 Tage 19 Std. 37 Min.\n0 Gebote\n40.220,00 EUR",
+   "text": "1 VW ID.7 Pro S - BD8-3556E\nBeobachtung Auktion 986785 verwalten\nAuktion in Beobachtung nehmen.\n1 VW ID.7 Pro S - BD8-3556E\n10409 Berlin\nNur Abholung möglich!\n2 Tage 19 Std. 38 Min.\n0 Gebote\n40.220,00 EUR",
    "img_alt": "Frontansicht",
    "keywords": [
     "LED Wand"
@@ -6294,7 +6345,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_Passat_Variant_15_TSI_eHybrid_Business_BD83674E/986837",
    "site": "zoll-auktion",
-   "text": "1 VW Passat Variant 1.5 TSI eHybrid Business - BD8-3674E\nBeobachtung Auktion 986837 verwalten\nAuktion in Beobachtung nehmen.\n1 VW Passat Variant 1.5 TSI eHybrid Business - BD8-3674E\n94032 Passau\nNur Abholung möglich!\n3 Tage 19 Std. 52 Min.\n1 Gebot\n30.950,00 EUR",
+   "text": "1 VW Passat Variant 1.5 TSI eHybrid Business - BD8-3674E\nBeobachtung Auktion 986837 verwalten\nAuktion in Beobachtung nehmen.\n1 VW Passat Variant 1.5 TSI eHybrid Business - BD8-3674E\n94032 Passau\nNur Abholung möglich!\n2 Tage 19 Std. 53 Min.\n1 Gebot\n30.950,00 EUR",
    "img_alt": "Frontansicht",
    "keywords": [
     "LED Wand"
@@ -6304,7 +6355,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/1_Nissan_NV_400_F_3515_FWD_ST_Pro/987146",
    "site": "zoll-auktion",
-   "text": "1 Nissan NV 400 F 35.15 FWD ST Pro\nBeobachtung Auktion 987146 verwalten\nAuktion in Beobachtung nehmen.\n1 Nissan NV 400 F 35.15 FWD ST Pro\n58566 Kierspe\nNur Abholung möglich!\n4 Tage 1 Std. 7 Min.\n20 Gebote\n4.500,00 EUR",
+   "text": "1 Nissan NV 400 F 35.15 FWD ST Pro\nBeobachtung Auktion 987146 verwalten\nAuktion in Beobachtung nehmen.\n1 Nissan NV 400 F 35.15 FWD ST Pro\n58566 Kierspe\nNur Abholung möglich!\n3 Tage 1 Std. 8 Min.\n21 Gebote\n4.550,00 EUR",
    "img_alt": "Front",
    "keywords": [
     "LED Wand"
@@ -6314,7 +6365,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_ID7_Pro_BD83547E/986530",
    "site": "zoll-auktion",
-   "text": "1 VW ID.7 Pro - BD8-3547E\nBeobachtung Auktion 986530 verwalten\nAuktion in Beobachtung nehmen.\n1 VW ID.7 Pro - BD8-3547E\n25524 Itzehoe\nNur Abholung möglich!\n4 Tage 19 Std. 22 Min.\n0 Gebote\n39.400,00 EUR",
+   "text": "1 VW ID.7 Pro - BD8-3547E\nBeobachtung Auktion 986530 verwalten\nAuktion in Beobachtung nehmen.\n1 VW ID.7 Pro - BD8-3547E\n25524 Itzehoe\nNur Abholung möglich!\n3 Tage 19 Std. 23 Min.\n0 Gebote\n39.400,00 EUR",
    "img_alt": "Frontansicht links",
    "keywords": [
     "LED Wand"
@@ -6324,7 +6375,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_ID7_Pro_S_BD83905E/987466",
    "site": "zoll-auktion",
-   "text": "1 VW ID.7 Pro S - BD8-3905E\nBeobachtung Auktion 987466 verwalten\nAuktion in Beobachtung nehmen.\n1 VW ID.7 Pro S - BD8-3905E\n46446 Emmerich am Rhein\nNur Abholung möglich!\n4 Tage 20 Std. 7 Min.\n1 Gebot\n43.675,00 EUR",
+   "text": "1 VW ID.7 Pro S - BD8-3905E\nBeobachtung Auktion 987466 verwalten\nAuktion in Beobachtung nehmen.\n1 VW ID.7 Pro S - BD8-3905E\n46446 Emmerich am Rhein\nNur Abholung möglich!\n3 Tage 20 Std. 8 Min.\n1 Gebot\n43.675,00 EUR",
    "img_alt": "Frontansicht vorn links",
    "keywords": [
     "LED Wand"
@@ -6334,7 +6385,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/1_Luftreiniger_Luftfilter_Ledvance_UVC_AIR_V70_WT_EU/986759",
    "site": "zoll-auktion",
-   "text": "1 Luftreiniger / Luftfilter Ledvance / UVC AIR V70 WT EU\nBeobachtung Auktion 986759 verwalten\nAuktion in Beobachtung nehmen.\n1 Luftreiniger / Luftfilter Ledvance / UVC AIR V70 WT EU\n85764 Oberschleißheim\nNur Abholung möglich!\n4 Tage 20 Std. 17 Min.\n1 Gebot\n100,00 EUR",
+   "text": "1 Luftreiniger / Luftfilter Ledvance / UVC AIR V70 WT EU\nBeobachtung Auktion 986759 verwalten\nAuktion in Beobachtung nehmen.\n1 Luftreiniger / Luftfilter Ledvance / UVC AIR V70 WT EU\n85764 Oberschleißheim\nNur Abholung möglich!\n3 Tage 20 Std. 18 Min.\n1 Gebot\n100,00 EUR",
    "img_alt": "Luftfilter Ledvance, Draufsicht",
    "keywords": [
     "LED Wand"
@@ -6342,9 +6393,39 @@
    "first_seen": "2026-11-05T10:51:21+00:00"
   },
   {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_Passat_Variant_14_TSI_Hybrid_GTE_EURO_6d_BD165819/987580",
+   "site": "zoll-auktion",
+   "text": "1 VW Passat Variant 1.4 TSI Hybrid GTE (EURO 6d) - BD16-5819\nBeobachtung Auktion 987580 verwalten\nAuktion in Beobachtung nehmen.\n1 VW Passat Variant 1.4 TSI Hybrid GTE (EURO 6d) - BD16-5819\n90461 Nürnberg\nNur Abholung möglich!\n3 Tage 20 Std. 38 Min.\n15 Gebote\n6.880,00 EUR",
+   "img_alt": "Seitenansicht links",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-11-06T10:50:26+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_MercedesBenz_A_180_Benzin_7GangDCT_Progressive_Line/988140",
+   "site": "zoll-auktion",
+   "text": "1 Mercedes-Benz A 180 Benzin 7-Gang-DCT \"Progressive Line\"\nBeobachtung Auktion 988140 verwalten\nAuktion in Beobachtung nehmen.\n1 Mercedes-Ben­z A 180 Benzin 7-Gang-DCT \"Progressive Line\"\n50765 Köln\nNur Abholung möglich!\n4 Tage 5 Std. 8 Min.\n1 Gebot\n18.818,00 EUR",
+   "img_alt": "Übersicht vorne rechts",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-11-06T10:50:26+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Opel_Zafira_Life_e_Edition_BD83650E/987917",
+   "site": "zoll-auktion",
+   "text": "1 Opel Zafira Life -e Edition - BD8-3650E\nBeobachtung Auktion 987917 verwalten\nAuktion in Beobachtung nehmen.\n1 Opel Zafira Life -e Edition - BD8-3650E\n50825 Köln\nNur Abholung möglich!\n4 Tage 19 Std. 8 Min.\n0 Gebote\n27.896,00 EUR",
+   "img_alt": "Diagonale vorn",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-11-06T10:50:26+00:00"
+  },
+  {
    "url": "https://www.zoll-auktion.de/auktion/produkt/2_KM_259_Mirofonst%C3%A4nder/985579",
    "site": "zoll-auktion",
-   "text": "2 K&M 259 Mirofonständer\nBeobachtung Auktion 985579 verwalten\nAuktion in Beobachtung nehmen.\n2 K&M 259 Mirofonständ­er\n93197 Zeitlarn\nNur Abholung möglich!\n4 Tage 0 Std. 7 Min.\n0 Gebote\n25,00 EUR",
+   "text": "2 K&M 259 Mirofonständer\nBeobachtung Auktion 985579 verwalten\nAuktion in Beobachtung nehmen.\n2 K&M 259 Mirofonständ­er\n93197 Zeitlarn\nNur Abholung möglich!\n3 Tage 0 Std. 8 Min.\n0 Gebote\n25,00 EUR",
    "img_alt": "maximal ausgefahren 1,65 m",
    "keywords": [
     "Veranstaltungstechnik"
@@ -6354,7 +6435,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/6_KM_2012_Mikrofonstative/985581",
    "site": "zoll-auktion",
-   "text": "6 K&M 201/2 Mikrofonstative\nBeobachtung Auktion 985581 verwalten\nAuktion in Beobachtung nehmen.\n6 K&M 201/2 Mikrofonstat­ive\n93197 Zeitlarn\nNur Abholung möglich!\n4 Tage 22 Std. 7 Min.\n0 Gebote\n24,00 EUR",
+   "text": "6 K&M 201/2 Mikrofonstative\nBeobachtung Auktion 985581 verwalten\nAuktion in Beobachtung nehmen.\n6 K&M 201/2 Mikrofonstat­ive\n93197 Zeitlarn\nNur Abholung möglich!\n3 Tage 22 Std. 8 Min.\n0 Gebote\n24,00 EUR",
    "img_alt": "Mikrofonständer komplett",
    "keywords": [
     "Veranstaltungstechnik"
@@ -6364,7 +6445,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/4_Stage_Line_PorPA_Speaker_Cabinet/985580",
    "site": "zoll-auktion",
-   "text": "4 Stage Line - Por-PA Speaker Cabinet\nBeobachtung Auktion 985580 verwalten\nAuktion in Beobachtung nehmen.\n4 Stage Line - Por-PA Speaker Cabinet\n93197 Zeitlarn\nNur Abholung möglich!\n5 Tage 1 Std. 7 Min.\n2 Gebote\n110,00 EUR",
+   "text": "4 Stage Line - Por-PA Speaker Cabinet\nBeobachtung Auktion 985580 verwalten\nAuktion in Beobachtung nehmen.\n4 Stage Line - Por-PA Speaker Cabinet\n93197 Zeitlarn\nNur Abholung möglich!\n4 Tage 1 Std. 8 Min.\n2 Gebote\n110,00 EUR",
    "img_alt": "Lautsprecherbox auf Stativ",
    "keywords": [
     "Veranstaltungstechnik"
@@ -6374,7 +6455,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/1_Ribalta_1_S_2300_mit_Ultralite_AURORA_I2/985569",
    "site": "zoll-auktion",
-   "text": "1 Ribalta 1 S 2300 mit Ultralite AURORA I2\nBeobachtung Auktion 985569 verwalten\nAuktion in Beobachtung nehmen.\n1 Ribalta 1 S 2300 mit Ultralite AURORA I2\n93197 Zeitlarn\nNur Abholung möglich!\n11 Tage 23 Std. 7 Min.\n0 Gebote\n25,00 EUR",
+   "text": "1 Ribalta 1 S 2300 mit Ultralite AURORA I2\nBeobachtung Auktion 985569 verwalten\nAuktion in Beobachtung nehmen.\n1 Ribalta 1 S 2300 mit Ultralite AURORA I2\n93197 Zeitlarn\nNur Abholung möglich!\n10 Tage 23 Std. 8 Min.\n1 Gebot\n25,00 EUR",
    "img_alt": "6 Einzelstrahler\n2 Strahlerbalken mit 4 Einzelstrahlern mit verschiedenen Farben",
    "keywords": [
     "Veranstaltungstechnik",
@@ -6385,7 +6466,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/1_L%C3%B6schgruppenfahrzeug_MAN_TLF_1625_L80/984686",
    "site": "zoll-auktion",
-   "text": "1 Löschgruppenfahrzeug MAN TLF 16/25 L80\nBeobachtung Auktion 984686 verwalten\nAuktion in Beobachtung nehmen.\n1 Löschgruppen­fahrzeug MAN TLF 16/25 L80\n51580 Reichshof\nNur Abholung möglich!\n1 Tag 0 Std. 51 Min.\n1 Gebot\n10.000,00 EUR",
+   "text": "1 Löschgruppenfahrzeug MAN TLF 16/25 L80\nBeobachtung Auktion 984686 verwalten\nAuktion in Beobachtung nehmen.\n1 Löschgruppen­fahrzeug MAN TLF 16/25 L80\n51580 Reichshof\nNur Abholung möglich!\nnoch 52 Minuten\n2 Gebote\n10.100,00 EUR",
    "img_alt": "Front, Seitenansicht",
    "keywords": [
     "Traverse"
@@ -6395,7 +6476,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/1_Wohnmobil_Fiat_Ducato_Rimor/987329",
    "site": "zoll-auktion",
-   "text": "1 Wohnmobil Fiat Ducato, Rimor\nBeobachtung Auktion 987329 verwalten\nAuktion in Beobachtung nehmen.\n1 Wohnmobil Fiat Ducato, Rimor\n01662 Meißen\nNur Abholung möglich!\n5 Tage 0 Std. 6 Min.\n6 Gebote\n37.099,00 EUR",
+   "text": "1 Wohnmobil Fiat Ducato, Rimor\nBeobachtung Auktion 987329 verwalten\nAuktion in Beobachtung nehmen.\n1 Wohnmobil Fiat Ducato, Rimor\n01662 Meißen\nNur Abholung möglich!\n4 Tage 0 Std. 7 Min.\n6 Gebote\n37.099,00 EUR",
    "img_alt": "von vor diagonal",
    "keywords": [
     "Traverse"
@@ -6405,7 +6486,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/1_DAIMLERBENZ_Marke_9046_Feuerwehr_Werkstattwagen_defekt_Bastlerfahrzeug/985470",
    "site": "zoll-auktion",
-   "text": "1 DAIMLER-BENZ, Marke 904.6, Feuerwehr Werkstattwagen, defekt, Bastlerfahrzeug\nBeobachtung Auktion 985470 verwalten\nAuktion in Beobachtung nehmen.\n1 DAIMLER-BENZ­, Marke 904.6, Feuerwehr Werkstattwag­en, defekt, Bastlerfahrz­eug\n14547 Beelitz\nNur Abholung möglich!\n5 Tage 23 Std. 6 Min.\n15 Gebote\n1.667,00 EUR",
+   "text": "1 DAIMLER-BENZ, Marke 904.6, Feuerwehr Werkstattwagen, defekt, Bastlerfahrzeug\nBeobachtung Auktion 985470 verwalten\nAuktion in Beobachtung nehmen.\n1 DAIMLER-BENZ­, Marke 904.6, Feuerwehr Werkstattwag­en, defekt, Bastlerfahrz­eug\n14547 Beelitz\nNur Abholung möglich!\n4 Tage 23 Std. 7 Min.\n15 Gebote\n1.667,00 EUR",
    "img_alt": "Hauptbild",
    "keywords": [
     "Traverse"
@@ -6415,7 +6496,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/1_MAN_TGM_18340_4x4_BB_Krankipper/986276",
    "site": "zoll-auktion",
-   "text": "1 MAN TGM 18.340 4x4 BB -Krankipper\nBeobachtung Auktion 986276 verwalten\nAuktion in Beobachtung nehmen.\n1 MAN TGM 18.340 4x4 BB -Krankipper\n84489 Burghausen\nNur Abholung möglich!\n10 Tage 5 Std. 6 Min.\n10 Gebote\n40.100,00 EUR",
+   "text": "1 MAN TGM 18.340 4x4 BB -Krankipper\nBeobachtung Auktion 986276 verwalten\nAuktion in Beobachtung nehmen.\n1 MAN TGM 18.340 4x4 BB -Krankipper\n84489 Burghausen\nNur Abholung möglich!\n9 Tage 5 Std. 7 Min.\n10 Gebote\n40.100,00 EUR",
    "img_alt": "Seitenansicht rechts",
    "keywords": [
     "Traverse"
@@ -6425,7 +6506,7 @@
   {
    "url": "https://www.zoll-auktion.de/auktion/produkt/1_Traverse_Bauer_S%C3%BCdlohn_BKT_90/986557",
    "site": "zoll-auktion",
-   "text": "1 Traverse Bauer Südlohn BKT 90\nBeobachtung Auktion 986557 verwalten\nAuktion in Beobachtung nehmen.\n1 Traverse Bauer Südlohn BKT 90\n82362 Weilheim i. OB\nNur Abholung möglich!\n21 Tage 1 Std. 6 Min.\n0 Gebote\n100,00 EUR",
+   "text": "1 Traverse Bauer Südlohn BKT 90\nBeobachtung Auktion 986557 verwalten\nAuktion in Beobachtung nehmen.\n1 Traverse Bauer Südlohn BKT 90\n82362 Weilheim i. OB\nNur Abholung möglich!\n20 Tage 1 Std. 7 Min.\n0 Gebote\n100,00 EUR",
    "img_alt": "Frontansicht",
    "keywords": [
     "Traverse"
@@ -6433,9 +6514,19 @@
    "first_seen": "2026-10-28T09:37:29+00:00"
   },
   {
+   "url": "https://www.justiz-auktion.de/5-PCs-Fujitsu-ESPRIMO-P5011-I3-16GB-215963",
+   "site": "justiz-auktion",
+   "text": "Suchergebnisse\nAusgabe filtern\nTreffer pro Seite\n5\n10\n20\n50\n Sortieren nach\nName\nBundesland\nVersandart\nStartgebot\nHöchstgebot\nAnzahl Gebote\nVersteigerungsbeginn\nSeitenaufrufe\nVersteigerungsende\naufsteigend\nabsteigend\nSuchergebnisse (1 Treffer)\n6 Gebote\n5 PCs Fujitsu ESPRIMO P5011 I3 16GB\nRestzeit: 9 T, 1 Std, 8 Min\n(15.11.2026 13:00 Uhr)\nStartgebot: 50,00 €\n219,00 €\nJustizvollzugsanstalt Werl\nBelgische Straße 4\n59457 Werl\nDeutschland\nBundesland: Nordrhein-Westfalen\nSelbstabholung\nDetails\nSeite  1",
+   "img_alt": "Ansicht Einzeln",
+   "keywords": [
+    "Grafikkarte"
+   ],
+   "first_seen": "2026-11-06T10:50:26+00:00"
+  },
+  {
    "url": "https://www.justiz-auktion.de/Multimedia-LEDProjektors-3D-DLPLink-Android-Smart-215458",
    "site": "justiz-auktion",
-   "text": "Suchergebnisse\nAusgabe filtern\nTreffer pro Seite\n5\n10\n20\n50\n Sortieren nach\nName\nBundesland\nVersandart\nStartgebot\nHöchstgebot\nAnzahl Gebote\nVersteigerungsbeginn\nSeitenaufrufe\nVersteigerungsende\naufsteigend\nabsteigend\nSuchergebnisse (1 Treffer)\n0 Gebote\nMultimedia LED-Projektors 3D DLP-Link Android Smart\nRestzeit: 17 T, 8 Std, 6 Min\n(22.11.2026 20:00 Uhr)\nStartgebot: 175,00 €\n0,00 €\n04129 Leipzig\nSachsen\nDeutschland\nBundesland: Sachsen\nVersand\nDetails\nSeite  1",
+   "text": "Suchergebnisse\nAusgabe filtern\nTreffer pro Seite\n5\n10\n20\n50\n Sortieren nach\nName\nBundesland\nVersandart\nStartgebot\nHöchstgebot\nAnzahl Gebote\nVersteigerungsbeginn\nSeitenaufrufe\nVersteigerungsende\naufsteigend\nabsteigend\nSuchergebnisse (1 Treffer)\n0 Gebote\nMultimedia LED-Projektors 3D DLP-Link Android Smart\nRestzeit: 16 T, 8 Std, 7 Min\n(22.11.2026 20:00 Uhr)\nStartgebot: 175,00 €\n0,00 €\n04129 Leipzig\nSachsen\nDeutschland\nBundesland: Sachsen\nVersand\nDetails\nSeite  1",
    "img_alt": "Multimedia LED-Projektors 3D DLP-Link Android Smart",
    "keywords": [
     "Projektor"

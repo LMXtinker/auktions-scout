@@ -58,19 +58,19 @@
     "ids_matched": false
    },
    "Beamer": {
-    "cards": 21,
-    "total_reported": 21,
+    "cards": 22,
+    "total_reported": 22,
     "ids_matched": true
    },
    "Projektor": {
-    "cards": 21,
-    "total_reported": 21,
-    "ids_matched": false
+    "cards": 22,
+    "total_reported": 22,
+    "ids_matched": true
    },
    "LED Wand": {
-    "cards": 96,
-    "total_reported": 99,
-    "ids_matched": false
+    "cards": 79,
+    "total_reported": 79,
+    "ids_matched": true
    },
    "LED Wall": {
     "cards": 0,
@@ -88,8 +88,8 @@
     "ids_matched": false
    },
    "Veranstaltungstechnik": {
-    "cards": 1,
-    "total_reported": 1,
+    "cards": 4,
+    "total_reported": 4,
     "ids_matched": false
    },
    "Lichtpult": {
@@ -103,8 +103,8 @@
     "ids_matched": false
    },
    "Traverse": {
-    "cards": 4,
-    "total_reported": 4,
+    "cards": 27,
+    "total_reported": 27,
     "ids_matched": false
    }
   },
@@ -136,13 +136,13 @@
     "cards": 29
    },
    "Grafikkarte": {
-    "cards": 3
+    "cards": 1
    },
    "Workstation": {
     "cards": 71
    },
    "Gaming PC": {
-    "cards": 36
+    "cards": 26
    },
    "Laserprojektor": {
     "cards": 0
@@ -151,7 +151,7 @@
     "cards": 13
    },
    "Projektor": {
-    "cards": 145
+    "cards": 146
    },
    "LED Wand": {
     "cards": 200
@@ -222,7 +222,7 @@
    "Grafikkarte": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Grafikkarte&n1%5B%5D=0&n0=search",
-    "cards": 8
+    "cards": 5
    },
    "Workstation": {
     "form_ok": true,
@@ -242,7 +242,7 @@
    "Beamer": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Beamer&n1%5B%5D=0&n0=search",
-    "cards": 8
+    "cards": 10
    },
    "Projektor": {
     "form_ok": true,
@@ -334,7 +334,7 @@
    "Grafikkarte": {
     "form_ok": true,
     "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 0
+    "cards": 1
    },
    "Workstation": {
     "form_ok": true,
