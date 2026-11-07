@@ -38,9 +38,9 @@
     "ids_matched": false
    },
    "Grafikkarte": {
-    "cards": 0,
-    "total_reported": 0,
-    "ids_matched": false
+    "cards": 2,
+    "total_reported": 2,
+    "ids_matched": true
    },
    "Workstation": {
     "cards": 3,
@@ -58,18 +58,18 @@
     "ids_matched": false
    },
    "Beamer": {
-    "cards": 22,
-    "total_reported": 22,
-    "ids_matched": true
+    "cards": 23,
+    "total_reported": 23,
+    "ids_matched": false
    },
    "Projektor": {
-    "cards": 22,
-    "total_reported": 22,
-    "ids_matched": true
+    "cards": 25,
+    "total_reported": 25,
+    "ids_matched": false
    },
    "LED Wand": {
-    "cards": 79,
-    "total_reported": 79,
+    "cards": 63,
+    "total_reported": 63,
     "ids_matched": true
    },
    "LED Wall": {
@@ -139,19 +139,19 @@
     "cards": 1
    },
    "Workstation": {
-    "cards": 71
+    "cards": 72
    },
    "Gaming PC": {
     "cards": 26
    },
    "Laserprojektor": {
-    "cards": 0
+    "cards": 2
    },
    "Beamer": {
     "cards": 13
    },
    "Projektor": {
-    "cards": 146
+    "cards": 175
    },
    "LED Wand": {
     "cards": 200
@@ -160,10 +160,10 @@
     "cards": 200
    },
    "Blackmagic": {
-    "cards": 2
+    "cards": 4
    },
    "Medienserver": {
-    "cards": 0
+    "cards": 2
    },
    "Veranstaltungstechnik": {
     "cards": 0
@@ -175,7 +175,7 @@
     "cards": 31
    },
    "Traverse": {
-    "cards": 14
+    "cards": 18
    }
   },
   "errors": [],
@@ -287,7 +287,7 @@
    "Traverse": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Traverse&n1%5B%5D=0&n0=search",
-    "cards": 6
+    "cards": 5
    }
   },
   "errors": [],
