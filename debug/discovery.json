@@ -65,7 +65,7 @@
    "Projektor": {
     "cards": 25,
     "total_reported": 25,
-    "ids_matched": false
+    "ids_matched": true
    },
    "LED Wand": {
     "cards": 63,
@@ -90,7 +90,7 @@
    "Veranstaltungstechnik": {
     "cards": 4,
     "total_reported": 4,
-    "ids_matched": false
+    "ids_matched": true
    },
    "Lichtpult": {
     "cards": 0,
@@ -103,8 +103,8 @@
     "ids_matched": false
    },
    "Traverse": {
-    "cards": 27,
-    "total_reported": 27,
+    "cards": 29,
+    "total_reported": 29,
     "ids_matched": false
    }
   },
@@ -222,7 +222,7 @@
    "Grafikkarte": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Grafikkarte&n1%5B%5D=0&n0=search",
-    "cards": 5
+    "cards": 4
    },
    "Workstation": {
     "form_ok": true,
