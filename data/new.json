@@ -1,977 +1,641 @@
 {
- "generated": "2026-11-09T11:27:35+00:00",
- "count": 96,
+ "generated": "2026-11-10T11:12:28+00:00",
+ "count": 61,
  "lots": [
   {
-   "url": "https://www.aurena.at/s?keywords=Grafikkarte&pagesize=96#los-1",
+   "url": "https://www.aurena.at/posten/5564766",
    "site": "aurena",
-   "text": "162 | All-in-One-PC HP Pavilion 27, 27\" | 0 9 | TAGE | : | 2 0 | STD | Gebote: 3 | € 40\nSuche: https://www.aurena.at/s?keywords=Grafikkarte&pagesize=96",
+   "text": "13 | LED Videowand | 1 2 | TAGE | : | 2 0 | STD | Gebote: 0 | € 2.200\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
    "img_alt": "",
    "keywords": [
-    "Grafikkarte"
+    "LED Wand"
    ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
+   "first_seen": "2026-11-10T11:12:28+00:00"
   },
   {
-   "url": "https://www.aurena.at/posten/5530906",
+   "url": "https://www.aurena.at/s?keywords=LED+Wall&pagesize=96#los-0",
    "site": "aurena",
-   "text": "291 | Lichtanlage | 0 7 | TAGE | : | 0 0 | STD | Gebote: 0 | € 12\nSuche: https://www.aurena.at/s?keywords=Moving+Head&pagesize=96",
+   "text": "26 | LED Video Prozessor Vdwall LVP615S | 1 2 | TAGE | : | 2 0 | STD | Gebote: 0 | € 50\nSuche: https://www.aurena.at/s?keywords=LED+Wall&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=LED+Wall&pagesize=96#los-1",
+   "site": "aurena",
+   "text": "1057 | 2 LED Wall Elemente Lighthouse, Ersatzteilspender | 1 2 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wall&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-29",
+   "site": "aurena",
+   "text": "21 | Schwerlastregal, ca. 8,5 lfm | 1 5 | TAGE | : | 2 0 | STD | Gebote: 0 | € 220\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-30",
+   "site": "aurena",
+   "text": "14 | Schwerlastregal, ca. 5,8 lfm | 1 5 | TAGE | : | 2 0 | STD | Gebote: 0 | € 160\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-31",
+   "site": "aurena",
+   "text": "778 | Schwerlastregal, ca. 8,4 lfm | 1 5 | TAGE | : | 2 2 | STD | Gebote: 0 | € 180\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-32",
+   "site": "aurena",
+   "text": "865 | Schwerlastregal, ca. 6,5 lfm | 1 5 | TAGE | : | 2 3 | STD | Gebote: 0 | € 150\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-33",
+   "site": "aurena",
+   "text": "24 | Schwerlastregal, ca. 6 lfm | 1 5 | TAGE | : | 2 0 | STD | Gebote: 0 | € 150\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-34",
+   "site": "aurena",
+   "text": "846 | Schwerlastregal, ca. 2,7 lfm | 1 5 | TAGE | : | 2 3 | STD | Gebote: 0 | € 60\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-35",
+   "site": "aurena",
+   "text": "848 | Schwerlastregal, ca. 5,4 lfm | 1 5 | TAGE | : | 2 3 | STD | Gebote: 0 | € 140\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-36",
+   "site": "aurena",
+   "text": "12 | Schwerlastregal, ca. 3 lfm | 1 5 | TAGE | : | 2 0 | STD | Gebote: 0 | € 80\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-37",
+   "site": "aurena",
+   "text": "16 | Schwerlastregal, ca. 5,8 lfm | 1 5 | TAGE | : | 2 0 | STD | Gebote: 0 | € 160\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-38",
+   "site": "aurena",
+   "text": "344 | Messezubehör, ca. 10-teilig | 0 1 | TAGE | : | 0 4 | STD | Gebote: 22 | € 650\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
+   "img_alt": "",
+   "keywords": [
+    "Traverse"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-radeon-rx-9060-xt-gaming-oc-16g-grafikkarte-16-gb-gddr6-256-bit-pci-e-5-0-3060-mhz-kernfrequenz-A1-52179-13",
+   "site": "troostwijk/surplex",
+   "text": "Gigabyte - Radeon RX 9060 XT Gaming OC 16G Grafikkarte - 16 GB GDDR6, 256 Bit, PCI-E 5.0, 3060 MHz Kernfrequenz\nStandort: Meerbusch (DE)\nAktuelles Gebot: 150 EUR · Gebote: 1\nEnde: 23.11. 17:12 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Grafikkarte",
+    "Gaming PC"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/sapphire-radeon-rx-9060-xt-16gb-nitro%2B-gaming-oc-grafikkarte-A1-52179-14",
+   "site": "troostwijk/surplex",
+   "text": "Sapphire - Radeon RX 9060 XT 16GB NITRO+ Gaming OC Grafikkarte\nStandort: Meerbusch (DE)\nAktuelles Gebot: 100 EUR · Gebote: 1\nEnde: 23.11. 16:17 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Grafikkarte",
+    "Gaming PC"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hisense-c2-ultra-beamer-A1-42505-87",
+   "site": "troostwijk/surplex",
+   "text": "Hisense C2 ultra Beamer\nStandort: Etten-Leur (NL)\nAktuelles Gebot: 25 EUR · Gebote: 4\nEnde: 18.11. 19:06 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Beamer"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/acer-celexon-p5630-2x-beamer-mit-1x-leinwand-A1-52168-28",
+   "site": "troostwijk/surplex",
+   "text": "Acer / Celexon P5630 2x Beamer mit 1x Leinwand\nStandort: Schönefeld OT Selchow (DE)\nAktuelles Gebot: 80 EUR · Gebote: 0\nEnde: 26.11. 11:15 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Beamer"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/acer-celexon-p5630-2x-beamer-mit-1x-leinwand-A1-52168-30",
+   "site": "troostwijk/surplex",
+   "text": "Acer / Celexon P5630 2x Beamer mit 1x Leinwand\nStandort: Schönefeld OT Selchow (DE)\nAktuelles Gebot: 80 EUR · Gebote: 1\nEnde: 26.11. 11:16 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Beamer"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/acer-celexon-p5630-2x-beamer-mit-1x-leinwand-A1-52168-29",
+   "site": "troostwijk/surplex",
+   "text": "Acer / Celexon P5630 2x Beamer mit 1x Leinwand\nStandort: Schönefeld OT Selchow (DE)\nAktuelles Gebot: 80 EUR · Gebote: 0\nEnde: 26.11. 11:15 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Beamer"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/acer-celexon-x1385wh-2x-beamer-mit-1x-leinwand-A1-52168-25",
+   "site": "troostwijk/surplex",
+   "text": "Acer / Celexon X1385WH 2x Beamer mit 1x Leinwand\nStandort: Schönefeld OT Selchow (DE)\nAktuelles Gebot: 80 EUR · Gebote: 0\nEnde: 26.11. 11:13 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Beamer"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/acer-celexon-x1385wh-2x-beamer-mit-1x-leinwand-A1-52168-26",
+   "site": "troostwijk/surplex",
+   "text": "Acer / Celexon X1385WH 2x Beamer mit 1x Leinwand\nStandort: Schönefeld OT Selchow (DE)\nAktuelles Gebot: 80 EUR · Gebote: 0\nEnde: 26.11. 11:14 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Beamer"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/optoma-celexon-w334e-4x-beamer-mit-2x-leinwand-A1-52168-31",
+   "site": "troostwijk/surplex",
+   "text": "Optoma / Celexon W334e 4x Beamer mit 2x Leinwand\nStandort: Schönefeld OT Selchow (DE)\nAktuelles Gebot: 120 EUR · Gebote: 1\nEnde: 26.11. 11:16 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Beamer"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/acer-celexon-x1385wh-2x-beamer-mit-1x-leinwand-A1-52168-27",
+   "site": "troostwijk/surplex",
+   "text": "Acer / Celexon X1385WH 2x Beamer mit 1x Leinwand\nStandort: Schönefeld OT Selchow (DE)\nAktuelles Gebot: 80 EUR · Gebote: 0\nEnde: 26.11. 11:14 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Beamer"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/acer-optoma-celexon-7x-beamer-4x-leinwande-A1-52168-32",
+   "site": "troostwijk/surplex",
+   "text": "Acer / Optoma / Celexon 7x  Beamer & 4x Leinwände\nStandort: Schönefeld OT Selchow (DE)\nAktuelles Gebot: 150 EUR · Gebote: 0\nEnde: 26.11. 11:17 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Beamer"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/acer-celexon-x1385wh-2x-beamer-mit-1x-leinwand-A1-52168-23",
+   "site": "troostwijk/surplex",
+   "text": "Acer / Celexon X1385WH 2x Beamer mit 1x Leinwand\nStandort: Schönefeld OT Selchow (DE)\nAktuelles Gebot: 80 EUR · Gebote: 0\nEnde: 26.11. 11:12 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Beamer"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/acer-celexon-x1385wh-2x-beamer-mit-1x-leinwand-A1-52168-24",
+   "site": "troostwijk/surplex",
+   "text": "Acer / Celexon X1385WH 2x Beamer mit 1x Leinwand\nStandort: Schönefeld OT Selchow (DE)\nAktuelles Gebot: 80 EUR · Gebote: 0\nEnde: 26.11. 11:13 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Beamer"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/celexon-9x-tragetaschen-beamertaschen-A1-52168-13",
+   "site": "troostwijk/surplex",
+   "text": "Celexon 9x Tragetaschen / Beamertaschen\nStandort: Schönefeld OT Selchow (DE)\nAktuelles Gebot: 30 EUR · Gebote: 0\nEnde: 26.11. 11:07 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Beamer"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%28100x%29-7w-gu10-led-spot-dimmbar-mit-objektiv-2700k-A1-50148-59",
+   "site": "troostwijk/surplex",
+   "text": "(100x) 7W GU10 LED Spot-Dimmbar mit Objektiv 2700K\nStandort: Puurs (BE)\nAktuelles Gebot: 105 EUR · Gebote: 0\nEnde: 17.11. 19:41 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/kontaminations-waben-led-beleuchtung-bby011-led-streifen-A1-50360-73",
+   "site": "troostwijk/surplex",
+   "text": "Kontaminations-Waben-LED-Beleuchtung BBY011 LED-Streifen\nStandort: Drachten (NL)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 14.11. 15:26 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/moonlight-%E2%80%93-led-vorhang-%E2%80%93-verschiedene-lichtgerate-A1-49952-346",
+   "site": "troostwijk/surplex",
+   "text": "Moonlight – LED-Vorhang – Verschiedene Lichtgeräte\nStandort: Nederweert (NL)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 15.11. 20:03 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/moonlight-%E2%80%93-led-vorhang-%E2%80%93-verschiedene-lichtgerate-A1-49952-345",
+   "site": "troostwijk/surplex",
+   "text": "Moonlight – LED-Vorhang – Verschiedene Lichtgeräte\nStandort: Nederweert (NL)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 15.11. 20:40 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%2816x%29-24w-cct-3-farbige-oberflachenmontierte-led-paneele-spritzwasserdicht-mit-sensor-A1-50148-138",
+   "site": "troostwijk/surplex",
+   "text": "(16x) 24W CCT 3-farbige oberflächenmontierte LED-Paneele spritzwasserdicht mit Sensor\nStandort: Puurs (BE)\nAktuelles Gebot: 185 EUR · Gebote: 0\nEnde: 17.11. 20:35 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%28200x%29-4-9w-gu10-led-spot-3000k-A1-50148-46",
+   "site": "troostwijk/surplex",
+   "text": "(200x) 4,9W GU10 LED Spot 3000K\nStandort: Puurs (BE)\nAktuelles Gebot: 125 EUR · Gebote: 0\nEnde: 17.11. 19:31 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%288x%29-60cm-pro-doppel-led-tl-t8-leuchten-wasserdicht-dunkelgrau-mit-reflektor-A1-50148-155",
+   "site": "troostwijk/surplex",
+   "text": "(8x) 60cm Pro Doppel-LED TL T8 Leuchten wasserdicht dunkelgrau mit Reflektor\nStandort: Puurs (BE)\nAktuelles Gebot: 85 EUR · Gebote: 0\nEnde: 17.11. 20:45 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%28100x%29-7w-gu10-led-spot-dimmable-6000k-A1-50148-63",
+   "site": "troostwijk/surplex",
+   "text": "(100x) 7W GU10 LED Spot-Dimmable 6000K\nStandort: Puurs (BE)\nAktuelles Gebot: 96 EUR · Gebote: 0\nEnde: 17.11. 19:45 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%288x%29-7w-led-schwarze-wandlampe-cube-duo-verstellbare-wasserdichte-lampe-A1-50148-245",
+   "site": "troostwijk/surplex",
+   "text": "(8x) 7W LED schwarze Wandlampe Cube Duo verstellbare wasserdichte Lampe\nStandort: Puurs (BE)\nAktuelles Gebot: 74 EUR · Gebote: 0\nEnde: 17.11. 21:45 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%28200x%29-4-9w-gu10-led-spot-6000k-A1-50148-50",
+   "site": "troostwijk/surplex",
+   "text": "(200x) 4,9W GU10 LED Spot 6000K\nStandort: Puurs (BE)\nAktuelles Gebot: 125 EUR · Gebote: 0\nEnde: 17.11. 19:35 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%28100x%29-4-9w-gu10-led-spot-dimmable-4000k-A1-50148-60",
+   "site": "troostwijk/surplex",
+   "text": "(100x) 4,9W GU10 LED-Spot-Dimmable 4000K\nStandort: Puurs (BE)\nAktuelles Gebot: 96 EUR · Gebote: 0\nEnde: 17.11. 19:43 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%28100x%29-7w-gu10-led-spotlight-mit-objektiv-4000k-A1-50148-53",
+   "site": "troostwijk/surplex",
+   "text": "(100x) 7W GU10 LED-Spotlight mit Objektiv 4000K\nStandort: Puurs (BE)\nAktuelles Gebot: 77 EUR · Gebote: 0\nEnde: 17.11. 19:37 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%288x%29-12w-led-wandlampe-duo-licht-schwarz-warmwei%C3%9F-wasserdicht-17-5-cm-A1-50148-242",
+   "site": "troostwijk/surplex",
+   "text": "(8x) 12W LED-Wandlampe Duo Licht, schwarz, warmweiß, wasserdicht, 17,5 cm\nStandort: Puurs (BE)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 17.11. 21:43 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%28200x%29-7w-gu10-led-spotlight-mit-objektiv-3000k-A1-50148-52",
+   "site": "troostwijk/surplex",
+   "text": "(200x) 7W GU10 LED-Spotlight mit Objektiv 3000K\nStandort: Puurs (BE)\nAktuelles Gebot: 150 EUR · Gebote: 0\nEnde: 17.11. 19:35 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%2840x%29-4-9w-gu10-led-spot-dimmable-mit-objektiv-4000k-schwarz-A1-50148-64",
+   "site": "troostwijk/surplex",
+   "text": "(40x) 4,9W GU10 LED Spot-Dimmable mit Objektiv 4000K Schwarz\nStandort: Puurs (BE)\nAktuelles Gebot: 72 EUR · Gebote: 0\nEnde: 17.11. 19:43 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%28200x%29-4-9w-gu10-led-spot-3000k-A1-50148-47",
+   "site": "troostwijk/surplex",
+   "text": "(200x) 4,9W GU10 LED Spot 3000K\nStandort: Puurs (BE)\nAktuelles Gebot: 125 EUR · Gebote: 0\nEnde: 17.11. 19:33 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%28200x%29-4-9w-gu10-led-spot-3000k-A1-50148-6",
+   "site": "troostwijk/surplex",
+   "text": "(200x) 4,9W GU10 LED Spot 3000K\nStandort: Puurs (BE)\nAktuelles Gebot: 125 EUR · Gebote: 0\nEnde: 17.11. 19:07 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%28200x%29-4-9w-gu10-led-spot-dimmable-4000k-A1-50148-61",
+   "site": "troostwijk/surplex",
+   "text": "(200x) 4,9W GU10 LED Spot-Dimmable 4000K\nStandort: Puurs (BE)\nAktuelles Gebot: 190 EUR · Gebote: 0\nEnde: 17.11. 19:41 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%283x%29-16w-120cm-t5-led-licht-anschlie%C3%9Fend-3000k-A1-50148-146",
+   "site": "troostwijk/surplex",
+   "text": "(3x) 16W 120cm T5 LED-Licht anschließend 3000K\nStandort: Puurs (BE)\nAktuelles Gebot: 11 EUR · Gebote: 0\nEnde: 17.11. 20:39 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/led-rgbw-spot-set-A1-49952-448",
+   "site": "troostwijk/surplex",
+   "text": "LED-RGBW-Spot-Set\nStandort: Nederweert (NL)\nAktuelles Gebot: 75 EUR · Gebote: 0\nEnde: 15.11. 21:07 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%2812x%29-24w-cct-3-farbige-oberflachenmontierte-led-paneele-spritzschutz-mit-sensor-A1-50148-137",
+   "site": "troostwijk/surplex",
+   "text": "(12x) 24W CCT 3-farbige oberflächenmontierte LED-Paneele spritzschutz mit Sensor\nStandort: Puurs (BE)\nAktuelles Gebot: 140 EUR · Gebote: 0\nEnde: 17.11. 20:33 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/%2810x%29-12w-4000k-oberflachenmontierte-led-paneele-wasserdicht-feuerfest-mit-sensor-A1-50148-132",
+   "site": "troostwijk/surplex",
+   "text": "(10x) 12W 4000K oberflächenmontierte LED-Paneele, wasserdicht feuerfest mit Sensor\nStandort: Puurs (BE)\nAktuelles Gebot: 64 EUR · Gebote: 0\nEnde: 17.11. 20:31 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/kozii-by-xanlite-wlan-sicherheitskamera-mit-led-flutlicht-A1-52179-28",
+   "site": "troostwijk/surplex",
+   "text": "Kozii by Xanlite WLAN-Sicherheitskamera mit LED-Flutlicht\nStandort: Meerbusch (DE)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 23.11. 17:38 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/2-professionelle-moving-heads-v-m230-%E2%80%93-300w-A3-46120-6031",
+   "site": "troostwijk/surplex",
+   "text": "2 professionelle Moving Heads V-M230 – 300W\nStandort: DESTELBERGEN (BE)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 25.11. 17:45 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "Moving Head"
    ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
+   "first_seen": "2026-11-10T11:12:28+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/alera-adaptive-ergo-desktop-table-workstation-%287x%29-A1-51550-1059",
+   "url": "https://www.troostwijkauctions.com/de/l/2-professionelle-moving-heads-v-m230-%E2%80%93-300w-A3-46120-6030",
    "site": "troostwijk/surplex",
-   "text": "Alera Adaptive ergo Desktop Table Workstation (7x)\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:08 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "2 professionelle Moving Heads V-M230 – 300W\nStandort: DESTELBERGEN (BE)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 25.11. 17:23 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
-    "Workstation"
+    "Moving Head"
    ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
+   "first_seen": "2026-11-10T11:12:28+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/hp-z2-tower-g5-workstation-desktop-A1-52087-538",
+   "url": "https://www.troostwijkauctions.com/de/l/2-professionelle-moving-heads-v-m230-%E2%80%93-300w-A3-46120-6032",
    "site": "troostwijk/surplex",
-   "text": "HP Z2 Tower G5 Workstation Desktop\nStandort: Dordrecht (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 17.11. 10:15 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "2 professionelle Moving Heads V-M230 – 300W\nStandort: DESTELBERGEN (BE)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 25.11. 17:47 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
-    "Workstation"
+    "Moving Head"
    ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
+   "first_seen": "2026-11-10T11:12:28+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/hp-z2-sff-g9-workstation-desktop-pc-A1-52087-512",
+   "url": "https://www.troostwijkauctions.com/de/l/2-professionelle-moving-heads-v-m230-%E2%80%93-300w-A3-46120-6029",
    "site": "troostwijk/surplex",
-   "text": "HP Z2 SFF G9 Workstation Desktop-PC\nStandort: Dordrecht (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 17.11. 10:07 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "2 professionelle Moving Heads V-M230 – 300W\nStandort: DESTELBERGEN (BE)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 25.11. 17:50 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
-    "Workstation"
+    "Moving Head"
    ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
+   "first_seen": "2026-11-10T11:12:28+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/2x-alora-%E2%80%93-gaming-stuhl-x-treme-blue-A1-40422-341",
+   "url": "https://www.troostwijkauctions.com/de/l/2-professionelle-moving-heads-v-m230-%E2%80%93-300w-A3-46120-6028",
    "site": "troostwijk/surplex",
-   "text": "2x Alora – GAMING-STUHL X-TREME BLUE \nStandort: Westerhoven (NL)\nAktuelles Gebot: 150 EUR · Gebote: 0\nEnde: 24.11. 21:20 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "2 professionelle Moving Heads V-M230 – 300W\nStandort: DESTELBERGEN (BE)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 25.11. 17:30 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
-    "Gaming PC"
+    "Moving Head"
    ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
+   "first_seen": "2026-11-10T11:12:28+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/epsom-g6900wu-beamer-A1-51550-489",
-   "site": "troostwijk/surplex",
-   "text": "Epsom G6900WU Beamer\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:20 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/epsom-g6900wu-beamer-A1-51550-487",
-   "site": "troostwijk/surplex",
-   "text": "Epsom G6900WU Beamer\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:14 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/epsom-g6900wu-beamer-A1-51550-488",
-   "site": "troostwijk/surplex",
-   "text": "Epsom G6900WU Beamer\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:54 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/epsom-g6900wu-beamer-A1-51550-486",
-   "site": "troostwijk/surplex",
-   "text": "Epsom G6900WU Beamer\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:54 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/epson-3lcd-beamer-in-transportbox-A1-51550-900",
-   "site": "troostwijk/surplex",
-   "text": "Epson 3LCD Beamer in Transportbox\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:28 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/epson-3lcd-beamer-in-transportbox-A1-51550-902",
-   "site": "troostwijk/surplex",
-   "text": "Epson 3LCD Beamer in Transportbox\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:47 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/epson-3lcd-beamer-in-transportbox-A1-51550-901",
-   "site": "troostwijk/surplex",
-   "text": "Epson 3LCD Beamer in Transportbox\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:32 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/infocus-beamer-in-transportbox-A1-51550-491",
-   "site": "troostwijk/surplex",
-   "text": "InFocus Beamer in Transportbox\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:39 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/nec-np100-beamer-projektor-A1-51550-877",
-   "site": "troostwijk/surplex",
-   "text": "NEC NP100 Beamer / Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:54 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Beamer",
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/pole-beater-A1-50844-115",
-   "site": "troostwijk/surplex",
-   "text": "Pole Beater\nStandort: Dieren (NL)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 30.11. 14:55 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/panasonic-pt-rz570w-projektor-A1-51550-846",
-   "site": "troostwijk/surplex",
-   "text": "Panasonic PT-RZ570W Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:12 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/3m-mp8749-lcd-projektor-A1-51550-693",
-   "site": "troostwijk/surplex",
-   "text": "3M MP8749 LCD-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:59 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/infocus-lp500-dlp-projektor-A1-51550-689",
-   "site": "troostwijk/surplex",
-   "text": "InFocus LP500 DLP-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:39 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/epson-h431b-projektor-A1-51550-867",
-   "site": "troostwijk/surplex",
-   "text": "Epson H431B-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:15 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/boxlight-seattle-x22n-lcd-projektor-A1-51550-675",
-   "site": "troostwijk/surplex",
-   "text": "Boxlight Seattle X22N LCD-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:12 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/epson-h383a-lcd-projektor-mit-tasche-A1-51550-736",
-   "site": "troostwijk/surplex",
-   "text": "Epson H383A LCD-Projektor mit Tasche\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:26 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/infocus-projektor-A1-51550-879",
-   "site": "troostwijk/surplex",
-   "text": "InFocus-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:18 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/hp-mp2220-projektor-A1-51550-890",
-   "site": "troostwijk/surplex",
-   "text": "HP Mp2220 Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:36 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/epson-pro-g7500u-projektor-A1-51550-462",
-   "site": "troostwijk/surplex",
-   "text": "Epson Pro G7500U Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:50 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/nec-wt610-projektor-A1-51550-848",
-   "site": "troostwijk/surplex",
-   "text": "Nec WT610 Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:03 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/nec-wt610-projektor-A1-51550-849",
-   "site": "troostwijk/surplex",
-   "text": "Nec WT610 Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:28 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/3m-mp7740i-lcd-projektor-A1-51550-695",
-   "site": "troostwijk/surplex",
-   "text": "3M MP7740i LCD-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:35 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/boxlight-seattle-x22n-lcd-projektor-A1-51550-676",
-   "site": "troostwijk/surplex",
-   "text": "Boxlight Seattle X22N LCD-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:02 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sharp-pg-f312x-projektor-A1-51550-872",
-   "site": "troostwijk/surplex",
-   "text": "Sharp PG-F312X Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:36 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/3m-mp7740i-lcd-projektor-A1-51550-694",
-   "site": "troostwijk/surplex",
-   "text": "3M MP7740i LCD-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:12 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/epson-h838a-lcd-projektor-A1-51550-853",
-   "site": "troostwijk/surplex",
-   "text": "Epson H838A LCD-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:47 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/3m-mp8625-projektor-A1-51550-701",
-   "site": "troostwijk/surplex",
-   "text": "3M MP8625-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:06 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/hitachi-cp-s318t-lcd-projektor-A1-51550-683",
-   "site": "troostwijk/surplex",
-   "text": "Hitachi CP-S318T LCD-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:16 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/epson-pro-g7500u-projektor-A1-51550-461",
-   "site": "troostwijk/surplex",
-   "text": "Epson Pro G7500U Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:35 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/projektor-A1-51550-679",
-   "site": "troostwijk/surplex",
-   "text": "Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:13 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/geha-compact-238w-lcd-projektor-A1-51550-703",
-   "site": "troostwijk/surplex",
-   "text": "Geha Compact 238W LCD-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:35 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/geha-compact-238w-lcd-projektor-A1-51550-702",
-   "site": "troostwijk/surplex",
-   "text": "Geha Compact 238W LCD-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:48 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/3m-x75-lcd-projektor-A1-51550-855",
-   "site": "troostwijk/surplex",
-   "text": "3M X75 LCD-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:24 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/infocus-in116x-projektor-A1-51550-678",
-   "site": "troostwijk/surplex",
-   "text": "InFocus IN116x Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:41 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/proxima-ultralight-ls1-projektor-A1-51550-700",
-   "site": "troostwijk/surplex",
-   "text": "Proxima Ultralight LS1 Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:26 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/infocus-projektor-A1-51550-878",
-   "site": "troostwijk/surplex",
-   "text": "InFocus-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:25 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/nec-wt610-projektor-A1-51550-850",
-   "site": "troostwijk/surplex",
-   "text": "Nec WT610 Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:19 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/optoma-ep716-projektor-A1-51550-677",
-   "site": "troostwijk/surplex",
-   "text": "Optoma EP716 Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:16 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/infocus-lp540-projektor-A1-51550-682",
-   "site": "troostwijk/surplex",
-   "text": "InFocus LP540 Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:47 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/hp-mp2220-projektor-A1-51550-891",
-   "site": "troostwijk/surplex",
-   "text": "HP Mp2220 Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:33 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/nec-vt440-projektor-A1-51550-889",
-   "site": "troostwijk/surplex",
-   "text": "NEC VT440-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:42 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/epson-h376a-projektor-lcd-A1-51550-665",
-   "site": "troostwijk/surplex",
-   "text": "Epson H376A Projektor LCD\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:14 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/infocus-lp500-dlp-projektor-A1-51550-688",
-   "site": "troostwijk/surplex",
-   "text": "InFocus LP500 DLP-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:50 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/epson-h383a-lcd-projektor-mit-tasche-A1-51550-733",
-   "site": "troostwijk/surplex",
-   "text": "Epson H383A LCD-Projektor mit Tasche\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:27 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/christie-lx380l-projektor-A1-51550-851",
-   "site": "troostwijk/surplex",
-   "text": "Christie LX380L Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:13 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/boxlight-seattle-x22n-lcd-projektor-A1-51550-674",
-   "site": "troostwijk/surplex",
-   "text": "Boxlight Seattle X22N LCD-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:43 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/optoma-ex615-projektor-A1-51550-888",
-   "site": "troostwijk/surplex",
-   "text": "Optoma EX615 Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:08 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/infocus-d18-lp840-projektor-A1-51550-865",
-   "site": "troostwijk/surplex",
-   "text": "InFocus D18 LP840 Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:08 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/infokussierter-in10-projektor-A1-51550-875",
-   "site": "troostwijk/surplex",
-   "text": "Infokussierter IN10-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:28 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/nec-gt1150-projektor-A1-51550-852",
-   "site": "troostwijk/surplex",
-   "text": "NEC GT1150-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:47 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/infocus-lp400-projektor-A1-51550-705",
-   "site": "troostwijk/surplex",
-   "text": "InFocus LP400 Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:19 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/ev-projektor-mit-tasche-A1-51550-868",
-   "site": "troostwijk/surplex",
-   "text": "EV-Projektor mit Tasche\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:34 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/unscharfer-w1100-projektor-A1-51550-874",
-   "site": "troostwijk/surplex",
-   "text": "Unscharfer W1100-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:37 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/epson-h383a-lcd-projektor-mit-gehause-A1-51550-740",
-   "site": "troostwijk/surplex",
-   "text": "Epson H383A LCD-Projektor mit Gehäuse\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:16 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/infocus-in32-projektor-A1-51550-690",
-   "site": "troostwijk/surplex",
-   "text": "InFocus IN32-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:23 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/infocus-lp250-projektor-A1-51550-687",
-   "site": "troostwijk/surplex",
-   "text": "InFocus LP250 Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:37 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/infocus-x3-dlp-projektor-A1-51550-704",
-   "site": "troostwijk/surplex",
-   "text": "InFocus X3 DLP-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:43 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sony-vpl-px20-projektor-A1-51550-866",
-   "site": "troostwijk/surplex",
-   "text": "Sony VPL-PX20 Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:48 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/epson-h376a-projektor-lcd-A1-51550-666",
-   "site": "troostwijk/surplex",
-   "text": "Epson H376A Projektor LCD\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:35 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/infocus-lp640-projektor-A1-51550-681",
-   "site": "troostwijk/surplex",
-   "text": "InFocus LP640 Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:45 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/epson-h383a-lcd-projektor-mit-gehause-A1-51550-739",
-   "site": "troostwijk/surplex",
-   "text": "Epson H383A LCD-Projektor mit Gehäuse\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:12 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/hitachi-cp-s335-projektor-A1-51550-882",
-   "site": "troostwijk/surplex",
-   "text": "Hitachi CP-S335 Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:01 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/viewsonix-pjd5128-projektor-A1-51550-664",
-   "site": "troostwijk/surplex",
-   "text": "ViewSonix PJD5128 Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:13 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/mitsubishi-xd205u-g-projektor-mit-tasche-A1-51550-734",
-   "site": "troostwijk/surplex",
-   "text": "Mitsubishi XD205U-G Projektor mit Tasche\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:35 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/epson-h376a-projektor-lcd-A1-51550-668",
-   "site": "troostwijk/surplex",
-   "text": "Epson H376A Projektor LCD\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:59 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/epson-h376a-projektor-lcd-A1-51550-667",
-   "site": "troostwijk/surplex",
-   "text": "Epson H376A Projektor LCD\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:22 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/epson-h376a-projektor-lcd-A1-51550-669",
-   "site": "troostwijk/surplex",
-   "text": "Epson H376A Projektor LCD\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:12 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/projektor-A1-51550-858",
-   "site": "troostwijk/surplex",
-   "text": "Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:20 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/epson-h331a-projektor-lcd-A1-51550-670",
-   "site": "troostwijk/surplex",
-   "text": "Epson H331A Projektor-LCD\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:37 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/boxlight-seattle-x22n-lcd-projektor-A1-51550-673",
-   "site": "troostwijk/surplex",
-   "text": "Boxlight Seattle X22N LCD-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:20 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/viewsonic-pj551d-projektor-A1-51550-706",
-   "site": "troostwijk/surplex",
-   "text": "ViewSonic PJ551D Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:14 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/nec-vt440-projektor-A1-51550-881",
-   "site": "troostwijk/surplex",
-   "text": "NEC VT440-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:01 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/epson-pro-g7500u-projektor-A1-51550-460",
-   "site": "troostwijk/surplex",
-   "text": "Epson Pro G7500U Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 11:28 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/panasonic-pt-rz570w-projektor-A1-51550-847",
-   "site": "troostwijk/surplex",
-   "text": "Panasonic PT-RZ570W Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:43 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/nec-no-v260x-projektor-A1-51550-697",
-   "site": "troostwijk/surplex",
-   "text": "NEC NO-V260X-Projektor\nStandort: Thorn (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 27.11. 10:54 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "Projektor"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/leds-funktionieren-%E2%80%93-duoburst-4000-%E2%80%93-radio-led-lampe-A1-40422-297",
-   "site": "troostwijk/surplex",
-   "text": "LEDs funktionieren – Duoburst 4000 – Radio & LED-Lampe\nStandort: Westerhoven (NL)\nAktuelles Gebot: 25 EUR · Gebote: 0\nEnde: 24.11. 20:53 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/leds-funktionieren-%E2%80%93-duoburst-4000-%E2%80%93-radio-led-lampe-A1-40422-299",
-   "site": "troostwijk/surplex",
-   "text": "LEDs funktionieren – Duoburst 4000 – Radio & LED-Lampe\nStandort: Westerhoven (NL)\nAktuelles Gebot: 25 EUR · Gebote: 0\nEnde: 24.11. 20:13 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/leds-funktionieren-%E2%80%93-duoburst-4000-%E2%80%93-radio-led-lampe-A1-40422-300",
-   "site": "troostwijk/surplex",
-   "text": "LEDs funktionieren – Duoburst 4000 – Radio & LED-Lampe\nStandort: Westerhoven (NL)\nAktuelles Gebot: 25 EUR · Gebote: 0\nEnde: 24.11. 20:31 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/leds-funktionieren-%E2%80%93-duoburst-4000-%E2%80%93-radio-led-lampe-A1-40422-298",
-   "site": "troostwijk/surplex",
-   "text": "LEDs funktionieren – Duoburst 4000 – Radio & LED-Lampe\nStandort: Westerhoven (NL)\nAktuelles Gebot: 25 EUR · Gebote: 0\nEnde: 24.11. 20:51 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/48x-eversteel-led-flutlicht-30-watt-A1-40422-204",
-   "site": "troostwijk/surplex",
-   "text": "48x Eversteel LED-Flutlicht 30 Watt\nStandort: Westerhoven (NL)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 24.11. 21:02 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/40x-eversteel-%E2%80%93-led-flutlicht-10-watt-A1-40422-356",
-   "site": "troostwijk/surplex",
-   "text": "40x Eversteel – LED-Flutlicht 10 Watt \nStandort: Westerhoven (NL)\nAktuelles Gebot: 75 EUR · Gebote: 0\nEnde: 24.11. 20:35 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/40x-eversteel-%E2%80%93-led-flutlicht-10-watt-A1-40422-357",
-   "site": "troostwijk/surplex",
-   "text": "40x Eversteel – LED-Flutlicht 10 Watt \nStandort: Westerhoven (NL)\nAktuelles Gebot: 75 EUR · Gebote: 0\nEnde: 24.11. 20:37 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/40x-eversteel-%E2%80%93-led-flutlicht-10-watt-A1-40422-291",
-   "site": "troostwijk/surplex",
-   "text": "40x Eversteel – LED-Flutlicht 10 Watt \nStandort: Westerhoven (NL)\nAktuelles Gebot: 75 EUR · Gebote: 0\nEnde: 24.11. 20:15 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/24x-led-flutlicht-70-watt-A1-40422-205",
-   "site": "troostwijk/surplex",
-   "text": "24x LED-Flutlicht 70 Watt\nStandort: Westerhoven (NL)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 24.11. 19:27 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/led-flutlicht-50-watt-%2820x%29-A1-40422-347",
-   "site": "troostwijk/surplex",
-   "text": "LED-Flutlicht 50 Watt (20x)\nStandort: Westerhoven (NL)\nAktuelles Gebot: 200 EUR · Gebote: 0\nEnde: 24.11. 21:23 · Status: BIDDING_NOT_YET_OPENED",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Lenovo_ThinkCentre_M900_MT_10FD001LGE/988271",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VOLKSWAGENVW_Caddy_20_TDI_4MOTION_Maxi/986277",
    "site": "zoll-auktion",
-   "text": "1 Lenovo ThinkCentre M900 MT 10FD001LGE\nBeobachtung Auktion 988271 verwalten\nAuktion in Beobachtung nehmen.\n1 Lenovo ThinkCentre M900 MT 10FD001LGE\n32791 Lage\n6 Tage 23 Std. 36 Min.\n1 Gebot\n60,00 EUR",
-   "img_alt": "Lenovo ThinkCentre M900 MT 10FD001LGE\nGesamtansicht",
-   "keywords": [
-    "Grafikkarte"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Opel_Meriva_17_CDTI_Automatik_Innovation/987685",
-   "site": "zoll-auktion",
-   "text": "1 Opel Meriva 1.7 CDTI Automatik Innovation\nBeobachtung Auktion 987685 verwalten\nAuktion in Beobachtung nehmen.\n1 Opel Meriva 1.7 CDTI Automatik Innovation\n13053 Berlin\nNur Abholung möglich!\n2 Tage 7 Std. 31 Min.\n0 Gebote\n2.400,00 EUR",
-   "img_alt": "Ansicht Front und Seite links",
+   "text": "1 VOLKSWAGEN-VW Caddy 2.0 TDI 4MOTION Maxi\nBeobachtung Auktion 986277 verwalten\nAuktion in Beobachtung nehmen.\n1 VOLKSWAGEN-V­W Caddy 2.0 TDI 4MOTION Maxi\n73457 Essingen\nNur Abholung möglich!\n2 Tage 1 Std. 46 Min.\n7 Gebote\n7.100,00 EUR",
+   "img_alt": "Übersicht vorne\nlinks",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
+   "first_seen": "2026-11-10T11:12:28+00:00"
   },
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Passat_Variant_20_TDI_SCR_DSG_Business/988633",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_Passat_Variant_20_TDI_4Motion_BMT_Comfortline_BD162187/987761",
    "site": "zoll-auktion",
-   "text": "1 Passat Variant 2.0 TDI SCR DSG Business\nBeobachtung Auktion 988633 verwalten\nAuktion in Beobachtung nehmen.\n1 Passat Variant 2.0 TDI SCR DSG Business\n22305 Hamburg\nNur Abholung möglich!\n3 Tage 0 Std. 31 Min.\n20 Gebote\n15.100,00 EUR",
-   "img_alt": "Diagonale vorn",
+   "text": "1 VW Passat Variant 2.0 TDI 4Motion BMT Comfortline - BD16-2187\nBeobachtung Auktion 987761 verwalten\nAuktion in Beobachtung nehmen.\n1 VW Passat Variant 2.0 TDI 4Motion BMT Comfortline - BD16-2187\n22143 Hamburg\nNur Abholung möglich!\n2 Tage 19 Std. 31 Min.\n2 Gebote\n8.100,00 EUR",
+   "img_alt": "Frontansicht links",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
+   "first_seen": "2026-11-10T11:12:28+00:00"
   },
   {
-   "url": "https://www.justiz-auktion.de/Fujitsu-Esprimo-P556-215689",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_Touran_15_TSI_Comfortline/969212",
+   "site": "zoll-auktion",
+   "text": "1 VW Touran 1.5 TSI Comfortline\nBeobachtung Auktion 969212 verwalten\nAuktion in Beobachtung nehmen.\n1 VW Touran 1.5 TSI Comfortline\n42781 Haan\nNur Abholung möglich!\n2 Tage 21 Std. 1 Min.\n1 Gebot\n13.420,00 EUR",
+   "img_alt": "Front",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_Passat_Variant_CB5_15_TSI_BMTStartStopp_Business_OPF/987185",
+   "site": "zoll-auktion",
+   "text": "1 VW Passat Variant (CB5) 1.5 TSI BMT/Start-Stopp, Business OPF\nBeobachtung Auktion 987185 verwalten\nAuktion in Beobachtung nehmen.\n1 VW Passat Variant (CB5) 1.5 TSI BMT/Start-St­opp, Business OPF\n50968 Köln\nNur Abholung möglich!\n2 Tage 22 Std. 46 Min.\n0 Gebote\n17.450,00 EUR",
+   "img_alt": "Vorne rechts",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_BMW_Cabrio_1er_Reihe_Bastlerfahrzeug/986438",
+   "site": "zoll-auktion",
+   "text": "1 BMW Cabrio 1er Reihe - Bastlerfahrzeug\nBeobachtung Auktion 986438 verwalten\nAuktion in Beobachtung nehmen.\n1 BMW Cabrio 1er Reihe - Bastlerfahrz­eug\n33106 Paderborn\nNur Abholung möglich!\n3 Tage 0 Std. 1 Min.\n12 Gebote\n1.601,00 EUR",
+   "img_alt": "Gesamtansicht der Auktion",
+   "keywords": [
+    "LED Wand"
+   ],
+   "first_seen": "2026-11-10T11:12:28+00:00"
+  },
+  {
+   "url": "https://www.justiz-auktion.de/Apple-iMac-Arbeitsplaumltze-21comma5quot-216029",
    "site": "justiz-auktion",
-   "text": "0 Gebote\nFujitsu Esprimo P556\nRestzeit: 13 T, 18 Std, 11 Min\n(23.11.2026 06:40 Uhr)\nStartgebot: 25,00 €\n0,00 €\nStaatsanwaltschaft Köln\nAsservatenstelle\n50939 Köln\nDeutschland\nBundesland: Nordrhein-Westfalen\nSelbstabholung\nDetails",
-   "img_alt": "PC vorne",
+   "text": "0 Gebote\nApple iMac Arbeitsplätze 21,5\"\nRestzeit: 6 T, 2 Std, 30 Min\n(16.11.2026 14:44 Uhr)\nStartgebot: 125,00 €\n0,00 €\n47608 Geldern\nNordrhein-Westfalen\nDeutschland\nBundesland: Nordrhein-Westfalen\nSelbstabholung\nDetails",
+   "img_alt": "Apple iMac",
    "keywords": [
     "Grafikkarte"
    ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
-  },
-  {
-   "url": "https://www.justiz-auktion.de/Laptop-ASUS-ROG-Strix-G18-G814JV-215998",
-   "site": "justiz-auktion",
-   "text": "0 Gebote\nLaptop ASUS ROG Strix G18 G814JV\nRestzeit: 13 T, 21 Std, 46 Min\n(23.11.2026 10:15 Uhr)\nStartgebot: 499,00 €\n0,00 €\n04275 Leipzig\nSachsen\nDeutschland\nBundesland: Sachsen\nVersand\nDetails",
-   "img_alt": "Oberseite",
-   "keywords": [
-    "Grafikkarte"
-   ],
-   "first_seen": "2026-11-09T11:27:35+00:00"
+   "first_seen": "2026-11-10T11:12:28+00:00"
   }
  ]
 }

@@ -58,23 +58,23 @@
     "ids_matched": false
    },
    "Beamer": {
-    "cards": 21,
-    "total_reported": 21,
+    "cards": 39,
+    "total_reported": 39,
     "ids_matched": false
    },
    "Projektor": {
-    "cards": 25,
-    "total_reported": 25,
+    "cards": 23,
+    "total_reported": 23,
     "ids_matched": false
    },
    "LED Wand": {
-    "cards": 63,
-    "total_reported": 63,
-    "ids_matched": false
+    "cards": 68,
+    "total_reported": 68,
+    "ids_matched": true
    },
    "LED Wall": {
-    "cards": 0,
-    "total_reported": 0,
+    "cards": 2,
+    "total_reported": 2,
     "ids_matched": false
    },
    "Blackmagic": {
@@ -88,8 +88,8 @@
     "ids_matched": false
    },
    "Veranstaltungstechnik": {
-    "cards": 4,
-    "total_reported": 4,
+    "cards": 96,
+    "total_reported": 177,
     "ids_matched": false
    },
    "Lichtpult": {
@@ -98,13 +98,13 @@
     "ids_matched": false
    },
    "Moving Head": {
-    "cards": 1,
-    "total_reported": 1,
-    "ids_matched": true
+    "cards": 3,
+    "total_reported": 3,
+    "ids_matched": false
    },
    "Traverse": {
-    "cards": 27,
-    "total_reported": 27,
+    "cards": 39,
+    "total_reported": 39,
     "ids_matched": false
    }
   },
@@ -115,40 +115,40 @@
   "site": "troostwijk-surplex",
   "keywords": {
    "RTX 4090": {
-    "cards": 29
+    "cards": 31
    },
    "RTX 4080": {
-    "cards": 29
+    "cards": 31
    },
    "RTX 4070": {
-    "cards": 29
+    "cards": 31
    },
    "RTX 5090": {
-    "cards": 29
+    "cards": 31
    },
    "RTX 5080": {
-    "cards": 29
+    "cards": 31
    },
    "RTX 5070": {
-    "cards": 29
+    "cards": 31
    },
    "RTX A6000": {
-    "cards": 29
+    "cards": 31
    },
    "Grafikkarte": {
-    "cards": 1
+    "cards": 5
    },
    "Workstation": {
-    "cards": 77
+    "cards": 75
    },
    "Gaming PC": {
-    "cards": 28
+    "cards": 34
    },
    "Laserprojektor": {
     "cards": 2
    },
    "Beamer": {
-    "cards": 24
+    "cards": 45
    },
    "Projektor": {
     "cards": 177
@@ -172,7 +172,7 @@
     "cards": 0
    },
    "Moving Head": {
-    "cards": 31
+    "cards": 24
    },
    "Traverse": {
     "cards": 18
@@ -222,7 +222,7 @@
    "Grafikkarte": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Grafikkarte&n1%5B%5D=0&n0=search",
-    "cards": 4
+    "cards": 3
    },
    "Workstation": {
     "form_ok": true,
@@ -272,7 +272,7 @@
    "Veranstaltungstechnik": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Veranstaltungstechnik&n1%5B%5D=0&n0=search",
-    "cards": 3
+    "cards": 2
    },
    "Lichtpult": {
     "form_ok": true,
@@ -287,7 +287,7 @@
    "Traverse": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Traverse&n1%5B%5D=0&n0=search",
-    "cards": 5
+    "cards": 4
    }
   },
   "errors": [],
@@ -334,7 +334,7 @@
    "Grafikkarte": {
     "form_ok": true,
     "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 3
+    "cards": 4
    },
    "Workstation": {
     "form_ok": true,
