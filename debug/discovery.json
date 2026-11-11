@@ -40,7 +40,7 @@
    "Grafikkarte": {
     "cards": 2,
     "total_reported": 2,
-    "ids_matched": false
+    "ids_matched": true
    },
    "Workstation": {
     "cards": 3,
@@ -58,8 +58,8 @@
     "ids_matched": false
    },
    "Beamer": {
-    "cards": 39,
-    "total_reported": 39,
+    "cards": 38,
+    "total_reported": 38,
     "ids_matched": false
    },
    "Projektor": {
@@ -68,14 +68,14 @@
     "ids_matched": false
    },
    "LED Wand": {
-    "cards": 68,
-    "total_reported": 68,
-    "ids_matched": true
+    "cards": 59,
+    "total_reported": 59,
+    "ids_matched": false
    },
    "LED Wall": {
     "cards": 2,
     "total_reported": 2,
-    "ids_matched": false
+    "ids_matched": true
    },
    "Blackmagic": {
     "cards": 0,
@@ -100,7 +100,7 @@
    "Moving Head": {
     "cards": 3,
     "total_reported": 3,
-    "ids_matched": false
+    "ids_matched": true
    },
    "Traverse": {
     "cards": 39,
@@ -139,7 +139,7 @@
     "cards": 5
    },
    "Workstation": {
-    "cards": 75
+    "cards": 79
    },
    "Gaming PC": {
     "cards": 34
@@ -148,10 +148,10 @@
     "cards": 2
    },
    "Beamer": {
-    "cards": 45
+    "cards": 39
    },
    "Projektor": {
-    "cards": 177
+    "cards": 176
    },
    "LED Wand": {
     "cards": 200
@@ -160,7 +160,7 @@
     "cards": 200
    },
    "Blackmagic": {
-    "cards": 4
+    "cards": 6
    },
    "Medienserver": {
     "cards": 2
@@ -172,7 +172,7 @@
     "cards": 0
    },
    "Moving Head": {
-    "cards": 24
+    "cards": 28
    },
    "Traverse": {
     "cards": 18
@@ -242,12 +242,12 @@
    "Beamer": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Beamer&n1%5B%5D=0&n0=search",
-    "cards": 8
+    "cards": 7
    },
    "Projektor": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Projektor&n1%5B%5D=0&n0=search",
-    "cards": 6
+    "cards": 4
    },
    "LED Wand": {
     "form_ok": true,
@@ -272,7 +272,7 @@
    "Veranstaltungstechnik": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Veranstaltungstechnik&n1%5B%5D=0&n0=search",
-    "cards": 2
+    "cards": 1
    },
    "Lichtpult": {
     "form_ok": true,
@@ -287,7 +287,7 @@
    "Traverse": {
     "form_ok": true,
     "final_url": "https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n2=Traverse&n1%5B%5D=0&n0=search",
-    "cards": 4
+    "cards": 3
    }
   },
   "errors": [],
@@ -359,7 +359,7 @@
    "Projektor": {
     "form_ok": true,
     "final_url": "https://www.justiz-auktion.de/suche",
-    "cards": 1
+    "cards": 2
    },
    "LED Wand": {
     "form_ok": true,

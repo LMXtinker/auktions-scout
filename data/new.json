@@ -1,641 +1,498 @@
 {
- "generated": "2026-11-10T11:12:28+00:00",
- "count": 61,
+ "generated": "2026-11-11T10:54:05+00:00",
+ "count": 47,
  "lots": [
   {
-   "url": "https://www.aurena.at/posten/5564766",
+   "url": "https://www.aurena.at/posten/5564779",
    "site": "aurena",
-   "text": "13 | LED Videowand | 1 2 | TAGE | : | 2 0 | STD | Gebote: 0 | € 2.200\nSuche: https://www.aurena.at/s?keywords=LED+Wand&pagesize=96",
+   "text": "26 | LED Video Prozessor Vdwall LVP615S | 1 1 | TAGE | : | 2 0 | STD | Gebote: 0 | € 50\nSuche: https://www.aurena.at/s?keywords=LED+Wall&pagesize=96",
    "img_alt": "",
    "keywords": [
-    "LED Wand"
+    "LED Wall"
    ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
+   "first_seen": "2026-11-11T10:54:05+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wall&pagesize=96#los-0",
+   "url": "https://www.aurena.at/posten/5565794",
    "site": "aurena",
-   "text": "26 | LED Video Prozessor Vdwall LVP615S | 1 2 | TAGE | : | 2 0 | STD | Gebote: 0 | € 50\nSuche: https://www.aurena.at/s?keywords=LED+Wall&pagesize=96",
+   "text": "1057 | 2 LED Wall Elemente Lighthouse, Ersatzteilspender | 1 1 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wall&pagesize=96",
    "img_alt": "",
    "keywords": [
     "LED Wall"
    ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
+   "first_seen": "2026-11-11T10:54:05+00:00"
   },
   {
-   "url": "https://www.aurena.at/s?keywords=LED+Wall&pagesize=96#los-1",
+   "url": "https://www.aurena.at/posten/5565071",
    "site": "aurena",
-   "text": "1057 | 2 LED Wall Elemente Lighthouse, Ersatzteilspender | 1 2 | TAGE | : | 2 3 | STD | Gebote: 0 | € 1\nSuche: https://www.aurena.at/s?keywords=LED+Wall&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-29",
-   "site": "aurena",
-   "text": "21 | Schwerlastregal, ca. 8,5 lfm | 1 5 | TAGE | : | 2 0 | STD | Gebote: 0 | € 220\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Traverse"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-30",
-   "site": "aurena",
-   "text": "14 | Schwerlastregal, ca. 5,8 lfm | 1 5 | TAGE | : | 2 0 | STD | Gebote: 0 | € 160\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Traverse"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-31",
-   "site": "aurena",
-   "text": "778 | Schwerlastregal, ca. 8,4 lfm | 1 5 | TAGE | : | 2 2 | STD | Gebote: 0 | € 180\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Traverse"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-32",
-   "site": "aurena",
-   "text": "865 | Schwerlastregal, ca. 6,5 lfm | 1 5 | TAGE | : | 2 3 | STD | Gebote: 0 | € 150\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Traverse"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-33",
-   "site": "aurena",
-   "text": "24 | Schwerlastregal, ca. 6 lfm | 1 5 | TAGE | : | 2 0 | STD | Gebote: 0 | € 150\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Traverse"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-34",
-   "site": "aurena",
-   "text": "846 | Schwerlastregal, ca. 2,7 lfm | 1 5 | TAGE | : | 2 3 | STD | Gebote: 0 | € 60\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Traverse"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-35",
-   "site": "aurena",
-   "text": "848 | Schwerlastregal, ca. 5,4 lfm | 1 5 | TAGE | : | 2 3 | STD | Gebote: 0 | € 140\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Traverse"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-36",
-   "site": "aurena",
-   "text": "12 | Schwerlastregal, ca. 3 lfm | 1 5 | TAGE | : | 2 0 | STD | Gebote: 0 | € 80\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Traverse"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-37",
-   "site": "aurena",
-   "text": "16 | Schwerlastregal, ca. 5,8 lfm | 1 5 | TAGE | : | 2 0 | STD | Gebote: 0 | € 160\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Traverse"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.aurena.at/s?keywords=Traverse&pagesize=96#los-38",
-   "site": "aurena",
-   "text": "344 | Messezubehör, ca. 10-teilig | 0 1 | TAGE | : | 0 4 | STD | Gebote: 22 | € 650\nSuche: https://www.aurena.at/s?keywords=Traverse&pagesize=96",
-   "img_alt": "",
-   "keywords": [
-    "Traverse"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/gigabyte-radeon-rx-9060-xt-gaming-oc-16g-grafikkarte-16-gb-gddr6-256-bit-pci-e-5-0-3060-mhz-kernfrequenz-A1-52179-13",
-   "site": "troostwijk/surplex",
-   "text": "Gigabyte - Radeon RX 9060 XT Gaming OC 16G Grafikkarte - 16 GB GDDR6, 256 Bit, PCI-E 5.0, 3060 MHz Kernfrequenz\nStandort: Meerbusch (DE)\nAktuelles Gebot: 150 EUR · Gebote: 1\nEnde: 23.11. 17:12 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Grafikkarte",
-    "Gaming PC"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/sapphire-radeon-rx-9060-xt-16gb-nitro%2B-gaming-oc-grafikkarte-A1-52179-14",
-   "site": "troostwijk/surplex",
-   "text": "Sapphire - Radeon RX 9060 XT 16GB NITRO+ Gaming OC Grafikkarte\nStandort: Meerbusch (DE)\nAktuelles Gebot: 100 EUR · Gebote: 1\nEnde: 23.11. 16:17 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Grafikkarte",
-    "Gaming PC"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/hisense-c2-ultra-beamer-A1-42505-87",
-   "site": "troostwijk/surplex",
-   "text": "Hisense C2 ultra Beamer\nStandort: Etten-Leur (NL)\nAktuelles Gebot: 25 EUR · Gebote: 4\nEnde: 18.11. 19:06 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/acer-celexon-p5630-2x-beamer-mit-1x-leinwand-A1-52168-28",
-   "site": "troostwijk/surplex",
-   "text": "Acer / Celexon P5630 2x Beamer mit 1x Leinwand\nStandort: Schönefeld OT Selchow (DE)\nAktuelles Gebot: 80 EUR · Gebote: 0\nEnde: 26.11. 11:15 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/acer-celexon-p5630-2x-beamer-mit-1x-leinwand-A1-52168-30",
-   "site": "troostwijk/surplex",
-   "text": "Acer / Celexon P5630 2x Beamer mit 1x Leinwand\nStandort: Schönefeld OT Selchow (DE)\nAktuelles Gebot: 80 EUR · Gebote: 1\nEnde: 26.11. 11:16 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/acer-celexon-p5630-2x-beamer-mit-1x-leinwand-A1-52168-29",
-   "site": "troostwijk/surplex",
-   "text": "Acer / Celexon P5630 2x Beamer mit 1x Leinwand\nStandort: Schönefeld OT Selchow (DE)\nAktuelles Gebot: 80 EUR · Gebote: 0\nEnde: 26.11. 11:15 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/acer-celexon-x1385wh-2x-beamer-mit-1x-leinwand-A1-52168-25",
-   "site": "troostwijk/surplex",
-   "text": "Acer / Celexon X1385WH 2x Beamer mit 1x Leinwand\nStandort: Schönefeld OT Selchow (DE)\nAktuelles Gebot: 80 EUR · Gebote: 0\nEnde: 26.11. 11:13 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/acer-celexon-x1385wh-2x-beamer-mit-1x-leinwand-A1-52168-26",
-   "site": "troostwijk/surplex",
-   "text": "Acer / Celexon X1385WH 2x Beamer mit 1x Leinwand\nStandort: Schönefeld OT Selchow (DE)\nAktuelles Gebot: 80 EUR · Gebote: 0\nEnde: 26.11. 11:14 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/optoma-celexon-w334e-4x-beamer-mit-2x-leinwand-A1-52168-31",
-   "site": "troostwijk/surplex",
-   "text": "Optoma / Celexon W334e 4x Beamer mit 2x Leinwand\nStandort: Schönefeld OT Selchow (DE)\nAktuelles Gebot: 120 EUR · Gebote: 1\nEnde: 26.11. 11:16 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/acer-celexon-x1385wh-2x-beamer-mit-1x-leinwand-A1-52168-27",
-   "site": "troostwijk/surplex",
-   "text": "Acer / Celexon X1385WH 2x Beamer mit 1x Leinwand\nStandort: Schönefeld OT Selchow (DE)\nAktuelles Gebot: 80 EUR · Gebote: 0\nEnde: 26.11. 11:14 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/acer-optoma-celexon-7x-beamer-4x-leinwande-A1-52168-32",
-   "site": "troostwijk/surplex",
-   "text": "Acer / Optoma / Celexon 7x  Beamer & 4x Leinwände\nStandort: Schönefeld OT Selchow (DE)\nAktuelles Gebot: 150 EUR · Gebote: 0\nEnde: 26.11. 11:17 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/acer-celexon-x1385wh-2x-beamer-mit-1x-leinwand-A1-52168-23",
-   "site": "troostwijk/surplex",
-   "text": "Acer / Celexon X1385WH 2x Beamer mit 1x Leinwand\nStandort: Schönefeld OT Selchow (DE)\nAktuelles Gebot: 80 EUR · Gebote: 0\nEnde: 26.11. 11:12 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/acer-celexon-x1385wh-2x-beamer-mit-1x-leinwand-A1-52168-24",
-   "site": "troostwijk/surplex",
-   "text": "Acer / Celexon X1385WH 2x Beamer mit 1x Leinwand\nStandort: Schönefeld OT Selchow (DE)\nAktuelles Gebot: 80 EUR · Gebote: 0\nEnde: 26.11. 11:13 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/celexon-9x-tragetaschen-beamertaschen-A1-52168-13",
-   "site": "troostwijk/surplex",
-   "text": "Celexon 9x Tragetaschen / Beamertaschen\nStandort: Schönefeld OT Selchow (DE)\nAktuelles Gebot: 30 EUR · Gebote: 0\nEnde: 26.11. 11:07 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "Beamer"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/%28100x%29-7w-gu10-led-spot-dimmbar-mit-objektiv-2700k-A1-50148-59",
-   "site": "troostwijk/surplex",
-   "text": "(100x) 7W GU10 LED Spot-Dimmbar mit Objektiv 2700K\nStandort: Puurs (BE)\nAktuelles Gebot: 105 EUR · Gebote: 0\nEnde: 17.11. 19:41 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/kontaminations-waben-led-beleuchtung-bby011-led-streifen-A1-50360-73",
-   "site": "troostwijk/surplex",
-   "text": "Kontaminations-Waben-LED-Beleuchtung BBY011 LED-Streifen\nStandort: Drachten (NL)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 14.11. 15:26 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/moonlight-%E2%80%93-led-vorhang-%E2%80%93-verschiedene-lichtgerate-A1-49952-346",
-   "site": "troostwijk/surplex",
-   "text": "Moonlight – LED-Vorhang – Verschiedene Lichtgeräte\nStandort: Nederweert (NL)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 15.11. 20:03 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/moonlight-%E2%80%93-led-vorhang-%E2%80%93-verschiedene-lichtgerate-A1-49952-345",
-   "site": "troostwijk/surplex",
-   "text": "Moonlight – LED-Vorhang – Verschiedene Lichtgeräte\nStandort: Nederweert (NL)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 15.11. 20:40 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/%2816x%29-24w-cct-3-farbige-oberflachenmontierte-led-paneele-spritzwasserdicht-mit-sensor-A1-50148-138",
-   "site": "troostwijk/surplex",
-   "text": "(16x) 24W CCT 3-farbige oberflächenmontierte LED-Paneele spritzwasserdicht mit Sensor\nStandort: Puurs (BE)\nAktuelles Gebot: 185 EUR · Gebote: 0\nEnde: 17.11. 20:35 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/%28200x%29-4-9w-gu10-led-spot-3000k-A1-50148-46",
-   "site": "troostwijk/surplex",
-   "text": "(200x) 4,9W GU10 LED Spot 3000K\nStandort: Puurs (BE)\nAktuelles Gebot: 125 EUR · Gebote: 0\nEnde: 17.11. 19:31 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/%288x%29-60cm-pro-doppel-led-tl-t8-leuchten-wasserdicht-dunkelgrau-mit-reflektor-A1-50148-155",
-   "site": "troostwijk/surplex",
-   "text": "(8x) 60cm Pro Doppel-LED TL T8 Leuchten wasserdicht dunkelgrau mit Reflektor\nStandort: Puurs (BE)\nAktuelles Gebot: 85 EUR · Gebote: 0\nEnde: 17.11. 20:45 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/%28100x%29-7w-gu10-led-spot-dimmable-6000k-A1-50148-63",
-   "site": "troostwijk/surplex",
-   "text": "(100x) 7W GU10 LED Spot-Dimmable 6000K\nStandort: Puurs (BE)\nAktuelles Gebot: 96 EUR · Gebote: 0\nEnde: 17.11. 19:45 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/%288x%29-7w-led-schwarze-wandlampe-cube-duo-verstellbare-wasserdichte-lampe-A1-50148-245",
-   "site": "troostwijk/surplex",
-   "text": "(8x) 7W LED schwarze Wandlampe Cube Duo verstellbare wasserdichte Lampe\nStandort: Puurs (BE)\nAktuelles Gebot: 74 EUR · Gebote: 0\nEnde: 17.11. 21:45 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/%28200x%29-4-9w-gu10-led-spot-6000k-A1-50148-50",
-   "site": "troostwijk/surplex",
-   "text": "(200x) 4,9W GU10 LED Spot 6000K\nStandort: Puurs (BE)\nAktuelles Gebot: 125 EUR · Gebote: 0\nEnde: 17.11. 19:35 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/%28100x%29-4-9w-gu10-led-spot-dimmable-4000k-A1-50148-60",
-   "site": "troostwijk/surplex",
-   "text": "(100x) 4,9W GU10 LED-Spot-Dimmable 4000K\nStandort: Puurs (BE)\nAktuelles Gebot: 96 EUR · Gebote: 0\nEnde: 17.11. 19:43 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/%28100x%29-7w-gu10-led-spotlight-mit-objektiv-4000k-A1-50148-53",
-   "site": "troostwijk/surplex",
-   "text": "(100x) 7W GU10 LED-Spotlight mit Objektiv 4000K\nStandort: Puurs (BE)\nAktuelles Gebot: 77 EUR · Gebote: 0\nEnde: 17.11. 19:37 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/%288x%29-12w-led-wandlampe-duo-licht-schwarz-warmwei%C3%9F-wasserdicht-17-5-cm-A1-50148-242",
-   "site": "troostwijk/surplex",
-   "text": "(8x) 12W LED-Wandlampe Duo Licht, schwarz, warmweiß, wasserdicht, 17,5 cm\nStandort: Puurs (BE)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 17.11. 21:43 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/%28200x%29-7w-gu10-led-spotlight-mit-objektiv-3000k-A1-50148-52",
-   "site": "troostwijk/surplex",
-   "text": "(200x) 7W GU10 LED-Spotlight mit Objektiv 3000K\nStandort: Puurs (BE)\nAktuelles Gebot: 150 EUR · Gebote: 0\nEnde: 17.11. 19:35 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/%2840x%29-4-9w-gu10-led-spot-dimmable-mit-objektiv-4000k-schwarz-A1-50148-64",
-   "site": "troostwijk/surplex",
-   "text": "(40x) 4,9W GU10 LED Spot-Dimmable mit Objektiv 4000K Schwarz\nStandort: Puurs (BE)\nAktuelles Gebot: 72 EUR · Gebote: 0\nEnde: 17.11. 19:43 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/%28200x%29-4-9w-gu10-led-spot-3000k-A1-50148-47",
-   "site": "troostwijk/surplex",
-   "text": "(200x) 4,9W GU10 LED Spot 3000K\nStandort: Puurs (BE)\nAktuelles Gebot: 125 EUR · Gebote: 0\nEnde: 17.11. 19:33 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/%28200x%29-4-9w-gu10-led-spot-3000k-A1-50148-6",
-   "site": "troostwijk/surplex",
-   "text": "(200x) 4,9W GU10 LED Spot 3000K\nStandort: Puurs (BE)\nAktuelles Gebot: 125 EUR · Gebote: 0\nEnde: 17.11. 19:07 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/%28200x%29-4-9w-gu10-led-spot-dimmable-4000k-A1-50148-61",
-   "site": "troostwijk/surplex",
-   "text": "(200x) 4,9W GU10 LED Spot-Dimmable 4000K\nStandort: Puurs (BE)\nAktuelles Gebot: 190 EUR · Gebote: 0\nEnde: 17.11. 19:41 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/%283x%29-16w-120cm-t5-led-licht-anschlie%C3%9Fend-3000k-A1-50148-146",
-   "site": "troostwijk/surplex",
-   "text": "(3x) 16W 120cm T5 LED-Licht anschließend 3000K\nStandort: Puurs (BE)\nAktuelles Gebot: 11 EUR · Gebote: 0\nEnde: 17.11. 20:39 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/led-rgbw-spot-set-A1-49952-448",
-   "site": "troostwijk/surplex",
-   "text": "LED-RGBW-Spot-Set\nStandort: Nederweert (NL)\nAktuelles Gebot: 75 EUR · Gebote: 0\nEnde: 15.11. 21:07 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/%2812x%29-24w-cct-3-farbige-oberflachenmontierte-led-paneele-spritzschutz-mit-sensor-A1-50148-137",
-   "site": "troostwijk/surplex",
-   "text": "(12x) 24W CCT 3-farbige oberflächenmontierte LED-Paneele spritzschutz mit Sensor\nStandort: Puurs (BE)\nAktuelles Gebot: 140 EUR · Gebote: 0\nEnde: 17.11. 20:33 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/%2810x%29-12w-4000k-oberflachenmontierte-led-paneele-wasserdicht-feuerfest-mit-sensor-A1-50148-132",
-   "site": "troostwijk/surplex",
-   "text": "(10x) 12W 4000K oberflächenmontierte LED-Paneele, wasserdicht feuerfest mit Sensor\nStandort: Puurs (BE)\nAktuelles Gebot: 64 EUR · Gebote: 0\nEnde: 17.11. 20:31 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/kozii-by-xanlite-wlan-sicherheitskamera-mit-led-flutlicht-A1-52179-28",
-   "site": "troostwijk/surplex",
-   "text": "Kozii by Xanlite WLAN-Sicherheitskamera mit LED-Flutlicht\nStandort: Meerbusch (DE)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 23.11. 17:38 · Status: BIDDING_OPEN",
-   "img_alt": "",
-   "keywords": [
-    "LED Wand",
-    "LED Wall"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.troostwijkauctions.com/de/l/2-professionelle-moving-heads-v-m230-%E2%80%93-300w-A3-46120-6031",
-   "site": "troostwijk/surplex",
-   "text": "2 professionelle Moving Heads V-M230 – 300W\nStandort: DESTELBERGEN (BE)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 25.11. 17:45 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "329 | 2 Moving Heads Beam 7R V2401 | 1 1 | TAGE | : | 2 1 | STD | Gebote: 0 | € 60\nSuche: https://www.aurena.at/s?keywords=Moving+Head&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Moving Head"
    ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
+   "first_seen": "2026-11-11T10:54:05+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/2-professionelle-moving-heads-v-m230-%E2%80%93-300w-A3-46120-6030",
-   "site": "troostwijk/surplex",
-   "text": "2 professionelle Moving Heads V-M230 – 300W\nStandort: DESTELBERGEN (BE)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 25.11. 17:23 · Status: BIDDING_NOT_YET_OPENED",
+   "url": "https://www.aurena.at/posten/5565072",
+   "site": "aurena",
+   "text": "330 | 2 Moving Heads Beam 7R V2401 | 1 1 | TAGE | : | 2 1 | STD | Gebote: 0 | € 60\nSuche: https://www.aurena.at/s?keywords=Moving+Head&pagesize=96",
    "img_alt": "",
    "keywords": [
     "Moving Head"
    ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
+   "first_seen": "2026-11-11T10:54:05+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/2-professionelle-moving-heads-v-m230-%E2%80%93-300w-A3-46120-6032",
+   "url": "https://www.troostwijkauctions.com/de/l/wmt-workstation-1200-800-schwei%C3%9Ftisch-A7-52321-10",
    "site": "troostwijk/surplex",
-   "text": "2 professionelle Moving Heads V-M230 – 300W\nStandort: DESTELBERGEN (BE)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 25.11. 17:47 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "WMT WORKSTATION 1200/800 Schweißtisch\nStandort: Velen-Ramsdorf (DE)\nAktuelles Gebot: 790 EUR · Gebote: 0\nEnde: 03.12. 08:40 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hyper-schwei%C3%9Fen-pwc-7-0-200a-3-in-1-mobile-workstation-A1-47883-88",
+   "site": "troostwijk/surplex",
+   "text": "Hyper-Schweißen PWC 7.0-200A 3-in-1 Mobile Workstation\nStandort: Surhuisterveen (NL)\nAktuelles Gebot: 900 EUR · Gebote: 0\nEnde: 28.11. 19:55 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/hyper-schwei%C3%9Fen-pwc-7-0-200a-3-in-1-mobile-workstation-A1-47883-92",
+   "site": "troostwijk/surplex",
+   "text": "Hyper-Schweißen PWC 7.0-200A 3-in-1 Mobile Workstation\nStandort: Surhuisterveen (NL)\nAktuelles Gebot: 1000 EUR · Gebote: 0\nEnde: 28.11. 20:26 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Workstation"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/zoomcolor-led-ip65-projektor-%282x%29-A1-52324-33",
+   "site": "troostwijk/surplex",
+   "text": "ZoomColor LED IP65-Projektor (2x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 01.12. 15:17 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Projektor"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/zoomcolor-led-ip65-projektor-%282x%29-A1-52324-32",
+   "site": "troostwijk/surplex",
+   "text": "ZoomColor LED IP65-Projektor (2x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 01.12. 15:15 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Projektor"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/zoomcolor-led-ip65-projektor-%282x%29-A1-52324-34",
+   "site": "troostwijk/surplex",
+   "text": "ZoomColor LED IP65-Projektor (2x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 01.12. 15:19 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Projektor"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/zoomcolor-led-ip65-projektor-%282x%29-A1-52324-36",
+   "site": "troostwijk/surplex",
+   "text": "ZoomColor LED IP65-Projektor (2x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 01.12. 15:15 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Projektor"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/zoomcolor-led-ip65-projektor-%282x%29-A1-52324-35",
+   "site": "troostwijk/surplex",
+   "text": "ZoomColor LED IP65-Projektor (2x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 100 EUR · Gebote: 0\nEnde: 01.12. 15:21 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Projektor"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/starway-%E2%80%93-tourkolor-%E2%80%93-projektor-A1-52324-574",
+   "site": "troostwijk/surplex",
+   "text": "STARWAY – TOURKOLOR – Projektor\nStandort: Domont (FR)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 01.12. 16:57 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Projektor"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/jb-lighting-p7-projektor-%28x2%29-A1-52324-29",
+   "site": "troostwijk/surplex",
+   "text": "JB Lighting P7 Projektor (x2)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 200 EUR · Gebote: 0\nEnde: 01.12. 15:17 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Projektor"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/2017-robe-bmfl-blade-effektlyra-projektor-1700-w-A1-52324-568",
+   "site": "troostwijk/surplex",
+   "text": "2017 - ROBE - BMFL BLADE - Effektlyra-Projektor 1700 W\nStandort: Domont (FR)\nAktuelles Gebot: 1000 EUR · Gebote: 0\nEnde: 01.12. 16:53 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Projektor"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/oxo-multibeam-led-fcw-led-flutlichter-%2818x%29-A1-52324-570",
+   "site": "troostwijk/surplex",
+   "text": "OXO - MULTIBEAM LED FCW - LED-Flutlichter (18x)\nStandort: Domont (FR)\nAktuelles Gebot: 150 EUR · Gebote: 0\nEnde: 01.12. 16:49 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/led-bildschirm-leuchtet-p3-9-mm-au%C3%9Fen-ip65-%288x%29-A1-52324-131",
+   "site": "troostwijk/surplex",
+   "text": "LED-Bildschirm leuchtet p3,9 mm Außen-IP65 (8x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 200 EUR · Gebote: 0\nEnde: 01.12. 15:53 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/led-bildschirm-leuchtet-p3-9-mm-au%C3%9Fen-ip65-%288x%29-A1-52324-133",
+   "site": "troostwijk/surplex",
+   "text": "LED-Bildschirm leuchtet p3,9 mm Außen-IP65 (8x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 200 EUR · Gebote: 0\nEnde: 01.12. 15:57 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/led-bildschirm-leuchtet-p3-9-mm-au%C3%9Fen-ip65-%288x%29-A1-52324-124",
+   "site": "troostwijk/surplex",
+   "text": "LED-Bildschirm leuchtet p3,9 mm Außen-IP65 (8x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 200 EUR · Gebote: 0\nEnde: 01.12. 15:55 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/led-bildschirm-leuchtet-p3-9-mm-au%C3%9Fen-ip65-%288x%29-A1-52324-120",
+   "site": "troostwijk/surplex",
+   "text": "LED-Bildschirm leuchtet p3,9 mm Außen-IP65 (8x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 200 EUR · Gebote: 0\nEnde: 01.12. 15:55 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/led-bildschirm-leuchtet-p3-9-mm-au%C3%9Fen-ip65-%288x%29-A1-52324-121",
+   "site": "troostwijk/surplex",
+   "text": "LED-Bildschirm leuchtet p3,9 mm Außen-IP65 (8x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 200 EUR · Gebote: 0\nEnde: 01.12. 15:49 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/led-bildschirm-leuchtet-p3-9-mm-au%C3%9Fen-ip65-%288x%29-A1-52324-119",
+   "site": "troostwijk/surplex",
+   "text": "LED-Bildschirm leuchtet p3,9 mm Außen-IP65 (8x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 200 EUR · Gebote: 0\nEnde: 01.12. 15:53 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/led-bildschirm-leuchtet-p3-9-mm-au%C3%9Fen-ip65-%288x%29-A1-52324-125",
+   "site": "troostwijk/surplex",
+   "text": "LED-Bildschirm leuchtet p3,9 mm Außen-IP65 (8x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 200 EUR · Gebote: 0\nEnde: 01.12. 15:57 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/led-bildschirm-leuchtet-p3-9-mm-au%C3%9Fen-ip65-%288x%29-A1-52324-129",
+   "site": "troostwijk/surplex",
+   "text": "LED-Bildschirm leuchtet p3,9 mm Außen-IP65 (8x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 200 EUR · Gebote: 0\nEnde: 01.12. 15:57 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/led-bildschirm-leuchtet-p3-9-mm-au%C3%9Fen-ip65-%288x%29-A1-52324-128",
+   "site": "troostwijk/surplex",
+   "text": "LED-Bildschirm leuchtet p3,9 mm Außen-IP65 (8x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 200 EUR · Gebote: 0\nEnde: 01.12. 15:55 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/led-bildschirm-leuchtet-p3-9-mm-au%C3%9Fen-ip65-%288x%29-A1-52324-130",
+   "site": "troostwijk/surplex",
+   "text": "LED-Bildschirm leuchtet p3,9 mm Außen-IP65 (8x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 200 EUR · Gebote: 0\nEnde: 01.12. 15:59 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/led-bildschirm-leuchtet-p3-9-mm-au%C3%9Fen-ip65-%288x%29-A1-52324-123",
+   "site": "troostwijk/surplex",
+   "text": "LED-Bildschirm leuchtet p3,9 mm Außen-IP65 (8x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 200 EUR · Gebote: 0\nEnde: 01.12. 15:53 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/led-bildschirm-leuchtet-p3-9-mm-au%C3%9Fen-ip65-%288x%29-A1-52324-116",
+   "site": "troostwijk/surplex",
+   "text": "LED-Bildschirm leuchtet p3,9 mm Außen-IP65 (8x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 200 EUR · Gebote: 0\nEnde: 01.12. 15:47 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/led-bildschirm-leuchtet-p3-9-mm-au%C3%9Fen-ip65-%288x%29-A1-52324-132",
+   "site": "troostwijk/surplex",
+   "text": "LED-Bildschirm leuchtet p3,9 mm Außen-IP65 (8x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 200 EUR · Gebote: 0\nEnde: 01.12. 15:55 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/led-bildschirm-leuchtet-p3-9-mm-au%C3%9Fen-ip65-%288x%29-A1-52324-115",
+   "site": "troostwijk/surplex",
+   "text": "LED-Bildschirm leuchtet p3,9 mm Außen-IP65 (8x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 200 EUR · Gebote: 0\nEnde: 01.12. 15:53 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/led-bildschirm-leuchtet-p3-9-mm-au%C3%9Fen-ip65-%288x%29-A1-52324-127",
+   "site": "troostwijk/surplex",
+   "text": "LED-Bildschirm leuchtet p3,9 mm Außen-IP65 (8x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 200 EUR · Gebote: 0\nEnde: 01.12. 15:53 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/led-bildschirm-leuchtet-p3-9-mm-au%C3%9Fen-ip65-%288x%29-A1-52324-126",
+   "site": "troostwijk/surplex",
+   "text": "LED-Bildschirm leuchtet p3,9 mm Außen-IP65 (8x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 200 EUR · Gebote: 0\nEnde: 01.12. 15:51 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/led-bildschirm-leuchtet-p3-9-mm-au%C3%9Fen-ip65-%288x%29-A1-52324-118",
+   "site": "troostwijk/surplex",
+   "text": "LED-Bildschirm leuchtet p3,9 mm Außen-IP65 (8x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 200 EUR · Gebote: 0\nEnde: 01.12. 15:51 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/led-bildschirm-leuchtet-p3-9-mm-au%C3%9Fen-ip65-%288x%29-A1-52324-122",
+   "site": "troostwijk/surplex",
+   "text": "LED-Bildschirm leuchtet p3,9 mm Außen-IP65 (8x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 200 EUR · Gebote: 0\nEnde: 01.12. 15:51 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/led-bildschirm-leuchtet-p3-9-mm-au%C3%9Fen-ip65-%288x%29-A1-52324-117",
+   "site": "troostwijk/surplex",
+   "text": "LED-Bildschirm leuchtet p3,9 mm Außen-IP65 (8x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 200 EUR · Gebote: 0\nEnde: 01.12. 15:49 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/starway-colorado-1-tri-ip-nie-verwendeter-led-flutlicht-A1-52324-575",
+   "site": "troostwijk/surplex",
+   "text": "STARWAY - COLORado 1-Tri IP - Nie verwendeter LED-Flutlicht\nStandort: Domont (FR)\nAktuelles Gebot: 50 EUR · Gebote: 0\nEnde: 01.12. 16:51 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/inventronics-esm-150s420mg-hk01-led-gewachshauslampentreiber-%2896x%29-A1-51166-93",
+   "site": "troostwijk/surplex",
+   "text": "Inventronics ESM-150S420MG-HK01 LED-Gewächshauslampentreiber (96x)\nStandort: Den Haag (NL)\nAktuelles Gebot: 10 EUR · Gebote: 0\nEnde: 23.11. 10:16 · Status: BIDDING_OPEN",
+   "img_alt": "",
+   "keywords": [
+    "LED Wand",
+    "LED Wall"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/blackmagic-hyperdesk-recorder-A1-52324-111",
+   "site": "troostwijk/surplex",
+   "text": "Blackmagic Hyperdesk-Recorder\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 40 EUR · Gebote: 0\nEnde: 01.12. 15:45 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Blackmagic"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/blackmagic-sdi-6g-und-3g-hdmi-konverter-%282x%29-A1-52324-109",
+   "site": "troostwijk/surplex",
+   "text": "Blackmagic SDI 6G und 3G HDMI-Konverter (2x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 30 EUR · Gebote: 0\nEnde: 01.12. 15:49 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Blackmagic"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/claypacky-k10-beye-moving-head-%284x%29-A1-52324-157",
+   "site": "troostwijk/surplex",
+   "text": "Claypacky K10 Beye Moving Head (4x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 500 EUR · Gebote: 0\nEnde: 01.12. 16:05 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "Moving Head"
    ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
+   "first_seen": "2026-11-11T10:54:05+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/2-professionelle-moving-heads-v-m230-%E2%80%93-300w-A3-46120-6029",
+   "url": "https://www.troostwijkauctions.com/de/l/claypacky-k10-beye-moving-head-%284x%29-A1-52324-153",
    "site": "troostwijk/surplex",
-   "text": "2 professionelle Moving Heads V-M230 – 300W\nStandort: DESTELBERGEN (BE)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 25.11. 17:50 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "Claypacky K10 Beye Moving Head (4x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 500 EUR · Gebote: 0\nEnde: 01.12. 16:05 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "Moving Head"
    ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
+   "first_seen": "2026-11-11T10:54:05+00:00"
   },
   {
-   "url": "https://www.troostwijkauctions.com/de/l/2-professionelle-moving-heads-v-m230-%E2%80%93-300w-A3-46120-6028",
+   "url": "https://www.troostwijkauctions.com/de/l/claypacky-k10-beye-moving-head-%284x%29-A1-52324-156",
    "site": "troostwijk/surplex",
-   "text": "2 professionelle Moving Heads V-M230 – 300W\nStandort: DESTELBERGEN (BE)\nAktuelles Gebot: 250 EUR · Gebote: 0\nEnde: 25.11. 17:30 · Status: BIDDING_NOT_YET_OPENED",
+   "text": "Claypacky K10 Beye Moving Head (4x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 500 EUR · Gebote: 0\nEnde: 01.12. 16:03 · Status: BIDDING_NOT_YET_OPENED",
    "img_alt": "",
    "keywords": [
     "Moving Head"
    ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
+   "first_seen": "2026-11-11T10:54:05+00:00"
   },
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VOLKSWAGENVW_Caddy_20_TDI_4MOTION_Maxi/986277",
+   "url": "https://www.troostwijkauctions.com/de/l/claypacky-k10-beye-moving-head-%284x%29-A1-52324-155",
+   "site": "troostwijk/surplex",
+   "text": "Claypacky K10 Beye Moving Head (4x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 500 EUR · Gebote: 0\nEnde: 01.12. 16:09 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Moving Head"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.troostwijkauctions.com/de/l/claypacky-k10-beye-moving-head-%284x%29-A1-52324-154",
+   "site": "troostwijk/surplex",
+   "text": "Claypacky K10 Beye Moving Head (4x)\nStandort: BEUVRY LA FORET (FR)\nAktuelles Gebot: 500 EUR · Gebote: 0\nEnde: 01.12. 16:07 · Status: BIDDING_NOT_YET_OPENED",
+   "img_alt": "",
+   "keywords": [
+    "Moving Head"
+   ],
+   "first_seen": "2026-11-11T10:54:05+00:00"
+  },
+  {
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_MercedesBenz_B_180_7GangDCT_Progressive_Line/929127",
    "site": "zoll-auktion",
-   "text": "1 VOLKSWAGEN-VW Caddy 2.0 TDI 4MOTION Maxi\nBeobachtung Auktion 986277 verwalten\nAuktion in Beobachtung nehmen.\n1 VOLKSWAGEN-V­W Caddy 2.0 TDI 4MOTION Maxi\n73457 Essingen\nNur Abholung möglich!\n2 Tage 1 Std. 46 Min.\n7 Gebote\n7.100,00 EUR",
-   "img_alt": "Übersicht vorne\nlinks",
+   "text": "1 Mercedes-Benz B 180 7-Gang-DCT \"Progressive Line\"\nBeobachtung Auktion 929127 verwalten\nAuktion in Beobachtung nehmen.\n1 Mercedes-Ben­z B 180 7-Gang-DCT \"Progressive Line\"\n50765 Köln\nNur Abholung möglich!\n2 Tage 6 Std. 4 Min.\n0 Gebote\n19.180,00 EUR",
+   "img_alt": "Übersicht vorne links",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
+   "first_seen": "2026-11-11T10:54:05+00:00"
   },
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_Passat_Variant_20_TDI_4Motion_BMT_Comfortline_BD162187/987761",
+   "url": "https://www.zoll-auktion.de/auktion/produkt/1_Passat_Variant_20_TDI_Comfortline/987267",
    "site": "zoll-auktion",
-   "text": "1 VW Passat Variant 2.0 TDI 4Motion BMT Comfortline - BD16-2187\nBeobachtung Auktion 987761 verwalten\nAuktion in Beobachtung nehmen.\n1 VW Passat Variant 2.0 TDI 4Motion BMT Comfortline - BD16-2187\n22143 Hamburg\nNur Abholung möglich!\n2 Tage 19 Std. 31 Min.\n2 Gebote\n8.100,00 EUR",
-   "img_alt": "Frontansicht links",
+   "text": "1 Passat Variant 2.0 TDI Comfortline\nBeobachtung Auktion 987267 verwalten\nAuktion in Beobachtung nehmen.\n1 Passat Variant 2.0 TDI Comfortline\n39343 Ingersleben\nNur Abholung möglich!\n4 Tage 3 Std. 4 Min.\n6 Gebote\n12.350,00 EUR",
+   "img_alt": "Bild: 1 Ansicht vorn rechts",
    "keywords": [
     "LED Wand"
    ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
+   "first_seen": "2026-11-11T10:54:05+00:00"
   },
   {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_Touran_15_TSI_Comfortline/969212",
-   "site": "zoll-auktion",
-   "text": "1 VW Touran 1.5 TSI Comfortline\nBeobachtung Auktion 969212 verwalten\nAuktion in Beobachtung nehmen.\n1 VW Touran 1.5 TSI Comfortline\n42781 Haan\nNur Abholung möglich!\n2 Tage 21 Std. 1 Min.\n1 Gebot\n13.420,00 EUR",
-   "img_alt": "Front",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_VW_Passat_Variant_CB5_15_TSI_BMTStartStopp_Business_OPF/987185",
-   "site": "zoll-auktion",
-   "text": "1 VW Passat Variant (CB5) 1.5 TSI BMT/Start-Stopp, Business OPF\nBeobachtung Auktion 987185 verwalten\nAuktion in Beobachtung nehmen.\n1 VW Passat Variant (CB5) 1.5 TSI BMT/Start-St­opp, Business OPF\n50968 Köln\nNur Abholung möglich!\n2 Tage 22 Std. 46 Min.\n0 Gebote\n17.450,00 EUR",
-   "img_alt": "Vorne rechts",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.zoll-auktion.de/auktion/produkt/1_BMW_Cabrio_1er_Reihe_Bastlerfahrzeug/986438",
-   "site": "zoll-auktion",
-   "text": "1 BMW Cabrio 1er Reihe - Bastlerfahrzeug\nBeobachtung Auktion 986438 verwalten\nAuktion in Beobachtung nehmen.\n1 BMW Cabrio 1er Reihe - Bastlerfahrz­eug\n33106 Paderborn\nNur Abholung möglich!\n3 Tage 0 Std. 1 Min.\n12 Gebote\n1.601,00 EUR",
-   "img_alt": "Gesamtansicht der Auktion",
-   "keywords": [
-    "LED Wand"
-   ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
-  },
-  {
-   "url": "https://www.justiz-auktion.de/Apple-iMac-Arbeitsplaumltze-21comma5quot-216029",
+   "url": "https://www.justiz-auktion.de/ein-Diaprojektor-Mali-150-made-in-GDR-216102",
    "site": "justiz-auktion",
-   "text": "0 Gebote\nApple iMac Arbeitsplätze 21,5\"\nRestzeit: 6 T, 2 Std, 30 Min\n(16.11.2026 14:44 Uhr)\nStartgebot: 125,00 €\n0,00 €\n47608 Geldern\nNordrhein-Westfalen\nDeutschland\nBundesland: Nordrhein-Westfalen\nSelbstabholung\nDetails",
-   "img_alt": "Apple iMac",
+   "text": "0 Gebote\nein Diaprojektor Mali 150 made in GDR\nRestzeit: 11 T, 6 Std, 12 Min\n(22.11.2026 18:09 Uhr)\nStartgebot: 1,00 €\n0,00 €\nAbholung grundsätzlich in 01069 Dresden, Schnorrstraße 70, wenn in der Auktion nichts abweichendes veröffentlicht ist.\nDeutschland\nBundesland: Sachsen\nVersand\nDetails",
+   "img_alt": "vorn",
    "keywords": [
-    "Grafikkarte"
+    "Projektor"
    ],
-   "first_seen": "2026-11-10T11:12:28+00:00"
+   "first_seen": "2026-11-11T10:54:05+00:00"
   }
  ]
 }
