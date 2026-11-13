@@ -1,13 +1,12 @@
 {
- "generated": "2026-11-13T21:15:16+00:00",
+ "generated": "2026-11-13T21:23:42+00:00",
  "sources": {
   "willhaben": "23 Treffer",
   "kleinanzeigen": "64 Treffer",
   "troostwijk": "300 Treffer",
   "apple_at": "142 Treffer",
   "apple_de": "142 Treffer",
-  "geizhals": "18 Treffer",
-  "idealo": "0 Treffer"
+  "geizhals": "18 Treffer"
  },
  "candidates": 67,
  "details_fetched": 29,
@@ -28,7 +27,5 @@
   "SSD fehlt": 6,
   "zu wenig RAM (Titel)": 10
  },
- "diag": {
-  "idealo": "idealo | Sorry! Something has gone wrong. If the issue persists, please make sure your browser is updated to the latest version.\n\nStill having the issue, please reach out to our customer care with reference ID"
- }
+ "diag": {}
 }
