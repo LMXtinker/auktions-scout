@@ -220,10 +220,50 @@ async def idealo(ctx, q):
     return out
 
 
-SOURCES = {"idealo": idealo, "willhaben": willhaben, "kleinanzeigen": kleinanzeigen, "ebay": ebay, "troostwijk": troostwijk,
+# Neuware-Shops: (Name, Such-URL mit {q}, Regex für Produktlinks, Land)
+SHOPS = {
+    "amazon_de": ("amazon.de", "https://www.amazon.de/s?k={q}&i=computers", r"/dp/([A-Z0-9]{10})", "DE"),
+    "amazon_at": ("amazon.at", "https://www.amazon.at/s?k={q}&i=computers", r"/dp/([A-Z0-9]{10})", "AT"),
+    "cyberport_at": ("cyberport.at", "https://www.cyberport.at/tools/search-results.html?q={q}", r"/pdp/([\w-]+)|\.html", "AT"),
+    "cyberport_de": ("cyberport.de", "https://www.cyberport.de/tools/search-results.html?q={q}", r"/pdp/([\w-]+)|\.html", "DE"),
+    "notebooksbilliger": ("notebooksbilliger.de", "https://www.notebooksbilliger.de/produkte/{q}", r"notebooksbilliger\.de/[\w-]+(?:\+\d+)?(?:/[\w-]+)?$|\+\d+$", "DE"),
+    "notebook_de": ("notebook.de", "https://www.notebook.de/catalogsearch/result/?q={q}", r"notebook\.de/[\w-]+\.html", "DE"),
+    "mediamarkt_at": ("mediamarkt.at", "https://www.mediamarkt.at/de/search.html?query={q}", r"/de/product/", "AT"),
+    "mactrade": ("mactrade.de", "https://www.mactrade.de/search?search={q}", r"mactrade\.de/.+", "DE"),
+}
+
+
+def make_shop(key):
+    label, url, rx, cc = SHOPS[key]
+
+    async def shop(ctx, q):
+        page = await ctx.new_page()
+        await page.goto(url.format(q=quote_plus(q)), wait_until="domcontentloaded", timeout=45000)
+        await accept_cookies(page)
+        await page.wait_for_timeout(3000)
+        cards = await page.evaluate(EXTRACT_JS, 120)
+        out = []
+        for c in cards:
+            m = re.search(rx, c["url"])
+            if not m or not AIR.search(c["text"] + " " + c.get("img_alt", "")):
+                continue
+            lines = [x.strip() for x in c["text"].split("\n") if x.strip()]
+            title = next((x for x in lines if AIR.search(x)), c.get("img_alt") or (lines[0] if lines else ""))
+            uid = m.group(1) if m.groups() and m.group(1) else c["url"].split("?")[0]
+            out.append(item(f"{label} (neu)", f"{key}:{uid}", title, price_of(c["text"]),
+                            c["url"].split("?")[0] if "amazon" not in key else f"https://www.{label}/dp/{uid}",
+                            c["text"] + " " + c.get("img_alt", ""), cc, "", "neu"))
+        if not out:
+            DIAG[key] = (await page.title())[:80] + " | " + re.sub(r"\s+", " ", await page.evaluate("document.body.innerText.slice(0,200)"))
+        await page.close()
+        return out
+    return shop
+
+
+SOURCES = {**{k: make_shop(k) for k in SHOPS}, "idealo": idealo, "willhaben": willhaben, "kleinanzeigen": kleinanzeigen, "ebay": ebay, "troostwijk": troostwijk,
            "apple_at": apple_at, "apple_de": apple_de, "geizhals": geizhals}
 DIAG = {}
-PER_QUERY = {"willhaben", "kleinanzeigen", "ebay", "troostwijk", "geizhals", "idealo"}   # Apple: eine Seite reicht
+PER_QUERY = {"willhaben", "kleinanzeigen", "ebay", "troostwijk", "geizhals", "idealo", *SHOPS}   # Apple: eine Seite reicht
 
 
 # ---------------------------------------------------------------- Filter
@@ -448,7 +488,7 @@ async def main():
         results, errors = {}, {}
         for name in H.get("sources", list(SOURCES)):
             n = 0
-            qs = H.get(f"{name}_queries") or (H["queries"] if name in PER_QUERY else H["queries"][:1])
+            qs = H.get(f"{name}_queries") or (H.get("shop_queries") if name in SHOPS else None) or (H["queries"] if name in PER_QUERY else H["queries"][:1])
             for q in qs:
                 try:
                     got = await SOURCES[name](ctx, q)
