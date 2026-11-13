@@ -59,3 +59,17 @@ gpu_hunt:
   min_price: 900                   # Kleinanzeigen darunter = Zubehör/Fake
   deal_price: 4500                 # Grafikkarten bis zu diesem Preis 🔥 markieren (Komplett-PCs nie)
   first_run_top: 15
+
+# MacBook-Wächter (scout/mac.py, Workflow mac.yml) – meldet neue passende Angebote per Telegram
+mac_hunt:
+  queries: ["macbook air 15 24gb 1tb", "macbook air 15 24gb", "macbook air 15 1tb"]
+  sources: [willhaben, kleinanzeigen, ebay, troostwijk, apple_at, apple_de, geizhals]
+  # Spezifikation (Regex): mind. 24 GB RAM, mind. 1 TB SSD
+  ram: '\b(24|32)\s*gb\b(?!\s*(ssd|speicher|festplatte))|\b(24|32)\s*gb\s*(ram|arbeitsspeicher|unified|memory)'
+  ssd: '\b[12]\s*tb\b|\b(1000|1024|2000|2048)\s*gb\b'
+  # Titel mit diesen Wörtern werden ignoriert (Gesuche, Zubehör, defekt, gesperrt)
+  exclude: '\b(suche|gesucht|ankauf|wir kaufen|kaufe|tausch\w*|defekt\w*|bastler|ersatzteil\w*|gesperrt|icloud[- ]?lock\w*|h[üu]lle|case|sleeve|tasche|folie|schutz\w*|skin|ladeger[äa]t|netzteil|adapter|dock|hub|logicboard|mainboard|display ?(bruch|schaden)|wasserschaden)\b'
+  min_price: 600        # darunter = Zubehör/Fake (Auktionen ausgenommen)
+  max_price: 3500
+  deal_price: 1500      # bis zu diesem Preis 🔥 markieren
+  max_details: 40       # Detailseiten pro Lauf für Anzeigen ohne Angaben im Suchergebnis

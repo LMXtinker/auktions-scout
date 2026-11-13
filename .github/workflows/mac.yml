@@ -1,0 +1,51 @@
+name: mac-watch
+
+on:
+  schedule:
+    - cron: "23 5-21/2 * * *"   # alle 2 h zwischen ca. 7 und 23 Uhr Wien
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Nur Vorschau (nichts senden, Zustand nicht speichern)"
+        type: boolean
+        default: false
+      full:
+        description: "Komplette Übersicht schicken (nicht nur Neues)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mac
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-24.04  # Playwright 1.56 unterstützt Ubuntu 26.04 nicht
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m playwright install --with-deps chromium
+      - run: python scout/mac.py
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          DRY_RUN: ${{ github.event.inputs.dry_run }}
+          FULL: ${{ github.event.inputs.full }}
+      - name: Zustand committen
+        if: always()
+        run: |
+          git config user.name "scout-bot"
+          git config user.email "scout-bot@users.noreply.github.com"
+          for f in data/mac_seen.json data/mac_status.json debug/mac_preview.txt; do [ -f "$f" ] && git add "$f"; done
+          git diff --cached --quiet || git commit -m "mac: $(date -u +%F\ %H:%M)"
+          for i in 1 2 3; do git pull --rebase --autostash && git push && break; sleep 5; done
