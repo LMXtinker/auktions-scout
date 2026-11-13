@@ -52,6 +52,21 @@ def price_of(text: str) -> float | None:
     return float(re.sub(r"[.\s]", "", next(g for g in m.groups() if g)))
 
 
+def shop_price(text: str) -> float | None:
+    """Kleinster plausibler Kaufpreis; Monatsraten (mtl., /Monat) und Streichpreise (statt, UVP) ignorieren."""
+    vals = []
+    for m in re.finditer(r"(?:€\s*)?(\d{1,3}(?:\.\d{3})+|\d{3,5})(?:,\d{2}|,-)?\s*(?:€|EUR)?", text or ""):
+        if "€" not in text[max(0, m.start() - 2): m.end() + 2] and "EUR" not in text[m.end(): m.end() + 5]:
+            continue
+        before, after = text[max(0, m.start() - 12): m.start()].lower(), text[m.end(): m.end() + 14].lower()
+        if re.search(r"statt|uvp|vorher|ab\s*$", before) or re.search(r"mtl|monat|/\s*mon|rate", after):
+            continue
+        v = float(m.group(1).replace(".", ""))
+        if H.get("min_price", 0) <= v <= H.get("max_price", 1e9):
+            vals.append(v)
+    return min(vals) if vals else None
+
+
 def item(source, id_, title, price, url, text="", country="", location="", kind="gebraucht"):
     return {"source": source, "id": id_, "title": (title or "").strip()[:140], "price": price, "url": url,
             "text": text or title or "", "country": country, "location": location or "", "kind": kind}
@@ -259,7 +274,7 @@ def make_shop(key):
             lines = [x.strip() for x in c["text"].split("\n") if x.strip()]
             title = next((x for x in lines if AIR.search(x)), c.get("img_alt") or (lines[0] if lines else ""))
             uid = m.group(1) if m.groups() and m.group(1) else c["url"].split("?")[0]
-            out.append(item(f"{label} (neu)", f"{key}:{uid}", title, price_of(c["text"]),
+            out.append(item(f"{label} (neu)", f"{key}:{uid}", title, shop_price(c["text"]),
                             c["url"].split("?")[0] if "amazon" not in key else f"https://www.{label}/dp/{uid}",
                             c["text"] + " " + c.get("img_alt", ""), cc, "", "neu"))
         if not out:
@@ -281,14 +296,16 @@ def candidate(o) -> str | None:
     t = o["title"] + " " + o["text"][:400]
     if not AIR.search(t):
         return "kein MacBook Air"
-    if EXCLUDE.search(o["title"]):
-        return "ausgeschlossen (Titel)"
+    if o["kind"] != "neu" and EXCLUDE.search(o["title"]):
+        return f"ausgeschlossen (Titel: {EXCLUDE.search(o['title']).group(0)})"
     if SIZE13.search(o["title"]) and not SIZE15.search(o["title"]):
         return "13 Zoll"
     if not SIZE15.search(t) and not re.search(r"\b15\b", o["title"]):
         return "nicht 15 Zoll" if o.get("detail") else "Größe unklar"
     if o.get("price") is not None and o["kind"] != "auktion" and o["price"] < H.get("min_price", 0):
         return "Preis unplausibel niedrig"
+    if o["kind"] == "neu" and o.get("price") and o["price"] < H.get("min_price", 0):
+        return "Neuware zu billig (Zubehör/Rate)"
     if o["kind"] == "neu" and not o.get("price"):
         return "Neuware ohne Preis (nicht lieferbar)"
     if o.get("price") and o["price"] > H.get("max_price", 1e9):
@@ -356,6 +373,56 @@ def evidence(o, rx):
     t = re.sub(r"\s+", " ", o["title"] + " " + o["text"])
     m = rx.search(t)
     return t[max(0, m.start() - 50): m.end() + 30] if m else "-"
+
+
+OFFERS_JS = r"""() => {
+  const rows = [...document.querySelectorAll('[id^="offer__"], .offer, .offerlist__offer, [class*="offer-row"]')]
+    .filter(r => /€\s*\d/.test(r.innerText || ''));
+  const seen = new Set(), out = [];
+  for (const r of rows) {
+    const t = (r.innerText || '').replace(/\s+\n/g, '\n').trim();
+    if (seen.has(t)) continue; seen.add(t);
+    const img = r.querySelector('img[alt]');
+    const m = r.querySelector('[class*="merchant"] a, a[class*="merchant"], [class*="merchant__"]');
+    const flag = r.querySelector('[class*="flag"], img[src*="flag"], img[alt="AT"], img[alt="DE"]');
+    out.push({text: t.slice(0, 500), merchant: (m && m.innerText.trim()) || (img && img.alt) || '',
+              flag: flag ? (flag.getAttribute('alt') || flag.getAttribute('title') || flag.className || '') : ''});
+    if (out.length >= 15) break;
+  }
+  return out;
+}"""
+
+
+async def geizhals_offers(ctx, items):
+    """Für geizhals-Treffer die Händlerliste lesen: günstigster Shop + nächste Angebote (AT/DE)."""
+    page = await ctx.new_page()
+    for o in items:
+        try:
+            await page.goto(o["url"] + "?hloc=at&hloc=de", wait_until="domcontentloaded", timeout=40000)
+            await accept_cookies(page)
+            await page.wait_for_timeout(2000)
+            offers = await page.evaluate(OFFERS_JS)
+            DIAG.setdefault("geizhals_offers_sample", [r["text"][:200] for r in offers[:2]])
+            parsed = []
+            for r in offers:
+                pr = shop_price(r["text"])
+                if not pr:
+                    continue
+                name = r["merchant"] or next((x for x in r["text"].split("\n")[1:4]
+                                              if x.strip() and "€" not in x and len(x) < 40), "?")
+                cc = "AT" if re.search(r"\bAT\b|österreich|flag--at|at\.svg", r["flag"] + " " + r["text"][:80], re.I) else \
+                     "DE" if re.search(r"\bDE\b|deutschland|flag--de|de\.svg", r["flag"] + " " + r["text"][:80], re.I) else ""
+                parsed.append((pr, name.strip()[:30], cc))
+            parsed.sort()
+            if parsed:
+                o["price"], shop, cc = parsed[0]
+                o["country"] = cc or o["country"]
+                o["location"] = f"günstigst: {shop}"
+                if len(parsed) > 1:
+                    o["location"] += " · danach " + ", ".join(f"{n} {p:,.0f} €".replace(",", ".") for p, n, _ in parsed[1:3])
+        except Exception as e:  # noqa: BLE001
+            DIAG["geizhals_offers"] = str(e)[:120]
+    await page.close()
 
 
 # ---------------------------------------------------------------- Gemini (optional)
@@ -527,6 +594,9 @@ async def main():
             for o in unclear:
                 if o not in cands and candidate(o) is None:
                     cands.append(o)
+        gh = [o for o in cands if o["source"].startswith("geizhals") and spec(o) is None]
+        if gh:
+            await geizhals_offers(ctx, gh[: H.get("max_geizhals_offers", 12)])
         await browser.close()
     print(json.dumps(errors, ensure_ascii=False, indent=1))
     if DIAG:
