@@ -60,9 +60,10 @@ gpu_hunt:
   deal_price: 4500                 # Grafikkarten bis zu diesem Preis 🔥 markieren (Komplett-PCs nie)
   first_run_top: 15
 
-# MacBook-Wächter (scout/mac.py, Workflow mac.yml) – meldet neue passende Angebote per Telegram
+# MacBook-Wächter (scout/mac.py, Workflow mac.yml) – eigener Telegram-Bot (Secret MAC_TELEGRAM_BOT_TOKEN)
 mac_hunt:
-  queries: ["macbook air 15 24gb 1tb", "macbook air 15 24gb", "macbook air 15 1tb"]
+  chip: M5              # nur dieser Chip (leer = egal)
+  queries: ["macbook air 15 m5", "macbook air 15 24gb 1tb", "macbook air 15 m5 24gb"]
   sources: [willhaben, kleinanzeigen, troostwijk, apple_at, apple_de, geizhals]   # ebay, idealo: blocken GitHub-Server
   # Spezifikation (Regex): mind. 24 GB RAM, mind. 1 TB SSD
   ram: '\b(24|32)\s*gb\b(?!\s*(ssd|speicher|festplatte))|\b(24|32)\s*gb\s*(ram|arbeitsspeicher|unified|memory)'
@@ -71,5 +72,5 @@ mac_hunt:
   exclude: '\b(suche|gesucht|ankauf|wir kaufen|kaufe|tausch\w*|defekt\w*|bastler|ersatzteil\w*|gesperrt|icloud[- ]?lock\w*|h[üu]lle|case|sleeve|tasche|folie|schutz\w*|skin|ladeger[äa]t|netzteil|adapter|dock|hub|logicboard|mainboard|display ?(bruch|schaden)|wasserschaden)\b'
   min_price: 600        # darunter = Zubehör/Fake (Auktionen ausgenommen)
   max_price: 3500
-  deal_price: 1500      # bis zu diesem Preis 🔥 markieren
+  deal_netto: 1600      # 🔥 wenn Nettopreis darunter (privat = Endpreis, Händler = ohne USt.)
   max_details: 40       # Detailseiten pro Lauf für Anzeigen ohne Angaben im Suchergebnis

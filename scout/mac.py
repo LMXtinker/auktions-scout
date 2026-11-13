@@ -5,7 +5,7 @@ Quellen: willhaben.at, kleinanzeigen.de, ebay.de, Troostwijk/Surplex (API), Appl
 Ablauf: Suche -> Vorfilter (Air + 15") -> bei Bedarf Detailseite öffnen -> Spezifikation per Regex prüfen
         -> neue Treffer kurz von Gemini gegenprüfen/kommentieren (optional) -> Telegram.
 Konfiguration: Abschnitt mac_hunt in config.yaml. Zustand: data/mac_seen.json, data/mac_status.json.
-Env: TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID (Secrets), GEMINI_API_KEY (optional), DRY_RUN=1, FULL=1
+Env: MAC_TELEGRAM_BOT_TOKEN (Secret, eigener Bot), MAC_TELEGRAM_CHAT_ID (optional, sonst automatisch), GEMINI_API_KEY (optional), DRY_RUN=1, FULL=1
 """
 from __future__ import annotations
 
@@ -41,6 +41,7 @@ RAM = re.compile(H.get("ram", r"\b(24|32)\s*gb\b(?!\s*(ssd|speicher|festplatte))
 RAM_LOW = re.compile(r"\b(8|16)\s*gb\s*(ram|arbeitsspeicher|unified|memory|gemeinsamer)", re.I)
 SSD = re.compile(H.get("ssd", r"\b[12]\s*tb\b|\b(1000|1024|2000|2048)\s*gb\b"), re.I)
 EXCLUDE = re.compile(H.get("exclude", r"$^"), re.I)
+WANT_CHIP = str(H.get("chip", "")).upper().lstrip("M")      # z. B. "5" -> nur M5
 CHIP = re.compile(r"\bM([2-9])(?:\s*(?:chip|8c|10c|8-core|10-core|\b))", re.I)
 
 
@@ -250,7 +251,12 @@ def spec(o) -> str | None:
     """Feinfilter Spezifikation. None = Treffer, 'unklar' = Detailseite nötig, sonst Grund."""
     t = o["title"] + " " + o["text"]
     has_ram, has_ssd = bool(RAM.search(t)), bool(SSD.search(t))
+    chips = set(re.findall(r"\bM([1-9])\b", o["title"], re.I)) or set(re.findall(r"\bM([1-9])\b", t[:3000], re.I))
+    if WANT_CHIP and chips and WANT_CHIP not in chips:
+        return "falscher Chip"
     if has_ram and has_ssd:
+        if WANT_CHIP and not chips:
+            return "Chip unklar" if o.get("detail") else "unklar"
         return None
     if not has_ram and re.search(r"\b(8|16)\s*gb\b", o["title"], re.I):
         return "zu wenig RAM (Titel)"
@@ -313,10 +319,10 @@ def gemini_check(items):
                          "text": re.sub(r"\s+", " ", o["title"] + " | " + o["text"])[:3000]}, ensure_ascii=False)
              for i, o in enumerate(items)]
     prompt = f"""Prüfe Angebote für Lucas (Freiberufler in Wien, hat UID-Nummer) – gesucht: Apple MacBook Air 15 Zoll
-mit mindestens 24 GB RAM und mindestens 1 TB SSD (Chip egal, Tastaturlayout egal).
+mit mindestens 24 GB RAM und mindestens 1 TB SSD, Chip {('M' + WANT_CHIP) if WANT_CHIP else 'egal'} (Tastaturlayout egal).
 Je Angebot:
 - ok: true nur, wenn das ANGEBOTENE Gerät laut Text wirklich MacBook Air 15" mit >=24 GB RAM und >=1 TB SSD ist
-  (false bei Gesuchen, Zubehör, defekt/iCloud-gesperrt, nur Vergleichswerten, Mehrfach-Konfigurationen ohne passende, 13 Zoll).
+  (false bei falschem Chip, Gesuchen, Zubehör, defekt/iCloud-gesperrt, nur Vergleichswerten, Mehrfach-Konfigurationen ohne passende, 13 Zoll).
 - chip: z. B. "M2", "M3", "M4" oder "".
 - seller: "privat", "gewerblich" oder "unklar".
 - note: 1 kurzer deutscher Satz (max. 100 Zeichen): Zustand/Akku/Garantie/Rechnung (MwSt. ausweisbar?) und ob der Preis fair wirkt.
@@ -352,12 +358,28 @@ def send(tok, chat, text):
 
 FLAG = {"AT": "🇦🇹", "DE": "🇩🇪", "AT/DE": "🇦🇹🇩🇪", "PL": "🇵🇱", "NL": "🇳🇱", "IT": "🇮🇹", "FR": "🇫🇷", "ES": "🇪🇸",
         "BE": "🇧🇪", "CZ": "🇨🇿", "UK": "🇬🇧", "US": "🇺🇸", "CH": "🇨🇭"}
-VAT = {"AT": 0.20, "DE": 0.19, "AT/DE": 0.20}
+VAT = {"AT": 0.20, "DE": 0.19, "AT/DE": 0.20, "NL": 0.21, "BE": 0.21, "PL": 0.23, "IT": 0.22, "FR": 0.20,
+       "ES": 0.21, "CZ": 0.21}
 
 
 def order(o):
     c = o.get("country", "")
-    return (0 if c.startswith("AT") else 1 if c == "DE" else 2, o["kind"] == "auktion", o.get("price") or 1e9)
+    return (0 if c.startswith("AT") else 1 if c == "DE" else 2, o["kind"] == "auktion", netto(o) or 1e9)
+
+
+def seller_of(o):
+    if o["kind"] in ("neu", "refurbished"):
+        return "gewerblich"
+    return (o.get("gem") or {}).get("seller") or ("gewerblich" if "[gewerblich]" in o["text"] else "")
+
+
+def netto(o):
+    """Nettopreis: Privatverkauf = Endpreis (keine USt.), Händler = Preis abzüglich USt. des Landes."""
+    if not o.get("price"):
+        return None
+    if seller_of(o) == "gewerblich":
+        return o["price"] / (1 + VAT.get(o["country"], 0.20))
+    return o["price"]
 
 
 def line(o):
@@ -365,12 +387,13 @@ def line(o):
     if o["kind"] == "auktion":
         p = "Gebot " + p
     extra = []
-    if o["kind"] in ("neu", "refurbished") and o.get("price") and o["country"] in VAT:
-        extra.append(f"≈ {o['price'] / (1 + VAT[o['country']]):,.0f} € netto".replace(",", "."))
-    deal = o.get("price") and o["kind"] != "auktion" and o["price"] <= H.get("deal_price", 0)
+    n = netto(o)
+    if n and seller_of(o) == "gewerblich":
+        extra.append(f"≈ {n:,.0f} € netto".replace(",", "."))
+    deal = n and o["kind"] != "auktion" and n < H.get("deal_netto", 0)
     chip = (o.get("gem") or {}).get("chip") or (f"M{CHIP.search(o['title'] + ' ' + o['text']).group(1)}"
                                                  if CHIP.search(o["title"] + " " + o["text"]) else "")
-    seller = (o.get("gem") or {}).get("seller") or ("gewerblich" if "[gewerblich]" in o["text"] else "")
+    seller = seller_of(o)
     meta = " · ".join(x for x in (chip, o["kind"], seller) if x)
     loc = " ".join(x for x in (FLAG.get(o["country"], o["country"]), o.get("location", "")) if x)
     note = (o.get("gem") or {}).get("note", "")
@@ -389,6 +412,27 @@ def chunks(lines, head, limit=3800):
         cur += "\n\n" + l
     out.append(cur)
     return out
+
+
+def bot_target():
+    """Eigener Bot für den MacBook-Wächter. Chat-ID aus Secret, sonst gespeichert, sonst per getUpdates ermittelt."""
+    tok = os.environ.get("MAC_TELEGRAM_BOT_TOKEN", "").strip()
+    if not tok:
+        return "", ""
+    chat = os.environ.get("MAC_TELEGRAM_CHAT_ID", "").strip()
+    p = DATA / "mac_chat.json"
+    if not chat and p.exists():
+        chat = str(json.loads(p.read_text())["chat_id"])
+    if not chat:
+        with urllib.request.urlopen(f"https://api.telegram.org/bot{tok}/getUpdates", timeout=30) as r:
+            ups = json.load(r).get("result", [])
+        ids = [((u.get("message") or {}).get("chat") or {}).get("id") for u in ups]
+        ids = [i for i in ids if i]
+        if ids:
+            chat = str(ids[-1])
+            p.write_text(json.dumps({"chat_id": chat}))
+            print(f"Chat-ID ermittelt: {chat}")
+    return tok, chat
 
 
 async def main():
@@ -453,8 +497,9 @@ async def main():
         if i in gem:
             o["gem"] = gem[i]
     # Gemini darf nur verwerfen, wenn RAM/SSD nicht schon eindeutig im Titel stehen
-    rejected = [o for o in report if o.get("gem") and o["gem"].get("ok") is False
-                and not (RAM.search(o["title"]) and SSD.search(o["title"]))]
+    rejected = [o for o in report if o.get("gem") and (
+        (o["gem"].get("ok") is False and not (RAM.search(o["title"]) and SSD.search(o["title"])))
+        or (WANT_CHIP and o["gem"].get("chip") and o["gem"]["chip"].upper().lstrip("M") != WANT_CHIP))]
     report = sorted([o for o in report if o not in rejected], key=order)
 
     msgs = []
@@ -493,13 +538,13 @@ async def main():
     if DRY:
         print("DRY_RUN – nichts gesendet, Zustand nicht gespeichert.")
         return
-    tok = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
-    chat = (os.environ.get("TELEGRAM_CHAT_ID", "") or str(CFG.get("digest", {}).get("chat_id", ""))).strip()
-    if msgs:
-        if not (tok and chat):
-            raise SystemExit("TELEGRAM_BOT_TOKEN oder Chat-ID fehlt")
-        for m in msgs:
-            send(tok, chat, m)
+    tok, chat = bot_target()
+    if not (tok and chat):
+        print("::warning::MacBook-Bot nicht eingerichtet: Secret MAC_TELEGRAM_BOT_TOKEN fehlt oder dem Bot wurde "
+              "noch nicht geschrieben (/start). Nichts gesendet, Zustand nicht gespeichert.")
+        return
+    for m in msgs:
+        send(tok, chat, m)
     today = NOW.date().isoformat()
     for o in cands + unclear:
         if not (o in matches or o.get("detail")):
