@@ -404,7 +404,12 @@ async def geizhals_offers(ctx, items):
     page = await ctx.new_page()
     for o in items:
         try:
-            await page.goto(o["url"] + "?hloc=at&hloc=de", wait_until="domcontentloaded", timeout=40000)
+            await page.wait_for_timeout(4000)   # nicht zu schnell hintereinander (geizhals Bot-Schutz)
+            await page.goto(o["url"], wait_until="domcontentloaded", timeout=40000)
+            for _ in range(10):
+                if not re.search(r"einen Moment|just a moment", await page.title(), re.I):
+                    break
+                await page.wait_for_timeout(2500)
             await accept_cookies(page)
             await page.wait_for_timeout(2000)
             offers = await page.evaluate(OFFERS_JS)
