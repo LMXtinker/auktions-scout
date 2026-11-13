@@ -1,0 +1,30 @@
+{
+ "generated": "2026-11-13T20:52:58+00:00",
+ "sources": {
+  "willhaben": "23 Treffer",
+  "kleinanzeigen": "64 Treffer",
+  "ebay": "0 Treffer",
+  "troostwijk": "300 Treffer",
+  "apple_at": "142 Treffer",
+  "apple_de": "142 Treffer",
+  "geizhals": "18 Treffer"
+ },
+ "candidates": 81,
+ "details_fetched": 29,
+ "matches": 42,
+ "new": 42,
+ "gemini_rejected": 0,
+ "dropped": {
+  "Größe unklar": 3,
+  "13 Zoll": 51,
+  "kein MacBook Air": 324,
+  "Preis unplausibel niedrig": 1,
+  "ausgeschlossen (Titel)": 1
+ },
+ "spec_rejected": {
+  "zu wenig SSD (Titel)": 10,
+  "SSD fehlt": 3,
+  "zu wenig RAM (Titel)": 10,
+  "zu wenig RAM": 16
+ }
+}
