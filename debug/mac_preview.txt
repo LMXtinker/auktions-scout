@@ -3,22 +3,18 @@
 • <a href="https://www.mediamarkt.at/de/product/_apple-macbook-air-15-zoll-2026-notebook-153-zoll-retina-apple-m5-chip-10-core-cpu-10-core-gpu-24-gb-1-tb-macos-m5-2071031.html">APPLE MacBook Air 15 Zoll (2026) Notebook, 15,3 Zoll, Retina, Apple M5 Chip (10-Core CPU, </a>
    <b>2.109 €</b> (≈ 1.758 € netto) · mediamarkt.at (neu) · 🇦🇹
    <i>M5 · neu · gewerblich</i>
-   💬 Neuware inkl. MwSt., der Preis ist das günstigste Angebot hier.
 
 • <a href="https://www.mediamarkt.at/de/product/_apple-macbook-air-15-zoll-2026-notebook-153-zoll-retina-apple-m5-chip-10-core-cpu-10-core-gpu-24-gb-1-tb-macos-m5-2071037.html">APPLE MacBook Air 15 Zoll (2026) Notebook, 15,3 Zoll, Retina, Apple M5 Chip (10-Core CPU, </a>
    <b>2.129 €</b> (≈ 1.774 € netto) · mediamarkt.at (neu) · 🇦🇹
    <i>M5 · neu · gewerblich</i>
-   💬 Neuware mit ausgewiesener MwSt., der Preis wirkt angemessen.
 
 • <a href="https://www.mediamarkt.at/de/product/_apple-macbook-air-15-zoll-2026-notebook-153-zoll-retina-apple-m5-chip-10-core-cpu-10-core-gpu-24-gb-1-tb-macos-m5-2071034.html">APPLE MacBook Air 15 Zoll (2026) Notebook, 15,3 Zoll, Retina, Apple M5 Chip (10-Core CPU, </a>
    <b>2.249 €</b> (≈ 1.874 € netto) · mediamarkt.at (neu) · 🇦🇹
    <i>M5 · neu · gewerblich</i>
-   💬 Neuware mit MwSt., der Preis liegt etwas höher als bei Vergleichsangeboten.
 
 • <a href="https://www.mediamarkt.at/de/product/_apple-macbook-air-15-2026-notebook-153-zoll-retina-apple-m5-chip-10-core-cpu-10-core-gpu-24-gb-1-tb-macos-m5-2071040.html">APPLE MacBook Air 15 (2026), Notebook, 15,3 Zoll, Retina, Apple M5 Chip (10-Core CPU, 10-C</a>
    <b>2.249 €</b> (≈ 1.874 € netto) · mediamarkt.at (neu) · 🇦🇹
    <i>M5 · neu · gewerblich</i>
-   💬 Neuware mit ausgewiesener MwSt., preislich im höheren Bereich.
 
 ----- alle Treffer -----
 1950.0 | kleinanzeigen | DE | MacBook Air M5 15” 24GB + 1TB SSD (3 Monaten alt!) | https://www.kleinanzeigen.de/s-anzeige/macbook-air-m5-15-24gb-1tb-ssd-3-monaten-alt-/3566929122-278-20849
@@ -36,13 +32,13 @@
 2018.0 | geizhals.at (neu, Händler AT/DE) | AT/DE | Apple MacBook Air 15" M5, Midnight, M5 - 10 Core CPU / 10 Core GPU, 24GB RAM, 1T | https://geizhals.at/apple-macbook-air-15-m5-mdvn4d-a-a3749889.html
      RAM: …15" M5, Midnight, M5 - 10 Core CPU / 10 Core GPU, 24GB RAM, 1TB SSD, DE [2026] Apple… SSD: …dnight, M5 - 10 Core CPU / 10 Core GPU, 24GB RAM, 1TB SSD, DE [2026] Apple MacBook … GEM: None
 2129.0 | mediamarkt.at (neu) | AT | APPLE MacBook Air 15 Zoll (2026) Notebook, 15,3 Zoll, Retina, Apple M5 Chip (10- | https://www.mediamarkt.at/de/product/_apple-macbook-air-15-zoll-2026-notebook-153-zoll-retina-apple-m5-chip-10-core-cpu-10-core-gpu-24-gb-1-tb-macos-m5-2071037.html
-     RAM: …Retina, Apple M5 Chip (10-Core CPU, 10-Core GPU), 24 GB, 1 TB, M5, macOS APPLE MacBoo… SSD: … Apple M5 Chip (10-Core CPU, 10-Core GPU), 24 GB, 1 TB, M5, macOS APPLE MacBook Air … GEM: {'id': 0, 'ok': True, 'chip': 'M5', 'seller': 'gewerblich', 'note': 'Neuware mit ausgewiesener MwSt., der Preis wirkt angemessen.'}
+     RAM: …Retina, Apple M5 Chip (10-Core CPU, 10-Core GPU), 24 GB, 1 TB, M5, macOS APPLE MacBoo… SSD: … Apple M5 Chip (10-Core CPU, 10-Core GPU), 24 GB, 1 TB, M5, macOS APPLE MacBook Air … GEM: None
 2249.0 | mediamarkt.at (neu) | AT | APPLE MacBook Air 15 Zoll (2026) Notebook, 15,3 Zoll, Retina, Apple M5 Chip (10- | https://www.mediamarkt.at/de/product/_apple-macbook-air-15-zoll-2026-notebook-153-zoll-retina-apple-m5-chip-10-core-cpu-10-core-gpu-24-gb-1-tb-macos-m5-2071034.html
-     RAM: …Retina, Apple M5 Chip (10-Core CPU, 10-Core GPU), 24 GB, 1 TB, M5, macOS APPLE MacBoo… SSD: … Apple M5 Chip (10-Core CPU, 10-Core GPU), 24 GB, 1 TB, M5, macOS APPLE MacBook Air … GEM: {'id': 1, 'ok': True, 'chip': 'M5', 'seller': 'gewerblich', 'note': 'Neuware mit MwSt., der Preis liegt etwas höher als bei Vergleichsangeboten.'}
+     RAM: …Retina, Apple M5 Chip (10-Core CPU, 10-Core GPU), 24 GB, 1 TB, M5, macOS APPLE MacBoo… SSD: … Apple M5 Chip (10-Core CPU, 10-Core GPU), 24 GB, 1 TB, M5, macOS APPLE MacBook Air … GEM: None
 2249.0 | mediamarkt.at (neu) | AT | APPLE MacBook Air 15 (2026), Notebook, 15,3 Zoll, Retina, Apple M5 Chip (10-Core | https://www.mediamarkt.at/de/product/_apple-macbook-air-15-2026-notebook-153-zoll-retina-apple-m5-chip-10-core-cpu-10-core-gpu-24-gb-1-tb-macos-m5-2071040.html
-     RAM: …Retina, Apple M5 Chip (10-Core CPU, 10-Core GPU), 24 GB, 1 TB, M5, macOS APPLE MacBoo… SSD: … Apple M5 Chip (10-Core CPU, 10-Core GPU), 24 GB, 1 TB, M5, macOS APPLE MacBook Air … GEM: {'id': 2, 'ok': True, 'chip': 'M5', 'seller': 'gewerblich', 'note': 'Neuware mit ausgewiesener MwSt., preislich im höheren Bereich.'}
+     RAM: …Retina, Apple M5 Chip (10-Core CPU, 10-Core GPU), 24 GB, 1 TB, M5, macOS APPLE MacBoo… SSD: … Apple M5 Chip (10-Core CPU, 10-Core GPU), 24 GB, 1 TB, M5, macOS APPLE MacBook Air … GEM: None
 2109.0 | mediamarkt.at (neu) | AT | APPLE MacBook Air 15 Zoll (2026) Notebook, 15,3 Zoll, Retina, Apple M5 Chip (10- | https://www.mediamarkt.at/de/product/_apple-macbook-air-15-zoll-2026-notebook-153-zoll-retina-apple-m5-chip-10-core-cpu-10-core-gpu-24-gb-1-tb-macos-m5-2071031.html
-     RAM: …Retina, Apple M5 Chip (10-Core CPU, 10-Core GPU), 24 GB, 1 TB, M5, macOS APPLE MacBoo… SSD: … Apple M5 Chip (10-Core CPU, 10-Core GPU), 24 GB, 1 TB, M5, macOS APPLE MacBook Air … GEM: {'id': 3, 'ok': True, 'chip': 'M5', 'seller': 'gewerblich', 'note': 'Neuware inkl. MwSt., der Preis ist das günstigste Angebot hier.'}
+     RAM: …Retina, Apple M5 Chip (10-Core CPU, 10-Core GPU), 24 GB, 1 TB, M5, macOS APPLE MacBoo… SSD: … Apple M5 Chip (10-Core CPU, 10-Core GPU), 24 GB, 1 TB, M5, macOS APPLE MacBook Air … GEM: None
 
 ----- von Gemini verworfen -----
 
@@ -77,43 +73,302 @@ falscher Chip | 1180.0 | kleinanzeigen | MacBook Air 15“ (2023) M2/24GB RAM/1T
 falscher Chip | 1390.0 | kleinanzeigen | MacBook Air 15" (2024) | M3 Chip | 24GB RAM | 1TB SSD | 99% Akku! | https://www.kleinanzeigen.de/s-anzeige/macbook-air-15-2024-m3-chip-24gb-ram-1tb-ssd-99-akku-/3559190298-278-8781
 falscher Chip | 1650.0 | kleinanzeigen | MacBook Air 15’’ M3 | 24GB RAM | 1 TB SSD | Neuwertiger Zustand | https://www.kleinanzeigen.de/s-anzeige/macbook-air-15-m3-24gb-ram-1-tb-ssd-neuwertiger-zustand/3517149087-278-9350
 falscher Chip | 1950.0 | kleinanzeigen | Apple MacBook Air 15.3" Mid 2023 24GB 1TB Mitternachtsblau | https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-15-3-mid-2023-24gb-1tb-mitternachtsblau/3029678367-278-9093
-falscher Chip | 1149.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Mit | https://www.apple.com/at/shop/product/fw1l3d/a/Refurbished-15-inch-MacBook-Air-mit-Apple-M4-Chip-10%E2%80%91Core-CPU-und-10%E2%80%91Core-GPU-Mitternacht?fnode=ba08c9208f2b2c9d1a9b7f9a3ecff87608e71d1e7eb849d20b6970548a8e2b03a8b4f576e0d3e69d9cc2a9bf4bf71d1b29d4e40f5ccf207b4a707eb9039d2fab2202132184ff610756aa53a97aaf4e3b
-falscher Chip | 1339.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Mit | https://www.apple.com/at/shop/product/fw1m3d/a/Refurbished-15-inch-MacBook-Air-mit-Apple-M4-Chip-10%E2%80%91Core-CPU-und-10%E2%80%91Core-GPU-Mitternacht?fnode=ba08c9208f2b2c9d1a9b7f9a3ecff87608e71d1e7eb849d20b6970548a8e2b03a8b4f576e0d3e69d9cc2a9bf4bf71d1b29d4e40f5ccf207b4a707eb9039d2fab2202132184ff610756aa53a97aaf4e3b
-unklar | 1439.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Sil | https://www.apple.com/at/shop/product/fdv94d/a?fnode=ba08c9208f2b2c9d1a9b7f9a3ecff87608e71d1e7eb849d20b6970548a8e2b03a8b4f576e0d3e69d9cc2a9bf4bf71d1b29d4e40f5ccf207b4a707eb9039d2fab2202132184ff610756aa53a97aaf4e3b
-unklar | 1439.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Pol | https://www.apple.com/at/shop/product/fdvd4d/a?fnode=ba08c9208f2b2c9d1a9b7f9a3ecff87608e71d1e7eb849d20b6970548a8e2b03a8b4f576e0d3e69d9cc2a9bf4bf71d1b29d4e40f5ccf207b4a707eb9039d2fab2202132184ff610756aa53a97aaf4e3b
-unklar | 1439.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Mit | https://www.apple.com/at/shop/product/fdvh4d/a?fnode=ba08c9208f2b2c9d1a9b7f9a3ecff87608e71d1e7eb849d20b6970548a8e2b03a8b4f576e0d3e69d9cc2a9bf4bf71d1b29d4e40f5ccf207b4a707eb9039d2fab2202132184ff610756aa53a97aaf4e3b
-unklar | 1439.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Him | https://www.apple.com/at/shop/product/fdvq4d/a?fnode=ba08c9208f2b2c9d1a9b7f9a3ecff87608e71d1e7eb849d20b6970548a8
+falscher Chip | 1149.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Mit | https://www.apple.com/at/shop/product/fw1l3d/a/Refurbished-15-inch-MacBook-Air-mit-Apple-M4-Chip-10%E2%80%91Core-CPU-und-10%E2%80%91Core-GPU-Mitternacht?fnode=449a7b888bff165fa14226feaec97e8631535c0766367a6ab69dffd7bee4520c94339e1bfc54ec3b296fe4ba4a7ddb0b491381d7c867dab964c0e0ecbbb9cb079bdb8a1b32d443dee525538cfbbad4a5
+falscher Chip | 1339.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Mit | https://www.apple.com/at/shop/product/fw1m3d/a/Refurbished-15-inch-MacBook-Air-mit-Apple-M4-Chip-10%E2%80%91Core-CPU-und-10%E2%80%91Core-GPU-Mitternacht?fnode=449a7b888bff165fa14226feaec97e8631535c0766367a6ab69dffd7bee4520c94339e1bfc54ec3b296fe4ba4a7ddb0b491381d7c867dab964c0e0ecbbb9cb079bdb8a1b32d443dee525538cfbbad4a5
+unklar | 1439.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Sil | https://www.apple.com/at/shop/product/fdv94d/a?fnode=449a7b888bff165fa14226feaec97e8631535c0766367a6ab69dffd7bee4520c94339e1bfc54ec3b296fe4ba4a7ddb0b491381d7c867dab964c0e0ecbbb9cb079bdb8a1b32d443dee525538cfbbad4a5
+unklar | 1439.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Pol | https://www.apple.com/at/shop/product/fdvd4d/a?fnode=449a7b888bff165fa14226feaec97e8631535c0766367a6ab69dffd7bee4520c94339e1bfc54ec3b296fe4ba4a7ddb0b491381d7c867dab964c0e0ecbbb9cb079bdb8a1b32d443dee525538cfbbad4a5
+unklar | 1439.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Mit | https://www.apple.com/at/shop/product/fdvh4d/a?fnode=449a7b888bff165fa14226feaec97e8631535c0766367a6ab69dffd7bee4520c94339e1bfc54ec3b296fe4ba4a7ddb0b491381d7c867dab964c0e0ecbbb9cb079bdb8a1b32d443dee525538cfbbad4a5
+unklar | 1439.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Him | https://www.apple.com/at/shop/product/fdvq4d/a?fnode=449a7b888bff165fa14226feaec97e8631535c0766367a6ab69dffd7bee
 
 ----- Rohtreffer (Beispiele) -----
-kein MacBook Air | 69.0 | willhaben | Original-Ladegerät von Apple (NEU u. Orig. Verpackt): 140W USB-C Power Adapter (
-kein MacBook Air | 200.0 | willhaben | MacBook / iMac / Mac mini Ersatzteile (Displays, Logicboards, Tastatur, Akkus us
-kein MacBook Air | 100.0 | willhaben | MacBook / iMac / Mac mini EXPRESS Reparatur Service! Inkl. 12 Monate Garantie!
-kein MacBook Air | 100.0 | willhaben | MacBook / iMac / Mac mini Reparatur Service! Inkl. 12 Monate Garantie!
-None | 1350.0 | willhaben | Apple Macbook Air M5
-Preis unplausibel niedrig | 15.0 | willhaben | MacBook Air M2-M5 Tastenkappen Deutsch QWERTZ 13"/15"
-kein MacBook Air | 100.0 | willhaben | MacBook Logicboards (inkl. Einbau und 12 Monate Garantie!)
-kein MacBook Air | 180.0 | willhaben | Alter iMac als "Cinema/Studio Display" - iMac als Bildschirm
-kein MacBook Air | 25.0 | willhaben | Neu! 40W Dynamic Power Adapter für Apple iPhone, iPad, Macbook, Gratis Versand!
-kein MacBook Air | 200.0 | willhaben | Reparatur für Flexgate des MacBook! Inkl. 12 Monate Garantie!
-kein MacBook Air | 100.0 | willhaben | MacBook EXPRESS Reparatur Service! Inkl. 12 Monate Garantie!
-None | 1959.0 | willhaben | Apple 15-inch MacBook Air M5
-None | 1300.0 | willhaben | Macbook Air 15 2026 M5 15,3 zoll neu
-None | 1090.0 | willhaben | Apple MacBook Air 15,3" M5 Space Grau
-kein MacBook Air | 59.99 | willhaben | Apple 96W USB-C Power Adapter (Netzteil)
-None | 1350.0 | willhaben | MacBook Air M5 (2026)
-kein MacBook Air | 75.0 | willhaben | Apple Power Adapter 140W weiß
-kein MacBook Air | 85.0 | willhaben | Minisopuru USB C Docking Station, mit 2 HDMI & 2 DisplayPort,100W Charge, USB-C 
-ausgeschlossen (Titel) | 15.0 | willhaben | Laptop Hülle
-Preis unplausibel niedrig | 18.0 | willhaben | Laptophülle
-Preis unplausibel niedrig | 20.0 | willhaben | Laptoptasche 15 Zoll
-kein MacBook Air | 25.0 | willhaben | Neuer 40W Dynamic Power Adapter für Apple iPhone, iPad, Macbook, Gratis Versand!
-kein MacBook Air | 19.0 | willhaben | Laptop Tasche
-Preis unplausibel niedrig | 5.0 | willhaben | 15" MacBook Air M3/ M4/ M5 Screenprotector
-Preis unplausibel niedrig | 290.0 | willhaben | MacBook Pro 15" (2017) | i7 | 1 TB SSD | 16 GB RAM | NEUER AKKU
-None | 1150.0 | willhaben | MacBook Air 15" | M2 (2023) | 1TB SSD | 24 GB RAM | AKKU 97%
-None | 1300.0 | willhaben | Apple MacBook Air 15" M2 - 24 GB RAM / 1 TB SSD - Space Grau - Wie neu
-Größe unklar | 1050.0 | willhaben | MacBook Air M2 - 24GB/1TB, 8/10 Kerne
-13 Zoll | 390.0 | willhaben | Office 2024 + Macbook Air 13" M1 8/256Gb DE
+13 Zoll | 919.0 | Apple Refurbished AT | Refurbished 13" MacBook Air mit Apple M2 Chip, 8‑Core CPU und 10‑Core GPU - Spac
+13 Zoll | 919.0 | Apple Refurbished AT | Refurbished 13" MacBook Air mit Apple M2 Chip, 8‑Core CPU und 10‑Core GPU - Silb
+13 Zoll | 919.0 | Apple Refurbished AT | Refurbished 13" MacBook Air mit Apple M2 Chip, 8‑Core CPU und 10‑Core GPU - Pola
+13 Zoll | 1099.0 | Apple Refurbished AT | Refurbished 13" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Him
+None | 1149.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Mit
+13 Zoll | 1179.0 | Apple Refurbished AT | Refurbished 13" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 8‑Core GPU - Pola
+13 Zoll | 1189.0 | Apple Refurbished AT | Refurbished 13" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Sil
+13 Zoll | 1289.0 | Apple Refurbished AT | Refurbished 13" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Him
+None | 1339.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Mit
+13 Zoll | 1389.0 | Apple Refurbished AT | Refurbished 13" MacBook Air mit Apple M2 Chip, 8‑Core CPU und 10‑Core GPU - Pola
+13 Zoll | 1389.0 | Apple Refurbished AT | Refurbished 13" MacBook Air mit Apple M2 Chip, 8‑Core CPU und 10‑Core GPU - Mitt
+None | 1439.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Sil
+None | 1439.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Pol
+None | 1439.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Mit
+None | 1439.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Him
+13 Zoll | 1469.0 | Apple Refurbished AT | Refurbished 13" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Mit
+13 Zoll | 1469.0 | Apple Refurbished AT | Refurbished 13" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Him
+None | 1529.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Mit
+13 Zoll | 1659.0 | Apple Refurbished AT | Refurbished 13" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Pol
+13 Zoll | 1659.0 | Apple Refurbished AT | Refurbished 13" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Him
+13 Zoll | 1659.0 | Apple Refurbished AT | Refurbished 13" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Him
+None | 1719.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Pol
+None | 1719.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Mit
+None | 1909.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Sil
+13 Zoll | 2219.0 | Apple Refurbished AT | Refurbished 13" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Mit
+13 Zoll | 2309.0 | Apple Refurbished AT | Refurbished 13" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Him
+None | 2459.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Pol
+None | 2459.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Him
+kein MacBook Air | 679.0 | Apple Refurbished AT | Refurbished MacBook Neo Apple A18 Pro Chip - Silber
+kein MacBook Air | 679.0 | Apple Refurbished AT | Refurbished MacBook Neo Apple A18 Pro Chip - Zitrus
+kein MacBook Air | 679.0 | Apple Refurbished AT | Refurbished MacBook Neo Apple A18 Pro Chip - Indigo
+kein MacBook Air | 679.0 | Apple Refurbished AT | Refurbished MacBook Neo Apple A18 Pro Chip - Rosa
+kein MacBook Air | 759.0 | Apple Refurbished AT | Refurbished MacBook Neo Apple A18 Pro Chip mit Touch ID - Silber
+kein MacBook Air | 759.0 | Apple Refurbished AT | Refurbished MacBook Neo Apple A18 Pro Chip mit Touch ID - Zitrus
+kein MacBook Air | 759.0 | Apple Refurbished AT | Refurbished MacBook Neo Apple A18 Pro Chip mit Touch ID - Indigo
+kein MacBook Air | 759.0 | Apple Refurbished AT | Refurbished MacBook Neo Apple A18 Pro Chip mit Touch ID - Rosa
+kein MacBook Air | 989.0 | Apple Refurbished AT | Refurbished Mac mini Apple M4 Chip mit 10‑Core CPU und 10‑Core GPU, Gigabit Ethe
+kein MacBook Air | 1309.0 | Apple Refurbished AT | Refurbished Apple Studio Display, Standard­glas, neigungs­verstell­barer Standfu
+kein MacBook Air | 1309.0 | Apple Refurbished AT | Refurbished Apple Studio Display, Standard­glas, VESA Mount Adapter
+kein MacBook Air | 1429.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Silber
+kein MacBook Air | 1429.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Gelb
+kein MacBook Air | 1429.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Blau
+kein MacBook Air | 1429.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Pink
+kein MacBook Air | 1429.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Violett
+kein MacBook Air | 1459.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU, Gigabit Ether
+kein MacBook Air | 1569.0 | Apple Refurbished AT | Refurbished Apple Studio Display, Nanotexturglas, neigungs­verstell­barer Standf
+kein MacBook Air | 1569.0 | Apple Refurbished AT | Refurbished Apple Studio Display, Nanotexturglas, VESA Mount Adapter
+kein MacBook Air | 1599.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU, Gigabit Eth
+kein MacBook Air | 1599.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU, Gigabit Eth
+kein MacBook Air | 1619.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Silber
+kein MacBook Air | 1619.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Blau
+kein MacBook Air | 1619.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Blau
+kein MacBook Air | 1619.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Violett
+kein MacBook Air | 1739.0 | Apple Refurbished AT | Refurbished Apple Studio Display, Standard­glas, neigungs- und höhenverstellbare
+kein MacBook Air | 1789.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU, Gigabit Eth
+kein MacBook Air | 1799.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Silber
+kein MacBook Air | 1799.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Grün
+kein MacBook Air | 1819.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M3 Pro Chip, 11‑Core CPU und 14‑Core GPU -
+kein MacBook Air | 1819.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M3 Pro Chip, 11‑Core CPU und 14‑Core GPU -
+kein MacBook Air | 1849.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU – Spa
+kein MacBook Air | 1849.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU – Sil
+kein MacBook Air | 1899.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU, Disp
+kein MacBook Air | 1899.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Silber
+kein MacBook Air | 1899.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Blau
+kein MacBook Air | 1909.0 | Apple Refurbished AT | Refurbished Apple Studio Display, Nanotexturglas, neigungs- und höhenverstellbar
+kein MacBook Air | 1969.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU, Gigabit Eth
+kein MacBook Air | 1969.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU, Gigabit Eth
+kein MacBook Air | 1969.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU, Gigabit Eth
+kein MacBook Air | 1969.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU, Gigabit Eth
+kein MacBook Air | 1989.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU, Disp
+kein MacBook Air | 2059.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M4 Pro Chip, 12‑Core CPU und 16‑Core GPU –
+kein MacBook Air | 2079.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Silber
+kein MacBook Air | 2079.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Blau
+kein MacBook Air | 2099.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M3 Pro Chip, 11‑Core CPU und 14‑Core GPU -
+kein MacBook Air | 2209.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M2 Pro Chip, 12‑Core CPU und 19‑Core GPU -
+kein MacBook Air | 2249.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M2 Pro Chip, 12‑Core CPU und 19‑Core GPU –
+kein MacBook Air | 2269.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M3 Pro Chip, 12‑Core CPU und 18‑Core GPU -
+kein MacBook Air | 2269.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M3 Pro Chip, 12‑Core CPU und 18‑Core GPU -
+kein MacBook Air | 2459.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M5 Pro Chip, 15‑Core CPU und 16‑Core GPU –
+kein MacBook Air | 2459.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M5 Pro Chip, 15‑Core CPU und 16‑Core GPU –
+kein MacBook Air | 2499.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU -
+kein MacBook Air | 2499.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU -
+kein MacBook Air | 2539.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU, Gigabit Eth
+kein MacBook Air | 2549.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU –
+kein MacBook Air | 2549.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU –
+kein MacBook Air | 2689.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU – Spa
+kein MacBook Air | 2889.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M5 Pro Chip, 18‑Core CPU und 20‑Core GPU -
+kein MacBook Air | 2899.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU, Gigabit Eth
+kein MacBook Air | 3019.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU –
+kein MacBook Air | 3019.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M5 Pro Chip, 15‑Core CPU und 16‑Core GPU –
+kein MacBook Air | 3019.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M5 Pro Chip, 15‑Core CPU und 16‑Core GPU –
+kein MacBook Air | 3029.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M5 Pro Chip, 18‑Core CPU und 20‑Core GPU, 
+kein MacBook Air | 3069.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU -
+kein MacBook Air | 3069.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU -
+kein MacBook Air | 3159.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU, 
+kein MacBook Air | 3159.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M5 Pro Chip, 15‑Core CPU und 16‑Core GPU, 
+kein MacBook Air | 3349.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M5 Pro Chip, 18‑Core CPU und 20‑Core GPU, 
+kein MacBook Air | 3349.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M5 Pro Chip, 18‑Core CPU und 20‑Core GPU, 
+kein MacBook Air | 3379.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M2 Max Chip, 12‑Core CPU und 30‑Core GPU –
+kein MacBook Air | 3429.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M3 Max Chip, 14‑Core CPU und 30‑Core GPU -
+kein MacBook Air | 3479.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M4 Max Chip mit 14‑Core CPU und 32‑Core GP
+kein MacBook Air | 3479.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M4 Max Chip, 14‑Core CPU und 32‑Core GPU –
+kein MacBook Air | 3509.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M4 Max Chip, 14‑Core CPU und 32‑Core GPU, 
+kein MacBook Air | 3629.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU – Spa
+kein MacBook Air | 3699.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M3 Max Chip, 14‑Core CPU und 30‑Core GPU -
+kein MacBook Air | 3719.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU, 
+kein MacBook Air | 3739.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M4 Max Chip, 14‑Core CPU und 32‑Core GPU -
+kein MacBook Air | 3739.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M4 Max Chip, 14‑Core CPU und 32‑Core GPU -
+kein MacBook Air | 3769.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU, Disp
+kein MacBook Air | 3769.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU, Disp
+kein MacBook Air | 3819.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M5 Pro Chip, 18‑Core CPU und 20‑Core GPU -
+kein MacBook Air | 3949.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU –
+kein MacBook Air | 3959.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU, 
+kein MacBook Air | 4069.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M5 Max Chip, 18‑Core CPU und 32‑Core GPU –
+kein MacBook Air | 4069.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M5 Pro Chip, 18‑Core CPU und 20‑Core GPU –
+kein MacBook Air | 4089.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M4 Max Chip, 14‑Core CPU und 32‑Core GPU, 
+kein MacBook Air | 4089.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M4 Max Chip, 16‑Core CPU und 40‑Core GPU, 
+kein MacBook Air | 4219.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M3 Max Chip, 16‑Core CPU und 40‑Core GPU -
+kein MacBook Air | 4219.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M3 Max Chip mit 16‑Core CPU und 40‑Core GP
+kein MacBook Air | 4259.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M4 Max Chip mit 16‑Core CPU und 40‑Core GP
+kein MacBook Air | 4259.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M4 Max Chip, 16‑Core CPU und 40‑Core GPU -
+kein MacBook Air | 4259.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU -
+kein MacBook Air | 4259.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU -
+kein MacBook Air | 4299.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M4 Max Chip, 16‑Core CPU und 40‑Core GPU –
+kein MacBook Air | 4329.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M5 Max Chip, 18‑Core CPU und 32‑Core GPU -
+kein MacBook Air | 4349.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M4 Max Chip, 14‑Core CPU und 32‑Core GPU, 
+kein MacBook Air | 4429.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M5 Pro Chip, 18‑Core CPU und 20‑Core GPU, 
+kein MacBook Air | 4439.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M4 Max Chip, 16‑Core CPU und 40‑Core GPU, 
+kein MacBook Air | 4839.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M5 Max Chip mit 18‑Core CPU und 40‑Core GP
+kein MacBook Air | 4839.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M5 Max Chip, 18‑Core CPU und 40‑Core GPU -
+kein MacBook Air | 5209.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M5 Max Chip mit 18‑Core CPU und 40‑Core GP
+kein MacBook Air | 5209.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M5 Max Chip, 18‑Core CPU und 32‑Core GPU -
+kein MacBook Air | 5819.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M4 Max Chip, 16‑Core CPU und 40‑Core GPU –
+kein MacBook Air | 5959.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M4 Max Chip, 16‑Core CPU und 40‑Core GPU, 
+kein MacBook Air | 6179.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M4 Max Chip, 16‑Core CPU und 40‑Core GPU, 
+kein MacBook Air | 7449.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M4 Max Chip, 16‑Core CPU und 40‑Core GPU, 
+kein MacBook Air | 7579.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M5 Max Chip, 18‑Core CPU und 40‑Core GPU, 
+kein MacBook Air | 7669.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M4 Max Chip, 16‑Core CPU und 40‑Core GPU, 
+kein MacBook Air | 9179.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M4 Max Chip, 16‑Core CPU und 40‑Core GPU –
+kein MacBook Air | 9319.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M4 Max Chip, 16‑Core CPU und 40‑Core GPU, 
+kein MacBook Air | 9399.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M4 Max Chip mit 16‑Core CPU und 40‑Core GP
+kein MacBook Air | 9399.0 | Apple Refurbished AT | Refurbished 16" MacBook Pro mit Apple M4 Max Chip, 16‑Core CPU und 40‑Core GPU -
+13 Zoll | 919.0 | Apple Refurbished DE | Refurbished 13" MacBook Air mit Apple M2 Chip, 8‑Core CPU und 10‑Core GPU - Spac
+13 Zoll | 919.0 | Apple Refurbished DE | Refurbished 13" MacBook Air mit Apple M2 Chip, 8‑Core CPU und 10‑Core GPU - Silb
+13 Zoll | 919.0 | Apple Refurbished DE | Refurbished 13" MacBook Air mit Apple M2 Chip, 8‑Core CPU und 10‑Core GPU - Pola
+13 Zoll | 1099.0 | Apple Refurbished DE | Refurbished 13" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Him
+None | 1149.0 | Apple Refurbished DE | Refurbished 15" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Mit
+13 Zoll | 1179.0 | Apple Refurbished DE | Refurbished 13" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 8‑Core GPU - Pola
+13 Zoll | 1189.0 | Apple Refurbished DE | Refurbished 13" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Sil
+13 Zoll | 1289.0 | Apple Refurbished DE | Refurbished 13" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Him
+None | 1339.0 | Apple Refurbished DE | Refurbished 15" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Mit
+13 Zoll | 1389.0 | Apple Refurbished DE | Refurbished 13" MacBook Air mit Apple M2 Chip, 8‑Core CPU und 10‑Core GPU - Pola
+13 Zoll | 1389.0 | Apple Refurbished DE | Refurbished 13" MacBook Air mit Apple M2 Chip, 8‑Core CPU und 10‑Core GPU - Mitt
+None | 1439.0 | Apple Refurbished DE | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Sil
+None | 1439.0 | Apple Refurbished DE | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Pol
+None | 1439.0 | Apple Refurbished DE | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Mit
+None | 1439.0 | Apple Refurbished DE | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Him
+13 Zoll | 1469.0 | Apple Refurbished DE | Refurbished 13" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Mit
+13 Zoll | 1469.0 | Apple Refurbished DE | Refurbished 13" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Him
+None | 1529.0 | Apple Refurbished DE | Refurbished 15" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Mit
+13 Zoll | 1659.0 | Apple Refurbished DE | Refurbished 13" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Pol
+13 Zoll | 1659.0 | Apple Refurbished DE | Refurbished 13" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Him
+13 Zoll | 1659.0 | Apple Refurbished DE | Refurbished 13" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Him
+None | 1719.0 | Apple Refurbished DE | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Pol
+None | 1719.0 | Apple Refurbished DE | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Mit
+None | 1909.0 | Apple Refurbished DE | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Sil
+13 Zoll | 2219.0 | Apple Refurbished DE | Refurbished 13" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Mit
+13 Zoll | 2309.0 | Apple Refurbished DE | Refurbished 13" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Him
+None | 2459.0 | Apple Refurbished DE | Refurbished 15" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Pol
+None | 2459.0 | Apple Refurbished DE | Refurbished 15" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Him
+kein MacBook Air | 679.0 | Apple Refurbished DE | Refurbished MacBook Neo Apple A18 Pro Chip - Silber
+kein MacBook Air | 679.0 | Apple Refurbished DE | Refurbished MacBook Neo Apple A18 Pro Chip - Zitrus
+kein MacBook Air | 679.0 | Apple Refurbished DE | Refurbished MacBook Neo Apple A18 Pro Chip - Indigo
+kein MacBook Air | 679.0 | Apple Refurbished DE | Refurbished MacBook Neo Apple A18 Pro Chip - Rosa
+kein MacBook Air | 759.0 | Apple Refurbished DE | Refurbished MacBook Neo Apple A18 Pro Chip mit Touch ID - Silber
+kein MacBook Air | 759.0 | Apple Refurbished DE | Refurbished MacBook Neo Apple A18 Pro Chip mit Touch ID - Zitrus
+kein MacBook Air | 759.0 | Apple Refurbished DE | Refurbished MacBook Neo Apple A18 Pro Chip mit Touch ID - Indigo
+kein MacBook Air | 759.0 | Apple Refurbished DE | Refurbished MacBook Neo Apple A18 Pro Chip mit Touch ID - Rosa
+kein MacBook Air | 989.0 | Apple Refurbished DE | Refurbished Mac mini Apple M4 Chip mit 10‑Core CPU und 10‑Core GPU, Gigabit Ethe
+kein MacBook Air | 1309.0 | Apple Refurbished DE | Refurbished Apple Studio Display, Standard­glas, neigungs­verstell­barer Standfu
+kein MacBook Air | 1309.0 | Apple Refurbished DE | Refurbished Apple Studio Display, Standard­glas, VESA Mount Adapter
+kein MacBook Air | 1429.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Silber
+kein MacBook Air | 1429.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Gelb
+kein MacBook Air | 1429.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Blau
+kein MacBook Air | 1429.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Pink
+kein MacBook Air | 1429.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Violett
+kein MacBook Air | 1459.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU, Gigabit Ether
+kein MacBook Air | 1569.0 | Apple Refurbished DE | Refurbished Apple Studio Display, Nanotexturglas, neigungs­verstell­barer Standf
+kein MacBook Air | 1569.0 | Apple Refurbished DE | Refurbished Apple Studio Display, Nanotexturglas, VESA Mount Adapter
+kein MacBook Air | 1599.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU, Gigabit Eth
+kein MacBook Air | 1599.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU, Gigabit Eth
+kein MacBook Air | 1619.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Silber
+kein MacBook Air | 1619.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Blau
+kein MacBook Air | 1619.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Blau
+kein MacBook Air | 1619.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Violett
+kein MacBook Air | 1739.0 | Apple Refurbished DE | Refurbished Apple Studio Display, Standard­glas, neigungs- und höhenverstellbare
+kein MacBook Air | 1789.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU, Gigabit Eth
+kein MacBook Air | 1799.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Silber
+kein MacBook Air | 1799.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Grün
+kein MacBook Air | 1819.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M3 Pro Chip, 11‑Core CPU und 14‑Core GPU -
+kein MacBook Air | 1819.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M3 Pro Chip, 11‑Core CPU und 14‑Core GPU -
+kein MacBook Air | 1849.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU – Spa
+kein MacBook Air | 1849.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU – Sil
+kein MacBook Air | 1899.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU, Disp
+kein MacBook Air | 1899.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Silber
+kein MacBook Air | 1899.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Blau
+kein MacBook Air | 1909.0 | Apple Refurbished DE | Refurbished Apple Studio Display, Nanotexturglas, neigungs- und höhenverstellbar
+kein MacBook Air | 1969.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU, Gigabit Eth
+kein MacBook Air | 1969.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU, Gigabit Eth
+kein MacBook Air | 1969.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU, Gigabit Eth
+kein MacBook Air | 1969.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU, Gigabit Eth
+kein MacBook Air | 1989.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU, Disp
+kein MacBook Air | 2059.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M4 Pro Chip, 12‑Core CPU und 16‑Core GPU –
+kein MacBook Air | 2079.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Silber
+kein MacBook Air | 2079.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Blau
+kein MacBook Air | 2099.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M3 Pro Chip, 11‑Core CPU und 14‑Core GPU -
+kein MacBook Air | 2209.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M2 Pro Chip, 12‑Core CPU und 19‑Core GPU -
+kein MacBook Air | 2249.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M2 Pro Chip, 12‑Core CPU und 19‑Core GPU –
+kein MacBook Air | 2269.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M3 Pro Chip, 12‑Core CPU und 18‑Core GPU -
+kein MacBook Air | 2269.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M3 Pro Chip, 12‑Core CPU und 18‑Core GPU -
+kein MacBook Air | 2459.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M5 Pro Chip, 15‑Core CPU und 16‑Core GPU –
+kein MacBook Air | 2459.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M5 Pro Chip, 15‑Core CPU und 16‑Core GPU –
+kein MacBook Air | 2499.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU -
+kein MacBook Air | 2499.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU -
+kein MacBook Air | 2539.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU, Gigabit Eth
+kein MacBook Air | 2549.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU –
+kein MacBook Air | 2549.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU –
+kein MacBook Air | 2689.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU – Spa
+kein MacBook Air | 2889.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M5 Pro Chip, 18‑Core CPU und 20‑Core GPU -
+kein MacBook Air | 2899.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU, Gigabit Eth
+kein MacBook Air | 3019.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU –
+kein MacBook Air | 3019.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M5 Pro Chip, 15‑Core CPU und 16‑Core GPU –
+kein MacBook Air | 3019.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M5 Pro Chip, 15‑Core CPU und 16‑Core GPU –
+kein MacBook Air | 3029.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M5 Pro Chip, 18‑Core CPU und 20‑Core GPU, 
+kein MacBook Air | 3069.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU -
+kein MacBook Air | 3069.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU -
+kein MacBook Air | 3159.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU, 
+kein MacBook Air | 3159.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M5 Pro Chip, 15‑Core CPU und 16‑Core GPU, 
+kein MacBook Air | 3349.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M5 Pro Chip, 18‑Core CPU und 20‑Core GPU, 
+kein MacBook Air | 3349.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M5 Pro Chip, 18‑Core CPU und 20‑Core GPU, 
+kein MacBook Air | 3379.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M2 Max Chip, 12‑Core CPU und 30‑Core GPU –
+kein MacBook Air | 3429.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M3 Max Chip, 14‑Core CPU und 30‑Core GPU -
+kein MacBook Air | 3479.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M4 Max Chip mit 14‑Core CPU und 32‑Core GP
+kein MacBook Air | 3479.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M4 Max Chip, 14‑Core CPU und 32‑Core GPU –
+kein MacBook Air | 3509.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M4 Max Chip, 14‑Core CPU und 32‑Core GPU, 
+kein MacBook Air | 3629.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU – Spa
+kein MacBook Air | 3699.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M3 Max Chip, 14‑Core CPU und 30‑Core GPU -
+kein MacBook Air | 3719.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU, 
+kein MacBook Air | 3739.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M4 Max Chip, 14‑Core CPU und 32‑Core GPU -
+kein MacBook Air | 3739.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M4 Max Chip, 14‑Core CPU und 32‑Core GPU -
+kein MacBook Air | 3769.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU, Disp
+kein MacBook Air | 3769.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU, Disp
+kein MacBook Air | 3819.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M5 Pro Chip, 18‑Core CPU und 20‑Core GPU -
+kein MacBook Air | 3949.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU –
+kein MacBook Air | 3959.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU, 
+kein MacBook Air | 4069.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M5 Max Chip, 18‑Core CPU und 32‑Core GPU –
+kein MacBook Air | 4069.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M5 Pro Chip, 18‑Core CPU und 20‑Core GPU –
+kein MacBook Air | 4089.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M4 Max Chip, 14‑Core CPU und 32‑Core GPU, 
+kein MacBook Air | 4089.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M4 Max Chip, 16‑Core CPU und 40‑Core GPU, 
+kein MacBook Air | 4219.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M3 Max Chip, 16‑Core CPU und 40‑Core GPU -
+kein MacBook Air | 4219.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M3 Max Chip mit 16‑Core CPU und 40‑Core GP
+kein MacBook Air | 4259.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M4 Max Chip mit 16‑Core CPU und 40‑Core GP
+kein MacBook Air | 4259.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M4 Max Chip, 16‑Core CPU und 40‑Core GPU -
+kein MacBook Air | 4259.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU -
+kein MacBook Air | 4259.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M4 Pro Chip, 14‑Core CPU und 20‑Core GPU -
+kein MacBook Air | 4299.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M4 Max Chip, 16‑Core CPU und 40‑Core GPU –
+kein MacBook Air | 4329.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M5 Max Chip, 18‑Core CPU und 32‑Core GPU -
+kein MacBook Air | 4349.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M4 Max Chip, 14‑Core CPU und 32‑Core GPU, 
+kein MacBook Air | 4429.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M5 Pro Chip, 18‑Core CPU und 20‑Core GPU, 
+kein MacBook Air | 4439.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M4 Max Chip, 16‑Core CPU und 40‑Core GPU, 
+kein MacBook Air | 4839.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M5 Max Chip mit 18‑Core CPU und 40‑Core GP
+kein MacBook Air | 4839.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M5 Max Chip, 18‑Core CPU und 40‑Core GPU -
+kein MacBook Air | 5209.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M5 Max Chip mit 18‑Core CPU und 40‑Core GP
+kein MacBook Air | 5209.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M5 Max Chip, 18‑Core CPU und 32‑Core GPU -
+kein MacBook Air | 5819.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M4 Max Chip, 16‑Core CPU und 40‑Core GPU –
+kein MacBook Air | 5959.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M4 Max Chip, 16‑Core CPU und 40‑Core GPU, 
+kein MacBook Air | 6179.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M4 Max Chip, 16‑Core CPU und 40‑Core GPU, 
+kein MacBook Air | 7449.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M4 Max Chip, 16‑Core CPU und 40‑Core GPU, 
+kein MacBook Air | 7579.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M5 Max Chip, 18‑Core CPU und 40‑Core GPU, 
+kein MacBook Air | 7669.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M4 Max Chip, 16‑Core CPU und 40‑Core GPU, 
+kein MacBook Air | 9179.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M4 Max Chip, 16‑Core CPU und 40‑Core GPU –
+kein MacBook Air | 9319.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M4 Max Chip, 16‑Core CPU und 40‑Core GPU, 
+kein MacBook Air | 9399.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M4 Max Chip mit 16‑Core CPU und 40‑Core GP
+kein MacBook Air | 9399.0 | Apple Refurbished DE | Refurbished 16" MacBook Pro mit Apple M4 Max Chip, 16‑Core CPU und 40‑Core GPU -
+None | 1955.0 | geizhals.at (neu, Händler AT/DE) | Apple MacBook Air 15" M5, Sky Blue, M5 - 10 Core CPU / 10 Core GPU, 24GB RAM, 1T
+None | 1955.0 | geizhals.at (neu, Händler AT/DE) | Apple MacBook Air 15" M5, Starlight, M5 - 10 Core CPU / 10 Core GPU, 24GB RAM, 1
+None | 2016.0 | geizhals.at (neu, Händler AT/DE) | Apple MacBook Air 15" M5, silber, M5 - 10 Core CPU / 10 Core GPU, 24GB RAM, 1TB 
+None | 2018.0 | geizhals.at (neu, Händler AT/DE) | Apple MacBook Air 15" M5, Midnight, M5 - 10 Core CPU / 10 Core GPU, 24GB RAM, 1T
 kein MacBook Air | 2299.0 | kleinanzeigen | 2
 None | 1950.0 | kleinanzeigen | MacBook Air M5 15” 24GB + 1TB SSD (3 Monaten alt!)
 None | 1600.0 | kleinanzeigen | MacBook Air 15” M5 24GB 1TB wie neu
@@ -152,86 +407,59 @@ None | 1390.0 | kleinanzeigen | MacBook Air 15" (2024) | M3 Chip | 24GB RAM | 1T
 Größe unklar | 950.0 | kleinanzeigen | Apple MacBook Air M2, 24GB RAM, 1TB SSD, Silber
 None | 1650.0 | kleinanzeigen | MacBook Air 15’’ M3 | 24GB RAM | 1 TB SSD | Neuwertiger Zustand
 None | 1950.0 | kleinanzeigen | Apple MacBook Air 15.3" Mid 2023 24GB 1TB Mitternachtsblau
-kein MacBook Air | 70.0 | troostwijk/surplex (Auktion) | Apple MacBook PRO 15" Core(TM) i9 9. Generation, 32 GB RAM, 1TB NVMe, AMD Radeon
-kein MacBook Air | 35.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 15,4", HexaCore i7, 16 GB RAM, 500 GB NVMe, AMD Radeon Pro 560
-13 Zoll | 130.0 | troostwijk/surplex (Auktion) | Apple MacBook Air 13", Apple M1, 16 GB RAM, 251 GB NVMe Laptop
-kein MacBook Air | 30.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 15,4", Core(TM) i7 9. Generation, 16 GB RAM, 251 GB NVMe, AMD 
-13 Zoll | 25.0 | troostwijk/surplex (Auktion) | Apple MacBook Air 13", QuadCore i5, 16 GB RAM, 251 GB NVMe Laptop
-13 Zoll | 60.0 | troostwijk/surplex (Auktion) | Apple MacBook Air 13", Apple M1, 8 GB RAM, 251 GB NVMe Laptop
-kein MacBook Air | 110.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 15,4", OctoCore i9, 16 GB RAM, 500 GB NVMe, AMD Radeon Pro 560
-13 Zoll | 70.0 | troostwijk/surplex (Auktion) | Apple MacBook Air 13,3", Apple M1, 8 GB RAM, 251 GB SSD Laptop
-13 Zoll | 90.0 | troostwijk/surplex (Auktion) | Apple MacBook Air 13,3", Apple M1, 16 GB RAM, 251 GB NVMe Laptop
-13 Zoll | 120.0 | troostwijk/surplex (Auktion) | Apple MacBook Air 13,3", Apple M1, 8 GB RAM, 251 GB SSD Laptop
-kein MacBook Air | 35.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 15,4", HexaCore i7, 32 GB RAM, 500 GB NVMe, AMD Radeon Pro 560
-13 Zoll | 60.0 | troostwijk/surplex (Auktion) | Apple MacBook Air 13", Apple M1, 8 GB RAM, 251 GB NVMe Laptop
-kein MacBook Air | 25.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 15,4", HexaCore i7, 16 GB RAM, 251 GB NVMe, AMD Radeon Pro 555
-13 Zoll | 100.0 | troostwijk/surplex (Auktion) | Apple MacBook Air 13", Apple M1, 16 GB RAM, 251 GB NVMe Laptop
-kein MacBook Air | 25.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 15,4", QuadCore i7, 16 GB RAM, 500 GB NVMe, AMD Radeon Pro 560
-13 Zoll | 70.0 | troostwijk/surplex (Auktion) | Apple MacBook Air 13", Apple M1, 8 GB RAM, 251 GB NVMe Laptop
-kein MacBook Air | 100.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 15,4", HexaCore i7, 16 GB RAM, 251 GB NVMe, AMD Radeon Pro 555
-kein MacBook Air | 90.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 15,4", HexaCore i7, 16 GB RAM, 500 GB NVMe, AMD Radeon Pro 560
-13 Zoll | 390.0 | troostwijk/surplex (Auktion) | Apple MacBook Air 13", Apple M3, 16 GB RAM, 500 GB NVMe Laptop
-13 Zoll | 60.0 | troostwijk/surplex (Auktion) | Apple MacBook Air 13", Apple M1, 8 GB RAM, 251 GB NVMe Laptop
-13 Zoll | 120.0 | troostwijk/surplex (Auktion) | Apple MacBook Air 13,3", Apple M1, 8 GB RAM, 251 GB SSD Laptop
-13 Zoll | 15.0 | troostwijk/surplex (Auktion) | Apple MacBook Air 13", DualCore i5, 16 GB RAM, 512 GB NVMe Laptop
-13 Zoll | 10.0 | troostwijk/surplex (Auktion) | Apple MacBook Air 13", DualCore i5, 8 GB RAM, 251 GB NVMe Laptop
-kein MacBook Air | 25.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 15,4", HexaCore i7, 16 GB RAM, 251 GB NVMe, AMD Radeon Pro 555
-kein MacBook Air | 25.0 | troostwijk/surplex (Auktion) | Apple MacBook 15,4", HexaCore i7, 16 GB RAM, 251 GB NVMe, AMD Radeon Pro 555x 4G
-kein MacBook Air | 35.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 15,4", HexaCore i7, 32 GB RAM, 500 GB NVMe, AMD Radeon Pro 560
-kein MacBook Air | 20.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 15,4", HexaCore i7, 16 GB RAM, 251 GB NVMe, AMD Radeon Pro 555
-13 Zoll | 80.0 | troostwijk/surplex (Auktion) | Apple MacBook Air 13", Apple M1, 8 GB RAM, 251 GB NVMe Laptop
-13 Zoll | 15.0 | troostwijk/surplex (Auktion) | Apple MacBook Air 13", DualCore i5, 8 GB RAM, 251 GB NVMe Laptop
-kein MacBook Air | 100.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 15,4", HexaCore i7, 16 GB RAM, 251 GB NVMe, AMD Radeon Pro 555
-kein MacBook Air | 25.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 15,4", OctoCore i9, 16 GB RAM, 500 GB NVMe, AMD Radeon Pro 560
-kein MacBook Air | 25.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 15,4", HexaCore i7, 16 GB RAM, 251 GB NVMe, AMD Radeon Pro 555
-13 Zoll | 25.0 | troostwijk/surplex (Auktion) | Apple MacBook Air 13", DualCore i5, 8 GB RAM, 251 GB NVMe Laptop
-kein MacBook Air | 25.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 15,4", QuadCore i7, 16 GB RAM, 500 GB NVMe, AMD Radeon Pro 560
-kein MacBook Air | 250.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 15", Core(TM) i7 9. Generation, 16 GB RAM, 256 GB NVMe, AMD Ra
-kein MacBook Air | 250.0 | troostwijk/surplex (Auktion) | Apple – MacBook Neo 13" – MacBook
-kein MacBook Air | 55.0 | troostwijk/surplex (Auktion) | Apple MacBook 16", HexaCore i7, 16 GB RAM, 500 GB NVMe, AMD Radeon Pro 5300M 4GB
-kein MacBook Air | 20.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 13,3", QuadCore i5, 16 GB RAM, 1 TB NVMe Laptop
-kein MacBook Air | 35.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 13,3", QuadCore i5, 16 GB RAM, 251 GB NVMe Laptop
-kein MacBook Air | 25.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 13,3", Core(TM) i7 10. Generation, 16 GB RAM, 1 TB NVMe Laptop
-kein MacBook Air | 90.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 16", HexaCore i7, 32 GB RAM, 1 TB NVMe, AMD Radeon Pro 5300M 4
-kein MacBook Air | 160.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 16", Apple M1 Pro, 16 GB RAM, 500 GB NVMe Laptop
-kein MacBook Air | 230.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 13,3", Apple M1, 8 GB RAM, 500 GB NVMe Laptop
-kein MacBook Air | 90.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 13,3", DualCore i5, 16 GB RAM, 500 GB NVMe Laptop
-kein MacBook Air | 380.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 16", Apple M1 Max, 32 GB RAM, 1 TB NVMe Laptop
-kein MacBook Air | 200.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 16", Core(TM) i7 9. Generation, 32 GB RAM, 1 TB NVMe, AMD Rade
-kein MacBook Air | 130.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 16", OctoCore i9, 64 GB RAM, 1 TB NVMe, AMD Radeon Pro 5500M 4
-kein MacBook Air | 230.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 13", Apple M2, 8 GB RAM, 251 GB NVMe Laptop
-kein MacBook Air | 480.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 14", Apple M1 Pro, 16 GB RAM, 500 GB NVMe Laptop
-kein MacBook Air | 230.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 16", OctoCore i9, 64 GB RAM, 1 TB NVMe, AMD Radeon Pro 5500M 4
-kein MacBook Air | 60.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 16", HexaCore i7, 16 GB RAM, 500 GB NVMe, AMD Radeon Pro 5300M
-kein MacBook Air | 35.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 13,3", QuadCore i7, 16 GB RAM, 500 GB NVMe Laptop
-kein MacBook Air | 20.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 13", DualCore i5, 16 GB RAM, 251 GB NVMe Laptop
-kein MacBook Air | 30.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 13,3", DualCore i7, 16 GB RAM, 500 GB NVMe Laptop
-kein MacBook Air | 50.0 | troostwijk/surplex (Auktion) | Apple MacBook 16", HexaCore i7, 16 GB RAM, 500 GB NVMe, AMD Radeon Pro 5300M 4GB
-kein MacBook Air | 20.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 13,3", QuadCore i7, 16 GB RAM, 500 GB NVMe Laptop
-kein MacBook Air | 98.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 13,3", QuadCore i7, 16 GB RAM, 500 GB NVMe Laptop
-kein MacBook Air | 230.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 16", Apple M1 Max, 32 GB RAM, 1 TB NVMe Laptop
-kein MacBook Air | 25.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 13,3", DualCore i5, 8 GB RAM, 251 GB NVMe Laptop
-kein MacBook Air | 270.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 14", Apple M1 Pro, 16 GB RAM, 500 GB NVMe Laptop
-kein MacBook Air | 150.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 16", HexaCore i7, 16 GB RAM, 500 GB NVMe, AMD Radeon Pro 5300M
-kein MacBook Air | 180.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 16", Core i7, 16 GB RAM, 500 GB NVMe, AMD Radeon Pro 5300M 4GB
-kein MacBook Air | 180.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 16", Apple M1 Pro, 16 GB RAM, 512 GB NVMe Laptop
-kein MacBook Air | 1000.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 16", Apple M2 Max, 64 GB RAM, 1 TB NVMe Laptop
-kein MacBook Air | 140.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 13,3", Apple M2, 16 GB RAM, 500 GB NVMe Laptop
-kein MacBook Air | 100.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 13,3", Apple M1, 16 GB RAM, 500 GB NVMe Laptop
-kein MacBook Air | 400.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 13,3", Apple M2, 24 GB RAM, 500 GB NVMe Laptop
-kein MacBook Air | 750.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 16", Apple M1 Max, 64 GB RAM, 2 TB NVMe Laptop
-kein MacBook Air | 20.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 13,3", QuadCore i7, 16 GB RAM, 500 GB NVMe Laptop
-kein MacBook Air | 350.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 13,3", Apple M2, 16 GB RAM, 500 GB NVMe Laptop
-kein MacBook Air | 130.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 16", OctoCore i9, 64 GB RAM, 1 TB NVMe, AMD Radeon Pro 5500M 4
-kein MacBook Air | 390.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 16", Apple M1 Pro, 32 GB RAM, 500 GB NVMe Laptop
-kein MacBook Air | 60.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 16", OctoCore i9, 16 GB RAM, 512 GB NVMe, AMD Radeon Pro 555X 
-kein MacBook Air | 25.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 13,3", QuadCore i7, 16 GB RAM, 500 GB NVMe Laptop
-kein MacBook Air | 440.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 16", Apple M1 Max, 32 GB RAM, 1 TB NVMe Laptop
-kein MacBook Air | 340.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 14", Apple M1 Pro, 32 GB RAM, 500 GB NVMe Laptop
-kein MacBook Air | 60.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 16", QuadCore i7, 16 GB RAM, 500 GB NVMe, AMD Radeon Pro 560 4
-kein MacBook Air | 220.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 14", Apple M1 Pro, 16 GB RAM, 500 GB NVMe Laptop
-kein MacBook Air | 210.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 16", OctoCore i9, 64 GB RAM, 1 TB NVMe, AMD Radeon Pro 5500M 4
-kein MacBook Air | 15.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 13,3", DualCore i5, 16 GB RAM, 121 GB NVMe Laptop
-kein MacBook Air | 35.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 13,3", QuadCore i5, 16 GB RAM, 1 TB NVMe Laptop
-kein MacBook Air | 115.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 16", Apple M1 Pro, 16 GB RAM, 512 GB NVMe Laptop
-kein MacBook Air | 50.0 | troostwijk/surplex (Auktion) | Apple MacBook Pro 16", HexaCore i7, 16 GB RAM, 500 GB NVMe, AMD Radeon Pro 5300M
+Größe unklar | None | mactrade.de (neu) | MacBook Air anzeigen
+13 Zoll | None | mactrade.de (neu) | 13" MacBook Air M5
+13 Zoll | None | mactrade.de (neu) | 13" MacBook Air M5
+ausgeschlossen (Titel) | 295.0 | mactrade.de (neu) | Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 16 GB - 1 TB SSD - Himmelblau - 202
+ausgeschlossen (Titel) | 180.0 | mactrade.de (neu) | Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 16 GB - 512 GB SSD - Himmelblau - 2
+ausgeschlossen (Titel) | 210.0 | mactrade.de (neu) | Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 16 GB - 1 TB SSD - Mitternacht - 20
+ausgeschlossen (Titel) | 210.0 | mactrade.de (neu) | Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 16 GB - 1 TB SSD - Silber - 2026 - 
+ausgeschlossen (Titel) | 180.0 | mactrade.de (neu) | Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 16 GB - 512 GB SSD - Silber - 2026 
+ausgeschlossen (Titel) | 210.0 | mactrade.de (neu) | Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 16 GB - 1 TB SSD - Polarstern - 202
+ausgeschlossen (Titel) | 180.0 | mactrade.de (neu) | Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 16 GB - 512 GB SSD - Mitternacht - 
+ausgeschlossen (Titel) | 180.0 | mactrade.de (neu) | Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 16 GB - 512 GB SSD - Polarstern - 2
+ausgeschlossen (Titel) | 215.0 | mactrade.de (neu) | Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Polarstern - 202
+ausgeschlossen (Titel) | 230.0 | mactrade.de (neu) | Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Mitternacht - 20
+ausgeschlossen (Titel) | 230.0 | mactrade.de (neu) | Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Himmelblau - 202
+ausgeschlossen (Titel) | 215.0 | mactrade.de (neu) | Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Silber - 2026 - 
+None | 1459.0 | mediamarkt.at (neu) | APPLE MacBook Air 15 (2026), Notebook, 15,3 Zoll, Retina, Apple M5 Chip (10-Core
+None | 1699.0 | mediamarkt.at (neu) | APPLE MacBook Air 15 (2026), Notebook, 15,3 Zoll, Retina, Apple M5 Chip (10-Core
+None | 1517.0 | mediamarkt.at (neu) | APPLE MacBook Air 15 (2026), Notebook, 15,3 Zoll, Retina, Apple M5 Chip (10-Core
+None | 1490.0 | mediamarkt.at (neu) | APPLE MacBook Air 15 (2026), Notebook, 15,3 Zoll, Retina, Apple M5 Chip (10-Core
+None | 2129.0 | mediamarkt.at (neu) | APPLE MacBook Air 15 Zoll (2026) Notebook, 15,3 Zoll, Retina, Apple M5 Chip (10-
+None | 2249.0 | mediamarkt.at (neu) | APPLE MacBook Air 15 Zoll (2026) Notebook, 15,3 Zoll, Retina, Apple M5 Chip (10-
+None | 2249.0 | mediamarkt.at (neu) | APPLE MacBook Air 15 (2026), Notebook, 15,3 Zoll, Retina, Apple M5 Chip (10-Core
+None | 1869.0 | mediamarkt.at (neu) | APPLE MacBook Air 15 Zoll (2026) Notebook, 15,3 Zoll, Retina, Apple M5 Chip (10-
+None | 1869.0 | mediamarkt.at (neu) | APPLE MacBook Air 15 Zoll (2026) Notebook, 15,3 Zoll, Retina, Apple M5 Chip (10-
+None | 1849.0 | mediamarkt.at (neu) | APPLE MacBook Air 15 Zoll (2026) Notebook, 15,3 Zoll, Retina, Apple M5 Chip (10-
+None | 2109.0 | mediamarkt.at (neu) | APPLE MacBook Air 15 Zoll (2026) Notebook, 15,3 Zoll, Retina, Apple M5 Chip (10-
+None | 1869.0 | mediamarkt.at (neu) | APPLE MacBook Air 15 (2026), Notebook, 15,3 Zoll, Retina, Apple M5 Chip (10-Core
+kein MacBook Air | 69.0 | willhaben | Original-Ladegerät von Apple (NEU u. Orig. Verpackt): 140W USB-C Power Adapter (
+kein MacBook Air | 200.0 | willhaben | MacBook / iMac / Mac mini Ersatzteile (Displays, Logicboards, Tastatur, Akkus us
+kein MacBook Air | 100.0 | willhaben | MacBook / iMac / Mac mini EXPRESS Reparatur Service! Inkl. 12 Monate Garantie!
+kein MacBook Air | 100.0 | willhaben | MacBook / iMac / Mac mini Reparatur Service! Inkl. 12 Monate Garantie!
+None | 1350.0 | willhaben | Apple Macbook Air M5
+Preis unplausibel niedrig | 15.0 | willhaben | MacBook Air M2-M5 Tastenkappen Deutsch QWERTZ 13"/15"
+kein MacBook Air | 100.0 | willhaben | MacBook Logicboards (inkl. Einbau und 12 Monate Garantie!)
+kein MacBook Air | 180.0 | willhaben | Alter iMac als "Cinema/Studio Display" - iMac als Bildschirm
+kein MacBook Air | 25.0 | willhaben | Neu! 40W Dynamic Power Adapter für Apple iPhone, iPad, Macbook, Gratis Versand!
+kein MacBook Air | 200.0 | willhaben | Reparatur für Flexgate des MacBook! Inkl. 12 Monate Garantie!
+kein MacBook Air | 100.0 | willhaben | MacBook EXPRESS Reparatur Service! Inkl. 12 Monate Garantie!
+None | 1959.0 | willhaben | Apple 15-inch MacBook Air M5
+None | 1300.0 | willhaben | Macbook Air 15 2026 M5 15,3 zoll neu
+None | 1090.0 | willhaben | Apple MacBook Air 15,3" M5 Space Grau
+kein MacBook Air | 59.99 | willhaben | Apple 96W USB-C Power Adapter (Netzteil)
+None | 1350.0 | willhaben | MacBook Air M5 (2026)
+kein MacBook Air | 75.0 | willhaben | Apple Power Adapter 140W weiß
+kein MacBook Air | 85.0 | willhaben | Minisopuru USB C Docking Station, mit 2 HDMI & 2 DisplayPort,100W Charge, USB-C 
+ausgeschlossen (Titel) | 15.0 | willhaben | Laptop Hülle
+Preis unplausibel niedrig | 18.0 | willhaben | Laptophülle
+Preis unplausibel niedrig | 20.0 | willhaben | Laptoptasche 15 Zoll
+kein MacBook Air | 25.0 | willhaben | Neuer 40W Dynamic Power Adapter für Apple iPhone, iPad, Macbook, Gratis Versand!
+kein MacBook Air | 19.0 | willhaben | Laptop Tasche
+Preis unplausibel niedrig | 5.0 | willhaben | 15" MacBook Air M3/ M4/ M5 Screenprotector
+Preis unplausibel niedrig | 290.0 | willhaben | MacBook Pro 15" (2017) | i7 | 1 TB SSD | 16 GB RAM | NEUER AKKU
+None | 1150.0 | willhaben | MacBook Air 15" | M2 (2023) | 1TB SSD | 24 GB RAM | AKKU 97%
+None | 1300.0 | willhaben | Apple MacBook Air 15" M2 - 24 GB RAM / 1 TB SSD - Space Grau - Wie neu
+Größe unklar | 1050.0 | willhaben | MacBook Air M2 - 24GB/1TB, 8/10 Kerne
+13 Zoll | 390.0 | willhaben | Office 2024 + Macbook Air 13" M1 8/256Gb DE
