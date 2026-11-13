@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T21:55:05+00:00",
+ "generated": "2026-11-13T22:10:31+00:00",
  "sources": {
   "willhaben": "29 Treffer",
   "kleinanzeigen": "47 Treffer",
@@ -7,13 +7,6 @@
   "apple_at": "142 Treffer",
   "apple_de": "142 Treffer",
   "geizhals": "4 Treffer",
-  "amazon_de": "0 Treffer",
-  "amazon_at": "0 Treffer",
-  "cyberport_at": "0 Treffer",
-  "cyberport_de": "0 Treffer",
-  "notebooksbilliger": "0 Treffer",
-  "notebook_de": "0 Treffer",
-  "mediamarkt_at": "12 Treffer",
   "mactrade": "26 Treffer"
  },
  "candidates": 72,
@@ -24,9 +17,12 @@
  "dropped": {
   "kein MacBook Air": 330,
   "Preis unplausibel niedrig": 5,
-  "ausgeschlossen (Titel)": 17,
+  "ausgeschlossen (Titel: Hülle)": 1,
   "Größe unklar": 6,
-  "13 Zoll": 52
+  "13 Zoll": 52,
+  "ausgeschlossen (Titel: Netzteil)": 1,
+  "ausgeschlossen (Titel: Tausch)": 1,
+  "ausgeschlossen (Titel: Suche)": 2
  },
  "spec_rejected": {
   "unklar": 23,
@@ -35,12 +31,6 @@
   "zu wenig SSD (Titel)": 1
  },
  "diag": {
-  "amazon_de": "Tut uns Leid! | Tut uns Leid! Während wir Ihre Eingabe ausführen wollten, ist ein technischer Fehler aufgetreten. Wir arbeiten bereits daran und werden sobald wie möglich wieder für Sie da sein. Bitte schauen Sie spä",
-  "amazon_at": "Tut uns Leid! | Tut uns Leid! Während wir Ihre Eingabe ausführen wollten, ist ein technischer Fehler aufgetreten. Wir arbeiten bereits daran und werden sobald wie möglich wieder für Sie da sein. Bitte schauen Sie spä",
-  "cyberport_at": "Nur einen Moment… | www.cyberport.at Sicherheitsüberprüfung wird durchgeführt Diese Website nutzt einen Sicherheitsservice, um sich vor böswilligen Bots zu schützen. Diese Seite wird angezeigt, solange die Website überp",
-  "cyberport_de": "Nur einen Moment… | www.cyberport.de Sicherheitsüberprüfung wird durchgeführt Diese Website nutzt einen Sicherheitsservice, um sich vor böswilligen Bots zu schützen. Diese Seite wird angezeigt, solange die Website überp",
-  "notebooksbilliger": "Notebook Shop - Notebooks & Laptops bei notebooksbilliger.de | uups... Die Seite wurde nicht gefunden. 0.4eb01302.1794607086.9b4ab0e Zur Startseite",
-  "notebook_de": "Suchergebnis | notebook.de | Zum Hauptinhalt springen Zur Suche springen Zur Hauptnavigation springen Service/Hilfe Mein Konto 0,00 € NOTEBOOKS, LAPTOPS, PCS & MEHR GÜNSTIG KAUFEN NOTEBOOKS TABLETS PC'S WEARABLES TFT/BEAMER D",
-  "mediamarkt_at": "Nur einen Moment… | www.mediamarkt.at Sicherheitsüberprüfung wird durchgeführt Diese Website nutzt einen Sicherheitsservice, um sich vor böswilligen Bots zu schützen. Diese Seite wird angezeigt, solange die Website über"
+  "geizhals_offers_sample": []
  }
 }
