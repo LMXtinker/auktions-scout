@@ -3,22 +3,22 @@
 • <a href="https://www.mactrade.de/macbook-air-15-m5-10-core-cpu-10-core-gpu-24-gb-1-tb-ssd-mitternacht-2026-kein-netzteil/72314.0001">Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Mitternacht - 2026 - Kein </a>
    <b>1.958 €</b> (≈ 1.645 € netto) · mactrade.de (neu) · 🇩🇪
    <i>M5 · neu · gewerblich</i>
-   💬 Neuware ohne Netzteil, Rechnung mit MwSt. vom Händler, EDU-Preis wirkt fair.
+   💬 Neuware ohne Netzteil, Händler mit MwSt., EDU-Preis wirkt fair.
 
 • <a href="https://www.mactrade.de/macbook-air-15-m5-10-core-cpu-10-core-gpu-24-gb-1-tb-ssd-himmelblau-2026-kein-netzteil/72313.0001">Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Himmelblau - 2026 - Kein N</a>
    <b>1.958 €</b> (≈ 1.645 € netto) · mactrade.de (neu) · 🇩🇪
    <i>M5 · neu · gewerblich</i>
-   💬 Neuware ohne Netzteil, Rechnung mit MwSt. vom Händler, EDU-Preis wirkt fair.
+   💬 Neuware ohne Netzteil, Händler mit MwSt., EDU-Preis wirkt fair.
 
 • <a href="https://www.mactrade.de/macbook-air-15-m5-10-core-cpu-10-core-gpu-24-gb-1-tb-ssd-polarstern-2026-kein-netzteil/72315.0001">Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Polarstern - 2026 - Kein N</a>
    <b>1.972 €</b> (≈ 1.657 € netto) · mactrade.de (neu) · 🇩🇪
    <i>M5 · neu · gewerblich</i>
-   💬 Neuware ohne Netzteil, Rechnung mit MwSt. vom Händler, EDU-Preis wirkt fair.
+   💬 Neuware ohne Netzteil, Händler mit MwSt., EDU-Preis wirkt fair.
 
 • <a href="https://www.mactrade.de/macbook-air-15-m5-10-core-cpu-10-core-gpu-24-gb-1-tb-ssd-silber-2026-kein-netzteil/72316.0001">Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Silber - 2026 - Kein Netzt</a>
    <b>1.972 €</b> (≈ 1.657 € netto) · mactrade.de (neu) · 🇩🇪
    <i>M5 · neu · gewerblich</i>
-   💬 Neuware ohne Netzteil, Rechnung mit MwSt. vom Händler, EDU-Preis wirkt fair.
+   💬 Neuware ohne Netzteil, Händler mit MwSt., EDU-Preis wirkt fair.
 
 ----- alle Treffer -----
 1950.0 | kleinanzeigen | DE | MacBook Air M5 15” 24GB + 1TB SSD (3 Monaten alt!) | https://www.kleinanzeigen.de/s-anzeige/macbook-air-m5-15-24gb-1tb-ssd-3-monaten-alt-/3566929122-278-20849
@@ -36,13 +36,13 @@
 2018.0 | geizhals.at (neu, Händler AT/DE) | AT/DE | Apple MacBook Air 15" M5, Midnight, M5 - 10 Core CPU / 10 Core GPU, 24GB RAM, 1T | https://geizhals.at/apple-macbook-air-15-m5-mdvn4d-a-a3749889.html
      RAM: …15" M5, Midnight, M5 - 10 Core CPU / 10 Core GPU, 24GB RAM, 1TB SSD, DE [2026] Apple… SSD: …dnight, M5 - 10 Core CPU / 10 Core GPU, 24GB RAM, 1TB SSD, DE [2026] Apple MacBook … GEM: None
 1972.0 | mactrade.de (neu) | DE | Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Polarstern - 202 | https://www.mactrade.de/macbook-air-15-m5-10-core-cpu-10-core-gpu-24-gb-1-tb-ssd-polarstern-2026-kein-netzteil/72315.0001
-     RAM: …Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Polarstern - 202… SSD: …book Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Polarstern - 2026 - Kei… GEM: {'id': 0, 'ok': True, 'chip': 'M5', 'seller': 'gewerblich', 'note': 'Neuware ohne Netzteil, Rechnung mit MwSt. vom Händler, EDU-Preis wirkt fair.'}
+     RAM: …Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Polarstern - 202… SSD: …book Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Polarstern - 2026 - Kei… GEM: {'id': 0, 'ok': True, 'chip': 'M5', 'seller': 'gewerblich', 'note': 'Neuware ohne Netzteil, Händler mit MwSt., EDU-Preis wirkt fair.'}
 1958.0 | mactrade.de (neu) | DE | Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Mitternacht - 20 | https://www.mactrade.de/macbook-air-15-m5-10-core-cpu-10-core-gpu-24-gb-1-tb-ssd-mitternacht-2026-kein-netzteil/72314.0001
-     RAM: …Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Mitternacht - 20… SSD: …book Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Mitternacht - 2026 - Ke… GEM: {'id': 1, 'ok': True, 'chip': 'M5', 'seller': 'gewerblich', 'note': 'Neuware ohne Netzteil, Rechnung mit MwSt. vom Händler, EDU-Preis wirkt fair.'}
+     RAM: …Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Mitternacht - 20… SSD: …book Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Mitternacht - 2026 - Ke… GEM: {'id': 1, 'ok': True, 'chip': 'M5', 'seller': 'gewerblich', 'note': 'Neuware ohne Netzteil, Händler mit MwSt., EDU-Preis wirkt fair.'}
 1958.0 | mactrade.de (neu) | DE | Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Himmelblau - 202 | https://www.mactrade.de/macbook-air-15-m5-10-core-cpu-10-core-gpu-24-gb-1-tb-ssd-himmelblau-2026-kein-netzteil/72313.0001
-     RAM: …Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Himmelblau - 202… SSD: …book Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Himmelblau - 2026 - Kei… GEM: {'id': 2, 'ok': True, 'chip': 'M5', 'seller': 'gewerblich', 'note': 'Neuware ohne Netzteil, Rechnung mit MwSt. vom Händler, EDU-Preis wirkt fair.'}
+     RAM: …Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Himmelblau - 202… SSD: …book Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Himmelblau - 2026 - Kei… GEM: {'id': 2, 'ok': True, 'chip': 'M5', 'seller': 'gewerblich', 'note': 'Neuware ohne Netzteil, Händler mit MwSt., EDU-Preis wirkt fair.'}
 1972.0 | mactrade.de (neu) | DE | Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Silber - 2026 -  | https://www.mactrade.de/macbook-air-15-m5-10-core-cpu-10-core-gpu-24-gb-1-tb-ssd-silber-2026-kein-netzteil/72316.0001
-     RAM: …Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Silber - 2026 - … SSD: …book Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Silber - 2026 - Kein Ne… GEM: {'id': 3, 'ok': True, 'chip': 'M5', 'seller': 'gewerblich', 'note': 'Neuware ohne Netzteil, Rechnung mit MwSt. vom Händler, EDU-Preis wirkt fair.'}
+     RAM: …Macbook Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Silber - 2026 - … SSD: …book Air 15“ M5 10-Core CPU 10-Core GPU - 24 GB - 1 TB SSD - Silber - 2026 - Kein Ne… GEM: {'id': 3, 'ok': True, 'chip': 'M5', 'seller': 'gewerblich', 'note': 'Neuware ohne Netzteil, Händler mit MwSt., EDU-Preis wirkt fair.'}
 
 ----- von Gemini verworfen -----
 

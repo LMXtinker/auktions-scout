@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T22:10:31+00:00",
+ "generated": "2026-11-13T22:18:24+00:00",
  "sources": {
   "willhaben": "29 Treffer",
   "kleinanzeigen": "47 Treffer",
@@ -31,6 +31,8 @@
   "zu wenig SSD (Titel)": 1
  },
  "diag": {
-  "geizhals_offers_sample": []
+  "geizhals_offers_sample": [
+   "Nur einen Moment…"
+  ]
  }
 }
