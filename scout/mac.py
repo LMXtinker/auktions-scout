@@ -452,7 +452,9 @@ async def main():
     for i, o in enumerate(report[:40]):
         if i in gem:
             o["gem"] = gem[i]
-    rejected = [o for o in report if o.get("gem") and o["gem"].get("ok") is False]
+    # Gemini darf nur verwerfen, wenn RAM/SSD nicht schon eindeutig im Titel stehen
+    rejected = [o for o in report if o.get("gem") and o["gem"].get("ok") is False
+                and not (RAM.search(o["title"]) and SSD.search(o["title"]))]
     report = sorted([o for o in report if o not in rejected], key=order)
 
     msgs = []

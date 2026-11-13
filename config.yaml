@@ -63,7 +63,7 @@ gpu_hunt:
 # MacBook-Wächter (scout/mac.py, Workflow mac.yml) – meldet neue passende Angebote per Telegram
 mac_hunt:
   queries: ["macbook air 15 24gb 1tb", "macbook air 15 24gb", "macbook air 15 1tb"]
-  sources: [willhaben, kleinanzeigen, troostwijk, apple_at, apple_de, geizhals, idealo]   # ebay: blockt GitHub-Server
+  sources: [willhaben, kleinanzeigen, troostwijk, apple_at, apple_de, geizhals]   # ebay, idealo: blocken GitHub-Server
   # Spezifikation (Regex): mind. 24 GB RAM, mind. 1 TB SSD
   ram: '\b(24|32)\s*gb\b(?!\s*(ssd|speicher|festplatte))|\b(24|32)\s*gb\s*(ram|arbeitsspeicher|unified|memory)'
   ssd: '\b[12]\s*tb\b|\b(1000|1024|2000|2048)\s*gb\b'
