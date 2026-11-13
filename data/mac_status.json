@@ -1,19 +1,19 @@
 {
- "generated": "2026-11-13T21:02:34+00:00",
+ "generated": "2026-11-13T21:15:16+00:00",
  "sources": {
   "willhaben": "23 Treffer",
   "kleinanzeigen": "64 Treffer",
-  "ebay": "0 Treffer",
   "troostwijk": "300 Treffer",
   "apple_at": "142 Treffer",
   "apple_de": "142 Treffer",
-  "geizhals": "18 Treffer"
+  "geizhals": "18 Treffer",
+  "idealo": "0 Treffer"
  },
  "candidates": 67,
  "details_fetched": 29,
- "matches": 31,
- "new": 31,
- "gemini_rejected": 10,
+ "matches": 24,
+ "new": 24,
+ "gemini_rejected": 0,
  "dropped": {
   "Größe unklar": 3,
   "13 Zoll": 51,
@@ -24,10 +24,11 @@
  },
  "spec_rejected": {
   "zu wenig SSD (Titel)": 10,
-  "zu wenig RAM (Titel)": 10,
-  "zu wenig RAM": 16
+  "zu wenig RAM": 17,
+  "SSD fehlt": 6,
+  "zu wenig RAM (Titel)": 10
  },
  "diag": {
-  "ebay": "Error Page | eBay | SORRY\n\nSomething went wrong on our end\n\n0.29551702.1794603785.add4223\n\nPlease go back and try again.\n\nCopyright © 1995-2026 eBay Inc. All Rights Reserved."
+  "idealo": "idealo | Sorry! Something has gone wrong. If the issue persists, please make sure your browser is updated to the latest version.\n\nStill having the issue, please reach out to our customer care with reference ID"
  }
 }
