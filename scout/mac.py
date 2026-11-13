@@ -18,7 +18,7 @@ import re
 import sys
 import urllib.request
 from pathlib import Path
-from urllib.parse import quote_plus
+from urllib.parse import quote, quote_plus
 
 import yaml
 from playwright.async_api import async_playwright
@@ -226,8 +226,10 @@ SHOPS = {
     "amazon_at": ("amazon.at", "https://www.amazon.at/s?k={q}&i=computers", r"/dp/([A-Z0-9]{10})", "AT"),
     "cyberport_at": ("cyberport.at", "https://www.cyberport.at/tools/search-results.html?q={q}", r"/pdp/([\w-]+)|\.html", "AT"),
     "cyberport_de": ("cyberport.de", "https://www.cyberport.de/tools/search-results.html?q={q}", r"/pdp/([\w-]+)|\.html", "DE"),
-    "notebooksbilliger": ("notebooksbilliger.de", "https://www.notebooksbilliger.de/produkte/{q}", r"notebooksbilliger\.de/[\w-]+(?:\+\d+)?(?:/[\w-]+)?$|\+\d+$", "DE"),
-    "notebook_de": ("notebook.de", "https://www.notebook.de/catalogsearch/result/?q={q}", r"notebook\.de/[\w-]+\.html", "DE"),
+    "notebooksbilliger": ("notebooksbilliger.de", ["https://www.notebooksbilliger.de/produkte/{qs}",
+                          "https://www.notebooksbilliger.de/suche?q={q}"], r"notebooksbilliger\.de/[\w-]+(?:\+\d+)?(?:/[\w-]+)?$|\+\d+$", "DE"),
+    "notebook_de": ("notebook.de", ["https://www.notebook.de/search?sSearch={q}", "https://www.notebook.de/suche?q={q}",
+                    "https://www.notebook.de/search?search={q}"], r"notebook\.de/[\w-]+\.html", "DE"),
     "mediamarkt_at": ("mediamarkt.at", "https://www.mediamarkt.at/de/search.html?query={q}", r"/de/product/", "AT"),
     "mactrade": ("mactrade.de", "https://www.mactrade.de/search?search={q}", r"mactrade\.de/.+", "DE"),
 }
@@ -238,10 +240,17 @@ def make_shop(key):
 
     async def shop(ctx, q):
         page = await ctx.new_page()
-        await page.goto(url.format(q=quote_plus(q)), wait_until="domcontentloaded", timeout=45000)
-        await accept_cookies(page)
-        await page.wait_for_timeout(3000)
-        cards = await page.evaluate(EXTRACT_JS, 120)
+        for u in ([url] if isinstance(url, str) else url):
+            await page.goto(u.format(q=quote_plus(q), qs=quote(q)), wait_until="domcontentloaded", timeout=45000)
+            for _ in range(8):   # Bot-Check-Zwischenseiten (Cloudflare o. ä.) abwarten
+                if not re.search(r"einen Moment|just a moment|Sicherheitsüberprüfung", await page.title(), re.I):
+                    break
+                await page.wait_for_timeout(2500)
+            await accept_cookies(page)
+            await page.wait_for_timeout(3000)
+            cards = await page.evaluate(EXTRACT_JS, 120)
+            if any(re.search(rx, c["url"]) for c in cards):
+                break
         out = []
         for c in cards:
             m = re.search(rx, c["url"])
@@ -574,7 +583,8 @@ async def main():
         "\n".join(f"{spec(o)} | {o.get('price')} | {o['source']} | {o['title'][:80]} | {o['url']}"
                   for o in cands if spec(o))[:8000] +
         "\n\n----- Rohtreffer (Beispiele) -----\n" +
-        "\n".join(f"{candidate(o)} | {o.get('price')} | {o['source']} | {o['title'][:80]}" for o in results[:150]),
+        "\n".join(f"{candidate(o)} | {o.get('price')} | {o['source']} | {o['title'][:80]}" for o in sorted(results, key=lambda o: o["source"])
+                  if not o["source"].startswith("troostwijk")),
         encoding="utf-8")
     for m in msgs:
         print(m, "\n-----")
