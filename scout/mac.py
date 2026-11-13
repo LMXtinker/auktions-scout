@@ -376,17 +376,23 @@ def evidence(o, rx):
 
 
 OFFERS_JS = r"""() => {
-  const rows = [...document.querySelectorAll('[id^="offer__"], .offer, .offerlist__offer, [class*="offer-row"]')]
-    .filter(r => /€\s*\d/.test(r.innerText || ''));
-  const seen = new Set(), out = [];
-  for (const r of rows) {
-    const t = (r.innerText || '').replace(/\s+\n/g, '\n').trim();
-    if (seen.has(t)) continue; seen.add(t);
-    const img = r.querySelector('img[alt]');
-    const m = r.querySelector('[class*="merchant"] a, a[class*="merchant"], [class*="merchant__"]');
-    const flag = r.querySelector('[class*="flag"], img[src*="flag"], img[alt="AT"], img[alt="DE"]');
-    out.push({text: t.slice(0, 500), merchant: (m && m.innerText.trim()) || (img && img.alt) || '',
-              flag: flag ? (flag.getAttribute('alt') || flag.getAttribute('title') || flag.className || '') : ''});
+  // Jede Angebotszeile hat einen "zum Angebot"-Button: von dort zur kleinsten Zeile mit genau einem Button hochklettern
+  const btns = [...document.querySelectorAll('a, button')].filter(e => /zum\s*angebot/i.test(e.innerText || ''));
+  const out = [];
+  for (const b of btns) {
+    let row = b;
+    for (let i = 0; i < 8 && row.parentElement; i++) {
+      const p = row.parentElement;
+      const n = [...p.querySelectorAll('a, button')].filter(e => /zum\s*angebot/i.test(e.innerText || '')).length;
+      if (n > 1) break;
+      row = p;
+    }
+    const t = (row.innerText || '').replace(/\s+\n/g, '\n').trim();
+    const imgs = [...row.querySelectorAll('img[alt]')].map(i => i.alt).filter(Boolean);
+    const flags = [...row.querySelectorAll('img, span, i')].map(e => (e.getAttribute('alt') || '') + ' ' +
+                  (e.getAttribute('title') || '') + ' ' + (e.getAttribute('src') || '') + ' ' + (e.className || ''))
+                  .filter(x => /flag|\bAT\b|\bDE\b|österreich|deutschland/i.test(x)).join(' ');
+    out.push({text: t.slice(0, 600), merchant: imgs.find(a => !/flag|visa|paypal|master|bewertung/i.test(a)) || '', flag: flags.slice(0, 200)});
     if (out.length >= 15) break;
   }
   return out;
@@ -402,7 +408,8 @@ async def geizhals_offers(ctx, items):
             await accept_cookies(page)
             await page.wait_for_timeout(2000)
             offers = await page.evaluate(OFFERS_JS)
-            DIAG.setdefault("geizhals_offers_sample", [r["text"][:200] for r in offers[:2]])
+            DIAG.setdefault("geizhals_offers_sample", [{k: v[:250] for k, v in r.items()} for r in offers[:2]] or
+                            [(await page.title())[:80]])
             parsed = []
             for r in offers:
                 pr = shop_price(r["text"])
