@@ -65,6 +65,7 @@ mac_hunt:
   chip: M5              # nur dieser Chip (leer = egal)
   queries: ["macbook air 15 m5 24gb 1tb", "macbook air 15 m5", "macbook air 15 24gb 1tb"]
   shop_queries: ["macbook air 15 m5 24gb 1tb", "macbook air 15 m5"]
+  max_geizhals_offers: 0   # Händlerliste je Produkt: geizhals-Produktseiten blocken GitHub (Bot-Check) – aus
   geizhals_queries: ["macbook air 15 m5 24gb 1tb", "macbook air 15 m5 32gb", "macbook air 15 m5 2tb"]
   sources: [willhaben, kleinanzeigen, troostwijk, apple_at, apple_de, geizhals,
             mactrade]

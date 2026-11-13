@@ -607,7 +607,7 @@ async def main():
                 if o not in cands and candidate(o) is None:
                     cands.append(o)
         gh = [o for o in cands if o["source"].startswith("geizhals") and spec(o) is None]
-        if gh:
+        if gh and H.get("max_geizhals_offers", 12):
             await geizhals_offers(ctx, gh[: H.get("max_geizhals_offers", 12)])
         await browser.close()
     print(json.dumps(errors, ensure_ascii=False, indent=1))
