@@ -5,7 +5,7 @@ Quellen: willhaben.at, kleinanzeigen.de, ebay.de, Troostwijk/Surplex (API), Appl
 Ablauf: Suche -> Vorfilter (Air + 15") -> bei Bedarf Detailseite öffnen -> Spezifikation per Regex prüfen
         -> neue Treffer kurz von Gemini gegenprüfen/kommentieren (optional) -> Telegram.
 Konfiguration: Abschnitt mac_hunt in config.yaml. Zustand: data/mac_seen.json, data/mac_status.json.
-Env: MAC_TELEGRAM_BOT_TOKEN (Secret, eigener Bot), MAC_TELEGRAM_CHAT_ID (optional, sonst automatisch), GEMINI_API_KEY (optional), DRY_RUN=1, FULL=1
+Env: MAC_TELEGRAM_BOT_TOKEN/_CHAT_ID (optional eigener Bot, sonst TELEGRAM_BOT_TOKEN/_CHAT_ID), GEMINI_API_KEY (optional), DRY_RUN=1, FULL=1
 """
 from __future__ import annotations
 
@@ -417,8 +417,10 @@ def chunks(lines, head, limit=3800):
 def bot_target():
     """Eigener Bot für den MacBook-Wächter. Chat-ID aus Secret, sonst gespeichert, sonst per getUpdates ermittelt."""
     tok = os.environ.get("MAC_TELEGRAM_BOT_TOKEN", "").strip()
-    if not tok:
-        return "", ""
+    if not tok:   # kein eigener Bot -> bisheriger Bot/Chat des Auktions-Scouts
+        tok = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+        chat = (os.environ.get("TELEGRAM_CHAT_ID", "") or str(CFG.get("digest", {}).get("chat_id", ""))).strip()
+        return tok, chat
     chat = os.environ.get("MAC_TELEGRAM_CHAT_ID", "").strip()
     p = DATA / "mac_chat.json"
     if not chat and p.exists():
@@ -446,7 +448,8 @@ async def main():
         results, errors = {}, {}
         for name in H.get("sources", list(SOURCES)):
             n = 0
-            for q in (H["queries"] if name in PER_QUERY else H["queries"][:1]):
+            qs = H.get(f"{name}_queries") or (H["queries"] if name in PER_QUERY else H["queries"][:1])
+            for q in qs:
                 try:
                     got = await SOURCES[name](ctx, q)
                     for o in got:
@@ -540,8 +543,8 @@ async def main():
         return
     tok, chat = bot_target()
     if not (tok and chat):
-        print("::warning::MacBook-Bot nicht eingerichtet: Secret MAC_TELEGRAM_BOT_TOKEN fehlt oder dem Bot wurde "
-              "noch nicht geschrieben (/start). Nichts gesendet, Zustand nicht gespeichert.")
+        print("::warning::Kein Telegram-Ziel: MAC_TELEGRAM_BOT_TOKEN/TELEGRAM_BOT_TOKEN fehlt oder dem neuen Bot "
+              "wurde noch nicht geschrieben (/start). Nichts gesendet, Zustand nicht gespeichert.")
         return
     for m in msgs:
         send(tok, chat, m)
