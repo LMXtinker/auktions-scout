@@ -197,10 +197,32 @@ async def geizhals(ctx, q):
     return out
 
 
-SOURCES = {"willhaben": willhaben, "kleinanzeigen": kleinanzeigen, "ebay": ebay, "troostwijk": troostwijk,
+async def idealo(ctx, q):
+    page = await ctx.new_page()
+    await page.goto(f"https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q={quote_plus(q)}",
+                    wait_until="domcontentloaded", timeout=45000)
+    await accept_cookies(page)
+    await page.wait_for_timeout(2500)
+    cards = await page.evaluate(EXTRACT_JS, 80)
+    if not any("/preisvergleich/OffersOfProduct/" in c["url"] for c in cards):
+        DIAG["idealo"] = (await page.title())[:80] + " | " + (await page.evaluate("document.body.innerText.slice(0,200)"))
+    await page.close()
+    out = []
+    for c in cards:
+        m = re.search(r"/preisvergleich/OffersOfProduct/(\d+)", c["url"])
+        if not m:
+            continue
+        lines = [x.strip() for x in c["text"].split("\n") if x.strip()]
+        title = next((x for x in lines if AIR.search(x)), lines[0] if lines else "")
+        out.append(item("idealo.de (neu, Händler DE)", f"id:{m.group(1)}", title, price_of(c["text"]),
+                        c["url"].split("?")[0], c["text"], "DE", "", "neu"))
+    return out
+
+
+SOURCES = {"idealo": idealo, "willhaben": willhaben, "kleinanzeigen": kleinanzeigen, "ebay": ebay, "troostwijk": troostwijk,
            "apple_at": apple_at, "apple_de": apple_de, "geizhals": geizhals}
 DIAG = {}
-PER_QUERY = {"willhaben", "kleinanzeigen", "ebay", "troostwijk", "geizhals"}   # Apple: eine Seite reicht
+PER_QUERY = {"willhaben", "kleinanzeigen", "ebay", "troostwijk", "geizhals", "idealo"}   # Apple: eine Seite reicht
 
 
 # ---------------------------------------------------------------- Filter
@@ -241,15 +263,32 @@ def spec(o) -> str | None:
     return "RAM fehlt" if not has_ram else "SSD fehlt"
 
 
+DETAIL_SEL = {"kleinanzeigen": "#viewad-title, #viewad-price, #viewad-details, #viewad-description-text",
+              "willhaben": "h1, [data-testid*=attribute], [data-testid*=description], [data-testid*=price]"}
+CUT = re.compile(r"Das könnte (dir|Ihnen|Sie) auch gefallen|Ähnliche Anzeigen|Weitere Anzeigen|Anzeigen, die|"
+                 r"Andere (Nutzer|Kunden)|Empfohlen für|Mehr von diesem|Zuletzt angesehen|Passendes Zubehör", re.I)
+
+
 async def fetch_details(ctx, items):
+    """Detailseite öffnen und nur den Anzeigen-/Produktteil behalten (keine ähnlichen Anzeigen, Navigation, Zubehör)."""
     page = await ctx.new_page()
     for o in items:
         try:
             await page.goto(o["url"], wait_until="domcontentloaded", timeout=30000)
             await accept_cookies(page)
             await page.wait_for_timeout(1200)
-            body = await page.evaluate("document.body.innerText.slice(0, 6000)")
-            o["text"] = o["text"][:600] + "\n" + body
+            body = ""
+            sel = DETAIL_SEL.get(o["source"])
+            if sel:
+                body = await page.evaluate("s => [...document.querySelectorAll(s)].map(e => e.innerText).join('\\n')", sel)
+            if len(body) < 80:
+                body = await page.evaluate("document.body.innerText")
+                key = o["title"][:25]
+                i = body.find(key) if len(key) > 10 else -1
+                body = body[i:] if i >= 0 else body
+            m = CUT.search(body)
+            body = body[: m.start()] if m else body
+            o["text"] = (o["text"][:600] if o["source"] != "willhaben" else o["text"]) + "\n" + body[:5000]
             if o["source"] == "willhaben" and re.search(r"Firmenangebot|Händler|gewerblich", body, re.I):
                 o["text"] += " [gewerblich]"
         except Exception as e:  # noqa: BLE001
@@ -271,7 +310,7 @@ def gemini_check(items):
         return {}
     from digest import gemini_models, post_json  # noqa: E402
     lines = [json.dumps({"id": i, "source": o["source"], "price": o.get("price"), "country": o["country"],
-                         "text": re.sub(r"\s+", " ", o["title"] + " | " + o["text"])[:1800]}, ensure_ascii=False)
+                         "text": re.sub(r"\s+", " ", o["title"] + " | " + o["text"])[:3000]}, ensure_ascii=False)
              for i, o in enumerate(items)]
     prompt = f"""Prüfe Angebote für Lucas (Freiberufler in Wien, hat UID-Nummer) – gesucht: Apple MacBook Air 15 Zoll
 mit mindestens 24 GB RAM und mindestens 1 TB SSD (Chip egal, Tastaturlayout egal).
