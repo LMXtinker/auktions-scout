@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-13T22:18:24+00:00",
+ "generated": "2026-11-13T22:24:46+00:00",
  "sources": {
   "willhaben": "29 Treffer",
   "kleinanzeigen": "47 Treffer",
   "troostwijk": "300 Treffer",
-  "apple_at": "142 Treffer",
-  "apple_de": "142 Treffer",
+  "apple_at": "141 Treffer",
+  "apple_de": "141 Treffer",
   "geizhals": "4 Treffer",
   "mactrade": "26 Treffer"
  },
@@ -15,7 +15,7 @@
  "new": 4,
  "gemini_rejected": 0,
  "dropped": {
-  "kein MacBook Air": 330,
+  "kein MacBook Air": 328,
   "Preis unplausibel niedrig": 5,
   "ausgeschlossen (Titel: Hülle)": 1,
   "Größe unklar": 6,
