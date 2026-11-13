@@ -1,32 +1,46 @@
 {
- "generated": "2026-11-13T21:41:28+00:00",
+ "generated": "2026-11-13T21:50:29+00:00",
  "sources": {
   "willhaben": "29 Treffer",
   "kleinanzeigen": "47 Treffer",
   "troostwijk": "300 Treffer",
   "apple_at": "142 Treffer",
   "apple_de": "142 Treffer",
-  "geizhals": "4 Treffer"
+  "geizhals": "4 Treffer",
+  "amazon_de": "0 Treffer",
+  "amazon_at": "0 Treffer",
+  "cyberport_at": "0 Treffer",
+  "cyberport_de": "0 Treffer",
+  "notebooksbilliger": "0 Treffer",
+  "notebook_de": "0 Treffer",
+  "mediamarkt_at": "22 Treffer",
+  "mactrade": "26 Treffer"
  },
- "candidates": 60,
- "details_fetched": 23,
- "matches": 9,
- "new": 9,
+ "candidates": 72,
+ "details_fetched": 0,
+ "matches": 11,
+ "new": 4,
  "gemini_rejected": 0,
  "dropped": {
   "kein MacBook Air": 330,
   "Preis unplausibel niedrig": 5,
-  "ausgeschlossen (Titel)": 5,
-  "Größe unklar": 5,
-  "13 Zoll": 50
+  "ausgeschlossen (Titel)": 17,
+  "Größe unklar": 6,
+  "13 Zoll": 55,
+  "Neuware ohne Preis (nicht lieferbar)": 3
  },
  "spec_rejected": {
-  "SSD fehlt": 1,
-  "zu wenig RAM": 17,
+  "unklar": 23,
   "falscher Chip": 18,
-  "RAM fehlt": 3,
-  "zu wenig RAM (Titel)": 11,
+  "zu wenig RAM (Titel)": 19,
   "zu wenig SSD (Titel)": 1
  },
- "diag": {}
+ "diag": {
+  "amazon_de": "Tut uns Leid! | Tut uns Leid! Während wir Ihre Eingabe ausführen wollten, ist ein technischer Fehler aufgetreten. Wir arbeiten bereits daran und werden sobald wie möglich wieder für Sie da sein. Bitte schauen Sie spä",
+  "amazon_at": "Tut uns Leid! | Tut uns Leid! Während wir Ihre Eingabe ausführen wollten, ist ein technischer Fehler aufgetreten. Wir arbeiten bereits daran und werden sobald wie möglich wieder für Sie da sein. Bitte schauen Sie spä",
+  "cyberport_at": "Nur einen Moment… | www.cyberport.at Sicherheitsüberprüfung wird durchgeführt Diese Website nutzt einen Sicherheitsservice, um sich vor böswilligen Bots zu schützen. Diese Seite wird angezeigt, solange die Website überp",
+  "cyberport_de": "Nur einen Moment… | www.cyberport.de Sicherheitsüberprüfung wird durchgeführt Diese Website nutzt einen Sicherheitsservice, um sich vor böswilligen Bots zu schützen. Diese Seite wird angezeigt, solange die Website überp",
+  "notebooksbilliger": "Notebook Shop - Notebooks & Laptops bei notebooksbilliger.de | uups... Die Seite wurde nicht gefunden. 0.3e62645f.1794606726.2fbb62f Zur Startseite",
+  "notebook_de": "Seite nicht gefunden | notebook.de | Zum Hauptinhalt springen Zur Suche springen Zur Hauptnavigation springen Service/Hilfe Mein Konto 0,00 € NOTEBOOKS, LAPTOPS, PCS & MEHR GÜNSTIG KAUFEN NOTEBOOKS TABLETS PC'S WEARABLES TFT/BEAMER D"
+ }
 }
