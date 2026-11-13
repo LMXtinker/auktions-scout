@@ -119,6 +119,8 @@ async def ebay(ctx, q):
     await accept_cookies(page)
     await page.wait_for_timeout(2000)
     cards = await page.evaluate(EXTRACT_JS, 150)
+    if not any("/itm/" in c["url"] for c in cards):
+        DIAG["ebay"] = (await page.title())[:80] + " | " + (await page.evaluate("document.body.innerText.slice(0,300)"))
     await page.close()
     out = []
     for c in cards:
@@ -197,6 +199,7 @@ async def geizhals(ctx, q):
 
 SOURCES = {"willhaben": willhaben, "kleinanzeigen": kleinanzeigen, "ebay": ebay, "troostwijk": troostwijk,
            "apple_at": apple_at, "apple_de": apple_de, "geizhals": geizhals}
+DIAG = {}
 PER_QUERY = {"willhaben", "kleinanzeigen", "ebay", "troostwijk", "geizhals"}   # Apple: eine Seite reicht
 
 
@@ -214,6 +217,8 @@ def candidate(o) -> str | None:
         return "nicht 15 Zoll" if o.get("detail") else "Größe unklar"
     if o.get("price") is not None and o["kind"] != "auktion" and o["price"] < H.get("min_price", 0):
         return "Preis unplausibel niedrig"
+    if o["kind"] == "neu" and not o.get("price"):
+        return "Neuware ohne Preis (nicht lieferbar)"
     if o.get("price") and o["price"] > H.get("max_price", 1e9):
         return "zu teuer"
     return None
@@ -253,6 +258,12 @@ async def fetch_details(ctx, items):
     await page.close()
 
 
+def evidence(o, rx):
+    t = re.sub(r"\s+", " ", o["title"] + " " + o["text"])
+    m = rx.search(t)
+    return t[max(0, m.start() - 50): m.end() + 30] if m else "-"
+
+
 # ---------------------------------------------------------------- Gemini (optional)
 def gemini_check(items):
     key = os.environ.get("GEMINI_API_KEY", "").strip()
@@ -279,11 +290,11 @@ ANGEBOTE:
     for model in gemini_models(key)[:3]:
         try:
             r = post_json(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
-                          payload, {"x-goog-api-key": key}, timeout=120)
+                          payload, {"x-goog-api-key": key}, timeout=240)
             txt = "".join(p.get("text", "") for p in r["candidates"][0]["content"]["parts"])
             res = json.loads(re.sub(r"^```(?:json)?|```$", "", txt.strip()).strip())["items"]
             print(f"Gemini {model}: {len(res)} geprüft, Tokens {r.get('usageMetadata', {}).get('totalTokenCount')}")
-            return {x["id"]: x for x in res}
+            return {x["id"]: x for x in res if isinstance(x, dict) and "id" in x}
         except Exception as e:  # noqa: BLE001
             print(f"Gemini {model} fehlgeschlagen: {e}")
     return {}
@@ -383,6 +394,8 @@ async def main():
                     cands.append(o)
         await browser.close()
     print(json.dumps(errors, ensure_ascii=False, indent=1))
+    if DIAG:
+        print("Diagnose:", json.dumps(DIAG, ensure_ascii=False))
 
     matches, checked_no = [], {}
     for o in cands:
@@ -419,12 +432,13 @@ async def main():
     broken = [f"{k}: {v}" for k, v in errors.items() if v.startswith("Fehler") or v.startswith("0 ")]
     status = {"generated": NOW.isoformat(timespec="seconds"), "sources": errors, "candidates": len(cands),
               "details_fetched": len(unclear), "matches": len(matches), "new": len(new),
-              "gemini_rejected": len(rejected), "dropped": dropped, "spec_rejected": checked_no}
+              "gemini_rejected": len(rejected), "dropped": dropped, "spec_rejected": checked_no, "diag": DIAG}
     (DATA / "mac_status.json").write_text(json.dumps(status, ensure_ascii=False, indent=1), encoding="utf-8")
     DEBUG.mkdir(exist_ok=True)
     (DEBUG / "mac_preview.txt").write_text(
         "\n\n=====\n\n".join(msgs) + "\n\n----- alle Treffer -----\n" +
-        "\n".join(f"{o.get('price')} | {o['source']} | {o['country']} | {o['title'][:80]} | {o['url']}" for o in matches) +
+        "\n".join(f"{o.get('price')} | {o['source']} | {o['country']} | {o['title'][:80]} | {o['url']}\n"
+                  f"     RAM: …{evidence(o, RAM)}… SSD: …{evidence(o, SSD)}… GEM: {o.get('gem')}" for o in matches) +
         "\n\n----- von Gemini verworfen -----\n" +
         "\n".join(f"{o['title'][:80]} | {o['gem'].get('note')} | {o['url']}" for o in rejected) +
         "\n\n----- Kandidaten ohne passende Spezifikation -----\n" +
