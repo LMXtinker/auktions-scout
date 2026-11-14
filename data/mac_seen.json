@@ -118,5 +118,21 @@
 "gh:https://geizhals.at/apple-macbook-air-15-m5-mdvn4d-a-a3749889.html": {
 "date": "2026-11-13",
 "match": true
+},
+"mactrade:https://www.mactrade.de/macbook-air-15-m5-10-core-cpu-10-core-gpu-24-gb-1-tb-ssd-polarstern-2026-kein-netzteil/72315.0001": {
+"date": "2026-11-14",
+"match": true
+},
+"mactrade:https://www.mactrade.de/macbook-air-15-m5-10-core-cpu-10-core-gpu-24-gb-1-tb-ssd-mitternacht-2026-kein-netzteil/72314.0001": {
+"date": "2026-11-14",
+"match": true
+},
+"mactrade:https://www.mactrade.de/macbook-air-15-m5-10-core-cpu-10-core-gpu-24-gb-1-tb-ssd-himmelblau-2026-kein-netzteil/72313.0001": {
+"date": "2026-11-14",
+"match": true
+},
+"mactrade:https://www.mactrade.de/macbook-air-15-m5-10-core-cpu-10-core-gpu-24-gb-1-tb-ssd-silber-2026-kein-netzteil/72316.0001": {
+"date": "2026-11-14",
+"match": true
 }
 }
