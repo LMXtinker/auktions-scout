@@ -134,5 +134,9 @@
 "mactrade:https://www.mactrade.de/macbook-air-15-m5-10-core-cpu-10-core-gpu-24-gb-1-tb-ssd-silber-2026-kein-netzteil/72316.0001": {
 "date": "2026-11-14",
 "match": true
+},
+"ka:3570950919": {
+"date": "2026-11-14",
+"match": false
 }
 }
