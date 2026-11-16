@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-15T19:25:07+00:00",
+ "generated": "2026-11-16T01:07:07+00:00",
  "sources": {
   "willhaben": "27 Treffer",
-  "kleinanzeigen": "47 Treffer",
+  "kleinanzeigen": "49 Treffer",
   "troostwijk": "300 Treffer",
-  "apple_at": "129 Treffer",
-  "apple_de": "129 Treffer",
+  "apple_at": "128 Treffer",
+  "apple_de": "128 Treffer",
   "geizhals": "4 Treffer",
   "mactrade": "26 Treffer"
  },
@@ -15,10 +15,10 @@
  "new": 0,
  "gemini_rejected": 0,
  "dropped": {
-  "kein MacBook Air": 312,
+  "kein MacBook Air": 310,
   "ausgeschlossen (Titel: Hülle)": 1,
-  "Preis unplausibel niedrig": 5,
-  "Größe unklar": 5,
+  "Preis unplausibel niedrig": 4,
+  "Größe unklar": 6,
   "13 Zoll": 44,
   "ausgeschlossen (Titel: Netzteil)": 1,
   "ausgeschlossen (Titel: Suche)": 1,

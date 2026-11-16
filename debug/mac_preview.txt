@@ -33,6 +33,7 @@ unklar | 1300.0 | willhaben | Macbook Air 15 2026 M5 15,3 zoll neu | https://www
 unklar | 1090.0 | willhaben | Apple MacBook Air 15,3" M5 Space Grau | https://www.willhaben.at/iad/kaufen-und-verkaufen/d/apple-macbook-air-15-3-m5-space-grau-984538144/
 falscher Chip | 1150.0 | willhaben | MacBook Air 15" | M2 (2023) | 1TB SSD | 24 GB RAM | AKKU 97% | https://www.willhaben.at/iad/kaufen-und-verkaufen/d/macbook-air-15-m2-2023-1tb-ssd-24-gb-ram-akku-97-1226091002/
 falscher Chip | 1300.0 | willhaben | Apple MacBook Air 15" M2 - 24 GB RAM / 1 TB SSD - Space Grau - Wie neu | https://www.willhaben.at/iad/kaufen-und-verkaufen/d/apple-macbook-air-15-m2-24-gb-ram-1-tb-ssd-space-grau-wie-neu-2067281166/
+zu wenig SSD (Titel) | 1539.0 | kleinanzeigen | Apple MacBook Air 15 Zoll M5 512GB 2026.nur 2 Woche alt.Bis 20.11 | https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-15-zoll-m5-512gb-2026-nur-2-woche-alt-bis-20-11/3573168663-278-9068
 zu wenig SSD (Titel) | 1310.0 | kleinanzeigen | Apple MacBook Air 15" M5, 512GB, Mitternacht, wie neu | https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-15-m5-512gb-mitternacht-wie-neu/3572975413-278-18642
 zu wenig RAM (Titel) | 1375.0 | kleinanzeigen | MacBook Air M5 15" 16GB | 512 | Nagelneu&Versiegelt | Mitternacht | https://www.kleinanzeigen.de/s-anzeige/macbook-air-m5-15-16gb-512-nagelneu-versiegelt-mitternacht/3572904833-278-8930
 zu wenig RAM (Titel) | 1349.0 | kleinanzeigen | Apple MacBook Air 15,3" M5 | 16 GB RAM | 512 GB SSD | Silber | https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-15-3-m5-16-gb-ram-512-gb-ssd-silber/3572181563-278-5681
@@ -45,7 +46,6 @@ zu wenig RAM (Titel) | 1299.0 | kleinanzeigen | ✔️ MACBOOK AIR 2026 M5 15 16
 unklar | 1350.0 | kleinanzeigen | MacBook Air M5 | https://www.kleinanzeigen.de/s-anzeige/macbook-air-m5/3571320579-278-5317
 unklar | 1300.0 | kleinanzeigen | Apple MacBook Air 15,3" (2026) mit M5-Chip in Himmelblau (Sky Blu | https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-15-3-2026-mit-m5-chip-in-himmelblau-sky-blu/3571120492-278-20154
 zu wenig RAM (Titel) | 1199.0 | kleinanzeigen | Apple MacBook Air 15” M5 – 16 GB RAM – Neuwertig – OVP | https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-15-m5-16-gb-ram-neuwertig-ovp/3570241841-278-24385
-zu wenig SSD (Titel) | 2149.0 | kleinanzeigen | ✅Apple MacBook Air 15“ M5/ 32GB / 512 GB / NEU&VERSIEGELT✅ | https://www.kleinanzeigen.de/s-anzeige/-apple-macbook-air-15-m5-32gb-512-gb-neu-versiegelt-/3570216761-278-3413
 zu wenig RAM (Titel) | 1400.0 | kleinanzeigen | MacBook Air 15" M5 - 16 GB RAM - 1 TB SSD Mitternacht - wie Neu | https://www.kleinanzeigen.de/s-anzeige/macbook-air-15-m5-16-gb-ram-1-tb-ssd-mitternacht-wie-neu/3570077247-278-8673
 zu wenig RAM (Titel) | 1000.0 | kleinanzeigen | Apple MacBook Air 15", M5, 512GB, 16GB - Batterie 98% | https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-15-m5-512gb-16gb-batterie-98-/3569790406-278-20136
 zu wenig SSD (Titel) | 1249.0 | kleinanzeigen | Apple MacBook Air (M5) 512GB❗️Wie Neu❗️ | https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-m5-512gb-wie-neu-/3538932032-278-4300
@@ -58,10 +58,10 @@ falscher Chip | 1180.0 | kleinanzeigen | MacBook Air 15“ (2023) M2/24GB RAM/1T
 falscher Chip | 1390.0 | kleinanzeigen | MacBook Air 15" (2024) | M3 Chip | 24GB RAM | 1TB SSD | 99% Akku! | https://www.kleinanzeigen.de/s-anzeige/macbook-air-15-2024-m3-chip-24gb-ram-1tb-ssd-99-akku-/3559190298-278-8781
 falscher Chip | 1650.0 | kleinanzeigen | MacBook Air 15’’ M3 | 24GB RAM | 1 TB SSD | Neuwertiger Zustand | https://www.kleinanzeigen.de/s-anzeige/macbook-air-15-m3-24gb-ram-1-tb-ssd-neuwertiger-zustand/3517149087-278-9350
 falscher Chip | 1950.0 | kleinanzeigen | Apple MacBook Air 15.3" Mid 2023 24GB 1TB Mitternachtsblau | https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-15-3-mid-2023-24gb-1tb-mitternachtsblau/3029678367-278-9093
-falscher Chip | 1149.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Pol | https://www.apple.com/at/shop/product/fw1j3d/a/Refurbished-15-inch-MacBook-Air-mit-Apple-M4-Chip-10%E2%80%91Core-CPU-und-10%E2%80%91Core-GPU-Polarstern?fnode=cddf490b4bb26e5d75b98934bb35ca895f29ad9a85979c182578b6568caf5e902143dba6efdfa65e63d3e89d5bbaa1761c77034cd685e0941e93a7990d9536c66c1c92c725cb4af0d7ac94faec94ca75
-falscher Chip | 1339.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Mit | https://www.apple.com/at/shop/product/fw1m3d/a/Refurbished-15-inch-MacBook-Air-mit-Apple-M4-Chip-10%E2%80%91Core-CPU-und-10%E2%80%91Core-GPU-Mitternacht?fnode=cddf490b4bb26e5d75b98934bb35ca895f29ad9a85979c182578b6568caf5e902143dba6efdfa65e63d3e89d5bbaa1761c77034cd685e0941e93a7990d9536c66c1c92c725cb4af0d7ac94faec94ca75
-unklar | 1439.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Sil | https://www.apple.com/at/shop/product/fdv94d/a?fnode=cddf490b4bb26e5d75b98934bb35ca895f29ad9a85979c182578b6568caf5e902143dba6efdfa65e63d3e89d5bbaa1761c77034cd685e0941e93a7990d9536c66c1c92c725cb4af0d7ac94faec94ca75
-unklar | 1439.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Pol | https://www.apple.com/at/shop/product/fdvd4d/a?fnode=cddf490b4bb26e5d75b98934bb35ca895f29ad9a85979c1825
+falscher Chip | 1149.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Pol | https://www.apple.com/at/shop/product/fw1j3d/a/Refurbished-15-inch-MacBook-Air-mit-Apple-M4-Chip-10%E2%80%91Core-CPU-und-10%E2%80%91Core-GPU-Polarstern?fnode=b78889d1a501099f3600c98df6eecd4855d91bed3d535cc475b2a73ffeb35d14557cdea0e59f0a1012852896594c1f2270b4adc33271f29ff6f008c99477c509edfa22f86faca456191b73f9ec6c327f
+falscher Chip | 1339.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU - Mit | https://www.apple.com/at/shop/product/fw1m3d/a/Refurbished-15-inch-MacBook-Air-mit-Apple-M4-Chip-10%E2%80%91Core-CPU-und-10%E2%80%91Core-GPU-Mitternacht?fnode=b78889d1a501099f3600c98df6eecd4855d91bed3d535cc475b2a73ffeb35d14557cdea0e59f0a1012852896594c1f2270b4adc33271f29ff6f008c99477c509edfa22f86faca456191b73f9ec6c327f
+unklar | 1439.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Sil | https://www.apple.com/at/shop/product/fdv94d/a?fnode=b78889d1a501099f3600c98df6eecd4855d91bed3d535cc475b2a73ffeb35d14557cdea0e59f0a1012852896594c1f2270b4adc33271f29ff6f008c99477c509edfa22f86faca456191b73f9ec6c327f
+unklar | 1439.0 | Apple Refurbished AT | Refurbished 15" MacBook Air mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU - Pol | https://www.apple.com/at/shop/product/fdvd4d/a?fnode=b78889d1a501099f3600c98df6eecd
 
 ----- Rohtreffer (Beispiele) -----
 13 Zoll | 919.0 | Apple Refurbished AT | Refurbished 13" MacBook Air mit Apple M2 Chip, 8‑Core CPU und 10‑Core GPU - Spac
@@ -114,7 +114,6 @@ kein MacBook Air | 1619.0 | Apple Refurbished AT | Refurbished 24" iMac mit Appl
 kein MacBook Air | 1739.0 | Apple Refurbished AT | Refurbished Apple Studio Display, Standard­glas, neigungs- und höhenverstellbare
 kein MacBook Air | 1789.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU, Gigabit Eth
 kein MacBook Air | 1799.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Silber
-kein MacBook Air | 1799.0 | Apple Refurbished AT | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Grün
 kein MacBook Air | 1819.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M3 Pro Chip, 11‑Core CPU und 14‑Core GPU -
 kein MacBook Air | 1819.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M3 Pro Chip, 11‑Core CPU und 14‑Core GPU -
 kein MacBook Air | 1849.0 | Apple Refurbished AT | Refurbished 14" MacBook Pro mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU – Spa
@@ -243,7 +242,6 @@ kein MacBook Air | 1619.0 | Apple Refurbished DE | Refurbished 24" iMac mit Appl
 kein MacBook Air | 1739.0 | Apple Refurbished DE | Refurbished Apple Studio Display, Standard­glas, neigungs- und höhenverstellbare
 kein MacBook Air | 1789.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 10‑Core CPU und 10‑Core GPU, Gigabit Eth
 kein MacBook Air | 1799.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Silber
-kein MacBook Air | 1799.0 | Apple Refurbished DE | Refurbished 24" iMac mit Apple M4 Chip, 8‑Core CPU und 8‑Core GPU – Grün
 kein MacBook Air | 1819.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M3 Pro Chip, 11‑Core CPU und 14‑Core GPU -
 kein MacBook Air | 1819.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M3 Pro Chip, 11‑Core CPU und 14‑Core GPU -
 kein MacBook Air | 1849.0 | Apple Refurbished DE | Refurbished 14" MacBook Pro mit Apple M5 Chip, 10‑Core CPU und 10‑Core GPU – Spa
@@ -326,6 +324,7 @@ None | 1921.0 | geizhals.at (neu, Händler AT/DE) | Apple MacBook Air 15" M5, St
 None | 1955.0 | geizhals.at (neu, Händler AT/DE) | Apple MacBook Air 15" M5, Sky Blue, M5 - 10 Core CPU / 10 Core GPU, 24GB RAM, 1T
 None | 2016.0 | geizhals.at (neu, Händler AT/DE) | Apple MacBook Air 15" M5, silber, M5 - 10 Core CPU / 10 Core GPU, 24GB RAM, 1TB 
 None | 2018.0 | geizhals.at (neu, Händler AT/DE) | Apple MacBook Air 15" M5, Midnight, M5 - 10 Core CPU / 10 Core GPU, 24GB RAM, 1T
+Größe unklar | 1400.0 | kleinanzeigen | Apple MacBook Air M4 2026
 kein MacBook Air | 2299.0 | kleinanzeigen | 2
 None | 1950.0 | kleinanzeigen | MacBook Air M5 15” 24GB + 1TB SSD (3 Monaten alt!)
 ausgeschlossen (Titel: Netzteil) | 1890.0 | kleinanzeigen | Apple MacBook Air M5 15“ 24GB RAM 1TB SSD + 70W USB-C Netzteil
@@ -333,9 +332,9 @@ None | 1649.0 | kleinanzeigen | Apple MacBook Air 15“ 2026 M5 24GB RAM 1TB SSD
 kein MacBook Air | 2699.0 | kleinanzeigen | 47805 Krefeld
 kein MacBook Air | 1300.0 | kleinanzeigen | 3
 kein MacBook Air | 6999.0 | kleinanzeigen | 6
+None | 1539.0 | kleinanzeigen | Apple MacBook Air 15 Zoll M5 512GB 2026.nur 2 Woche alt.Bis 20.11
 None | 1310.0 | kleinanzeigen | Apple MacBook Air 15" M5, 512GB, Mitternacht, wie neu
 None | 1375.0 | kleinanzeigen | MacBook Air M5 15" 16GB | 512 | Nagelneu&Versiegelt | Mitternacht
-Preis unplausibel niedrig | 10.0 | kleinanzeigen | MacBook Air M5 15 Zoll Verpackung (nur Karton)
 None | 1349.0 | kleinanzeigen | Apple MacBook Air 15,3" M5 | 16 GB RAM | 512 GB SSD | Silber
 ausgeschlossen (Titel: Suche) | 800.0 | kleinanzeigen | Suche MacBook Air M5 Neu
 None | 1215.0 | kleinanzeigen | Apple MacBook Air 15 M5 Garantie&OVP 512 GB Himmelblau
@@ -349,7 +348,6 @@ None | 1300.0 | kleinanzeigen | Apple MacBook Air 15,3" (2026) mit M5-Chip in Hi
 kein MacBook Air | 999.0 | kleinanzeigen | 51399 Burscheid
 ausgeschlossen (Titel: Tausch) | 1489.0 | kleinanzeigen | Apple MacBook Air 15 Zoll M5 – 512 GB – Silber NEU Tausch
 None | 1199.0 | kleinanzeigen | Apple MacBook Air 15” M5 – 16 GB RAM – Neuwertig – OVP
-None | 2149.0 | kleinanzeigen | ✅Apple MacBook Air 15“ M5/ 32GB / 512 GB / NEU&VERSIEGELT✅
 None | 1400.0 | kleinanzeigen | MacBook Air 15" M5 - 16 GB RAM - 1 TB SSD Mitternacht - wie Neu
 kein MacBook Air | 1250.0 | kleinanzeigen | 6
 None | 1000.0 | kleinanzeigen | Apple MacBook Air 15", M5, 512GB, 16GB - Batterie 98%
