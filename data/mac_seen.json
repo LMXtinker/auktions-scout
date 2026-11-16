@@ -21,7 +21,8 @@
 },
 "ka:3566929122": {
 "date": "2026-11-13",
-"match": true
+"match": true,
+"price": 1950.0
 },
 "ka:3566837377": {
 "date": "2026-11-13",
@@ -29,7 +30,8 @@
 },
 "ka:3563079060": {
 "date": "2026-11-13",
-"match": true
+"match": true,
+"price": 1649.0
 },
 "ka:3570437280": {
 "date": "2026-11-13",
@@ -105,35 +107,43 @@
 },
 "gh:https://geizhals.at/apple-macbook-air-15-m5-mdvu4d-a-a3749854.html": {
 "date": "2026-11-13",
-"match": true
+"match": true,
+"price": 1955.0
 },
 "gh:https://geizhals.at/apple-macbook-air-15-m5-mdvf4d-a-a3749877.html": {
 "date": "2026-11-13",
-"match": true
+"match": true,
+"price": 1921.0
 },
 "gh:https://geizhals.at/apple-macbook-air-15-m5-mdvc4d-a-a3749865.html": {
 "date": "2026-11-13",
-"match": true
+"match": true,
+"price": 2040.0
 },
 "gh:https://geizhals.at/apple-macbook-air-15-m5-mdvn4d-a-a3749889.html": {
 "date": "2026-11-13",
-"match": true
+"match": true,
+"price": 2018.0
 },
 "mactrade:https://www.mactrade.de/macbook-air-15-m5-10-core-cpu-10-core-gpu-24-gb-1-tb-ssd-polarstern-2026-kein-netzteil/72315.0001": {
 "date": "2026-11-14",
-"match": true
+"match": true,
+"price": 1972.0
 },
 "mactrade:https://www.mactrade.de/macbook-air-15-m5-10-core-cpu-10-core-gpu-24-gb-1-tb-ssd-mitternacht-2026-kein-netzteil/72314.0001": {
 "date": "2026-11-14",
-"match": true
+"match": true,
+"price": 1958.0
 },
 "mactrade:https://www.mactrade.de/macbook-air-15-m5-10-core-cpu-10-core-gpu-24-gb-1-tb-ssd-himmelblau-2026-kein-netzteil/72313.0001": {
 "date": "2026-11-14",
-"match": true
+"match": true,
+"price": 1958.0
 },
 "mactrade:https://www.mactrade.de/macbook-air-15-m5-10-core-cpu-10-core-gpu-24-gb-1-tb-ssd-silber-2026-kein-netzteil/72316.0001": {
 "date": "2026-11-14",
-"match": true
+"match": true,
+"price": 1972.0
 },
 "ka:3570950919": {
 "date": "2026-11-14",
@@ -170,5 +180,20 @@
 "wh:925328193": {
 "date": "2026-11-16",
 "match": true
+},
+"wh:2094727663": {
+"date": "2026-11-16",
+"match": false,
+"price": 1350.0
+},
+"ka:3573890782": {
+"date": "2026-11-16",
+"match": false,
+"price": 1200.0
+},
+"ka:3573602280": {
+"date": "2026-11-16",
+"match": false,
+"price": 1250.0
 }
 }
