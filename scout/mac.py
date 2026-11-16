@@ -525,7 +525,8 @@ def line(o):
     meta = " · ".join(x for x in (chip, o["kind"], seller) if x)
     loc = " ".join(x for x in (FLAG.get(o["country"], o["country"]), o.get("location", "")) if x)
     note = (o.get("gem") or {}).get("note", "")
-    return (f"{'🔥 ' if deal else '• '}<a href=\"{html.escape(o['url'])}\">{html.escape(o['title'][:90])}</a>\n"
+    tag = ("🆕 " if FULL and o.get("is_new") else "") + (f"📉 vorher {o['drop']:,.0f} € · ".replace(",", ".") if o.get("drop") else "")
+    return (f"{'🔥 ' if deal else '• '}{tag}<a href=\"{html.escape(o['url'])}\">{html.escape(o['title'][:90])}</a>\n"
             f"   <b>{p}</b>{' (' + ', '.join(extra) + ')' if extra else ''} · {html.escape(o['source'])}"
             f"{' · ' + html.escape(loc) if loc else ''}\n   <i>{html.escape(meta)}</i>"
             + (f"\n   💬 {html.escape(note)}" if note else ""))
@@ -625,7 +626,13 @@ async def main():
           f"aussortiert={dropped} spec={checked_no}")
 
     new = [o for o in matches if not (seen.get(o["id"]) or {}).get("match")]
-    report = matches if (first_run or FULL) else new
+    for o in matches:
+        old_p = (seen.get(o["id"]) or {}).get("price")
+        if old_p and o.get("price") and o["price"] < old_p - 1:
+            o["drop"] = old_p
+        o["is_new"] = o in new
+    drops = [o for o in matches if o.get("drop") and o not in new]
+    report = matches if (first_run or FULL) else new + drops
     gem = gemini_check(report[:40])
     for i, o in enumerate(report[:40]):
         if i in gem:
@@ -634,7 +641,7 @@ async def main():
     rejected = [o for o in report if o.get("gem") and (
         (o["gem"].get("ok") is False and not (RAM.search(o["title"]) and SSD.search(o["title"])))
         or (WANT_CHIP and o["gem"].get("chip") and o["gem"]["chip"].upper().lstrip("M") != WANT_CHIP))]
-    report = sorted([o for o in report if o not in rejected], key=order)
+    report = sorted([o for o in report if o not in rejected], key=(lambda o: netto(o) or 1e9) if FULL else order)
 
     msgs = []
     target = "MacBook Air 15\" · ≥24 GB · ≥1 TB"
@@ -642,9 +649,13 @@ async def main():
         if first_run:
             head = f"💻 <b>MacBook-Wächter aktiv</b> ({html.escape(target)})\n{len(report)} aktuelle Angebote. Ab jetzt melde ich nur Neues."
         elif FULL:
-            head = f"💻 <b>MacBook Air 15\": Übersicht</b>\n{len(report)} passende Angebote:"
+            best = min(report, key=lambda o: netto(o) or 1e9)
+            head = (f"💻 <b>Tagesübersicht MacBook Air 15\" M5 · 24 GB / 1 TB</b>\n{len(report)} Angebote · günstigst "
+                    f"{netto(best):,.0f} € netto ({html.escape(best['source'])})".replace(",", ".")
+                    + (f" · {len(new)} neu" if new else "") + (f" · {len(drops)} billiger" if drops else ""))
         else:
-            head = f"💻 <b>{len(report)} neue{'s' if len(report) == 1 else ''} MacBook Air 15\" (24 GB / 1 TB)</b>"
+            parts = ([f"{len(new)} neu"] if new else []) + ([f"{len(drops)} billiger"] if drops else [])
+            head = f"💻 <b>MacBook Air 15\" M5 (24 GB / 1 TB): {', '.join(parts)}</b>"
         msgs = chunks([line(o) for o in report], head)
     elif FULL:
         msgs = [f"💻 <b>MacBook Air 15\":</b> aktuell nichts Passendes gefunden ({len(cands)} Kandidaten geprüft)."]
@@ -686,7 +697,8 @@ async def main():
             continue   # noch nicht abschließend geprüft (z. B. Detail-Deckel erreicht) -> nächster Lauf
         prev = seen.get(o["id"]) or {}
         seen[o["id"]] = {"date": prev.get("date", today),
-                         "match": prev.get("match", False) or (o in matches and o not in rejected)}
+                         "match": prev.get("match", False) or (o in matches and o not in rejected),
+                         "price": o.get("price") or prev.get("price")}
     old = (NOW.date() - dt.timedelta(days=120)).isoformat()
     seen_p.write_text(json.dumps({k: v for k, v in seen.items() if v["date"] >= old}, indent=0), encoding="utf-8")
     if broken:

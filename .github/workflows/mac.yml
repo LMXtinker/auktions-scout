@@ -2,7 +2,8 @@ name: mac-watch
 
 on:
   schedule:
-    - cron: "23 5-21/2 * * *"   # alle 2 h zwischen ca. 7 und 23 Uhr Wien
+    - cron: "23 5-21/2 * * *"   # alle 2 h zwischen ca. 7 und 23 Uhr Wien: nur Neues + Preissenkungen
+    - cron: "37 6 * * *"        # täglich ca. 7:40 Wien (GitHub verzögert oft): komplette Tagesübersicht
   workflow_dispatch:
     inputs:
       dry_run:
@@ -42,7 +43,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
           DRY_RUN: ${{ github.event.inputs.dry_run }}
-          FULL: ${{ github.event.inputs.full }}
+          FULL: ${{ github.event.inputs.full == 'true' || github.event.schedule == '37 6 * * *' }}
       - name: Zustand committen
         if: always()
         run: |
