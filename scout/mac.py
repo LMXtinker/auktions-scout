@@ -651,7 +651,7 @@ async def main():
         elif FULL:
             best = min(report, key=lambda o: netto(o) or 1e9)
             head = (f"💻 <b>Tagesübersicht MacBook Air 15\" M5 · 24 GB / 1 TB</b>\n{len(report)} Angebote · günstigst "
-                    f"{netto(best):,.0f} € netto ({html.escape(best['source'])})".replace(",", ".")
+                    f"{netto(best):,.0f}".replace(",", ".") + f" € netto ({html.escape(best['source'])})"
                     + (f" · {len(new)} neu" if new else "") + (f" · {len(drops)} billiger" if drops else ""))
         else:
             parts = ([f"{len(new)} neu"] if new else []) + ([f"{len(drops)} billiger"] if drops else [])
