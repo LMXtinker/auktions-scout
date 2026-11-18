@@ -240,5 +240,35 @@
 "date": "2026-11-18",
 "match": false,
 "price": 1200.0
+},
+"ap:AT:g1lq0d": {
+"date": "2026-11-18",
+"match": false,
+"price": 1629.0
+},
+"ap:AT:fdvn4d": {
+"date": "2026-11-18",
+"match": true,
+"price": 1909.0
+},
+"ap:AT:g1ly2d": {
+"date": "2026-11-18",
+"match": true,
+"price": 2099.0
+},
+"ap:DE:g1lq0d": {
+"date": "2026-11-18",
+"match": false,
+"price": 1629.0
+},
+"ap:DE:fdvn4d": {
+"date": "2026-11-18",
+"match": true,
+"price": 1909.0
+},
+"ap:DE:g1ly2d": {
+"date": "2026-11-18",
+"match": true,
+"price": 2099.0
 }
 }
