@@ -1,36 +1,34 @@
 {
- "generated": "2026-11-18T14:18:31+00:00",
+ "generated": "2026-11-18T15:56:12+00:00",
  "sources": {
   "willhaben": "26 Treffer",
   "kleinanzeigen": "49 Treffer",
-  "troostwijk": "300 Treffer",
-  "apple_at": "117 Treffer",
-  "apple_de": "117 Treffer",
+  "troostwijk": "111 Treffer",
+  "apple_at": "116 Treffer",
+  "apple_de": "116 Treffer",
   "geizhals": "4 Treffer",
   "mactrade": "26 Treffer"
  },
- "candidates": 65,
- "details_fetched": 2,
+ "candidates": 64,
+ "details_fetched": 0,
  "matches": 12,
  "new": 0,
  "gemini_rejected": 0,
  "dropped": {
-  "kein MacBook Air": 305,
+  "kein MacBook Air": 250,
   "ausgeschlossen (Titel: Hülle)": 1,
   "Preis unplausibel niedrig": 3,
   "Größe unklar": 13,
-  "13 Zoll": 27,
+  "13 Zoll": 17,
   "ausgeschlossen (Titel: Netzteil)": 1,
-  "ausgeschlossen (Titel: Suche)": 4,
+  "ausgeschlossen (Titel: Suche)": 5,
   "ausgeschlossen (Titel: Tausch)": 1
  },
  "spec_rejected": {
-  "zu wenig RAM": 1,
-  "zu wenig SSD (Titel)": 3,
-  "unklar": 13,
+  "unklar": 16,
+  "zu wenig SSD (Titel)": 2,
   "falscher Chip": 17,
-  "zu wenig RAM (Titel)": 18,
-  "RAM fehlt": 1
+  "zu wenig RAM (Titel)": 17
  },
  "diag": {}
 }
