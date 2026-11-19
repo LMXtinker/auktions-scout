@@ -1,35 +1,36 @@
 {
- "generated": "2026-11-18T22:41:56+00:00",
+ "generated": "2026-11-19T14:30:31+00:00",
  "sources": {
-  "willhaben": "27 Treffer",
-  "kleinanzeigen": "46 Treffer",
-  "troostwijk": "111 Treffer",
-  "apple_at": "140 Treffer",
-  "apple_de": "140 Treffer",
+  "willhaben": "26 Treffer",
+  "kleinanzeigen": "47 Treffer",
+  "troostwijk": "114 Treffer",
+  "apple_at": "129 Treffer",
+  "apple_de": "129 Treffer",
   "geizhals": "4 Treffer",
   "mactrade": "26 Treffer"
  },
- "candidates": 77,
- "details_fetched": 6,
- "matches": 16,
- "new": 4,
+ "candidates": 79,
+ "details_fetched": 3,
+ "matches": 12,
+ "new": 0,
  "gemini_rejected": 0,
  "dropped": {
-  "kein MacBook Air": 258,
+  "kein MacBook Air": 244,
   "ausgeschlossen (Titel: Hülle)": 1,
   "Preis unplausibel niedrig": 3,
+  "13 Zoll": 35,
   "Größe unklar": 12,
-  "13 Zoll": 43,
   "ausgeschlossen (Titel: Netzteil)": 1,
-  "ausgeschlossen (Titel: Suche)": 5,
+  "ausgeschlossen (Titel: Suche)": 4,
   "ausgeschlossen (Titel: Tausch)": 1
  },
  "spec_rejected": {
   "zu wenig RAM (Titel)": 18,
-  "unklar": 21,
   "zu wenig SSD (Titel)": 2,
-  "falscher Chip": 18,
-  "SSD fehlt": 2
+  "unklar": 24,
+  "falscher Chip": 20,
+  "zu wenig RAM": 2,
+  "Chip unklar": 1
  },
  "diag": {}
 }

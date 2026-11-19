@@ -118,7 +118,7 @@
 "gh:https://geizhals.at/apple-macbook-air-15-m5-mdvc4d-a-a3749865.html": {
 "date": "2026-11-13",
 "match": true,
-"price": 2040.0
+"price": 2036.0
 },
 "gh:https://geizhals.at/apple-macbook-air-15-m5-mdvn4d-a-a3749889.html": {
 "date": "2026-11-13",
@@ -270,5 +270,20 @@
 "date": "2026-11-18",
 "match": true,
 "price": 2099.0
+},
+"ka:3576283786": {
+"date": "2026-11-19",
+"match": false,
+"price": 1399.0
+},
+"ka:3576127490": {
+"date": "2026-11-19",
+"match": false,
+"price": 1500.0
+},
+"ka:3576132024": {
+"date": "2026-11-19",
+"match": false,
+"price": 1900.0
 }
 }
