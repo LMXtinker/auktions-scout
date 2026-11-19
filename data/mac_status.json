@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-19T14:30:31+00:00",
+ "generated": "2026-11-19T16:05:25+00:00",
  "sources": {
   "willhaben": "26 Treffer",
   "kleinanzeigen": "47 Treffer",
   "troostwijk": "114 Treffer",
-  "apple_at": "129 Treffer",
-  "apple_de": "129 Treffer",
+  "apple_at": "128 Treffer",
+  "apple_de": "128 Treffer",
   "geizhals": "4 Treffer",
   "mactrade": "26 Treffer"
  },
- "candidates": 79,
- "details_fetched": 3,
+ "candidates": 77,
+ "details_fetched": 1,
  "matches": 12,
  "new": 0,
  "gemini_rejected": 0,
@@ -25,12 +25,11 @@
   "ausgeschlossen (Titel: Tausch)": 1
  },
  "spec_rejected": {
-  "zu wenig RAM (Titel)": 18,
   "zu wenig SSD (Titel)": 2,
-  "unklar": 24,
-  "falscher Chip": 20,
-  "zu wenig RAM": 2,
-  "Chip unklar": 1
+  "zu wenig RAM (Titel)": 17,
+  "unklar": 27,
+  "falscher Chip": 18,
+  "RAM fehlt": 1
  },
  "diag": {}
 }
